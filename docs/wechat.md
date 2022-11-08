@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2022-11-04, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v1](http://arxiv.org/abs/2211.02445v1), Code: **[https://github.com/dan11003/CFEAR_Radarodometry](https://github.com/dan11003/CFEAR_Radarodometry)**
+- 2022-11-07, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v2](http://arxiv.org/abs/2211.02445v2), Code: **[https://github.com/dan11003/CFEAR_Radarodometry](https://github.com/dan11003/CFEAR_Radarodometry)**
 - 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
 - 2022-11-03, **Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2211.01749v1](http://arxiv.org/abs/2211.01749v1)
 - 2022-11-04, **$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v2](http://arxiv.org/abs/2211.01538v2)
@@ -709,9 +709,9 @@
 - 2022-10-27, **Boosting Point Clouds Rendering via Radiance Mapping**, Xiaoyang Huang et.al., Paper: [http://arxiv.org/abs/2210.15107v1](http://arxiv.org/abs/2210.15107v1)
 - 2022-10-24, **Learning Neural Radiance Fields from Multi-View Geometry**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2210.13041v1](http://arxiv.org/abs/2210.13041v1)
 - 2022-10-23, **Compressing Explicit Voxel Grid Representations: fast NeRFs become also small**, Chenxi Lola Deng et.al., Paper: [http://arxiv.org/abs/2210.12782v1](http://arxiv.org/abs/2210.12782v1)
-- 2022-10-23, **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2210.12731v1](http://arxiv.org/abs/2210.12731v1)
+- 2022-11-06, **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2210.12731v2](http://arxiv.org/abs/2210.12731v2)
 - 2022-10-21, **An Exploration of Neural Radiance Field Scene Reconstruction: Synthetic, Real-world and Dynamic Scenes**, Benedict Quartey et.al., Paper: [http://arxiv.org/abs/2210.12268v1](http://arxiv.org/abs/2210.12268v1)
-- 2022-10-21, **Neural Fields for Robotic Object Manipulation from a Single Image**, Valts Blukis et.al., Paper: [http://arxiv.org/abs/2210.12126v1](http://arxiv.org/abs/2210.12126v1)
+- 2022-11-06, **Neural Fields for Robotic Object Manipulation from a Single Image**, Valts Blukis et.al., Paper: [http://arxiv.org/abs/2210.12126v2](http://arxiv.org/abs/2210.12126v2)
 - 2022-10-21, **HDHumans: A Hybrid Approach for High-fidelity Digital Humans**, Marc Habermann et.al., Paper: [http://arxiv.org/abs/2210.12003v1](http://arxiv.org/abs/2210.12003v1)
 - 2022-10-21, **RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**, Zhenggang Tang et.al., Paper: [http://arxiv.org/abs/2210.11668v1](http://arxiv.org/abs/2210.11668v1)
 - 2022-10-21, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Paper: [http://arxiv.org/abs/2210.11170v2](http://arxiv.org/abs/2210.11170v2), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
