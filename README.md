@@ -822,7 +822,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-08**|**ParticleNeRF: Particle Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**|Jad Abou-Chakra et.al.|[2211.04041v1](http://arxiv.org/abs/2211.04041v1)|null|
+|**2022-11-11**|**ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**|Jad Abou-Chakra et.al.|[2211.04041v2](http://arxiv.org/abs/2211.04041v2)|null|
 |**2022-11-07**|**Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories**|Samarth Sinha et.al.|[2211.03889v1](http://arxiv.org/abs/2211.03889v1)|null|
 |**2022-11-03**|**nerf2nerf: Pairwise Registration of Neural Radiance Fields**|Lily Goli et.al.|[2211.01600v1](http://arxiv.org/abs/2211.01600v1)|null|
 |**2022-10-27**|**ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images**|Matthew D. Hoffman et.al.|[2210.17415v1](http://arxiv.org/abs/2210.17415v1)|null|
