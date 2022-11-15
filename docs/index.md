@@ -25,6 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
+|**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
@@ -337,6 +340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion**|René Haas et.al.|[2211.07195v1](http://arxiv.org/abs/2211.07195v1)|null|
 |**2022-10-13**|**Quantifying and analyzing rock trait distributions of rocky fault scarps using a deep learning approach**|Zhiang Chen et.al.|[2210.07349v1](http://arxiv.org/abs/2210.07349v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
@@ -407,6 +411,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**Composed Image Retrieval with Text Feedback via Multi-grained Uncertainty Regularization**|Yiyang Chen et.al.|[2211.07394v1](http://arxiv.org/abs/2211.07394v1)|null|
+|**2022-11-14**|**Zero-shot Image Captioning by Anchor-augmented Vision-Language Space Alignment**|Junyang Wang et.al.|[2211.07275v1](http://arxiv.org/abs/2211.07275v1)|null|
+|**2022-11-14**|**ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations**|Chanda Grover et.al.|[2211.07122v1](http://arxiv.org/abs/2211.07122v1)|null|
+|**2022-11-14**|**Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval**|Deunsol Jung et.al.|[2211.07116v1](http://arxiv.org/abs/2211.07116v1)|null|
+|**2022-11-12**|**Partial Visual-Semantic Embedding: Fashion Intelligence System with Sensitive Part-by-Part Learning**|Ryotaro Shimizu et.al.|[2211.06688v1](http://arxiv.org/abs/2211.06688v1)|null|
 |**2022-11-09**|**Visual Named Entity Linking: A New Dataset and A Baseline**|Wenxiang Sun et.al.|[2211.04872v1](http://arxiv.org/abs/2211.04872v1)|**[link](https://github.com/ict-bigdatalab/vnel)**|
 |**2022-11-07**|**Ultrafast Image Retrieval from a Holographic Memory Disc for High-Speed Operation of a Shift, Scale, and Rotation Invariant Target Recognition System**|Julian Gamboa et.al.|[2211.03881v1](http://arxiv.org/abs/2211.03881v1)|null|
 |**2022-11-06**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang et.al.|[2211.03007v1](http://arxiv.org/abs/2211.03007v1)|null|
@@ -827,6 +836,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|**[link](https://github.com/eladrich/latent-nerf)**|
+|**2022-11-12**|**3D-Aware Encoding for Style-based Neural Radiance Fields**|Yu-Jhe Li et.al.|[2211.06583v1](http://arxiv.org/abs/2211.06583v1)|null|
 |**2022-11-11**|**ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes**|Jad Abou-Chakra et.al.|[2211.04041v2](http://arxiv.org/abs/2211.04041v2)|null|
 |**2022-11-07**|**Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories**|Samarth Sinha et.al.|[2211.03889v1](http://arxiv.org/abs/2211.03889v1)|null|
 |**2022-11-03**|**nerf2nerf: Pairwise Registration of Neural Radiance Fields**|Lily Goli et.al.|[2211.01600v1](http://arxiv.org/abs/2211.01600v1)|null|
