@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
 - 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 - 2022-11-20, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v2](http://arxiv.org/abs/2211.07365v2), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
@@ -345,6 +346,9 @@
 
 ## Visual Localization
 
+- 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
+- 2022-11-21, **LISA: Localized Image Stylization with Audio via Implicit Neural Representation**, Seung Hyun Lee et.al., Paper: [http://arxiv.org/abs/2211.11381v1](http://arxiv.org/abs/2211.11381v1)
+- 2022-11-21, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Paper: [http://arxiv.org/abs/2211.11177v1](http://arxiv.org/abs/2211.11177v1)
 - 2022-11-16, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v1](http://arxiv.org/abs/2211.08712v1), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
 - 2022-11-15, **LiePoseNet: Heterogeneous Loss Function Based on Lie Group for Significant Speed-up of PoseNet Training Process**, Mikhail Kurenkov et.al., Paper: [http://arxiv.org/abs/2211.08480v1](http://arxiv.org/abs/2211.08480v1)
 - 2022-11-14, **Degeneracy removal of spin bands in antiferromagnets with non-interconvertible spin motif pair**, Lin-Ding Yuan et.al., Paper: [http://arxiv.org/abs/2211.07803v1](http://arxiv.org/abs/2211.07803v1)
@@ -581,6 +585,7 @@
 
 ## Keypoint Detection
 
+- 2022-11-21, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v1](http://arxiv.org/abs/2211.11589v1)
 - 2022-11-07, **Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**, Zixin Yang et.al., Paper: [http://arxiv.org/abs/2211.03688v1](http://arxiv.org/abs/2211.03688v1)
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
 - 2022-10-26, **Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.14899v1](http://arxiv.org/abs/2210.14899v1)
@@ -730,6 +735,15 @@
 
 ## NeRF
 
+- 2022-11-21, **SPARF: Neural Radiance Fields from Sparse and Noisy Poses**, Prune Truong et.al., Paper: [http://arxiv.org/abs/2211.11738v1](http://arxiv.org/abs/2211.11738v1)
+- 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
+- 2022-11-21, **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**, Dario Pavllo et.al., Paper: [http://arxiv.org/abs/2211.11674v1](http://arxiv.org/abs/2211.11674v1)
+- 2022-11-21, **NeRF-RPN: A general framework for object detection in NeRFs**, Benran Hu et.al., Paper: [http://arxiv.org/abs/2211.11646v1](http://arxiv.org/abs/2211.11646v1)
+- 2022-11-21, **Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**, Yue Chen et.al., Paper: [http://arxiv.org/abs/2211.11505v1](http://arxiv.org/abs/2211.11505v1)
+- 2022-11-21, **SegNeRF: 3D Part Segmentation with Neural Radiance Fields**, Jesus Zarzar et.al., Paper: [http://arxiv.org/abs/2211.11215v1](http://arxiv.org/abs/2211.11215v1)
+- 2022-11-21, **FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2211.11202v1](http://arxiv.org/abs/2211.11202v1)
+- 2022-11-20, **DynIBaR: Neural Dynamic Image-Based Rendering**, Zhengqi Li et.al., Paper: [http://arxiv.org/abs/2211.11082v1](http://arxiv.org/abs/2211.11082v1)
+- 2022-11-18, **Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables**, J. Emmanuel Johnson et.al., Paper: [http://arxiv.org/abs/2211.10444v1](http://arxiv.org/abs/2211.10444v1)
 - 2022-11-18, **Magic3D: High-Resolution Text-to-3D Content Creation**, Chen-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2211.10440v1](http://arxiv.org/abs/2211.10440v1)
 - 2022-11-17, **AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**, Yifan Jiang et.al., Paper: [http://arxiv.org/abs/2211.09682v1](http://arxiv.org/abs/2211.09682v1)
 - 2022-11-16, **CoNFies: Controllable Neural Face Avatars**, Heng Yu et.al., Paper: [http://arxiv.org/abs/2211.08610v1](http://arxiv.org/abs/2211.08610v1)
