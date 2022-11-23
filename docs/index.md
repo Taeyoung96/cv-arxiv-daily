@@ -851,9 +851,9 @@ layout: default
 |**2022-11-21**|**SPARF: Neural Radiance Fields from Sparse and Noisy Poses**|Prune Truong et.al.|[2211.11738v1](http://arxiv.org/abs/2211.11738v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|null|
-|**2022-11-21**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v1](http://arxiv.org/abs/2211.11646v1)|null|
+|**2022-11-22**|**NeRF-RPN: A general framework for object detection in NeRFs**|Benran Hu et.al.|[2211.11646v2](http://arxiv.org/abs/2211.11646v2)|null|
 |**2022-11-21**|**Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields**|Yue Chen et.al.|[2211.11505v1](http://arxiv.org/abs/2211.11505v1)|null|
-|**2022-11-21**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar et.al.|[2211.11215v1](http://arxiv.org/abs/2211.11215v1)|null|
+|**2022-11-22**|**SegNeRF: 3D Part Segmentation with Neural Radiance Fields**|Jesus Zarzar et.al.|[2211.11215v2](http://arxiv.org/abs/2211.11215v2)|null|
 |**2022-11-21**|**FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields**|Hao Zhang et.al.|[2211.11202v1](http://arxiv.org/abs/2211.11202v1)|null|
 |**2022-11-20**|**DynIBaR: Neural Dynamic Image-Based Rendering**|Zhengqi Li et.al.|[2211.11082v1](http://arxiv.org/abs/2211.11082v1)|null|
 |**2022-11-18**|**Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables**|J. Emmanuel Johnson et.al.|[2211.10444v1](http://arxiv.org/abs/2211.10444v1)|**[link](https://github.com/jejjohnson/ml4ssh)**|
