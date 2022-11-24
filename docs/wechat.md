@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
 - 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
@@ -349,6 +350,8 @@
 
 ## Visual Localization
 
+- 2022-11-23, **InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images**, Konstantin Kobs et.al., Paper: [http://arxiv.org/abs/2211.12760v1](http://arxiv.org/abs/2211.12760v1)
+- 2022-11-23, **Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2211.12732v1](http://arxiv.org/abs/2211.12732v1)
 - 2022-11-23, **FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**, Kuanxu Hou et.al., Paper: [http://arxiv.org/abs/2211.12244v2](http://arxiv.org/abs/2211.12244v2)
 - 2022-11-22, **Multimorbidity Content-Based Medical Image Retrieval Using Proxies**, Yunyan Xing et.al., Paper: [http://arxiv.org/abs/2211.12185v1](http://arxiv.org/abs/2211.12185v1)
 - 2022-11-22, **Vision-based localization methods under GPS-denied conditions**, Zihao Lu et.al., Paper: [http://arxiv.org/abs/2211.11988v1](http://arxiv.org/abs/2211.11988v1)
@@ -741,6 +744,12 @@
 
 ## NeRF
 
+- 2022-11-23, **ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2211.13226v1](http://arxiv.org/abs/2211.13226v1)
+- 2022-11-23, **ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**, Yuelang Xu et.al., Paper: [http://arxiv.org/abs/2211.13206v1](http://arxiv.org/abs/2211.13206v1)
+- 2022-11-23, **BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2211.12853v1](http://arxiv.org/abs/2211.12853v1)
+- 2022-11-23, **PANeRF: Pseudo-view Augmentation for Improved Neural Radiance Fields Based on Few-shot Inputs**, Young Chun Ahn et.al., Paper: [http://arxiv.org/abs/2211.12758v1](http://arxiv.org/abs/2211.12758v1)
+- 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
+- 2022-11-22, **Zero NeRF: Registration with Zero Overlap**, Casey Peat et.al., Paper: [http://arxiv.org/abs/2211.12544v1](http://arxiv.org/abs/2211.12544v1)
 - 2022-11-22, **Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images**, Beerend G. A. Gerats et.al., Paper: [http://arxiv.org/abs/2211.12436v1](http://arxiv.org/abs/2211.12436v1)
 - 2022-11-22, **Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2211.12368v1](http://arxiv.org/abs/2211.12368v1)
 - 2022-11-22, **Exact-NeRF: An Exploration of a Precise Volumetric Parameterization for Neural Radiance Fields**, Brian K. S. Isaac-Medina et.al., Paper: [http://arxiv.org/abs/2211.12285v1](http://arxiv.org/abs/2211.12285v1)
