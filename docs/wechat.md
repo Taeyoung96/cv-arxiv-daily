@@ -349,7 +349,7 @@
 
 ## Visual Localization
 
-- 2022-11-22, **FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**, Kuanxu Hou et.al., Paper: [http://arxiv.org/abs/2211.12244v1](http://arxiv.org/abs/2211.12244v1)
+- 2022-11-23, **FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**, Kuanxu Hou et.al., Paper: [http://arxiv.org/abs/2211.12244v2](http://arxiv.org/abs/2211.12244v2)
 - 2022-11-22, **Multimorbidity Content-Based Medical Image Retrieval Using Proxies**, Yunyan Xing et.al., Paper: [http://arxiv.org/abs/2211.12185v1](http://arxiv.org/abs/2211.12185v1)
 - 2022-11-22, **Vision-based localization methods under GPS-denied conditions**, Zihao Lu et.al., Paper: [http://arxiv.org/abs/2211.11988v1](http://arxiv.org/abs/2211.11988v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
