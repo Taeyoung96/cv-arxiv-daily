@@ -755,7 +755,7 @@
 - 2022-11-24, **ScanNeRF: a Scalable Benchmark for Neural Radiance Fields**, Luca De Luigi et.al., Paper: [http://arxiv.org/abs/2211.13762v1](http://arxiv.org/abs/2211.13762v1)
 - 2022-11-24, **Immersive Neural Graphics Primitives**, Ke Li et.al., Paper: [http://arxiv.org/abs/2211.13494v1](http://arxiv.org/abs/2211.13494v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2022-11-23, **CGOF++: Controllable 3D Face Synthesis with Conditional Generative Occupancy Fields**, Keqiang Sun et.al., Paper: [http://arxiv.org/abs/2211.13251v1](http://arxiv.org/abs/2211.13251v1)
-- 2022-11-23, **ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2211.13226v1](http://arxiv.org/abs/2211.13226v1)
+- 2022-11-26, **ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2211.13226v2](http://arxiv.org/abs/2211.13226v2)
 - 2022-11-23, **ManVatar : Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels**, Yuelang Xu et.al., Paper: [http://arxiv.org/abs/2211.13206v1](http://arxiv.org/abs/2211.13206v1)
 - 2022-11-23, **BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2211.12853v1](http://arxiv.org/abs/2211.12853v1)
 - 2022-11-23, **PANeRF: Pseudo-view Augmentation for Improved Neural Radiance Fields Based on Few-shot Inputs**, Young Chun Ahn et.al., Paper: [http://arxiv.org/abs/2211.12758v1](http://arxiv.org/abs/2211.12758v1)
