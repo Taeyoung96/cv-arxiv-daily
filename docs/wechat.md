@@ -355,16 +355,16 @@
 
 ## Visual Localization
 
-- 2022-11-28, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v1](http://arxiv.org/abs/2211.15320v1)
+- 2022-11-29, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v2](http://arxiv.org/abs/2211.15320v2), Code: **[https://github.com/guoqianyu-alberta/rankdnn](https://github.com/guoqianyu-alberta/rankdnn)**
 - 2022-11-28, **Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2211.15127v1](http://arxiv.org/abs/2211.15127v1)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-27, **BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images**, Zhihuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.14927v1](http://arxiv.org/abs/2211.14927v1)
 - 2022-11-27, **A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2211.14864v1](http://arxiv.org/abs/2211.14864v1)
 - 2022-11-26, **Visual Place Recognition**, Bailu Guo et.al., Paper: [http://arxiv.org/abs/2211.14533v1](http://arxiv.org/abs/2211.14533v1)
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
-- 2022-11-24, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v1](http://arxiv.org/abs/2211.13523v1), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
+- 2022-11-28, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v2](http://arxiv.org/abs/2211.13523v2), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
 - 2022-11-23, **InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images**, Konstantin Kobs et.al., Paper: [http://arxiv.org/abs/2211.12760v1](http://arxiv.org/abs/2211.12760v1), Code: **[https://github.com/lsx-uniwue/indirect](https://github.com/lsx-uniwue/indirect)**
-- 2022-11-23, **Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2211.12732v1](http://arxiv.org/abs/2211.12732v1)
+- 2022-11-29, **Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2211.12732v2](http://arxiv.org/abs/2211.12732v2)
 - 2022-11-23, **FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**, Kuanxu Hou et.al., Paper: [http://arxiv.org/abs/2211.12244v2](http://arxiv.org/abs/2211.12244v2)
 - 2022-11-22, **Multimorbidity Content-Based Medical Image Retrieval Using Proxies**, Yunyan Xing et.al., Paper: [http://arxiv.org/abs/2211.12185v1](http://arxiv.org/abs/2211.12185v1)
 - 2022-11-22, **Vision-based localization methods under GPS-denied conditions**, Zihao Lu et.al., Paper: [http://arxiv.org/abs/2211.11988v1](http://arxiv.org/abs/2211.11988v1)
@@ -608,7 +608,7 @@
 ## Keypoint Detection
 
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
-- 2022-11-27, **BALF: Simple and Efficient Blur Aware Local Feature Detector**, Zhenjun Zhao et.al., Paper: [http://arxiv.org/abs/2211.14731v1](http://arxiv.org/abs/2211.14731v1)
+- 2022-11-29, **BALF: Simple and Efficient Blur Aware Local Feature Detector**, Zhenjun Zhao et.al., Paper: [http://arxiv.org/abs/2211.14731v2](http://arxiv.org/abs/2211.14731v2)
 - 2022-11-21, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v1](http://arxiv.org/abs/2211.11589v1)
 - 2022-11-07, **Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**, Zixin Yang et.al., Paper: [http://arxiv.org/abs/2211.03688v1](http://arxiv.org/abs/2211.03688v1)
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
