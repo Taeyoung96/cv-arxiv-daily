@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-01**|**maplab 2.0 -- A Modular and Multi-Modal Mapping Framework**|Andrei Cramariuc et.al.|[2212.00654v1](http://arxiv.org/abs/2212.00654v1)|null|
+|**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350v1](http://arxiv.org/abs/2212.00350v1)|null|
 |**2022-11-30**|**MVRackLay: Monocular Multi-View Layout Estimation for Warehouse Racks and Shelves**|Pranjali Pathre et.al.|[2211.16882v1](http://arxiv.org/abs/2211.16882v1)|null|
 |**2022-11-29**|**PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**|Hartmut Surmann et.al.|[2211.16266v1](http://arxiv.org/abs/2211.16266v1)|**[link](https://github.com/roblabwh/patchmatch)**|
 |**2022-11-29**|**MmWave Mapping and SLAM for 5G and Beyond**|Yu Ge et.al.|[2211.16024v1](http://arxiv.org/abs/2211.16024v1)|null|
@@ -426,6 +428,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
 |**2022-11-30**|**SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**|Tianyu Zhang et.al.|[2211.16697v1](http://arxiv.org/abs/2211.16697v1)|null|
 |**2022-11-28**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v1](http://arxiv.org/abs/2211.16208v1)|null|
 |**2022-11-29**|**RankDNN: Learning to Rank for Few-shot Learning**|Qianyu Guo et.al.|[2211.15320v2](http://arxiv.org/abs/2211.15320v2)|**[link](https://github.com/guoqianyu-alberta/rankdnn)**|
@@ -788,6 +791,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-01**|**Universe Points Representation Learning for Partial Multi-Graph Matching**|Zhakshylyk Nurlanov et.al.|[2212.00780v1](http://arxiv.org/abs/2212.00780v1)|null|
+|**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
 |**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
 |**2022-11-19**|**Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v2](http://arxiv.org/abs/2211.08657v2)|**[link](https://github.com/lhf12278/saa)**|
 |**2022-11-15**|**Fast Key Points Detection and Matching for Tree-Structured Images**|Hao Wang et.al.|[2211.03242v2](http://arxiv.org/abs/2211.03242v2)|null|
@@ -878,6 +883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-01**|**ViewNeRF: Unsupervised Viewpoint Estimation Using Category-Level Neural Radiance Fields**|Octave Mariotti et.al.|[2212.00436v1](http://arxiv.org/abs/2212.00436v1)|null|
 |**2022-11-30**|**NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**|Yu Yin et.al.|[2211.17235v1](http://arxiv.org/abs/2211.17235v1)|null|
 |**2022-11-29**|**NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**|Dejia Xu et.al.|[2211.16431v1](http://arxiv.org/abs/2211.16431v1)|null|
 |**2022-11-29**|**Compressing Volumetric Radiance Fields to 1 MB**|Lingzhi Li et.al.|[2211.16386v1](http://arxiv.org/abs/2211.16386v1)|**[link](https://github.com/algohunt/vqrf)**|
