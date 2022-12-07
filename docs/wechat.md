@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-12-06, **PRISM: Probabilistic Real-Time Inference in Spatial World Models**, Atanas Mirchev et.al., Paper: [http://arxiv.org/abs/2212.02988v1](http://arxiv.org/abs/2212.02988v1)
 - 2022-12-06, **RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**, Florian Sauerbeck et.al., Paper: [http://arxiv.org/abs/2212.02085v2](http://arxiv.org/abs/2212.02085v2)
 - 2022-12-05, **DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2212.02077v1](http://arxiv.org/abs/2212.02077v1)
 - 2022-12-05, **ObjectMatch: Robust Registration using Canonical Object Correspondences**, Can Gümeli et.al., Paper: [http://arxiv.org/abs/2212.01985v1](http://arxiv.org/abs/2212.01985v1)
@@ -366,6 +367,10 @@
 
 ## Visual Localization
 
+- 2022-12-06, **ADIR: Adaptive Diffusion for Image Reconstruction**, Shady Abu-Hussein et.al., Paper: [http://arxiv.org/abs/2212.03221v1](http://arxiv.org/abs/2212.03221v1)
+- 2022-12-04, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v1](http://arxiv.org/abs/2212.03177v1), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
+- 2022-12-06, **Semantic Communication for Internet of Vehicles: A Multi-User Cooperative Approach**, Wenjun Xu et.al., Paper: [http://arxiv.org/abs/2212.03037v1](http://arxiv.org/abs/2212.03037v1)
+- 2022-12-06, **Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**, Zhipeng Zhao et.al., Paper: [http://arxiv.org/abs/2212.02757v1](http://arxiv.org/abs/2212.02757v1)
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2022-12-02, **Information Retrieval from the Digitized Books**, Riya Gupta et.al., Paper: [http://arxiv.org/abs/2212.00999v1](http://arxiv.org/abs/2212.00999v1)
 - 2022-12-02, **StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2212.00937v1](http://arxiv.org/abs/2212.00937v1)
@@ -624,6 +629,7 @@
 
 ## Keypoint Detection
 
+- 2022-12-06, **DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**, Jeongjun Choi et.al., Paper: [http://arxiv.org/abs/2212.02796v1](http://arxiv.org/abs/2212.02796v1)
 - 2022-12-05, **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**, Xinlong Wang et.al., Paper: [http://arxiv.org/abs/2212.02499v1](http://arxiv.org/abs/2212.02499v1), Code: **[https://github.com/baaivision/painter](https://github.com/baaivision/painter)**
 - 2022-12-06, **R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**, Bai Zhu et.al., Paper: [http://arxiv.org/abs/2212.02277v2](http://arxiv.org/abs/2212.02277v2)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
