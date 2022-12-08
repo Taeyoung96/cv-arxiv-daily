@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-12-06, **Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles**, Sushant Veer et.al., Paper: [http://arxiv.org/abs/2212.03323v1](http://arxiv.org/abs/2212.03323v1)
 - 2022-12-06, **PRISM: Probabilistic Real-Time Inference in Spatial World Models**, Atanas Mirchev et.al., Paper: [http://arxiv.org/abs/2212.02988v1](http://arxiv.org/abs/2212.02988v1)
 - 2022-12-06, **RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps**, Florian Sauerbeck et.al., Paper: [http://arxiv.org/abs/2212.02085v2](http://arxiv.org/abs/2212.02085v2), Code: **[https://github.com/tumftm/orb_slam3_rgbl](https://github.com/tumftm/orb_slam3_rgbl)**
 - 2022-12-05, **DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2212.02077v1](http://arxiv.org/abs/2212.02077v1)
@@ -367,6 +368,8 @@
 
 ## Visual Localization
 
+- 2022-12-07, **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**, Gowthami Somepalli et.al., Paper: [http://arxiv.org/abs/2212.03860v1](http://arxiv.org/abs/2212.03860v1)
+- 2022-12-07, **LSVL: Large-scale season-invariant visual localization for UAVs**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2212.03581v1](http://arxiv.org/abs/2212.03581v1)
 - 2022-12-06, **ADIR: Adaptive Diffusion for Image Reconstruction**, Shady Abu-Hussein et.al., Paper: [http://arxiv.org/abs/2212.03221v1](http://arxiv.org/abs/2212.03221v1)
 - 2022-12-04, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v1](http://arxiv.org/abs/2212.03177v1), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-06, **Semantic Communication for Internet of Vehicles: A Multi-User Cooperative Approach**, Wenjun Xu et.al., Paper: [http://arxiv.org/abs/2212.03037v1](http://arxiv.org/abs/2212.03037v1)
@@ -629,6 +632,7 @@
 
 ## Keypoint Detection
 
+- 2022-12-07, **Designing Feature Vector Representations: A case study from Chemistry**, Signe Sidwall Thygesen et.al., Paper: [http://arxiv.org/abs/2212.03731v1](http://arxiv.org/abs/2212.03731v1)
 - 2022-12-06, **DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**, Jeongjun Choi et.al., Paper: [http://arxiv.org/abs/2212.02796v1](http://arxiv.org/abs/2212.02796v1)
 - 2022-12-05, **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**, Xinlong Wang et.al., Paper: [http://arxiv.org/abs/2212.02499v1](http://arxiv.org/abs/2212.02499v1), Code: **[https://github.com/baaivision/painter](https://github.com/baaivision/painter)**
 - 2022-12-06, **R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**, Bai Zhu et.al., Paper: [http://arxiv.org/abs/2212.02277v2](http://arxiv.org/abs/2212.02277v2)
@@ -789,6 +793,10 @@
 
 ## NeRF
 
+- 2022-12-07, **NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing**, Chunyi Sun et.al., Paper: [http://arxiv.org/abs/2212.03848v1](http://arxiv.org/abs/2212.03848v1)
+- 2022-12-07, **Non-uniform Sampling Strategies for NeRF on 360{\textdegree} images**, Takashi Otonari et.al., Paper: [http://arxiv.org/abs/2212.03635v1](http://arxiv.org/abs/2212.03635v1)
+- 2022-12-07, **SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields**, Siddhant Ranade et.al., Paper: [http://arxiv.org/abs/2212.03406v1](http://arxiv.org/abs/2212.03406v1)
+- 2022-12-06, **NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors**, Congyue Deng et.al., Paper: [http://arxiv.org/abs/2212.03267v1](http://arxiv.org/abs/2212.03267v1)
 - 2022-12-05, **SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2212.02501v1](http://arxiv.org/abs/2212.02501v1), Code: **[https://github.com/cv-rits/MonoScene](https://github.com/cv-rits/MonoScene)**
 - 2022-12-05, **Canonical Fields: Self-Supervised Learning of Pose-Canonicalized Neural Fields**, Rohith Agaram et.al., Paper: [http://arxiv.org/abs/2212.02493v1](http://arxiv.org/abs/2212.02493v1)
 - 2022-12-06, **D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**, Hankyu Jang et.al., Paper: [http://arxiv.org/abs/2212.02375v2](http://arxiv.org/abs/2212.02375v2)
