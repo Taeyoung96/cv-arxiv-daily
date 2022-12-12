@@ -440,12 +440,12 @@ layout: default
 |**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
 |**2022-12-07**|**LSVL: Large-scale season-invariant visual localization for UAVs**|Jouko Kinnari et.al.|[2212.03581v1](http://arxiv.org/abs/2212.03581v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
-|**2022-12-04**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v1](http://arxiv.org/abs/2212.03177v1)|**[link](https://github.com/82magnolia/event_localization)**|
+|**2022-12-08**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v2](http://arxiv.org/abs/2212.03177v2)|**[link](https://github.com/82magnolia/event_localization)**|
 |**2022-12-06**|**Semantic Communication for Internet of Vehicles: A Multi-User Cooperative Approach**|Wenjun Xu et.al.|[2212.03037v1](http://arxiv.org/abs/2212.03037v1)|null|
 |**2022-12-06**|**Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**|Zhipeng Zhao et.al.|[2212.02757v1](http://arxiv.org/abs/2212.02757v1)|null|
 |**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|**[link](https://github.com/ais-lab/feat2map)**|
 |**2022-12-02**|**Information Retrieval from the Digitized Books**|Riya Gupta et.al.|[2212.00999v1](http://arxiv.org/abs/2212.00999v1)|null|
-|**2022-12-02**|**StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2212.00937v1](http://arxiv.org/abs/2212.00937v1)|null|
+|**2022-12-09**|**StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2212.00937v2](http://arxiv.org/abs/2212.00937v2)|null|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
 |**2022-11-30**|**SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**|Tianyu Zhang et.al.|[2211.16697v1](http://arxiv.org/abs/2211.16697v1)|null|
 |**2022-11-28**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v1](http://arxiv.org/abs/2211.16208v1)|null|
@@ -709,7 +709,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-12-07**|**Designing Feature Vector Representations: A case study from Chemistry**|Signe Sidwall Thygesen et.al.|[2212.03731v1](http://arxiv.org/abs/2212.03731v1)|null|
-|**2022-12-06**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v1](http://arxiv.org/abs/2212.02796v1)|null|
+|**2022-12-09**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|null|
 |**2022-12-05**|**Images Speak in Images: A Generalist Painter for In-Context Visual Learning**|Xinlong Wang et.al.|[2212.02499v1](http://arxiv.org/abs/2212.02499v1)|**[link](https://github.com/baaivision/painter)**|
 |**2022-12-06**|**R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**|Bai Zhu et.al.|[2212.02277v2](http://arxiv.org/abs/2212.02277v2)|null|
 |**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
