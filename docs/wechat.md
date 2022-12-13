@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-12-12, **Evaluation of RGB-D SLAM in Large Indoor Environments**, Kirill Muravyev et.al., Paper: [http://arxiv.org/abs/2212.05980v1](http://arxiv.org/abs/2212.05980v1)
+- 2022-12-12, **A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2212.05743v1](http://arxiv.org/abs/2212.05743v1), Code: **[https://github.com/KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping)**
+- 2022-12-12, **An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2212.05705v1](http://arxiv.org/abs/2212.05705v1), Code: **[https://github.com/KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping)**
 - 2022-12-09, **SLAM for Visually Impaired People: A Survey**, Marziyeh Bamdad et.al., Paper: [http://arxiv.org/abs/2212.04745v1](http://arxiv.org/abs/2212.04745v1)
 - 2022-12-09, **Ego-Body Pose Estimation via Ego-Head Pose Estimation**, Jiaman Li et.al., Paper: [http://arxiv.org/abs/2212.04636v1](http://arxiv.org/abs/2212.04636v1)
 - 2022-12-06, **Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles**, Sushant Veer et.al., Paper: [http://arxiv.org/abs/2212.03323v1](http://arxiv.org/abs/2212.03323v1)
