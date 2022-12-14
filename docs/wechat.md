@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-12-13, **SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**, Chenyangguang Zhang et.al., Paper: [http://arxiv.org/abs/2212.06524v1](http://arxiv.org/abs/2212.06524v1)
+- 2022-12-13, **Localization and Navigation System for Indoor Mobile Robot**, Yanbaihui Liu et.al., Paper: [http://arxiv.org/abs/2212.06391v1](http://arxiv.org/abs/2212.06391v1)
 - 2022-12-12, **Evaluation of RGB-D SLAM in Large Indoor Environments**, Kirill Muravyev et.al., Paper: [http://arxiv.org/abs/2212.05980v1](http://arxiv.org/abs/2212.05980v1)
 - 2022-12-12, **A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2212.05743v1](http://arxiv.org/abs/2212.05743v1), Code: **[https://github.com/KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping)**
 - 2022-12-12, **An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2212.05705v1](http://arxiv.org/abs/2212.05705v1), Code: **[https://github.com/KangchengLiu/deep-learning-localization-mapping](https://github.com/KangchengLiu/deep-learning-localization-mapping)**
@@ -309,6 +311,7 @@
 
 ## SFM
 
+- 2022-12-13, **Accidental Turntables: Learning 3D Pose by Watching Objects Turn**, Zezhou Cheng et.al., Paper: [http://arxiv.org/abs/2212.06300v1](http://arxiv.org/abs/2212.06300v1)
 - 2022-12-04, **3D Object Aided Self-Supervised Monocular Depth Estimation**, Songlin Wei et.al., Paper: [http://arxiv.org/abs/2212.01768v1](http://arxiv.org/abs/2212.01768v1)
 - 2022-12-02, **High-Res Facial Appearance Capture from Polarized Smartphone Images**, Dejan Azinović et.al., Paper: [http://arxiv.org/abs/2212.01160v1](http://arxiv.org/abs/2212.01160v1)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
