@@ -379,6 +379,7 @@
 
 ## Visual Localization
 
+- 2022-12-14, **The Infinite Index: Information Retrieval on Generative Text-To-Image Models**, Niklas Deckers et.al., Paper: [http://arxiv.org/abs/2212.07476v1](http://arxiv.org/abs/2212.07476v1)
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 - 2022-12-08, **Group Generalized Mean Pooling for Vision Transformer**, Byungsoo Ko et.al., Paper: [http://arxiv.org/abs/2212.04114v1](http://arxiv.org/abs/2212.04114v1)
 - 2022-12-12, **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**, Gowthami Somepalli et.al., Paper: [http://arxiv.org/abs/2212.03860v3](http://arxiv.org/abs/2212.03860v3)
@@ -645,6 +646,7 @@
 
 ## Keypoint Detection
 
+- 2022-12-15, **Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**, Bugra C. Sefercik et.al., Paper: [http://arxiv.org/abs/2212.07567v1](http://arxiv.org/abs/2212.07567v1)
 - 2022-12-08, **DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**, Xiangyu Xu et.al., Paper: [http://arxiv.org/abs/2212.04575v1](http://arxiv.org/abs/2212.04575v1)
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-12-15, **Designing Feature Vector Representations: A case study from Chemistry**, Signe Sidwall Thygesen et.al., Paper: [http://arxiv.org/abs/2212.03731v2](http://arxiv.org/abs/2212.03731v2)
@@ -809,6 +811,8 @@
 
 ## NeRF
 
+- 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
+- 2022-12-15, **Real-Time Neural Light Field on Mobile Devices**, Junli Cao et.al., Paper: [http://arxiv.org/abs/2212.08057v1](http://arxiv.org/abs/2212.08057v1)
 - 2022-12-14, **NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**, Wenjing Bian et.al., Paper: [http://arxiv.org/abs/2212.07388v1](http://arxiv.org/abs/2212.07388v1)
 - 2022-12-08, **GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**, Alessandro Ruzzi et.al., Paper: [http://arxiv.org/abs/2212.04823v1](http://arxiv.org/abs/2212.04823v1)
 - 2022-12-09, **4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**, Zhongshu Wang et.al., Paper: [http://arxiv.org/abs/2212.04701v1](http://arxiv.org/abs/2212.04701v1), Code: **[https://github.com/frozoul/4k-nerf](https://github.com/frozoul/4k-nerf)**
