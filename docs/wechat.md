@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-12-19, **Mu$^{2}$SLAM: Multitask, Multilingual Speech and Language Models**, Yong Cheng et.al., Paper: [http://arxiv.org/abs/2212.09553v1](http://arxiv.org/abs/2212.09553v1)
 - 2022-12-16, **Cartographer_glass: 2D Graph SLAM Framework using LiDAR for Glass Environments**, Lasitha Weerakoon et.al., Paper: [http://arxiv.org/abs/2212.08633v1](http://arxiv.org/abs/2212.08633v1)
 - 2022-12-16, **rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**, Bo Wei et.al., Paper: [http://arxiv.org/abs/2212.08418v1](http://arxiv.org/abs/2212.08418v1)
 - 2022-12-14, **Autonomous Vehicle Navigation with LIDAR using Path Planning**, Rahul M K et.al., Paper: [http://arxiv.org/abs/2212.07155v1](http://arxiv.org/abs/2212.07155v1)
@@ -381,6 +382,7 @@
 
 ## Visual Localization
 
+- 2022-12-19, **From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration**, Zekun Qian et.al., Paper: [http://arxiv.org/abs/2212.09298v1](http://arxiv.org/abs/2212.09298v1)
 - 2022-12-14, **The Infinite Index: Information Retrieval on Generative Text-To-Image Models**, Niklas Deckers et.al., Paper: [http://arxiv.org/abs/2212.07476v1](http://arxiv.org/abs/2212.07476v1)
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 - 2022-12-08, **Group Generalized Mean Pooling for Vision Transformer**, Byungsoo Ko et.al., Paper: [http://arxiv.org/abs/2212.04114v1](http://arxiv.org/abs/2212.04114v1)
@@ -648,6 +650,7 @@
 
 ## Keypoint Detection
 
+- 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1)
 - 2022-12-15, **Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**, Bugra C. Sefercik et.al., Paper: [http://arxiv.org/abs/2212.07567v1](http://arxiv.org/abs/2212.07567v1)
 - 2022-12-08, **DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**, Xiangyu Xu et.al., Paper: [http://arxiv.org/abs/2212.04575v1](http://arxiv.org/abs/2212.04575v1)
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
@@ -813,6 +816,10 @@
 
 ## NeRF
 
+- 2022-12-19, **Correspondence Distillation from NeRF-based GAN**, Yushi Lan et.al., Paper: [http://arxiv.org/abs/2212.09735v1](http://arxiv.org/abs/2212.09735v1)
+- 2022-12-19, **StyleTRF: Stylizing Tensorial Radiance Fields**, Rahul Goel et.al., Paper: [http://arxiv.org/abs/2212.09330v1](http://arxiv.org/abs/2212.09330v1)
+- 2022-12-18, **SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**, Abdullah Hamdi et.al., Paper: [http://arxiv.org/abs/2212.09100v1](http://arxiv.org/abs/2212.09100v1)
+- 2022-12-18, **Masked Wavelet Representation for Compact Neural Radiance Fields**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2212.09069v1](http://arxiv.org/abs/2212.09069v1), Code: **[https://github.com/daniel03c1/masked_wavelet_nerf](https://github.com/daniel03c1/masked_wavelet_nerf)**
 - 2022-12-15, **SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory**, Sicheng Li et.al., Paper: [http://arxiv.org/abs/2212.08476v1](http://arxiv.org/abs/2212.08476v1)
 - 2022-12-16, **MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**, Jaeyoung Chung et.al., Paper: [http://arxiv.org/abs/2212.08328v1](http://arxiv.org/abs/2212.08328v1)
 - 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
