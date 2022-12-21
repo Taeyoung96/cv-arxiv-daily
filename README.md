@@ -925,7 +925,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-19**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735v1](http://arxiv.org/abs/2212.09735v1)|null|
+|**2022-12-20**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735v2](http://arxiv.org/abs/2212.09735v2)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
 |**2022-12-18**|**SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**|Abdullah Hamdi et.al.|[2212.09100v1](http://arxiv.org/abs/2212.09100v1)|**[link](https://github.com/ajhamdi/sparf_pytorch)**|
 |**2022-12-18**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069v1](http://arxiv.org/abs/2212.09069v1)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
