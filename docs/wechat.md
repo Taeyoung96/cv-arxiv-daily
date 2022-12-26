@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-12-23, **Radio SLAM for 6G Systems at THz Frequencies: Design and Experimental Validation**, Marina Lotti et.al., Paper: [http://arxiv.org/abs/2212.12388v1](http://arxiv.org/abs/2212.12388v1)
+- 2022-12-23, **Implementation of a Blind navigation method in outdoors/indoors areas**, Mohammad Javadian Farzaneh et.al., Paper: [http://arxiv.org/abs/2212.12185v1](http://arxiv.org/abs/2212.12185v1)
 - 2022-12-22, **S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations**, Hriday Bavle et.al., Paper: [http://arxiv.org/abs/2212.11770v1](http://arxiv.org/abs/2212.11770v1)
 - 2022-12-22, **Active SLAM: A Review On Last Decade**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2212.11654v1](http://arxiv.org/abs/2212.11654v1)
 - 2022-12-22, **Motion, Unit Dual Quaternion and Motion Optimization**, Liqun Qi et.al., Paper: [http://arxiv.org/abs/2212.11593v1](http://arxiv.org/abs/2212.11593v1)
