@@ -24,7 +24,7 @@
 - 2022-12-23, **Implementation of a Blind navigation method in outdoors/indoors areas**, Mohammad Javadian Farzaneh et.al., Paper: [http://arxiv.org/abs/2212.12185v1](http://arxiv.org/abs/2212.12185v1)
 - 2022-12-22, **S-Graphs+: Real-time Localization and Mapping leveraging Hierarchical Representations**, Hriday Bavle et.al., Paper: [http://arxiv.org/abs/2212.11770v1](http://arxiv.org/abs/2212.11770v1)
 - 2022-12-22, **Active SLAM: A Review On Last Decade**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2212.11654v1](http://arxiv.org/abs/2212.11654v1)
-- 2022-12-22, **Motion, Unit Dual Quaternion and Motion Optimization**, Liqun Qi et.al., Paper: [http://arxiv.org/abs/2212.11593v1](http://arxiv.org/abs/2212.11593v1)
+- 2022-12-27, **Motion, Unit Dual Quaternion and Motion Optimization**, Liqun Qi et.al., Paper: [http://arxiv.org/abs/2212.11593v2](http://arxiv.org/abs/2212.11593v2)
 - 2022-12-22, **Vision-Based Environmental Perception for Autonomous Driving**, Fei Liu et.al., Paper: [http://arxiv.org/abs/2212.11453v1](http://arxiv.org/abs/2212.11453v1)
 - 2022-12-19, **Mu$^{2}$SLAM: Multitask, Multilingual Speech and Language Models**, Yong Cheng et.al., Paper: [http://arxiv.org/abs/2212.09553v1](http://arxiv.org/abs/2212.09553v1)
 - 2022-12-16, **Cartographer_glass: 2D Graph SLAM Framework using LiDAR for Glass Environments**, Lasitha Weerakoon et.al., Paper: [http://arxiv.org/abs/2212.08633v1](http://arxiv.org/abs/2212.08633v1)
