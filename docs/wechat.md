@@ -401,6 +401,8 @@
 
 ## Visual Localization
 
+- 2023-01-10, **Collaborative Semantic Communication at the Edge**, Wing Fei Lo et.al., Paper: [http://arxiv.org/abs/2301.03996v1](http://arxiv.org/abs/2301.03996v1)
+- 2023-01-10, **Online Backfilling with No Regret for Large-Scale Image Retrieval**, Seonguk Seo et.al., Paper: [http://arxiv.org/abs/2301.03767v1](http://arxiv.org/abs/2301.03767v1)
 - 2023-01-06, **CyberLoc: Towards Accurate Long-term Visual Localization**, Liu Liu et.al., Paper: [http://arxiv.org/abs/2301.02403v1](http://arxiv.org/abs/2301.02403v1)
 - 2023-01-05, **A Probabilistic Framework for Visual Localization in Ambiguous Scenes**, Fereidoon Zangeneh et.al., Paper: [http://arxiv.org/abs/2301.02086v1](http://arxiv.org/abs/2301.02086v1)
 - 2022-12-31, **4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**, Patrick Wenzel et.al., Paper: [http://arxiv.org/abs/2301.01147v1](http://arxiv.org/abs/2301.01147v1)
@@ -853,6 +855,7 @@
 
 ## NeRF
 
+- 2023-01-10, **Benchmarking Robustness in Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2301.04075v1](http://arxiv.org/abs/2301.04075v1)
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
 - 2023-01-10, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Paper: [http://arxiv.org/abs/2301.02975v2](http://arxiv.org/abs/2301.02975v2)
 - 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2)
