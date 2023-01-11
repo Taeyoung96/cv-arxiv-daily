@@ -25,7 +25,7 @@
 - 2023-01-06, **CyberLoc: Towards Accurate Long-term Visual Localization**, Liu Liu et.al., Paper: [http://arxiv.org/abs/2301.02403v1](http://arxiv.org/abs/2301.02403v1)
 - 2022-12-31, **4Seasons: Benchmarking Visual SLAM and Long-Term Localization for Autonomous Driving in Challenging Conditions**, Patrick Wenzel et.al., Paper: [http://arxiv.org/abs/2301.01147v1](http://arxiv.org/abs/2301.01147v1)
 - 2023-01-03, **BS3D: Building-scale 3D Reconstruction from RGB-D Images**, Janne Mustaniemi et.al., Paper: [http://arxiv.org/abs/2301.01057v1](http://arxiv.org/abs/2301.01057v1)
-- 2023-01-02, **An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**, Masoud Dayani Najafabadi et.al., Paper: [http://arxiv.org/abs/2301.00618v1](http://arxiv.org/abs/2301.00618v1)
+- 2023-01-10, **An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**, Masoud Dayani Najafabadi et.al., Paper: [http://arxiv.org/abs/2301.00618v2](http://arxiv.org/abs/2301.00618v2)
 - 2022-12-25, **A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion**, Nadia Figueroa et.al., Paper: [http://arxiv.org/abs/2212.14772v1](http://arxiv.org/abs/2212.14772v1)
 - 2022-12-29, **An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2212.14209v1](http://arxiv.org/abs/2212.14209v1), Code: **[https://github.com/KangchengLiu/slam_resources](https://github.com/KangchengLiu/slam_resources)**
 - 2022-12-27, **Clock and Orientation-Robust Simultaneous Radio Localization and Mapping at Millimeter Wave Bands**, Felipe Gómez-Cuba et.al., Paper: [http://arxiv.org/abs/2212.13477v1](http://arxiv.org/abs/2212.13477v1), Code: **[https://github.com/gomezcuba/castro-5g](https://github.com/gomezcuba/castro-5g)**
@@ -854,7 +854,7 @@
 ## NeRF
 
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
-- 2023-01-08, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Paper: [http://arxiv.org/abs/2301.02975v1](http://arxiv.org/abs/2301.02975v1)
+- 2023-01-10, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Paper: [http://arxiv.org/abs/2301.02975v2](http://arxiv.org/abs/2301.02975v2)
 - 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2)
 - 2023-01-01, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v1](http://arxiv.org/abs/2301.00411v1), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 - 2022-12-26, **MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**, Fengrui Tian et.al., Paper: [http://arxiv.org/abs/2212.13056v1](http://arxiv.org/abs/2212.13056v1)
