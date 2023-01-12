@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**|Ying Chen et.al.|[2301.04620v1](http://arxiv.org/abs/2301.04620v1)|null|
+|**2023-01-11**|**TBV Radar SLAM $\unicode{x2013}$ trust but verify loop candidates**|Daniel Adolfsson et.al.|[2301.04397v1](http://arxiv.org/abs/2301.04397v1)|null|
 |**2022-12-31**|**Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**|Maxwell McManus et.al.|[2301.03359v1](http://arxiv.org/abs/2301.03359v1)|null|
 |**2023-01-09**|**Motion Addition and Motion Optimization**|Liqun Qi et.al.|[2301.03174v1](http://arxiv.org/abs/2301.03174v1)|null|
 |**2023-01-08**|**Towards Open World NeRF-Based SLAM**|Daniil Lisus et.al.|[2301.03102v1](http://arxiv.org/abs/2301.03102v1)|null|
@@ -465,6 +467,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images**|Xindi Wu et.al.|[2301.04224v1](http://arxiv.org/abs/2301.04224v1)|null|
 |**2023-01-10**|**Collaborative Semantic Communication at the Edge**|Wing Fei Lo et.al.|[2301.03996v1](http://arxiv.org/abs/2301.03996v1)|null|
 |**2023-01-10**|**Online Backfilling with No Regret for Large-Scale Image Retrieval**|Seonguk Seo et.al.|[2301.03767v1](http://arxiv.org/abs/2301.03767v1)|null|
 |**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu et.al.|[2301.02403v1](http://arxiv.org/abs/2301.02403v1)|null|
