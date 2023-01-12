@@ -859,7 +859,7 @@
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
 - 2023-01-10, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Paper: [http://arxiv.org/abs/2301.02975v2](http://arxiv.org/abs/2301.02975v2)
 - 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2), Code: **[https://github.com/tom919654/C3G-NeRF](https://github.com/tom919654/C3G-NeRF)**
-- 2023-01-01, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v1](http://arxiv.org/abs/2301.00411v1), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
+- 2023-01-11, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v2](http://arxiv.org/abs/2301.00411v2), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 - 2022-12-26, **MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**, Fengrui Tian et.al., Paper: [http://arxiv.org/abs/2212.13056v1](http://arxiv.org/abs/2212.13056v1)
 - 2022-12-25, **PaletteNeRF: Palette-based Color Editing for NeRFs**, Qiling Wu et.al., Paper: [http://arxiv.org/abs/2212.12871v1](http://arxiv.org/abs/2212.12871v1)
 - 2022-12-22, **Removing Objects From Neural Radiance Fields**, Silvan Weder et.al., Paper: [http://arxiv.org/abs/2212.11966v1](http://arxiv.org/abs/2212.11966v1)
