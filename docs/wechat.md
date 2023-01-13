@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2023-01-11, **AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**, Ying Chen et.al., Paper: [http://arxiv.org/abs/2301.04620v1](http://arxiv.org/abs/2301.04620v1)
-- 2023-01-11, **TBV Radar SLAM $\unicode{x2013}$ trust but verify loop candidates**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2301.04397v1](http://arxiv.org/abs/2301.04397v1)
+- 2023-01-12, **TBV Radar SLAM -- trust but verify loop candidates**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2301.04397v2](http://arxiv.org/abs/2301.04397v2)
 - 2022-12-31, **Digital Twin-Enabled Domain Adaptation for Zero-Touch UAV Networks: Survey and Challenges**, Maxwell McManus et.al., Paper: [http://arxiv.org/abs/2301.03359v1](http://arxiv.org/abs/2301.03359v1)
 - 2023-01-09, **Motion Addition and Motion Optimization**, Liqun Qi et.al., Paper: [http://arxiv.org/abs/2301.03174v1](http://arxiv.org/abs/2301.03174v1)
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
