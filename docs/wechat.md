@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-01-16, **Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**, Pierre-Yves Lajoie et.al., Paper: [http://arxiv.org/abs/2301.06230v1](http://arxiv.org/abs/2301.06230v1)
 - 2023-01-13, **A LiDAR-Inertial-Visual SLAM System with Loop Detection**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2301.05604v1](http://arxiv.org/abs/2301.05604v1)
 - 2023-01-11, **AdaptSLAM: Edge-Assisted Adaptive SLAM with Resource Constraints via Uncertainty Minimization**, Ying Chen et.al., Paper: [http://arxiv.org/abs/2301.04620v1](http://arxiv.org/abs/2301.04620v1), Code: **[https://github.com/i3tyc/adaptslam](https://github.com/i3tyc/adaptslam)**
 - 2023-01-12, **TBV Radar SLAM -- trust but verify loop candidates**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2301.04397v2](http://arxiv.org/abs/2301.04397v2)
@@ -404,6 +405,8 @@
 
 ## Visual Localization
 
+- 2023-01-17, **Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**, Yuchen Wu et.al., Paper: [http://arxiv.org/abs/2301.06685v1](http://arxiv.org/abs/2301.06685v1)
+- 2023-01-16, **High-bandwidth Close-Range Information Transport through Light Pipes**, Joowon Lim et.al., Paper: [http://arxiv.org/abs/2301.06496v1](http://arxiv.org/abs/2301.06496v1)
 - 2023-01-13, **A LiDAR-Inertial-Visual SLAM System with Loop Detection**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2301.05604v1](http://arxiv.org/abs/2301.05604v1)
 - 2023-01-12, **GH-Feat: Learning Versatile Generative Hierarchical Features from GANs**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2301.05315v1](http://arxiv.org/abs/2301.05315v1)
 - 2023-01-10, **Pix2Map: Cross-modal Retrieval for Inferring Street Maps from Images**, Xindi Wu et.al., Paper: [http://arxiv.org/abs/2301.04224v1](http://arxiv.org/abs/2301.04224v1)
@@ -775,6 +778,7 @@
 
 ## Image Matching
 
+- 2023-01-17, **Feature-based Image Matching for Identifying Individual Kākā**, Fintan O'Sullivan et.al., Paper: [http://arxiv.org/abs/2301.06678v1](http://arxiv.org/abs/2301.06678v1)
 - 2023-01-09, **Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images**, Johannes Bayer et.al., Paper: [http://arxiv.org/abs/2301.03155v1](http://arxiv.org/abs/2301.03155v1)
 - 2023-01-07, **Deep Learning-Based UAV Aerial Triangulation without Image Control Points**, Jiageng Zhong et.al., Paper: [http://arxiv.org/abs/2301.02869v1](http://arxiv.org/abs/2301.02869v1)
 - 2023-01-06, **The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**, John R. Weaver et.al., Paper: [http://arxiv.org/abs/2301.02671v1](http://arxiv.org/abs/2301.02671v1)
@@ -862,6 +866,8 @@
 
 ## NeRF
 
+- 2023-01-17, **A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**, Chongshan Lu et.al., Paper: [http://arxiv.org/abs/2301.06782v1](http://arxiv.org/abs/2301.06782v1)
+- 2023-01-13, **Laser: Latent Set Representations for 3D Generative Modeling**, Pol Moreno et.al., Paper: [http://arxiv.org/abs/2301.05747v1](http://arxiv.org/abs/2301.05747v1)
 - 2023-01-10, **Benchmarking Robustness in Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2301.04075v1](http://arxiv.org/abs/2301.04075v1)
 - 2023-01-08, **Towards Open World NeRF-Based SLAM**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2301.03102v1](http://arxiv.org/abs/2301.03102v1)
 - 2023-01-10, **Traditional Readability Formulas Compared for English**, Bruce W. Lee et.al., Paper: [http://arxiv.org/abs/2301.02975v2](http://arxiv.org/abs/2301.02975v2)
