@@ -869,6 +869,7 @@
 
 ## NeRF
 
+- 2023-01-19, **RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**, Bingchen Gong et.al., Paper: [http://arxiv.org/abs/2301.07958v1](http://arxiv.org/abs/2301.07958v1)
 - 2023-01-18, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2301.07668v1](http://arxiv.org/abs/2301.07668v1)
 - 2023-01-17, **A Large-Scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction**, Chongshan Lu et.al., Paper: [http://arxiv.org/abs/2301.06782v1](http://arxiv.org/abs/2301.06782v1)
 - 2023-01-13, **Laser: Latent Set Representations for 3D Generative Modeling**, Pol Moreno et.al., Paper: [http://arxiv.org/abs/2301.05747v1](http://arxiv.org/abs/2301.05747v1)
