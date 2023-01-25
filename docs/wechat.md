@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-01-24, **Generalized Object Search**, Kaiyu Zheng et.al., Paper: [http://arxiv.org/abs/2301.10121v1](http://arxiv.org/abs/2301.10121v1)
 - 2023-01-22, **Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories**, Hanlin Chen et.al., Paper: [http://arxiv.org/abs/2301.09194v1](http://arxiv.org/abs/2301.09194v1)
 - 2023-01-21, **Dense RGB SLAM with Neural Implicit Maps**, Heng Li et.al., Paper: [http://arxiv.org/abs/2301.08930v1](http://arxiv.org/abs/2301.08930v1)
 - 2023-01-18, **Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**, Junshi Chen et.al., Paper: [http://arxiv.org/abs/2301.07560v1](http://arxiv.org/abs/2301.07560v1)
@@ -410,6 +411,7 @@
 
 ## Visual Localization
 
+- 2023-01-23, **Lexi: Self-Supervised Learning of the UI Language**, Pratyay Banerjee et.al., Paper: [http://arxiv.org/abs/2301.10165v1](http://arxiv.org/abs/2301.10165v1), Code: **[https://github.com/microsoft/uicaption](https://github.com/microsoft/uicaption)**
 - 2023-01-17, **Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**, Yuchen Wu et.al., Paper: [http://arxiv.org/abs/2301.06685v1](http://arxiv.org/abs/2301.06685v1)
 - 2023-01-19, **High-bandwidth Close-Range Information Transport through Light Pipes**, Joowon Lim et.al., Paper: [http://arxiv.org/abs/2301.06496v2](http://arxiv.org/abs/2301.06496v2)
 - 2023-01-13, **A LiDAR-Inertial-Visual SLAM System with Loop Detection**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2301.05604v1](http://arxiv.org/abs/2301.05604v1)
