@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-01-26, **Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**, Ola Shorinwa et.al., Paper: [http://arxiv.org/abs/2301.11313v1](http://arxiv.org/abs/2301.11313v1)
 - 2023-01-24, **Generalized Object Search**, Kaiyu Zheng et.al., Paper: [http://arxiv.org/abs/2301.10121v1](http://arxiv.org/abs/2301.10121v1)
 - 2023-01-22, **Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories**, Hanlin Chen et.al., Paper: [http://arxiv.org/abs/2301.09194v1](http://arxiv.org/abs/2301.09194v1)
 - 2023-01-21, **Dense RGB SLAM with Neural Implicit Maps**, Heng Li et.al., Paper: [http://arxiv.org/abs/2301.08930v1](http://arxiv.org/abs/2301.08930v1)
@@ -875,6 +876,8 @@
 
 ## NeRF
 
+- 2023-01-26, **Text-To-4D Dynamic Scene Generation**, Uriel Singer et.al., Paper: [http://arxiv.org/abs/2301.11280v1](http://arxiv.org/abs/2301.11280v1)
+- 2023-01-26, **GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**, Minseop Kwak et.al., Paper: [http://arxiv.org/abs/2301.10941v1](http://arxiv.org/abs/2301.10941v1)
 - 2023-01-23, **HexPlane: A Fast Representation for Dynamic Scenes**, Ang Cao et.al., Paper: [http://arxiv.org/abs/2301.09632v1](http://arxiv.org/abs/2301.09632v1)
 - 2023-01-22, **3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**, Trupti Mahendrakar et.al., Paper: [http://arxiv.org/abs/2301.09060v1](http://arxiv.org/abs/2301.09060v1)
 - 2023-01-18, **NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**, Allan Zhou et.al., Paper: [http://arxiv.org/abs/2301.08556v1](http://arxiv.org/abs/2301.08556v1)
