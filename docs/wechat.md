@@ -414,6 +414,8 @@
 
 ## Visual Localization
 
+- 2023-01-31, **Grounding Language Models to Images for Multimodal Generation**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2301.13823v1](http://arxiv.org/abs/2301.13823v1)
+- 2023-01-31, **UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**, Dachuan Shi et.al., Paper: [http://arxiv.org/abs/2301.13741v1](http://arxiv.org/abs/2301.13741v1)
 - 2023-01-23, **Lexi: Self-Supervised Learning of the UI Language**, Pratyay Banerjee et.al., Paper: [http://arxiv.org/abs/2301.10165v1](http://arxiv.org/abs/2301.10165v1), Code: **[https://github.com/microsoft/uicaption](https://github.com/microsoft/uicaption)**
 - 2023-01-17, **Distribution Aligned Feature Clustering for Zero-Shot Sketch-Based Image Retrieval**, Yuchen Wu et.al., Paper: [http://arxiv.org/abs/2301.06685v1](http://arxiv.org/abs/2301.06685v1)
 - 2023-01-19, **High-bandwidth Close-Range Information Transport through Light Pipes**, Joowon Lim et.al., Paper: [http://arxiv.org/abs/2301.06496v2](http://arxiv.org/abs/2301.06496v2)
@@ -879,6 +881,7 @@
 
 ## NeRF
 
+- 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430v1](http://arxiv.org/abs/2301.13430v1)
 - 2023-01-30, **Equivariant Architectures for Learning in Deep Weight Spaces**, Aviv Navon et.al., Paper: [http://arxiv.org/abs/2301.12780v1](http://arxiv.org/abs/2301.12780v1)
 - 2023-01-27, **HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**, Adam Kania et.al., Paper: [http://arxiv.org/abs/2301.11631v1](http://arxiv.org/abs/2301.11631v1), Code: **[https://github.com/gmum/hypernerfgan](https://github.com/gmum/hypernerfgan)**
 - 2023-01-27, **A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**, Saulo Abraham Gante et.al., Paper: [http://arxiv.org/abs/2301.11522v1](http://arxiv.org/abs/2301.11522v1)
