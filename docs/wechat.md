@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2023-02-01, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Paper: [http://arxiv.org/abs/2302.00227v1](http://arxiv.org/abs/2302.00227v1)
+- 2023-02-02, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Paper: [http://arxiv.org/abs/2302.00227v2](http://arxiv.org/abs/2302.00227v2)
 - 2023-01-27, **HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**, Mostafa Ahmadi et.al., Paper: [http://arxiv.org/abs/2301.11823v1](http://arxiv.org/abs/2301.11823v1)
 - 2023-01-26, **Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**, Ola Shorinwa et.al., Paper: [http://arxiv.org/abs/2301.11313v1](http://arxiv.org/abs/2301.11313v1)
 - 2023-01-24, **Generalized Object Search**, Kaiyu Zheng et.al., Paper: [http://arxiv.org/abs/2301.10121v1](http://arxiv.org/abs/2301.10121v1)
@@ -710,7 +710,7 @@
 - 2022-12-24, **HandsOff: Labeled Dataset Generation With No Additional Human Annotations**, Austin Xu et.al., Paper: [http://arxiv.org/abs/2212.12645v1](http://arxiv.org/abs/2212.12645v1)
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1)
 - 2022-12-15, **Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**, Bugra C. Sefercik et.al., Paper: [http://arxiv.org/abs/2212.07567v1](http://arxiv.org/abs/2212.07567v1)
-- 2022-12-08, **DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**, Xiangyu Xu et.al., Paper: [http://arxiv.org/abs/2212.04575v1](http://arxiv.org/abs/2212.04575v1)
+- 2023-02-01, **DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**, Xiangyu Xu et.al., Paper: [http://arxiv.org/abs/2212.04575v2](http://arxiv.org/abs/2212.04575v2)
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-12-15, **Designing Feature Vector Representations: A case study from Chemistry**, Signe Sidwall Thygesen et.al., Paper: [http://arxiv.org/abs/2212.03731v2](http://arxiv.org/abs/2212.03731v2)
 - 2022-12-09, **DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**, Jeongjun Choi et.al., Paper: [http://arxiv.org/abs/2212.02796v2](http://arxiv.org/abs/2212.02796v2)
@@ -891,7 +891,7 @@
 - 2023-01-26, **Text-To-4D Dynamic Scene Generation**, Uriel Singer et.al., Paper: [http://arxiv.org/abs/2301.11280v1](http://arxiv.org/abs/2301.11280v1)
 - 2023-01-26, **GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**, Minseop Kwak et.al., Paper: [http://arxiv.org/abs/2301.10941v1](http://arxiv.org/abs/2301.10941v1)
 - 2023-01-23, **HexPlane: A Fast Representation for Dynamic Scenes**, Ang Cao et.al., Paper: [http://arxiv.org/abs/2301.09632v1](http://arxiv.org/abs/2301.09632v1)
-- 2023-01-22, **3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**, Trupti Mahendrakar et.al., Paper: [http://arxiv.org/abs/2301.09060v1](http://arxiv.org/abs/2301.09060v1)
+- 2023-02-02, **3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**, Trupti Mahendrakar et.al., Paper: [http://arxiv.org/abs/2301.09060v2](http://arxiv.org/abs/2301.09060v2)
 - 2023-01-18, **NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**, Allan Zhou et.al., Paper: [http://arxiv.org/abs/2301.08556v1](http://arxiv.org/abs/2301.08556v1)
 - 2023-01-19, **RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**, Bingchen Gong et.al., Paper: [http://arxiv.org/abs/2301.07958v1](http://arxiv.org/abs/2301.07958v1)
 - 2023-01-18, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2301.07668v1](http://arxiv.org/abs/2301.07668v1)
