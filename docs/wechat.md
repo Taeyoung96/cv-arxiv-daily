@@ -416,6 +416,7 @@
 
 ## Visual Localization
 
+- 2023-02-02, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v1](http://arxiv.org/abs/2302.01332v1), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
 - 2023-01-31, **Grounding Language Models to Images for Multimodal Generation**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2301.13823v1](http://arxiv.org/abs/2301.13823v1)
 - 2023-01-31, **UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**, Dachuan Shi et.al., Paper: [http://arxiv.org/abs/2301.13741v1](http://arxiv.org/abs/2301.13741v1)
 - 2023-01-23, **Lexi: Self-Supervised Learning of the UI Language**, Pratyay Banerjee et.al., Paper: [http://arxiv.org/abs/2301.10165v1](http://arxiv.org/abs/2301.10165v1), Code: **[https://github.com/microsoft/uicaption](https://github.com/microsoft/uicaption)**
@@ -883,6 +884,8 @@
 
 ## NeRF
 
+- 2023-02-02, **Factor Fields: A Unified Framework for Neural Fields and Beyond**, Anpei Chen et.al., Paper: [http://arxiv.org/abs/2302.01226v1](http://arxiv.org/abs/2302.01226v1)
+- 2023-02-02, **RobustNeRF: Ignoring Distractors with Robust Losses**, Sara Sabour et.al., Paper: [http://arxiv.org/abs/2302.00833v1](http://arxiv.org/abs/2302.00833v1)
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430v1](http://arxiv.org/abs/2301.13430v1)
 - 2023-01-30, **Equivariant Architectures for Learning in Deep Weight Spaces**, Aviv Navon et.al., Paper: [http://arxiv.org/abs/2301.12780v1](http://arxiv.org/abs/2301.12780v1)
 - 2023-01-27, **HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**, Adam Kania et.al., Paper: [http://arxiv.org/abs/2301.11631v1](http://arxiv.org/abs/2301.11631v1), Code: **[https://github.com/gmum/hypernerfgan](https://github.com/gmum/hypernerfgan)**
