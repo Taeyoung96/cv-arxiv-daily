@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-02-03, **vMAP: Vectorised Object Mapping for Neural Field SLAM**, Xin Kong et.al., Paper: [http://arxiv.org/abs/2302.01838v1](http://arxiv.org/abs/2302.01838v1)
 - 2023-02-02, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Paper: [http://arxiv.org/abs/2302.00227v2](http://arxiv.org/abs/2302.00227v2)
 - 2023-01-27, **HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**, Mostafa Ahmadi et.al., Paper: [http://arxiv.org/abs/2301.11823v1](http://arxiv.org/abs/2301.11823v1)
 - 2023-01-26, **Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**, Ola Shorinwa et.al., Paper: [http://arxiv.org/abs/2301.11313v1](http://arxiv.org/abs/2301.11313v1)
@@ -416,6 +417,7 @@
 
 ## Visual Localization
 
+- 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-02-02, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v1](http://arxiv.org/abs/2302.01332v1), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
 - 2023-01-31, **Grounding Language Models to Images for Multimodal Generation**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2301.13823v1](http://arxiv.org/abs/2301.13823v1)
 - 2023-01-31, **UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**, Dachuan Shi et.al., Paper: [http://arxiv.org/abs/2301.13741v1](http://arxiv.org/abs/2301.13741v1)
@@ -702,6 +704,8 @@
 
 ## Keypoint Detection
 
+- 2023-02-03, **Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2302.01593v1](http://arxiv.org/abs/2302.01593v1), Code: **[https://github.com/idea-research/ed-pose](https://github.com/idea-research/ed-pose)**
+- 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-21, **Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**, Feiyang Wen et.al., Paper: [http://arxiv.org/abs/2301.08973v1](http://arxiv.org/abs/2301.08973v1)
 - 2023-01-18, **OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2301.07673v1](http://arxiv.org/abs/2301.07673v1)
 - 2023-01-12, **Towards High Performance One-Stage Human Pose Estimation**, Ling Li et.al., Paper: [http://arxiv.org/abs/2301.04842v1](http://arxiv.org/abs/2301.04842v1)
@@ -795,6 +799,7 @@
 
 ## Image Matching
 
+- 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
 - 2023-01-24, **Feature-based Image Matching for Identifying Individual Kākā**, Fintan O'Sullivan et.al., Paper: [http://arxiv.org/abs/2301.06678v2](http://arxiv.org/abs/2301.06678v2)
 - 2023-01-18, **Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images**, Johannes Bayer et.al., Paper: [http://arxiv.org/abs/2301.03155v2](http://arxiv.org/abs/2301.03155v2)
@@ -884,6 +889,9 @@
 
 ## NeRF
 
+- 2023-02-03, **Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**, Tianxiang Ma et.al., Paper: [http://arxiv.org/abs/2302.01579v1](http://arxiv.org/abs/2302.01579v1)
+- 2023-02-03, **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**, Hwan Heo et.al., Paper: [http://arxiv.org/abs/2302.01571v1](http://arxiv.org/abs/2302.01571v1)
+- 2023-02-03, **INV: Towards Streaming Incremental Neural Videos**, Shengze Wang et.al., Paper: [http://arxiv.org/abs/2302.01532v1](http://arxiv.org/abs/2302.01532v1)
 - 2023-02-02, **Factor Fields: A Unified Framework for Neural Fields and Beyond**, Anpei Chen et.al., Paper: [http://arxiv.org/abs/2302.01226v1](http://arxiv.org/abs/2302.01226v1)
 - 2023-02-02, **RobustNeRF: Ignoring Distractors with Robust Losses**, Sara Sabour et.al., Paper: [http://arxiv.org/abs/2302.00833v1](http://arxiv.org/abs/2302.00833v1)
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430v1](http://arxiv.org/abs/2301.13430v1)
