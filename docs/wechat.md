@@ -417,6 +417,7 @@
 
 ## Visual Localization
 
+- 2023-02-06, **Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs**, Michael Kirchhof et.al., Paper: [http://arxiv.org/abs/2302.02865v1](http://arxiv.org/abs/2302.02865v1), Code: **[https://github.com/mkirchhof/probabilistic_contrastive_learning](https://github.com/mkirchhof/probabilistic_contrastive_learning)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-02-04, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v2](http://arxiv.org/abs/2302.01332v2), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
 - 2023-01-31, **Grounding Language Models to Images for Multimodal Generation**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2301.13823v1](http://arxiv.org/abs/2301.13823v1)
@@ -889,6 +890,7 @@
 
 ## NeRF
 
+- 2023-02-04, **AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**, Susan Liang et.al., Paper: [http://arxiv.org/abs/2302.02088v1](http://arxiv.org/abs/2302.02088v1)
 - 2023-02-03, **Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**, Tianxiang Ma et.al., Paper: [http://arxiv.org/abs/2302.01579v1](http://arxiv.org/abs/2302.01579v1)
 - 2023-02-03, **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**, Hwan Heo et.al., Paper: [http://arxiv.org/abs/2302.01571v1](http://arxiv.org/abs/2302.01571v1)
 - 2023-02-03, **INV: Towards Streaming Incremental Neural Videos**, Shengze Wang et.al., Paper: [http://arxiv.org/abs/2302.01532v1](http://arxiv.org/abs/2302.01532v1)
