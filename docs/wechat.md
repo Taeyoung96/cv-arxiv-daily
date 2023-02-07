@@ -418,7 +418,7 @@
 ## Visual Localization
 
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
-- 2023-02-02, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v1](http://arxiv.org/abs/2302.01332v1), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
+- 2023-02-04, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v2](http://arxiv.org/abs/2302.01332v2), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
 - 2023-01-31, **Grounding Language Models to Images for Multimodal Generation**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2301.13823v1](http://arxiv.org/abs/2301.13823v1)
 - 2023-01-31, **UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers**, Dachuan Shi et.al., Paper: [http://arxiv.org/abs/2301.13741v1](http://arxiv.org/abs/2301.13741v1)
 - 2023-01-23, **Lexi: Self-Supervised Learning of the UI Language**, Pratyay Banerjee et.al., Paper: [http://arxiv.org/abs/2301.10165v1](http://arxiv.org/abs/2301.10165v1), Code: **[https://github.com/microsoft/uicaption](https://github.com/microsoft/uicaption)**
@@ -710,7 +710,7 @@
 - 2023-01-18, **OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2301.07673v1](http://arxiv.org/abs/2301.07673v1)
 - 2023-01-12, **Towards High Performance One-Stage Human Pose Estimation**, Ling Li et.al., Paper: [http://arxiv.org/abs/2301.04842v1](http://arxiv.org/abs/2301.04842v1)
 - 2022-12-31, **Rethinking Rotation Invariance with Point Cloud Registration**, Jianhui Yu et.al., Paper: [http://arxiv.org/abs/2301.00149v1](http://arxiv.org/abs/2301.00149v1)
-- 2022-12-29, **Fruit Ripeness Classification: a Survey**, Matteo Rizzo et.al., Paper: [http://arxiv.org/abs/2212.14441v1](http://arxiv.org/abs/2212.14441v1)
+- 2023-02-06, **Fruit Ripeness Classification: a Survey**, Matteo Rizzo et.al., Paper: [http://arxiv.org/abs/2212.14441v2](http://arxiv.org/abs/2212.14441v2)
 - 2022-12-28, **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**, Kuan-Chieh Wang et.al., Paper: [http://arxiv.org/abs/2212.13660v1](http://arxiv.org/abs/2212.13660v1)
 - 2022-12-24, **HandsOff: Labeled Dataset Generation With No Additional Human Annotations**, Austin Xu et.al., Paper: [http://arxiv.org/abs/2212.12645v1](http://arxiv.org/abs/2212.12645v1)
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1)
