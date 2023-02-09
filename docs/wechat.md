@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-02-08, **Task Space Control of Robot Manipulators based on Visual SLAM**, Seyed Hamed Hashemi et.al., Paper: [http://arxiv.org/abs/2302.04163v1](http://arxiv.org/abs/2302.04163v1)
+- 2023-02-08, **SLaM: Student-Label Mixing for Semi-Supervised Knowledge Distillation**, Vasilis Kontonis et.al., Paper: [http://arxiv.org/abs/2302.03806v1](http://arxiv.org/abs/2302.03806v1)
 - 2023-02-07, **NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM**, Zihan Zhu et.al., Paper: [http://arxiv.org/abs/2302.03594v1](http://arxiv.org/abs/2302.03594v1)
 - 2023-02-03, **vMAP: Vectorised Object Mapping for Neural Field SLAM**, Xin Kong et.al., Paper: [http://arxiv.org/abs/2302.01838v1](http://arxiv.org/abs/2302.01838v1)
 - 2023-02-02, **A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**, Shengqiang Shen et.al., Paper: [http://arxiv.org/abs/2302.00227v2](http://arxiv.org/abs/2302.00227v2)
@@ -892,6 +894,7 @@
 
 ## NeRF
 
+- 2023-02-08, **Nerfstudio: A Modular Framework for Neural Radiance Field Development**, Matthew Tancik et.al., Paper: [http://arxiv.org/abs/2302.04264v1](http://arxiv.org/abs/2302.04264v1)
 - 2023-02-07, **AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**, Susan Liang et.al., Paper: [http://arxiv.org/abs/2302.02088v2](http://arxiv.org/abs/2302.02088v2)
 - 2023-02-03, **Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**, Tianxiang Ma et.al., Paper: [http://arxiv.org/abs/2302.01579v1](http://arxiv.org/abs/2302.01579v1)
 - 2023-02-03, **Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**, Hwan Heo et.al., Paper: [http://arxiv.org/abs/2302.01571v1](http://arxiv.org/abs/2302.01571v1)
