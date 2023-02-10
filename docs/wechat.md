@@ -709,6 +709,7 @@
 
 ## Keypoint Detection
 
+- 2023-02-09, **MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**, Yuhe Ding et.al., Paper: [http://arxiv.org/abs/2302.04589v1](http://arxiv.org/abs/2302.04589v1)
 - 2023-02-03, **Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2302.01593v1](http://arxiv.org/abs/2302.01593v1), Code: **[https://github.com/idea-research/ed-pose](https://github.com/idea-research/ed-pose)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-21, **Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**, Feiyang Wen et.al., Paper: [http://arxiv.org/abs/2301.08973v1](http://arxiv.org/abs/2301.08973v1)
