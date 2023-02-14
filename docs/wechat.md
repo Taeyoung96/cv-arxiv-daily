@@ -350,7 +350,7 @@
 
 ## SFM
 
-- 2023-02-01, **Uncertainty-Driven Dense Two-View Structure from Motion**, Weirong Chen et.al., Paper: [http://arxiv.org/abs/2302.00523v1](http://arxiv.org/abs/2302.00523v1)
+- 2023-02-12, **Uncertainty-Driven Dense Two-View Structure from Motion**, Weirong Chen et.al., Paper: [http://arxiv.org/abs/2302.00523v2](http://arxiv.org/abs/2302.00523v2)
 - 2023-01-28, **AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2301.12135v1](http://arxiv.org/abs/2301.12135v1)
 - 2023-01-20, **A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**, Zhefan Xu et.al., Paper: [http://arxiv.org/abs/2301.08422v1](http://arxiv.org/abs/2301.08422v1)
 - 2023-01-05, **Robust Dynamic Radiance Fields**, Yu-Lun Liu et.al., Paper: [http://arxiv.org/abs/2301.02239v1](http://arxiv.org/abs/2301.02239v1)
@@ -813,7 +813,7 @@
 - 2023-01-18, **Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images**, Johannes Bayer et.al., Paper: [http://arxiv.org/abs/2301.03155v2](http://arxiv.org/abs/2301.03155v2)
 - 2023-01-07, **Deep Learning-Based UAV Aerial Triangulation without Image Control Points**, Jiageng Zhong et.al., Paper: [http://arxiv.org/abs/2301.02869v1](http://arxiv.org/abs/2301.02869v1)
 - 2023-01-06, **The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**, John R. Weaver et.al., Paper: [http://arxiv.org/abs/2301.02671v1](http://arxiv.org/abs/2301.02671v1)
-- 2022-12-31, **Translating Text Synopses to Video Storyboards**, Xu Gu et.al., Paper: [http://arxiv.org/abs/2301.00135v1](http://arxiv.org/abs/2301.00135v1)
+- 2023-02-13, **Translating Text Synopses to Video Storyboards**, Xu Gu et.al., Paper: [http://arxiv.org/abs/2301.00135v2](http://arxiv.org/abs/2301.00135v2)
 - 2022-12-23, **SuperGF: Unifying Local and Global Features for Visual Localization**, Wenzheng Song et.al., Paper: [http://arxiv.org/abs/2212.13105v1](http://arxiv.org/abs/2212.13105v1)
 - 2022-12-26, **Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**, Weizhi Du et.al., Paper: [http://arxiv.org/abs/2212.13068v1](http://arxiv.org/abs/2212.13068v1)
 - 2022-12-20, **Seafloor-Invariant Caustics Removal from Underwater Imagery**, Panagiotis Agrafiotis et.al., Paper: [http://arxiv.org/abs/2212.10167v1](http://arxiv.org/abs/2212.10167v1)
