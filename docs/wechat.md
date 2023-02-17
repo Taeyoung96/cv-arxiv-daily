@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-02-16, **Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**, Mohammad Mahdi Azarbeik et.al., Paper: [http://arxiv.org/abs/2302.08294v1](http://arxiv.org/abs/2302.08294v1)
 - 2023-02-15, **Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**, Jiajun Lv et.al., Paper: [http://arxiv.org/abs/2302.07456v1](http://arxiv.org/abs/2302.07456v1)
 - 2023-02-15, **ConceptFusion: Open-set Multimodal 3D Mapping**, Krishna Murthy Jatavallabhula et.al., Paper: [http://arxiv.org/abs/2302.07241v2](http://arxiv.org/abs/2302.07241v2)
 - 2023-02-13, **Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**, Andrey Zhitnikov et.al., Paper: [http://arxiv.org/abs/2302.06697v1](http://arxiv.org/abs/2302.06697v1)
