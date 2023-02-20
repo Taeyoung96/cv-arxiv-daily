@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-02-17, **Probabilistic Qualitative Localization and Mapping**, Roee Mor et.al., Paper: [http://arxiv.org/abs/2302.08735v1](http://arxiv.org/abs/2302.08735v1)
 - 2023-02-16, **Augmenting Inertial Motion Capture with SLAM Using EKF and SRUKF Data Fusion Algorithms**, Mohammad Mahdi Azarbeik et.al., Paper: [http://arxiv.org/abs/2302.08294v1](http://arxiv.org/abs/2302.08294v1)
 - 2023-02-15, **Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**, Jiajun Lv et.al., Paper: [http://arxiv.org/abs/2302.07456v1](http://arxiv.org/abs/2302.07456v1), Code: **[https://github.com/april-zju/clic](https://github.com/april-zju/clic)**
 - 2023-02-15, **ConceptFusion: Open-set Multimodal 3D Mapping**, Krishna Murthy Jatavallabhula et.al., Paper: [http://arxiv.org/abs/2302.07241v2](http://arxiv.org/abs/2302.07241v2)
@@ -426,6 +427,8 @@
 
 ## Visual Localization
 
+- 2023-02-17, **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen et.al., Paper: [http://arxiv.org/abs/2302.08958v1](http://arxiv.org/abs/2302.08958v1), Code: **[https://github.com/zhjohnchan/ptunifier](https://github.com/zhjohnchan/ptunifier)**
+- 2023-02-16, **Fashion Image Retrieval with Multi-Granular Alignment**, Jinkuan Zhu et.al., Paper: [http://arxiv.org/abs/2302.08902v1](http://arxiv.org/abs/2302.08902v1)
 - 2023-02-15, **Unsupervised Hashing via Similarity Distribution Calibration**, Kam Woh Ng et.al., Paper: [http://arxiv.org/abs/2302.07669v1](http://arxiv.org/abs/2302.07669v1)
 - 2023-02-13, **Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**, Shen Yan et.al., Paper: [http://arxiv.org/abs/2302.06287v1](http://arxiv.org/abs/2302.06287v1)
 - 2023-02-13, **Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**, Binqian Jiang et.al., Paper: [http://arxiv.org/abs/2302.06149v1](http://arxiv.org/abs/2302.06149v1), Code: **[https://github.com/lewisjiang/contour-context](https://github.com/lewisjiang/contour-context)**
@@ -910,6 +913,7 @@
 
 ## NeRF
 
+- 2023-02-17, **MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2302.08788v1](http://arxiv.org/abs/2302.08788v1)
 - 2023-02-14, **VQ3D: Learning a 3D-Aware Generative Model on ImageNet**, Kyle Sargent et.al., Paper: [http://arxiv.org/abs/2302.06833v1](http://arxiv.org/abs/2302.06833v1)
 - 2023-02-13, **3D-aware Blending with Generative NeRFs**, Hyunsu Kim et.al., Paper: [http://arxiv.org/abs/2302.06608v1](http://arxiv.org/abs/2302.06608v1)
 - 2023-02-11, **3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**, Bo Li et.al., Paper: [http://arxiv.org/abs/2302.05573v1](http://arxiv.org/abs/2302.05573v1)
