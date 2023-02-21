@@ -357,6 +357,7 @@
 
 ## SFM
 
+- 2023-02-18, **Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**, Tatsuro Yamane et.al., Paper: [http://arxiv.org/abs/2302.09208v1](http://arxiv.org/abs/2302.09208v1)
 - 2023-02-12, **Uncertainty-Driven Dense Two-View Structure from Motion**, Weirong Chen et.al., Paper: [http://arxiv.org/abs/2302.00523v2](http://arxiv.org/abs/2302.00523v2)
 - 2023-01-28, **AdaSfM: From Coarse Global to Fine Incremental Adaptive Structure from Motion**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2301.12135v1](http://arxiv.org/abs/2301.12135v1)
 - 2023-01-20, **A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**, Zhefan Xu et.al., Paper: [http://arxiv.org/abs/2301.08422v1](http://arxiv.org/abs/2301.08422v1)
@@ -427,6 +428,9 @@
 
 ## Visual Localization
 
+- 2023-02-20, **iQPP: A Benchmark for Image Query Performance Prediction**, Eduard Poesina et.al., Paper: [http://arxiv.org/abs/2302.10126v1](http://arxiv.org/abs/2302.10126v1), Code: **[https://github.com/eduard6421/iqpp](https://github.com/eduard6421/iqpp)**
+- 2023-02-20, **Ontology-aware Network for Zero-shot Sketch-based Image Retrieval**, Haoxiang Zhang et.al., Paper: [http://arxiv.org/abs/2302.10040v1](http://arxiv.org/abs/2302.10040v1)
+- 2023-02-20, **TBPos: Dataset for Large-Scale Precision Visual Localization**, Masud Fahim et.al., Paper: [http://arxiv.org/abs/2302.09825v1](http://arxiv.org/abs/2302.09825v1)
 - 2023-02-17, **Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**, Zhihong Chen et.al., Paper: [http://arxiv.org/abs/2302.08958v1](http://arxiv.org/abs/2302.08958v1), Code: **[https://github.com/zhjohnchan/ptunifier](https://github.com/zhjohnchan/ptunifier)**
 - 2023-02-16, **Fashion Image Retrieval with Multi-Granular Alignment**, Jinkuan Zhu et.al., Paper: [http://arxiv.org/abs/2302.08902v1](http://arxiv.org/abs/2302.08902v1)
 - 2023-02-15, **Unsupervised Hashing via Similarity Distribution Calibration**, Kam Woh Ng et.al., Paper: [http://arxiv.org/abs/2302.07669v1](http://arxiv.org/abs/2302.07669v1)
@@ -822,6 +826,7 @@
 
 ## Image Matching
 
+- 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1)
 - 2023-02-10, **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2302.05094v1](http://arxiv.org/abs/2302.05094v1), Code: **[https://github.com/koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
@@ -913,6 +918,8 @@
 
 ## NeRF
 
+- 2023-02-20, **NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**, Jiatao Gu et.al., Paper: [http://arxiv.org/abs/2302.10109v1](http://arxiv.org/abs/2302.10109v1)
+- 2023-02-19, **LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**, Wenyang Zhou et.al., Paper: [http://arxiv.org/abs/2302.09486v1](http://arxiv.org/abs/2302.09486v1)
 - 2023-02-17, **MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2302.08788v1](http://arxiv.org/abs/2302.08788v1)
 - 2023-02-14, **VQ3D: Learning a 3D-Aware Generative Model on ImageNet**, Kyle Sargent et.al., Paper: [http://arxiv.org/abs/2302.06833v1](http://arxiv.org/abs/2302.06833v1)
 - 2023-02-13, **3D-aware Blending with Generative NeRFs**, Hyunsu Kim et.al., Paper: [http://arxiv.org/abs/2302.06608v1](http://arxiv.org/abs/2302.06608v1)
