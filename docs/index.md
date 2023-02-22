@@ -496,7 +496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-20**|**iQPP: A Benchmark for Image Query Performance Prediction**|Eduard Poesina et.al.|[2302.10126v1](http://arxiv.org/abs/2302.10126v1)|**[link](https://github.com/eduard6421/iqpp)**|
+|**2023-02-21**|**iQPP: A Benchmark for Image Query Performance Prediction**|Eduard Poesina et.al.|[2302.10126v2](http://arxiv.org/abs/2302.10126v2)|**[link](https://github.com/eduard6421/iqpp)**|
 |**2023-02-20**|**Ontology-aware Network for Zero-shot Sketch-based Image Retrieval**|Haoxiang Zhang et.al.|[2302.10040v1](http://arxiv.org/abs/2302.10040v1)|null|
 |**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
 |**2023-02-17**|**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**|Zhihong Chen et.al.|[2302.08958v1](http://arxiv.org/abs/2302.08958v1)|**[link](https://github.com/zhjohnchan/ptunifier)**|
