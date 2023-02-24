@@ -499,7 +499,7 @@
 |**2023-02-20**|**Ontology-aware Network for Zero-shot Sketch-based Image Retrieval**|Haoxiang Zhang et.al.|[2302.10040v1](http://arxiv.org/abs/2302.10040v1)|null|
 |**2023-02-20**|**TBPos: Dataset for Large-Scale Precision Visual Localization**|Masud Fahim et.al.|[2302.09825v1](http://arxiv.org/abs/2302.09825v1)|null|
 |**2023-02-17**|**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**|Zhihong Chen et.al.|[2302.08958v1](http://arxiv.org/abs/2302.08958v1)|**[link](https://github.com/zhjohnchan/ptunifier)**|
-|**2023-02-16**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902v1](http://arxiv.org/abs/2302.08902v1)|null|
+|**2023-02-22**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902v2](http://arxiv.org/abs/2302.08902v2)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669v1](http://arxiv.org/abs/2302.07669v1)|null|
 |**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287v1](http://arxiv.org/abs/2302.06287v1)|null|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149v1](http://arxiv.org/abs/2302.06149v1)|**[link](https://github.com/lewisjiang/contour-context)**|
