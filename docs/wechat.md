@@ -19,6 +19,12 @@
 
 ## SLAM
 
+- 2023-02-27, **Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**, Anton Koval et.al., Paper: [http://arxiv.org/abs/2302.13613v1](http://arxiv.org/abs/2302.13613v1)
+- 2023-02-27, **GeoLCR: Attention-based Geometric Loop Closure and Registration**, Jing Liang et.al., Paper: [http://arxiv.org/abs/2302.13509v1](http://arxiv.org/abs/2302.13509v1)
+- 2023-02-26, **Data-Association-Free Landmark-based SLAM**, Yihao Zhang et.al., Paper: [http://arxiv.org/abs/2302.13264v1](http://arxiv.org/abs/2302.13264v1)
+- 2023-02-26, **Autonomous Search of Semantic Objects in Unknown Environments**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2302.13236v1](http://arxiv.org/abs/2302.13236v1)
+- 2023-02-25, **Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**, Cedric Le Gentil et.al., Paper: [http://arxiv.org/abs/2302.13005v1](http://arxiv.org/abs/2302.13005v1)
+- 2023-02-25, **SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2302.12966v1](http://arxiv.org/abs/2302.12966v1)
 - 2023-02-24, **Decoupling Human and Camera Motion from Videos in the Wild**, Vickie Ye et.al., Paper: [http://arxiv.org/abs/2302.12827v1](http://arxiv.org/abs/2302.12827v1)
 - 2023-02-24, **FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**, Yelena Randall et.al., Paper: [http://arxiv.org/abs/2302.12772v1](http://arxiv.org/abs/2302.12772v1)
 - 2023-02-23, **Amos-SLAM: An Anti-Dynamics Two-stage SLAM Approach**, Yaoming Zhuang et.al., Paper: [http://arxiv.org/abs/2302.11747v1](http://arxiv.org/abs/2302.11747v1)
@@ -362,6 +368,7 @@
 
 ## SFM
 
+- 2023-02-27, **BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**, Sameera Ramasinghe et.al., Paper: [http://arxiv.org/abs/2302.13543v1](http://arxiv.org/abs/2302.13543v1)
 - 2023-02-21, **EC-SfM: Efficient Covisibility-based Structure-from-Motion for Both Sequential and Unordered Images**, Zhichao Ye et.al., Paper: [http://arxiv.org/abs/2302.10544v1](http://arxiv.org/abs/2302.10544v1), Code: **[https://github.com/openxrlab/xrsfm](https://github.com/openxrlab/xrsfm)**
 - 2023-02-18, **Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**, Tatsuro Yamane et.al., Paper: [http://arxiv.org/abs/2302.09208v1](http://arxiv.org/abs/2302.09208v1)
 - 2023-02-12, **Uncertainty-Driven Dense Two-View Structure from Motion**, Weirong Chen et.al., Paper: [http://arxiv.org/abs/2302.00523v2](http://arxiv.org/abs/2302.00523v2)
@@ -434,6 +441,10 @@
 
 ## Visual Localization
 
+- 2023-02-27, **Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**, Yue Xiang et.al., Paper: [http://arxiv.org/abs/2302.13929v1](http://arxiv.org/abs/2302.13929v1), Code: **[https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**
+- 2023-02-26, **Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**, Mihnea-Alexandru Tomita et.al., Paper: [http://arxiv.org/abs/2302.13314v1](http://arxiv.org/abs/2302.13314v1)
+- 2023-02-26, **Learning cross space mapping via DNN using large scale click-through logs**, Wei Yu et.al., Paper: [http://arxiv.org/abs/2302.13275v1](http://arxiv.org/abs/2302.13275v1)
+- 2023-02-25, **DeepBrainPrint: A Novel Contrastive Framework for Brain MRI Re-Identification**, Lemuel Puglisi et.al., Paper: [http://arxiv.org/abs/2302.13057v1](http://arxiv.org/abs/2302.13057v1)
 - 2023-02-23, **Teaching CLIP to Count to Ten**, Roni Paiss et.al., Paper: [http://arxiv.org/abs/2302.12066v1](http://arxiv.org/abs/2302.12066v1)
 - 2023-02-22, **Steerable Equivariant Representation Learning**, Sangnie Bhardwaj et.al., Paper: [http://arxiv.org/abs/2302.11349v1](http://arxiv.org/abs/2302.11349v1)
 - 2023-02-21, **iQPP: A Benchmark for Image Query Performance Prediction**, Eduard Poesina et.al., Paper: [http://arxiv.org/abs/2302.10126v2](http://arxiv.org/abs/2302.10126v2), Code: **[https://github.com/eduard6421/iqpp](https://github.com/eduard6421/iqpp)**
@@ -736,6 +747,7 @@
 
 ## Keypoint Detection
 
+- 2023-02-26, **PaRK-Detect: Towards Efficient Multi-Task Satellite Imagery Road Extraction via Patch-Wise Keypoints Detection**, Shenwei Xie et.al., Paper: [http://arxiv.org/abs/2302.13263v1](http://arxiv.org/abs/2302.13263v1)
 - 2023-02-24, **Hybrid machine-learned homogenization: Bayesian data mining and convolutional neural networks**, Julian Lißner et.al., Paper: [http://arxiv.org/abs/2302.12545v1](http://arxiv.org/abs/2302.12545v1)
 - 2023-02-21, **Deep Reinforcement Learning Based on Local GNN for Goal-conditioned Deformable Object Rearranging**, Yuhong Deng et.al., Paper: [http://arxiv.org/abs/2302.10446v1](http://arxiv.org/abs/2302.10446v1)
 - 2023-02-12, **A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**, Jingnan Shi et.al., Paper: [http://arxiv.org/abs/2302.06019v1](http://arxiv.org/abs/2302.06019v1)
@@ -836,6 +848,7 @@
 
 ## Image Matching
 
+- 2023-02-25, **BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**, Yulong Liu et.al., Paper: [http://arxiv.org/abs/2302.12971v1](http://arxiv.org/abs/2302.12971v1)
 - 2023-02-24, **Classification of structural building damage grades from multi-temporal photogrammetric point clouds using a machine learning model trained on virtual laser scanning data**, Vivien Zahs et.al., Paper: [http://arxiv.org/abs/2302.12591v1](http://arxiv.org/abs/2302.12591v1)
 - 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1)
 - 2023-02-10, **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2302.05094v1](http://arxiv.org/abs/2302.05094v1), Code: **[https://github.com/koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)**
@@ -929,6 +942,9 @@
 
 ## NeRF
 
+- 2023-02-27, **BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**, Sameera Ramasinghe et.al., Paper: [http://arxiv.org/abs/2302.13543v1](http://arxiv.org/abs/2302.13543v1)
+- 2023-02-26, **Efficient physics-informed neural networks using hash encoding**, Xinquan Huang et.al., Paper: [http://arxiv.org/abs/2302.13397v1](http://arxiv.org/abs/2302.13397v1)
+- 2023-02-24, **CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**, Timothy Chen et.al., Paper: [http://arxiv.org/abs/2302.12931v1](http://arxiv.org/abs/2302.12931v1)
 - 2023-02-24, **Learning Neural Volumetric Representations of Dynamic Humans in Minutes**, Chen Geng et.al., Paper: [http://arxiv.org/abs/2302.12237v2](http://arxiv.org/abs/2302.12237v2)
 - 2023-02-23, **DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**, Jamie Wynn et.al., Paper: [http://arxiv.org/abs/2302.12231v1](http://arxiv.org/abs/2302.12231v1)
 - 2023-02-20, **NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**, Jiatao Gu et.al., Paper: [http://arxiv.org/abs/2302.10109v1](http://arxiv.org/abs/2302.10109v1)
