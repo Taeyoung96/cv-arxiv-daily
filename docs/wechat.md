@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2023-02-27, **Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**, Anton Koval et.al., Paper: [http://arxiv.org/abs/2302.13613v1](http://arxiv.org/abs/2302.13613v1)
-- 2023-02-27, **GeoLCR: Attention-based Geometric Loop Closure and Registration**, Jing Liang et.al., Paper: [http://arxiv.org/abs/2302.13509v1](http://arxiv.org/abs/2302.13509v1)
+- 2023-02-28, **GeoLCR: Attention-based Geometric Loop Closure and Registration**, Jing Liang et.al., Paper: [http://arxiv.org/abs/2302.13509v2](http://arxiv.org/abs/2302.13509v2)
 - 2023-02-26, **Data-Association-Free Landmark-based SLAM**, Yihao Zhang et.al., Paper: [http://arxiv.org/abs/2302.13264v1](http://arxiv.org/abs/2302.13264v1)
 - 2023-02-26, **Autonomous Search of Semantic Objects in Unknown Environments**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2302.13236v1](http://arxiv.org/abs/2302.13236v1)
 - 2023-02-25, **Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**, Cedric Le Gentil et.al., Paper: [http://arxiv.org/abs/2302.13005v1](http://arxiv.org/abs/2302.13005v1)
