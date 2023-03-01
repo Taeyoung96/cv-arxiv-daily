@@ -19,12 +19,13 @@
 
 ## SLAM
 
+- 2023-02-28, **BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2302.14325v1](http://arxiv.org/abs/2302.14325v1)
 - 2023-02-27, **Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**, Anton Koval et.al., Paper: [http://arxiv.org/abs/2302.13613v1](http://arxiv.org/abs/2302.13613v1)
 - 2023-02-28, **GeoLCR: Attention-based Geometric Loop Closure and Registration**, Jing Liang et.al., Paper: [http://arxiv.org/abs/2302.13509v2](http://arxiv.org/abs/2302.13509v2)
 - 2023-02-26, **Data-Association-Free Landmark-based SLAM**, Yihao Zhang et.al., Paper: [http://arxiv.org/abs/2302.13264v1](http://arxiv.org/abs/2302.13264v1)
 - 2023-02-26, **Autonomous Search of Semantic Objects in Unknown Environments**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2302.13236v1](http://arxiv.org/abs/2302.13236v1)
 - 2023-02-25, **Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**, Cedric Le Gentil et.al., Paper: [http://arxiv.org/abs/2302.13005v1](http://arxiv.org/abs/2302.13005v1)
-- 2023-02-25, **SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2302.12966v1](http://arxiv.org/abs/2302.12966v1)
+- 2023-02-25, **SUPS: A Simulated Underground Parking Scenario Dataset for Autonomous Driving**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2302.12966v1](http://arxiv.org/abs/2302.12966v1), Code: **[https://github.com/jarvishou829/sups](https://github.com/jarvishou829/sups)**
 - 2023-02-24, **Decoupling Human and Camera Motion from Videos in the Wild**, Vickie Ye et.al., Paper: [http://arxiv.org/abs/2302.12827v1](http://arxiv.org/abs/2302.12827v1)
 - 2023-02-24, **FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**, Yelena Randall et.al., Paper: [http://arxiv.org/abs/2302.12772v1](http://arxiv.org/abs/2302.12772v1)
 - 2023-02-23, **Amos-SLAM: An Anti-Dynamics Two-stage SLAM Approach**, Yaoming Zhuang et.al., Paper: [http://arxiv.org/abs/2302.11747v1](http://arxiv.org/abs/2302.11747v1)
@@ -368,6 +369,7 @@
 
 ## SFM
 
+- 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
 - 2023-02-27, **BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**, Sameera Ramasinghe et.al., Paper: [http://arxiv.org/abs/2302.13543v1](http://arxiv.org/abs/2302.13543v1)
 - 2023-02-21, **EC-SfM: Efficient Covisibility-based Structure-from-Motion for Both Sequential and Unordered Images**, Zhichao Ye et.al., Paper: [http://arxiv.org/abs/2302.10544v1](http://arxiv.org/abs/2302.10544v1), Code: **[https://github.com/openxrlab/xrsfm](https://github.com/openxrlab/xrsfm)**
 - 2023-02-18, **Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**, Tatsuro Yamane et.al., Paper: [http://arxiv.org/abs/2302.09208v1](http://arxiv.org/abs/2302.09208v1)
@@ -441,6 +443,8 @@
 
 ## Visual Localization
 
+- 2023-02-28, **OEKG: The Open Event Knowledge Graph**, Simon Gottschalk et.al., Paper: [http://arxiv.org/abs/2302.14688v1](http://arxiv.org/abs/2302.14688v1)
+- 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
 - 2023-02-27, **Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**, Yue Xiang et.al., Paper: [http://arxiv.org/abs/2302.13929v1](http://arxiv.org/abs/2302.13929v1), Code: **[https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**
 - 2023-02-26, **Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**, Mihnea-Alexandru Tomita et.al., Paper: [http://arxiv.org/abs/2302.13314v1](http://arxiv.org/abs/2302.13314v1)
 - 2023-02-26, **Learning cross space mapping via DNN using large scale click-through logs**, Wei Yu et.al., Paper: [http://arxiv.org/abs/2302.13275v1](http://arxiv.org/abs/2302.13275v1)
@@ -848,6 +852,7 @@
 
 ## Image Matching
 
+- 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
 - 2023-02-25, **BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**, Yulong Liu et.al., Paper: [http://arxiv.org/abs/2302.12971v1](http://arxiv.org/abs/2302.12971v1)
 - 2023-02-24, **Classification of structural building damage grades from multi-temporal photogrammetric point clouds using a machine learning model trained on virtual laser scanning data**, Vivien Zahs et.al., Paper: [http://arxiv.org/abs/2302.12591v1](http://arxiv.org/abs/2302.12591v1)
 - 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1)
@@ -942,6 +947,7 @@
 
 ## NeRF
 
+- 2023-02-28, **IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**, Bo Peng et.al., Paper: [http://arxiv.org/abs/2302.14683v1](http://arxiv.org/abs/2302.14683v1)
 - 2023-02-27, **BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**, Sameera Ramasinghe et.al., Paper: [http://arxiv.org/abs/2302.13543v1](http://arxiv.org/abs/2302.13543v1)
 - 2023-02-26, **Efficient physics-informed neural networks using hash encoding**, Xinquan Huang et.al., Paper: [http://arxiv.org/abs/2302.13397v1](http://arxiv.org/abs/2302.13397v1)
 - 2023-02-24, **CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**, Timothy Chen et.al., Paper: [http://arxiv.org/abs/2302.12931v1](http://arxiv.org/abs/2302.12931v1)
