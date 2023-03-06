@@ -449,7 +449,7 @@
 
 - 2023-03-01, **A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**, Maria Waheed et.al., Paper: [http://arxiv.org/abs/2303.00714v1](http://arxiv.org/abs/2303.00714v1)
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
-- 2023-03-01, **Renderable Neural Radiance Map for Visual Navigation**, Obin Kwon et.al., Paper: [http://arxiv.org/abs/2303.00304v1](http://arxiv.org/abs/2303.00304v1)
+- 2023-03-03, **Renderable Neural Radiance Map for Visual Navigation**, Obin Kwon et.al., Paper: [http://arxiv.org/abs/2303.00304v2](http://arxiv.org/abs/2303.00304v2)
 - 2023-03-01, **Region Prediction for Efficient Robot Localization on Large Maps**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2303.00295v1](http://arxiv.org/abs/2303.00295v1)
 - 2023-02-28, **OEKG: The Open Event Knowledge Graph**, Simon Gottschalk et.al., Paper: [http://arxiv.org/abs/2302.14688v1](http://arxiv.org/abs/2302.14688v1)
 - 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
