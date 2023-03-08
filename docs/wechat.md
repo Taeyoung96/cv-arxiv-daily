@@ -452,6 +452,8 @@
 
 ## Visual Localization
 
+- 2023-03-07, **Graph Neural Networks in Vision-Language Image Understanding: A Survey**, Henry Senior et.al., Paper: [http://arxiv.org/abs/2303.03761v1](http://arxiv.org/abs/2303.03761v1)
+- 2023-03-07, **Sketch-based Medical Image Retrieval**, Kazuma Kobayashi et.al., Paper: [http://arxiv.org/abs/2303.03633v1](http://arxiv.org/abs/2303.03633v1)
 - 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
 - 2023-03-06, **MABNet: Master Assistant Buddy Network with Hybrid Learning for Image Retrieval**, Rohit Agarwal et.al., Paper: [http://arxiv.org/abs/2303.03050v1](http://arxiv.org/abs/2303.03050v1), Code: **[https://github.com/rohit102497/mabnet](https://github.com/rohit102497/mabnet)**
 - 2023-03-06, **Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**, Chenjie Cao et.al., Paper: [http://arxiv.org/abs/2303.02885v1](http://arxiv.org/abs/2303.02885v1)
@@ -771,6 +773,7 @@
 
 ## Keypoint Detection
 
+- 2023-03-07, **External Camera-based Mobile Robot Pose Estimation for Collaborative Perception with Smart Edge Sensors**, Simon Bultmann et.al., Paper: [http://arxiv.org/abs/2303.03797v1](http://arxiv.org/abs/2303.03797v1)
 - 2023-02-26, **PaRK-Detect: Towards Efficient Multi-Task Satellite Imagery Road Extraction via Patch-Wise Keypoints Detection**, Shenwei Xie et.al., Paper: [http://arxiv.org/abs/2302.13263v1](http://arxiv.org/abs/2302.13263v1)
 - 2023-02-24, **Hybrid machine-learned homogenization: Bayesian data mining and convolutional neural networks**, Julian Lißner et.al., Paper: [http://arxiv.org/abs/2302.12545v1](http://arxiv.org/abs/2302.12545v1)
 - 2023-02-21, **Deep Reinforcement Learning Based on Local GNN for Goal-conditioned Deformable Object Rearranging**, Yuhong Deng et.al., Paper: [http://arxiv.org/abs/2302.10446v1](http://arxiv.org/abs/2302.10446v1)
@@ -970,6 +973,9 @@
 
 ## NeRF
 
+- 2023-03-07, **NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**, Haimin Luo et.al., Paper: [http://arxiv.org/abs/2303.04086v1](http://arxiv.org/abs/2303.04086v1)
+- 2023-03-05, **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**, Jaewon Lee et.al., Paper: [http://arxiv.org/abs/2303.03966v1](http://arxiv.org/abs/2303.03966v1)
+- 2023-03-07, **Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**, Kang Han et.al., Paper: [http://arxiv.org/abs/2303.03808v1](http://arxiv.org/abs/2303.03808v1)
 - 2023-03-06, **Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervisio**, Xiaoshuai Zhang et.al., Paper: [http://arxiv.org/abs/2303.03361v1](http://arxiv.org/abs/2303.03361v1)
 - 2023-03-07, **Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03003v2](http://arxiv.org/abs/2303.03003v2)
 - 2023-03-03, **Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2303.02091v1](http://arxiv.org/abs/2303.02091v1)
