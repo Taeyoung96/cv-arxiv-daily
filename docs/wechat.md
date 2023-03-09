@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-03-08, **kollagen: A Collaborative SLAM Pose Graph Generator**, Roberto C. Sundin et.al., Paper: [http://arxiv.org/abs/2303.04753v1](http://arxiv.org/abs/2303.04753v1)
+- 2023-03-08, **A Graph-based Optimization Framework for Hand-Eye Calibration for Multi-Camera Setups**, Daniele Evangelista et.al., Paper: [http://arxiv.org/abs/2303.04747v1](http://arxiv.org/abs/2303.04747v1)
+- 2023-03-08, **GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**, Elia Bonetto et.al., Paper: [http://arxiv.org/abs/2303.04466v1](http://arxiv.org/abs/2303.04466v1), Code: **[https://github.com/eliabntt/GRADE-RR](https://github.com/eliabntt/GRADE-RR)**
 - 2023-03-06, **A System for Generalized 3D Multi-Object Search**, Kaiyu Zheng et.al., Paper: [http://arxiv.org/abs/2303.03178v1](http://arxiv.org/abs/2303.03178v1), Code: **[https://github.com/zkytony/genmos_object_search](https://github.com/zkytony/genmos_object_search)**
 - 2023-03-05, **Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**, Li Qingqing et.al., Paper: [http://arxiv.org/abs/2303.02684v1](http://arxiv.org/abs/2303.02684v1), Code: **[https://github.com/tiers/multi-modal-loam](https://github.com/tiers/multi-modal-loam)**
 - 2023-03-05, **Millimeter Wave Wireless Communication Assisted Three-Dimensional Simultaneous Localization and Mapping**, Zhiyu Mou et.al., Paper: [http://arxiv.org/abs/2303.02617v1](http://arxiv.org/abs/2303.02617v1)
@@ -973,6 +976,8 @@
 
 ## NeRF
 
+- 2023-03-08, **FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**, Seunghwan Lee et.al., Paper: [http://arxiv.org/abs/2303.04508v1](http://arxiv.org/abs/2303.04508v1)
+- 2023-03-08, **DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**, Dipam Patel et.al., Paper: [http://arxiv.org/abs/2303.04322v1](http://arxiv.org/abs/2303.04322v1)
 - 2023-03-07, **NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**, Haimin Luo et.al., Paper: [http://arxiv.org/abs/2303.04086v1](http://arxiv.org/abs/2303.04086v1)
 - 2023-03-05, **Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**, Jaewon Lee et.al., Paper: [http://arxiv.org/abs/2303.03966v1](http://arxiv.org/abs/2303.03966v1)
 - 2023-03-07, **Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**, Kang Han et.al., Paper: [http://arxiv.org/abs/2303.03808v1](http://arxiv.org/abs/2303.03808v1)
