@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-03-13, **NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**, Jiahui Fu et.al., Paper: [http://arxiv.org/abs/2303.07308v1](http://arxiv.org/abs/2303.07308v1)
+- 2023-03-11, **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**, Kyeongsu Kang et.al., Paper: [http://arxiv.org/abs/2303.06308v1](http://arxiv.org/abs/2303.06308v1)
+- 2023-03-10, **Mobile Robot Control and Autonomy Through Collaborative Simulation Twin**, Nazish Tahir et.al., Paper: [http://arxiv.org/abs/2303.06172v1](http://arxiv.org/abs/2303.06172v1)
 - 2023-03-10, **Monocular Simultaneous Localization and Mapping using Ground Textures**, Kyle M. Hart et.al., Paper: [http://arxiv.org/abs/2303.05946v1](http://arxiv.org/abs/2303.05946v1), Code: **[https://github.com/navy-rise-lab/ground-texture-slam](https://github.com/navy-rise-lab/ground-texture-slam)**
 - 2023-03-09, **SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**, Jianyuan Ruan et.al., Paper: [http://arxiv.org/abs/2303.05252v1](http://arxiv.org/abs/2303.05252v1), Code: **[https://github.com/lab-sun/slamesh](https://github.com/lab-sun/slamesh)**
 - 2023-03-09, **EVOLIN Benchmark: Evaluation of Line Detection and Association**, Kirill Ivanov et.al., Paper: [http://arxiv.org/abs/2303.05162v1](http://arxiv.org/abs/2303.05162v1), Code: **[https://github.com/prime-slam/evolin](https://github.com/prime-slam/evolin)**
@@ -983,6 +986,9 @@
 
 ## NeRF
 
+- 2023-03-13, **NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**, Kun Zhou et.al., Paper: [http://arxiv.org/abs/2303.06919v1](http://arxiv.org/abs/2303.06919v1)
+- 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1)
+- 2023-03-10, **NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**, Wojciech Zając et.al., Paper: [http://arxiv.org/abs/2303.06226v1](http://arxiv.org/abs/2303.06226v1)
 - 2023-03-10, **You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**, Jaehyeok Kim et.al., Paper: [http://arxiv.org/abs/2303.05835v1](http://arxiv.org/abs/2303.05835v1)
 - 2023-03-10, **Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2303.05807v1](http://arxiv.org/abs/2303.05807v1)
 - 2023-03-10, **Self-NeRF: A Self-Training Pipeline for Few-Shot Neural Radiance Fields**, Jiayang Bai et.al., Paper: [http://arxiv.org/abs/2303.05775v1](http://arxiv.org/abs/2303.05775v1)
