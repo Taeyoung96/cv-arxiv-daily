@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-03-13, **Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types**, Taekbeom Lee et.al., Paper: [http://arxiv.org/abs/2303.07872v1](http://arxiv.org/abs/2303.07872v1)
 - 2023-03-13, **NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects**, Jiahui Fu et.al., Paper: [http://arxiv.org/abs/2303.07308v1](http://arxiv.org/abs/2303.07308v1)
 - 2023-03-11, **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**, Kyeongsu Kang et.al., Paper: [http://arxiv.org/abs/2303.06308v1](http://arxiv.org/abs/2303.06308v1)
 - 2023-03-10, **Mobile Robot Control and Autonomy Through Collaborative Simulation Twin**, Nazish Tahir et.al., Paper: [http://arxiv.org/abs/2303.06172v1](http://arxiv.org/abs/2303.06172v1)
@@ -462,6 +463,8 @@
 
 ## Visual Localization
 
+- 2023-03-14, **Data-Free Sketch-Based Image Retrieval**, Abhra Chaudhuri et.al., Paper: [http://arxiv.org/abs/2303.07775v1](http://arxiv.org/abs/2303.07775v1)
+- 2023-03-14, **PATS: Patch Area Transportation with Subdivision for Local Feature Matching**, Junjie Ni et.al., Paper: [http://arxiv.org/abs/2303.07700v1](http://arxiv.org/abs/2303.07700v1)
 - 2023-03-10, **Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**, Kento Kawaharazuka et.al., Paper: [http://arxiv.org/abs/2303.05674v1](http://arxiv.org/abs/2303.05674v1)
 - 2023-03-09, **Dominating Set Database Selection for Visual Place Recognition**, Anastasiia Kornilova et.al., Paper: [http://arxiv.org/abs/2303.05123v1](http://arxiv.org/abs/2303.05123v1)
 - 2023-03-07, **Graph Neural Networks in Vision-Language Image Understanding: A Survey**, Henry Senior et.al., Paper: [http://arxiv.org/abs/2303.03761v1](http://arxiv.org/abs/2303.03761v1)
@@ -986,6 +989,11 @@
 
 ## NeRF
 
+- 2023-03-14, **MELON: NeRF with Unposed Images Using Equivalence Class Estimation**, Axel Levy et.al., Paper: [http://arxiv.org/abs/2303.08096v1](http://arxiv.org/abs/2303.08096v1)
+- 2023-03-14, **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**, Junyoung Seo et.al., Paper: [http://arxiv.org/abs/2303.07937v1](http://arxiv.org/abs/2303.07937v1)
+- 2023-03-14, **NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**, Yunfan Ye et.al., Paper: [http://arxiv.org/abs/2303.07653v1](http://arxiv.org/abs/2303.07653v1)
+- 2023-03-14, **Frequency-Modulated Point Cloud Rendering with Easy Editing**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2303.07596v1](http://arxiv.org/abs/2303.07596v1)
+- 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
 - 2023-03-13, **NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**, Kun Zhou et.al., Paper: [http://arxiv.org/abs/2303.06919v1](http://arxiv.org/abs/2303.06919v1)
 - 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
 - 2023-03-10, **NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**, Wojciech Zając et.al., Paper: [http://arxiv.org/abs/2303.06226v1](http://arxiv.org/abs/2303.06226v1), Code: **[https://github.com/wojtekz4/nerflame](https://github.com/wojtekz4/nerflame)**
