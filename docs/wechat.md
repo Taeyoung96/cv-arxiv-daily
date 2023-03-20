@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-03-17, **LP-SLAM: Language-Perceptive RGB-D SLAM system based on Large Language Model**, Weiyi Zhang et.al., Paper: [http://arxiv.org/abs/2303.10089v1](http://arxiv.org/abs/2303.10089v1)
 - 2023-03-15, **Descriptor Distillation for Efficient Multi-Robot SLAM**, Xiyue Guo et.al., Paper: [http://arxiv.org/abs/2303.08420v1](http://arxiv.org/abs/2303.08420v1)
 - 2023-03-15, **Atmospheric parameters and kinematic information for the M giants stars from LAMOST DR9**, Dan Qiu et.al., Paper: [http://arxiv.org/abs/2303.08344v1](http://arxiv.org/abs/2303.08344v1)
 - 2023-03-13, **Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types**, Taekbeom Lee et.al., Paper: [http://arxiv.org/abs/2303.07872v1](http://arxiv.org/abs/2303.07872v1)
@@ -466,6 +467,7 @@
 
 ## Visual Localization
 
+- 2023-03-17, **IRGen: Generative Modeling for Image Retrieval**, Yidan Zhang et.al., Paper: [http://arxiv.org/abs/2303.10126v1](http://arxiv.org/abs/2303.10126v1)
 - 2023-03-16, **Data Roaming and Early Fusion for Composed Image Retrieval**, Matan Levy et.al., Paper: [http://arxiv.org/abs/2303.09429v1](http://arxiv.org/abs/2303.09429v1)
 - 2023-03-16, **Towards a Smaller Student: Capacity Dynamic Distillation for Efficient Image Retrieval**, Yi Xie et.al., Paper: [http://arxiv.org/abs/2303.09230v1](http://arxiv.org/abs/2303.09230v1)
 - 2023-03-16, **Metric-Free Exploration for Topological Mapping by Task and Motion Imitation in Feature Space**, Yuhang He et.al., Paper: [http://arxiv.org/abs/2303.09192v1](http://arxiv.org/abs/2303.09192v1)
@@ -796,6 +798,7 @@
 
 ## Keypoint Detection
 
+- 2023-03-17, **ShaRPy: Shape Reconstruction and Hand Pose Estimation from RGB-D with Uncertainty**, Vanessa Wirth et.al., Paper: [http://arxiv.org/abs/2303.10042v1](http://arxiv.org/abs/2303.10042v1)
 - 2023-03-15, **Descriptor Distillation for Efficient Multi-Robot SLAM**, Xiyue Guo et.al., Paper: [http://arxiv.org/abs/2303.08420v1](http://arxiv.org/abs/2303.08420v1)
 - 2023-03-15, **From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**, Zhuo Su et.al., Paper: [http://arxiv.org/abs/2303.08414v1](http://arxiv.org/abs/2303.08414v1)
 - 2023-03-16, **KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**, Yiye Chen et.al., Paper: [http://arxiv.org/abs/2303.05617v2](http://arxiv.org/abs/2303.05617v2)
@@ -1000,6 +1003,8 @@
 
 ## NeRF
 
+- 2023-03-17, **$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**, Tianhao Wu et.al., Paper: [http://arxiv.org/abs/2303.10083v1](http://arxiv.org/abs/2303.10083v1)
+- 2023-03-17, **Single-view Neural Radiance Fields with Depth Teacher**, Yurui Chen et.al., Paper: [http://arxiv.org/abs/2303.09952v1](http://arxiv.org/abs/2303.09952v1)
 - 2023-03-16, **PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**, Konstantinos Tertikas et.al., Paper: [http://arxiv.org/abs/2303.09554v1](http://arxiv.org/abs/2303.09554v1)
 - 2023-03-16, **LERF: Language Embedded Radiance Fields**, Justin Kerr et.al., Paper: [http://arxiv.org/abs/2303.09553v1](http://arxiv.org/abs/2303.09553v1)
 - 2023-03-16, **NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**, Marie-Julie Rakotosaona et.al., Paper: [http://arxiv.org/abs/2303.09431v1](http://arxiv.org/abs/2303.09431v1)
