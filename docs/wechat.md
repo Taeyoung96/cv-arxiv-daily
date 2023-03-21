@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-03-20, **Dynamic Object Removal for Effective Slam**, Phani Krishna Uppala et.al., Paper: [http://arxiv.org/abs/2303.10923v1](http://arxiv.org/abs/2303.10923v1)
+- 2023-03-20, **VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**, Thien Hoang Nguyen et.al., Paper: [http://arxiv.org/abs/2303.10903v1](http://arxiv.org/abs/2303.10903v1)
 - 2023-03-17, **LP-SLAM: Language-Perceptive RGB-D SLAM system based on Large Language Model**, Weiyi Zhang et.al., Paper: [http://arxiv.org/abs/2303.10089v1](http://arxiv.org/abs/2303.10089v1)
 - 2023-03-15, **Descriptor Distillation for Efficient Multi-Robot SLAM**, Xiyue Guo et.al., Paper: [http://arxiv.org/abs/2303.08420v1](http://arxiv.org/abs/2303.08420v1)
 - 2023-03-15, **Atmospheric parameters and kinematic information for the M giants stars from LAMOST DR9**, Dan Qiu et.al., Paper: [http://arxiv.org/abs/2303.08344v1](http://arxiv.org/abs/2303.08344v1)
@@ -467,6 +469,9 @@
 
 ## Visual Localization
 
+- 2023-03-20, **Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2303.11162v1](http://arxiv.org/abs/2303.11162v1)
+- 2023-03-19, **Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2303.10778v1](http://arxiv.org/abs/2303.10778v1)
+- 2023-03-17, **MRIS: A Multi-modal Retrieval Approach for Image Synthesis on Diverse Modalities**, Boqi Chen et.al., Paper: [http://arxiv.org/abs/2303.10249v1](http://arxiv.org/abs/2303.10249v1)
 - 2023-03-17, **IRGen: Generative Modeling for Image Retrieval**, Yidan Zhang et.al., Paper: [http://arxiv.org/abs/2303.10126v1](http://arxiv.org/abs/2303.10126v1)
 - 2023-03-16, **Data Roaming and Early Fusion for Composed Image Retrieval**, Matan Levy et.al., Paper: [http://arxiv.org/abs/2303.09429v1](http://arxiv.org/abs/2303.09429v1)
 - 2023-03-16, **Towards a Smaller Student: Capacity Dynamic Distillation for Efficient Image Retrieval**, Yi Xie et.al., Paper: [http://arxiv.org/abs/2303.09230v1](http://arxiv.org/abs/2303.09230v1)
@@ -798,6 +803,7 @@
 
 ## Keypoint Detection
 
+- 2023-03-19, **RetinaNet: Reservoir-Enabled Time Integrated Attention Network for Event-based Video Processing**, Sangmin Yoo et.al., Paper: [http://arxiv.org/abs/2303.10770v1](http://arxiv.org/abs/2303.10770v1)
 - 2023-03-17, **ShaRPy: Shape Reconstruction and Hand Pose Estimation from RGB-D with Uncertainty**, Vanessa Wirth et.al., Paper: [http://arxiv.org/abs/2303.10042v1](http://arxiv.org/abs/2303.10042v1)
 - 2023-03-15, **Descriptor Distillation for Efficient Multi-Robot SLAM**, Xiyue Guo et.al., Paper: [http://arxiv.org/abs/2303.08420v1](http://arxiv.org/abs/2303.08420v1)
 - 2023-03-15, **From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**, Zhuo Su et.al., Paper: [http://arxiv.org/abs/2303.08414v1](http://arxiv.org/abs/2303.08414v1)
@@ -1003,6 +1009,10 @@
 
 ## NeRF
 
+- 2023-03-20, **ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**, Hao Yang et.al., Paper: [http://arxiv.org/abs/2303.11052v1](http://arxiv.org/abs/2303.11052v1)
+- 2023-03-19, **SKED: Sketch-guided Text-based 3D Editing**, Aryan Mikaeili et.al., Paper: [http://arxiv.org/abs/2303.10735v1](http://arxiv.org/abs/2303.10735v1)
+- 2023-03-19, **NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**, Junyuan Deng et.al., Paper: [http://arxiv.org/abs/2303.10709v1](http://arxiv.org/abs/2303.10709v1), Code: **[https://github.com/junyuandeng/nerf-loam](https://github.com/junyuandeng/nerf-loam)**
+- 2023-03-18, **3D Data Augmentation for Driving Scenes on Camera**, Wenwen Tong et.al., Paper: [http://arxiv.org/abs/2303.10340v1](http://arxiv.org/abs/2303.10340v1)
 - 2023-03-17, **$α$Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**, Tianhao Wu et.al., Paper: [http://arxiv.org/abs/2303.10083v1](http://arxiv.org/abs/2303.10083v1)
 - 2023-03-17, **Single-view Neural Radiance Fields with Depth Teacher**, Yurui Chen et.al., Paper: [http://arxiv.org/abs/2303.09952v1](http://arxiv.org/abs/2303.09952v1)
 - 2023-03-20, **PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**, Konstantinos Tertikas et.al., Paper: [http://arxiv.org/abs/2303.09554v2](http://arxiv.org/abs/2303.09554v2)
