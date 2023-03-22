@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**The SLAM Hive Benchmarking Suite**|Yuanyuan Yang et.al.|[2303.11854v1](http://arxiv.org/abs/2303.11854v1)|null|
 |**2023-03-20**|**Dynamic Object Removal for Effective Slam**|Phani Krishna Uppala et.al.|[2303.10923v1](http://arxiv.org/abs/2303.10923v1)|null|
 |**2023-03-20**|**VR-SLAM: A Visual-Range Simultaneous Localization and Mapping System using Monocular Camera and Ultra-wideband Sensors**|Thien Hoang Nguyen et.al.|[2303.10903v1](http://arxiv.org/abs/2303.10903v1)|null|
 |**2023-03-17**|**LP-SLAM: Language-Perceptive RGB-D SLAM system based on Large Language Model**|Weiyi Zhang et.al.|[2303.10089v1](http://arxiv.org/abs/2303.10089v1)|null|
@@ -533,8 +534,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**|Geonmo Gu et.al.|[2303.11916v1](http://arxiv.org/abs/2303.11916v1)|null|
+|**2023-03-21**|**LIMITR: Leveraging Local Information for Medical Image-Text Representation**|Gefen Dawidowicz et.al.|[2303.11755v1](http://arxiv.org/abs/2303.11755v1)|null|
+|**2023-03-21**|**Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**|Maria Leyva-Vallina et.al.|[2303.11739v1](http://arxiv.org/abs/2303.11739v1)|**[link](https://github.com/marialeyvallina/generalized_contrastive_loss)**|
 |**2023-03-20**|**Picture that Sketch: Photorealistic Image Generation from Abstract Sketches**|Subhadeep Koley et.al.|[2303.11162v1](http://arxiv.org/abs/2303.11162v1)|null|
-|**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778v1](http://arxiv.org/abs/2303.10778v1)|null|
+|**2023-03-19**|**Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**|Ming Xu et.al.|[2303.10778v1](http://arxiv.org/abs/2303.10778v1)|**[link](https://github.com/mingu6/declarativedtw)**|
 |**2023-03-17**|**MRIS: A Multi-modal Retrieval Approach for Image Synthesis on Diverse Modalities**|Boqi Chen et.al.|[2303.10249v1](http://arxiv.org/abs/2303.10249v1)|null|
 |**2023-03-17**|**IRGen: Generative Modeling for Image Retrieval**|Yidan Zhang et.al.|[2303.10126v1](http://arxiv.org/abs/2303.10126v1)|null|
 |**2023-03-16**|**Data Roaming and Early Fusion for Composed Image Retrieval**|Matan Levy et.al.|[2303.09429v1](http://arxiv.org/abs/2303.09429v1)|null|
@@ -1118,6 +1122,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
+|**2023-03-21**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v1](http://arxiv.org/abs/2303.11728v1)|null|
+|**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
 |**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
 |**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|**[link](https://github.com/junyuandeng/nerf-loam)**|
