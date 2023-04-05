@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-04-04, **A Fully-automatic Side-scan Sonar SLAM Framework**, Jun Zhang et.al., Paper: [http://arxiv.org/abs/2304.01854v1](http://arxiv.org/abs/2304.01854v1)
+- 2023-04-04, **Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**, Emilien Flayac et.al., Paper: [http://arxiv.org/abs/2304.01613v1](http://arxiv.org/abs/2304.01613v1)
 - 2023-04-03, **Eigen-Factors an Alternating Optimization for Back-end Plane SLAM of 3D Point Clouds**, Gonzalo Ferrer et.al., Paper: [http://arxiv.org/abs/2304.01055v1](http://arxiv.org/abs/2304.01055v1), Code: **[https://github.com/prime-slam/ef-plane-slam](https://github.com/prime-slam/ef-plane-slam)**
 - 2023-03-31, **LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**, Noah Stier et.al., Paper: [http://arxiv.org/abs/2304.00054v1](http://arxiv.org/abs/2304.00054v1)
 - 2023-03-31, **Knowledge Distillation for Feature Extraction in Underwater VSLAM**, Jinghe Yang et.al., Paper: [http://arxiv.org/abs/2303.17981v1](http://arxiv.org/abs/2303.17981v1), Code: **[https://github.com/jinghe-mel/ufen-slam](https://github.com/jinghe-mel/ufen-slam)**
@@ -488,6 +490,8 @@
 
 ## Visual Localization
 
+- 2023-04-04, **OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**, Paul-Edouard Sarlin et.al., Paper: [http://arxiv.org/abs/2304.02009v1](http://arxiv.org/abs/2304.02009v1)
+- 2023-04-04, **Cross-Domain Image Captioning with Discriminative Finetuning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2304.01662v1](http://arxiv.org/abs/2304.01662v1)
 - 2023-04-02, **Learning Similarity between Scene Graphs and Images with Transformers**, Yuren Cong et.al., Paper: [http://arxiv.org/abs/2304.00590v1](http://arxiv.org/abs/2304.00590v1)
 - 2023-04-01, **NPR: Nocturnal Place Recognition in Street**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2304.00276v1](http://arxiv.org/abs/2304.00276v1)
 - 2023-03-31, **Unsupervised crack detection on complex stone masonry surfaces**, Panagiotis Agrafiotis et.al., Paper: [http://arxiv.org/abs/2303.17989v1](http://arxiv.org/abs/2303.17989v1)
@@ -956,6 +960,8 @@
 
 ## Image Matching
 
+- 2023-04-04, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v1](http://arxiv.org/abs/2304.02008v1), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
+- 2023-04-03, **PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**, Pedro Castro et.al., Paper: [http://arxiv.org/abs/2304.01382v1](http://arxiv.org/abs/2304.01382v1)
 - 2023-04-02, **Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**, Guilherme Potje et.al., Paper: [http://arxiv.org/abs/2304.00583v1](http://arxiv.org/abs/2304.00583v1)
 - 2023-03-28, **ASIC: Aligning Sparse in-the-wild Image Collections**, Kamal Gupta et.al., Paper: [http://arxiv.org/abs/2303.16201v1](http://arxiv.org/abs/2303.16201v1)
 - 2023-03-25, **Learning Rotation-Equivariant Features for Visual Correspondence**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2303.15472v1](http://arxiv.org/abs/2303.15472v1)
@@ -1060,6 +1066,7 @@
 
 ## NeRF
 
+- 2023-04-04, **MonoHuman: Animatable Human Neural Field from Monocular Video**, Zhengming Yu et.al., Paper: [http://arxiv.org/abs/2304.02001v1](http://arxiv.org/abs/2304.02001v1)
 - 2023-04-03, **DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2304.00916v1](http://arxiv.org/abs/2304.00916v1)
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
 - 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1)
