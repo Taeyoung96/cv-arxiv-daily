@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.04.06
+> Updated on 2023.04.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -404,7 +404,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## SFM
 
@@ -487,13 +487,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2023-04-05, **LogoNet: a fine-grained network for instance-level logo sketch retrieval**, Binbin Feng et.al., Paper: [http://arxiv.org/abs/2304.02214v1](http://arxiv.org/abs/2304.02214v1)
 - 2023-04-04, **OrienterNet: Visual Localization in 2D Public Maps with Neural Matching**, Paul-Edouard Sarlin et.al., Paper: [http://arxiv.org/abs/2304.02009v1](http://arxiv.org/abs/2304.02009v1)
-- 2023-04-04, **Cross-Domain Image Captioning with Discriminative Finetuning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2304.01662v1](http://arxiv.org/abs/2304.01662v1)
+- 2023-04-04, **Cross-Domain Image Captioning with Discriminative Finetuning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2304.01662v1](http://arxiv.org/abs/2304.01662v1), Code: **[https://github.com/facebookresearch/EGG](https://github.com/facebookresearch/EGG)**
 - 2023-04-02, **Learning Similarity between Scene Graphs and Images with Transformers**, Yuren Cong et.al., Paper: [http://arxiv.org/abs/2304.00590v1](http://arxiv.org/abs/2304.00590v1)
 - 2023-04-01, **NPR: Nocturnal Place Recognition in Street**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2304.00276v1](http://arxiv.org/abs/2304.00276v1)
 - 2023-03-31, **Unsupervised crack detection on complex stone masonry surfaces**, Panagiotis Agrafiotis et.al., Paper: [http://arxiv.org/abs/2303.17989v1](http://arxiv.org/abs/2303.17989v1)
@@ -847,7 +847,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -958,7 +958,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1064,13 +1064,13 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## NeRF
 
 - 2023-04-04, **Generating Continual Human Motion in Diverse 3D Scenes**, Aymen Mir et.al., Paper: [http://arxiv.org/abs/2304.02061v1](http://arxiv.org/abs/2304.02061v1)
 - 2023-04-04, **MonoHuman: Animatable Human Neural Field from Monocular Video**, Zhengming Yu et.al., Paper: [http://arxiv.org/abs/2304.02001v1](http://arxiv.org/abs/2304.02001v1)
-- 2023-04-03, **DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2304.00916v1](http://arxiv.org/abs/2304.00916v1)
+- 2023-04-06, **DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2304.00916v2](http://arxiv.org/abs/2304.00916v2)
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
 - 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1)
 - 2023-03-30, **NeRF-Supervised Deep Stereo**, Fabio Tosi et.al., Paper: [http://arxiv.org/abs/2303.17603v1](http://arxiv.org/abs/2303.17603v1), Code: **[https://github.com/fabiotosi92/nerf-supervised-deep-stereo](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**
@@ -1349,7 +1349,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
