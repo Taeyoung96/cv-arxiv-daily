@@ -409,6 +409,7 @@
 
 ## SFM
 
+- 2023-04-07, **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**, Antyanta Bangunharcana et.al., Paper: [http://arxiv.org/abs/2304.03560v1](http://arxiv.org/abs/2304.03560v1), Code: **[https://github.com/antabangun/dualrefine](https://github.com/antabangun/dualrefine)**
 - 2023-04-05, **Semantic Validation in Structure from Motion**, Joseph Rowell et.al., Paper: [http://arxiv.org/abs/2304.02420v1](http://arxiv.org/abs/2304.02420v1), Code: **[https://github.com/joerowelll/comp0132_rjxz25](https://github.com/joerowelll/comp0132_rjxz25)**
 - 2023-03-31, **Learning Internal Representations of 3D Transformations from 2D Projected Inputs**, Marissa Connor et.al., Paper: [http://arxiv.org/abs/2303.17776v1](http://arxiv.org/abs/2303.17776v1)
 - 2023-03-30, **3D Line Mapping Revisited**, Shaohui Liu et.al., Paper: [http://arxiv.org/abs/2303.17504v1](http://arxiv.org/abs/2303.17504v1), Code: **[https://github.com/cvg/limap](https://github.com/cvg/limap)**
@@ -492,6 +493,7 @@
 
 ## Visual Localization
 
+- 2023-04-06, **$R^{2}$Former: Unified $R$etrieval and $R$eranking Transformer for Place Recognition**, Sijie Zhu et.al., Paper: [http://arxiv.org/abs/2304.03410v1](http://arxiv.org/abs/2304.03410v1)
 - 2023-04-06, **Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**, Viktor Walter et.al., Paper: [http://arxiv.org/abs/2304.03057v1](http://arxiv.org/abs/2304.03057v1), Code: **[https://github.com/ctu-mrs/difec-ron](https://github.com/ctu-mrs/difec-ron)**
 - 2023-04-05, **Efficient OCR for Building a Diverse Digital History**, Jacob Carlson et.al., Paper: [http://arxiv.org/abs/2304.02737v1](http://arxiv.org/abs/2304.02737v1), Code: **[https://github.com/dell-research-harvard/effocr](https://github.com/dell-research-harvard/effocr)**
 - 2023-04-05, **LogoNet: a fine-grained network for instance-level logo sketch retrieval**, Binbin Feng et.al., Paper: [http://arxiv.org/abs/2304.02214v1](http://arxiv.org/abs/2304.02214v1), Code: **[https://github.com/abin333/logonet](https://github.com/abin333/logonet)**
@@ -966,6 +968,7 @@
 
 ## Image Matching
 
+- 2023-04-07, **ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2304.03608v1](http://arxiv.org/abs/2304.03608v1)
 - 2023-04-04, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v1](http://arxiv.org/abs/2304.02008v1), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
 - 2023-04-03, **PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching**, Pedro Castro et.al., Paper: [http://arxiv.org/abs/2304.01382v1](http://arxiv.org/abs/2304.01382v1)
 - 2023-04-02, **Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**, Guilherme Potje et.al., Paper: [http://arxiv.org/abs/2304.00583v1](http://arxiv.org/abs/2304.00583v1)
@@ -1072,6 +1075,8 @@
 
 ## NeRF
 
+- 2023-04-07, **Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**, Leheng Li et.al., Paper: [http://arxiv.org/abs/2304.03526v1](http://arxiv.org/abs/2304.03526v1)
+- 2023-04-06, **Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**, Tianyi Zhang et.al., Paper: [http://arxiv.org/abs/2304.03384v1](http://arxiv.org/abs/2304.03384v1)
 - 2023-04-06, **LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**, Akshay Krishnan et.al., Paper: [http://arxiv.org/abs/2304.03280v1](http://arxiv.org/abs/2304.03280v1)
 - 2023-04-06, **Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**, Zian Wang et.al., Paper: [http://arxiv.org/abs/2304.03266v1](http://arxiv.org/abs/2304.03266v1)
 - 2023-04-06, **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**, Hoigi Seo et.al., Paper: [http://arxiv.org/abs/2304.02827v1](http://arxiv.org/abs/2304.02827v1)
