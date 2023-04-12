@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -25,11 +25,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|null|
+|**2023-04-10**|**Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned**|Yulun Tian et.al.|[2304.04362v1](http://arxiv.org/abs/2304.04362v1)|**[link](https://github.com/mit-spark/kimera-multi)**|
 |**2023-04-10**|**A Power Method for Computing the Dominant Eigenvalue of a Dual Quaternion Hermitian Matrix**|Chunfeng Cui et.al.|[2304.04355v1](http://arxiv.org/abs/2304.04355v1)|null|
 |**2023-04-09**|**Point-SLAM: Dense Neural Point Cloud-based SLAM**|Erik Sandström et.al.|[2304.04278v1](http://arxiv.org/abs/2304.04278v1)|**[link](https://github.com/tfy14esa/point-slam)**|
 |**2023-04-09**|**DSMNet: Deep High-precision 3D Surface Modeling from Sparse Point Cloud Frames**|Changjie Qiu et.al.|[2304.04200v1](http://arxiv.org/abs/2304.04200v1)|null|
-|**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|null|
+|**2023-04-08**|**Sky-GVINS: a Sky-segmentation Aided GNSS-Visual-Inertial System for Robust Navigation in Urban Canyons**|Jie Yin et.al.|[2304.04007v1](http://arxiv.org/abs/2304.04007v1)|**[link](https://github.com/sjtu-visys/sky-gvins)**|
 |**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872v1](http://arxiv.org/abs/2304.03872v1)|null|
 |**2023-04-06**|**Deep learning-based image exposure enhancement as a pre-processing for an accurate 3D colon surface reconstruction**|Ricardo Espinosa et.al.|[2304.03171v1](http://arxiv.org/abs/2304.03171v1)|null|
 |**2023-04-04**|**A Fully-automatic Side-scan Sonar SLAM Framework**|Jun Zhang et.al.|[2304.01854v1](http://arxiv.org/abs/2304.01854v1)|null|
@@ -463,7 +463,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## SFM
 
@@ -562,7 +562,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -934,7 +934,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1070,7 +1070,7 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1192,7 +1192,7 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## NeRF
 
@@ -1202,7 +1202,7 @@ layout: default
 |**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452v1](http://arxiv.org/abs/2304.04452v1)|null|
 |**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446v1](http://arxiv.org/abs/2304.04446v1)|null|
 |**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395v1](http://arxiv.org/abs/2304.04395v1)|null|
-|**2023-04-09**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v1](http://arxiv.org/abs/2304.04133v1)|null|
+|**2023-04-11**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v2](http://arxiv.org/abs/2304.04133v2)|**[link](https://github.com/fsemerar/satnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012v1](http://arxiv.org/abs/2304.04012v1)|null|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
 |**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384v1](http://arxiv.org/abs/2304.03384v1)|null|
@@ -1491,7 +1491,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
