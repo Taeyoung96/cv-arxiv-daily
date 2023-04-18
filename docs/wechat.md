@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-04-17, **Range-Only Bearing Estimator for Localization and Mapping**, Matteo Marcantoni et.al., Paper: [http://arxiv.org/abs/2304.08182v1](http://arxiv.org/abs/2304.08182v1)
+- 2023-04-17, **The Stellar Spectra Factory (SSF) Based On SLAM**, Wei Ji et.al., Paper: [http://arxiv.org/abs/2304.08089v1](http://arxiv.org/abs/2304.08089v1)
+- 2023-04-17, **Learning How To Robustly Estimate Camera Pose in Endoscopic Videos**, Michel Hayoz et.al., Paper: [http://arxiv.org/abs/2304.08023v1](http://arxiv.org/abs/2304.08023v1)
 - 2023-04-14, **FM-Loc: Using Foundation Models for Improved Vision-based Localization**, Reihaneh Mirjalili et.al., Paper: [http://arxiv.org/abs/2304.07058v1](http://arxiv.org/abs/2304.07058v1)
 - 2023-04-12, **RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2304.05735v1](http://arxiv.org/abs/2304.05735v1), Code: **[https://github.com/xiaohan-git/ro-map](https://github.com/xiaohan-git/ro-map)**
 - 2023-04-16, **Multipath-based SLAM for Non-Ideal Reflective Surfaces Exploiting Multiple-Measurement Data Association**, Lukas Wielandner et.al., Paper: [http://arxiv.org/abs/2304.05680v2](http://arxiv.org/abs/2304.05680v2)
@@ -507,6 +510,13 @@
 
 ## Visual Localization
 
+- 2023-04-17, **Features-over-the-Air: Contrastive Learning Enabled Cooperative Edge Inference**, Haotian Wu et.al., Paper: [http://arxiv.org/abs/2304.08221v1](http://arxiv.org/abs/2304.08221v1)
+- 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1)
+- 2023-04-16, **Bent & Broken Bicycles: Leveraging synthetic data for damaged object re-identification**, Luca Piano et.al., Paper: [http://arxiv.org/abs/2304.07883v1](http://arxiv.org/abs/2304.07883v1)
+- 2023-04-16, **Language Guided Local Infiltration for Interactive Image Retrieval**, Fuxiang Huang et.al., Paper: [http://arxiv.org/abs/2304.07747v1](http://arxiv.org/abs/2304.07747v1)
+- 2023-04-16, **Long-term Visual Localization with Mobile Sensors**, Shen Yan et.al., Paper: [http://arxiv.org/abs/2304.07691v1](http://arxiv.org/abs/2304.07691v1)
+- 2023-04-16, **Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging**, Jielin Qiu et.al., Paper: [http://arxiv.org/abs/2304.07675v1](http://arxiv.org/abs/2304.07675v1)
+- 2023-04-14, **CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**, Mubariz Zaffar et.al., Paper: [http://arxiv.org/abs/2304.07426v1](http://arxiv.org/abs/2304.07426v1)
 - 2023-04-14, **FM-Loc: Using Foundation Models for Improved Vision-based Localization**, Reihaneh Mirjalili et.al., Paper: [http://arxiv.org/abs/2304.07058v1](http://arxiv.org/abs/2304.07058v1)
 - 2023-04-14, **Toward Real-Time Image Annotation Using Marginalized Coupled Dictionary Learning**, Seyed Mahdi Roostaiyan et.al., Paper: [http://arxiv.org/abs/2304.06907v1](http://arxiv.org/abs/2304.06907v1), Code: **[https://github.com/hamid-amiri/mcdl-image-annotation](https://github.com/hamid-amiri/mcdl-image-annotation)**
 - 2023-04-17, **You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**, Matteo Toso et.al., Paper: [http://arxiv.org/abs/2304.06373v3](http://arxiv.org/abs/2304.06373v3), Code: **[https://github.com/IIT-PAVIS/Flatlandia](https://github.com/IIT-PAVIS/Flatlandia)**
@@ -882,6 +892,8 @@
 
 ## Keypoint Detection
 
+- 2023-04-17, **Human Pose Estimation in Monocular Omnidirectional Top-View Images**, Jingrui Yu et.al., Paper: [http://arxiv.org/abs/2304.08186v1](http://arxiv.org/abs/2304.08186v1)
+- 2023-04-14, **CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**, Mubariz Zaffar et.al., Paper: [http://arxiv.org/abs/2304.07426v1](http://arxiv.org/abs/2304.07426v1)
 - 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 - 2023-04-06, **From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2304.03140v1](http://arxiv.org/abs/2304.03140v1)
 - 2023-03-29, **NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud**, Xiangyu Zhu et.al., Paper: [http://arxiv.org/abs/2303.16465v1](http://arxiv.org/abs/2303.16465v1)
@@ -995,6 +1007,8 @@
 
 ## Image Matching
 
+- 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
+- 2023-04-16, **Long-term Visual Localization with Mobile Sensors**, Shen Yan et.al., Paper: [http://arxiv.org/abs/2304.07691v1](http://arxiv.org/abs/2304.07691v1)
 - 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 - 2023-04-16, **ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2304.03608v2](http://arxiv.org/abs/2304.03608v2), Code: **[https://github.com/Shiaoming/ALIKED](https://github.com/Shiaoming/ALIKED)**
 - 2023-04-04, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v1](http://arxiv.org/abs/2304.02008v1), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
@@ -1104,6 +1118,11 @@
 
 ## NeRF
 
+- 2023-04-17, **MoDA: Modeling Deformable 3D Objects from Casual Videos**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2304.08279v1](http://arxiv.org/abs/2304.08279v1), Code: **[https://github.com/chaoyuesong/moda](https://github.com/chaoyuesong/moda)**
+- 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1)
+- 2023-04-16, **Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation**, Yaxuan Zhu et.al., Paper: [http://arxiv.org/abs/2304.07918v1](http://arxiv.org/abs/2304.07918v1)
+- 2023-04-16, **CAT-NeRF: Constancy-Aware Tx$^2$Former for Dynamic Body Modeling**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2304.07915v1](http://arxiv.org/abs/2304.07915v1)
+- 2023-04-16, **SeaThru-NeRF: Neural Radiance Fields in Scattering Media**, Deborah Levy et.al., Paper: [http://arxiv.org/abs/2304.07743v1](http://arxiv.org/abs/2304.07743v1)
 - 2023-04-14, **UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**, Jinlong Fan et.al., Paper: [http://arxiv.org/abs/2304.06969v1](http://arxiv.org/abs/2304.06969v1)
 - 2023-04-13, **Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2304.06714v1](http://arxiv.org/abs/2304.06714v1)
 - 2023-04-13, **Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**, Jonathan T. Barron et.al., Paper: [http://arxiv.org/abs/2304.06706v1](http://arxiv.org/abs/2304.06706v1)
