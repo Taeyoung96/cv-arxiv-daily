@@ -1122,6 +1122,14 @@
 
 ## NeRF
 
+- 2023-04-20, **Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**, Ziyu Wan et.al., Paper: [http://arxiv.org/abs/2304.10537v1](http://arxiv.org/abs/2304.10537v1)
+- 2023-04-20, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v1](http://arxiv.org/abs/2304.10532v1), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
+- 2023-04-20, **ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**, Marco Toschi et.al., Paper: [http://arxiv.org/abs/2304.10448v1](http://arxiv.org/abs/2304.10448v1)
+- 2023-04-20, **LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**, Tang Tao et.al., Paper: [http://arxiv.org/abs/2304.10406v1](http://arxiv.org/abs/2304.10406v1)
+- 2023-04-20, **Revisiting Implicit Neural Representations in Low-Level Vision**, Wentian Xu et.al., Paper: [http://arxiv.org/abs/2304.10250v1](http://arxiv.org/abs/2304.10250v1), Code: **[https://github.com/wentxul/linr](https://github.com/wentxul/linr)**
+- 2023-04-20, **Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**, Dongting Hu et.al., Paper: [http://arxiv.org/abs/2304.10075v1](http://arxiv.org/abs/2304.10075v1)
+- 2023-04-20, **Neural Radiance Fields: Past, Present, and Future**, Ansh Mittal et.al., Paper: [http://arxiv.org/abs/2304.10050v1](http://arxiv.org/abs/2304.10050v1)
+- 2023-04-19, **Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2304.09987v1](http://arxiv.org/abs/2304.09987v1), Code: **[https://github.com/jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf)**
 - 2023-04-20, **Reference-guided Controllable Inpainting of Neural Radiance Fields**, Ashkan Mirzaei et.al., Paper: [http://arxiv.org/abs/2304.09677v2](http://arxiv.org/abs/2304.09677v2)
 - 2023-04-18, **SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**, Yiming Gao et.al., Paper: [http://arxiv.org/abs/2304.08971v1](http://arxiv.org/abs/2304.08971v1)
 - 2023-04-18, **NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination**, Yiyu Zhuang et.al., Paper: [http://arxiv.org/abs/2304.08757v1](http://arxiv.org/abs/2304.08757v1)
