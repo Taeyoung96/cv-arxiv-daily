@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-04-27, **Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**, Hengyi Wang et.al., Paper: [http://arxiv.org/abs/2304.14377v1](http://arxiv.org/abs/2304.14377v1)
+- 2023-04-27, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v1](http://arxiv.org/abs/2304.14301v1)
 - 2023-04-27, **Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**, Marcus Abate et.al., Paper: [http://arxiv.org/abs/2304.13182v2](http://arxiv.org/abs/2304.13182v2)
 - 2023-04-22, **Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**, Surya Pratap Singh et.al., Paper: [http://arxiv.org/abs/2304.11310v1](http://arxiv.org/abs/2304.11310v1)
 - 2023-04-21, **RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**, Jianheng Liu et.al., Paper: [http://arxiv.org/abs/2304.10987v1](http://arxiv.org/abs/2304.10987v1), Code: **[https://github.com/hitsz-nrsl/dynamic-vins](https://github.com/hitsz-nrsl/dynamic-vins)**
@@ -519,7 +521,7 @@
 ## Visual Localization
 
 - 2023-04-26, **Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2304.13487v1](http://arxiv.org/abs/2304.13487v1)
-- 2023-04-27, **STIR: Siamese Transformer for Image Retrieval Postprocessing**, Aleksei Shabanov et.al., Paper: [http://arxiv.org/abs/2304.13393v2](http://arxiv.org/abs/2304.13393v2), Code: **[https://github.com/OML-Team/open-metric-learning/tree/main/pipelines/postprocessing/pairwise_postprocessing](https://github.com/OML-Team/open-metric-learning/tree/main/pipelines/postprocessing/pairwise_postprocessing)**
+- 2023-04-27, **STIR: Siamese Transformer for Image Retrieval Postprocessing**, Aleksei Shabanov et.al., Paper: [http://arxiv.org/abs/2304.13393v2](http://arxiv.org/abs/2304.13393v2)
 - 2023-04-25, **DualSlide: Global-to-Local Sketching Interface for Slide Content and Layout Design**, Jiahao Weng et.al., Paper: [http://arxiv.org/abs/2304.12506v1](http://arxiv.org/abs/2304.12506v1)
 - 2023-04-24, **Rank Flow Embedding for Unsupervised and Semi-Supervised Manifold Learning**, Lucas Pascotti Valem et.al., Paper: [http://arxiv.org/abs/2304.12448v1](http://arxiv.org/abs/2304.12448v1), Code: **[https://github.com/UDLF/UDLF](https://github.com/UDLF/UDLF)**
 - 2023-04-23, **IDLL: Inverse Depth Line based Visual Localization in Challenging Environments**, Wanting Li et.al., Paper: [http://arxiv.org/abs/2304.11748v1](http://arxiv.org/abs/2304.11748v1)
@@ -1132,6 +1134,9 @@
 
 ## NeRF
 
+- 2023-04-27, **ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**, Jiteng Mu et.al., Paper: [http://arxiv.org/abs/2304.14401v1](http://arxiv.org/abs/2304.14401v1)
+- 2023-04-27, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v1](http://arxiv.org/abs/2304.14301v1)
+- 2023-04-27, **Compositional 3D Human-Object Neural Animation**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2304.14070v1](http://arxiv.org/abs/2304.14070v1)
 - 2023-04-26, **Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**, Yuqi Han et.al., Paper: [http://arxiv.org/abs/2304.13518v1](http://arxiv.org/abs/2304.13518v1)
 - 2023-04-26, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v1](http://arxiv.org/abs/2304.13386v1), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
 - 2023-04-25, **Local Implicit Ray Function for Generalizable Radiance Field Representation**, Xin Huang et.al., Paper: [http://arxiv.org/abs/2304.12746v1](http://arxiv.org/abs/2304.12746v1)
