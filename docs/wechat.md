@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-05-02, **EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**, Xinyu Yi et.al., Paper: [http://arxiv.org/abs/2305.01599v1](http://arxiv.org/abs/2305.01599v1)
 - 2023-04-30, **LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**, Zhongyang Zhu et.al., Paper: [http://arxiv.org/abs/2305.00406v1](http://arxiv.org/abs/2305.00406v1)
 - 2023-04-29, **Modality-invariant Visual Odometry for Embodied Vision**, Marius Memmel et.al., Paper: [http://arxiv.org/abs/2305.00348v1](http://arxiv.org/abs/2305.00348v1), Code: **[https://github.com/memmelma/vo-transformer](https://github.com/memmelma/vo-transformer)**
 - 2023-04-27, **Neural Implicit Dense Semantic SLAM**, Yasaman Haghighi et.al., Paper: [http://arxiv.org/abs/2304.14560v1](http://arxiv.org/abs/2304.14560v1)
@@ -1141,6 +1142,9 @@
 
 ## NeRF
 
+- 2023-05-02, **Neural LiDAR Fields for Novel View Synthesis**, Shengyu Huang et.al., Paper: [http://arxiv.org/abs/2305.01643v1](http://arxiv.org/abs/2305.01643v1)
+- 2023-05-02, **LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**, Yuelang Xu et.al., Paper: [http://arxiv.org/abs/2305.01190v1](http://arxiv.org/abs/2305.01190v1)
+- 2023-05-02, **Federated Neural Radiance Fields**, Lachlan Holden et.al., Paper: [http://arxiv.org/abs/2305.01163v1](http://arxiv.org/abs/2305.01163v1)
 - 2023-05-01, **GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2305.00787v1](http://arxiv.org/abs/2305.00787v1)
 - 2023-04-30, **Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**, Mohamed Debbagh et.al., Paper: [http://arxiv.org/abs/2305.00375v1](http://arxiv.org/abs/2305.00375v1)
 - 2023-04-28, **ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2305.00041v1](http://arxiv.org/abs/2305.00041v1)
