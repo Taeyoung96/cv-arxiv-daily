@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-05-03, **Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**, Kenny Chen et.al., Paper: [http://arxiv.org/abs/2305.01843v1](http://arxiv.org/abs/2305.01843v1)
 - 2023-05-02, **EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**, Xinyu Yi et.al., Paper: [http://arxiv.org/abs/2305.01599v1](http://arxiv.org/abs/2305.01599v1)
 - 2023-04-30, **LIMOT: A Tightly-Coupled System for LiDAR-Inertial Odometry and Multi-Object Tracking**, Zhongyang Zhu et.al., Paper: [http://arxiv.org/abs/2305.00406v1](http://arxiv.org/abs/2305.00406v1)
 - 2023-04-29, **Modality-invariant Visual Odometry for Embodied Vision**, Marius Memmel et.al., Paper: [http://arxiv.org/abs/2305.00348v1](http://arxiv.org/abs/2305.00348v1), Code: **[https://github.com/memmelma/vo-transformer](https://github.com/memmelma/vo-transformer)**
@@ -524,6 +525,8 @@
 
 ## Visual Localization
 
+- 2023-05-03, **A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text**, Yunxin Li et.al., Paper: [http://arxiv.org/abs/2305.02265v1](http://arxiv.org/abs/2305.02265v1), Code: **[https://github.com/yunxinli/ndcr](https://github.com/yunxinli/ndcr)**
+- 2023-05-03, **AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**, Shentong Mo et.al., Paper: [http://arxiv.org/abs/2305.01836v1](http://arxiv.org/abs/2305.01836v1)
 - 2023-04-30, **Second-order Anisotropic Gaussian Directional Derivative Filters for Blob Detection**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2305.00435v1](http://arxiv.org/abs/2305.00435v1)
 - 2023-04-28, **SFD2: Semantic-guided Feature Detection and Description**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2304.14845v1](http://arxiv.org/abs/2304.14845v1)
 - 2023-04-28, **Quantum enhanced non-interferometric quantitative phase imaging**, Giuseppe Ortolano et.al., Paper: [http://arxiv.org/abs/2304.14727v1](http://arxiv.org/abs/2304.14727v1)
