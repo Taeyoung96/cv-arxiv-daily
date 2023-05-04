@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.05.03
+> Updated on 2023.05.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 - 2023-04-29, **Modality-invariant Visual Odometry for Embodied Vision**, Marius Memmel et.al., Paper: [http://arxiv.org/abs/2305.00348v1](http://arxiv.org/abs/2305.00348v1), Code: **[https://github.com/memmelma/vo-transformer](https://github.com/memmelma/vo-transformer)**
 - 2023-04-27, **Neural Implicit Dense Semantic SLAM**, Yasaman Haghighi et.al., Paper: [http://arxiv.org/abs/2304.14560v1](http://arxiv.org/abs/2304.14560v1)
 - 2023-04-27, **Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**, Hengyi Wang et.al., Paper: [http://arxiv.org/abs/2304.14377v1](http://arxiv.org/abs/2304.14377v1)
-- 2023-04-27, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v1](http://arxiv.org/abs/2304.14301v1)
+- 2023-05-03, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v2](http://arxiv.org/abs/2304.14301v2)
 - 2023-04-27, **Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**, Marcus Abate et.al., Paper: [http://arxiv.org/abs/2304.13182v2](http://arxiv.org/abs/2304.13182v2)
 - 2023-04-27, **Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**, Surya Pratap Singh et.al., Paper: [http://arxiv.org/abs/2304.11310v2](http://arxiv.org/abs/2304.11310v2)
 - 2023-04-21, **RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**, Jianheng Liu et.al., Paper: [http://arxiv.org/abs/2304.10987v1](http://arxiv.org/abs/2304.10987v1), Code: **[https://github.com/hitsz-nrsl/dynamic-vins](https://github.com/hitsz-nrsl/dynamic-vins)**
@@ -432,7 +432,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## SFM
 
@@ -520,7 +520,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -911,7 +911,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1026,7 +1026,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1138,12 +1138,12 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## NeRF
 
 - 2023-05-02, **Neural LiDAR Fields for Novel View Synthesis**, Shengyu Huang et.al., Paper: [http://arxiv.org/abs/2305.01643v1](http://arxiv.org/abs/2305.01643v1)
-- 2023-05-02, **LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**, Yuelang Xu et.al., Paper: [http://arxiv.org/abs/2305.01190v1](http://arxiv.org/abs/2305.01190v1)
+- 2023-05-03, **LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**, Yuelang Xu et.al., Paper: [http://arxiv.org/abs/2305.01190v2](http://arxiv.org/abs/2305.01190v2)
 - 2023-05-02, **Federated Neural Radiance Fields**, Lachlan Holden et.al., Paper: [http://arxiv.org/abs/2305.01163v1](http://arxiv.org/abs/2305.01163v1)
 - 2023-05-01, **GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2305.00787v1](http://arxiv.org/abs/2305.00787v1)
 - 2023-04-30, **Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**, Mohamed Debbagh et.al., Paper: [http://arxiv.org/abs/2305.00375v1](http://arxiv.org/abs/2305.00375v1)
@@ -1151,7 +1151,7 @@
 - 2023-04-28, **NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**, Junge Zhang et.al., Paper: [http://arxiv.org/abs/2304.14811v1](http://arxiv.org/abs/2304.14811v1)
 - 2023-04-27, **Learning a Diffusion Prior for NeRFs**, Guandao Yang et.al., Paper: [http://arxiv.org/abs/2304.14473v1](http://arxiv.org/abs/2304.14473v1)
 - 2023-04-27, **ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**, Jiteng Mu et.al., Paper: [http://arxiv.org/abs/2304.14401v1](http://arxiv.org/abs/2304.14401v1)
-- 2023-04-27, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v1](http://arxiv.org/abs/2304.14301v1)
+- 2023-05-03, **Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**, Dennis Haitz et.al., Paper: [http://arxiv.org/abs/2304.14301v2](http://arxiv.org/abs/2304.14301v2)
 - 2023-04-27, **Compositional 3D Human-Object Neural Animation**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2304.14070v1](http://arxiv.org/abs/2304.14070v1)
 - 2023-04-26, **Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**, Yuqi Han et.al., Paper: [http://arxiv.org/abs/2304.13518v1](http://arxiv.org/abs/2304.13518v1)
 - 2023-04-26, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v1](http://arxiv.org/abs/2304.13386v1), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
@@ -1486,7 +1486,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -30,7 +30,7 @@ layout: default
 |**2023-04-29**|**Modality-invariant Visual Odometry for Embodied Vision**|Marius Memmel et.al.|[2305.00348v1](http://arxiv.org/abs/2305.00348v1)|**[link](https://github.com/memmelma/vo-transformer)**|
 |**2023-04-27**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi et.al.|[2304.14560v1](http://arxiv.org/abs/2304.14560v1)|null|
 |**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377v1](http://arxiv.org/abs/2304.14377v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-05-03**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-27**|**Multi-Camera Visual-Inertial Simultaneous Localization and Mapping for Autonomous Valet Parking**|Marcus Abate et.al.|[2304.13182v2](http://arxiv.org/abs/2304.13182v2)|null|
 |**2023-04-27**|**Twilight SLAM: A Comparative Study of Low-Light Visual SLAM Pipelines**|Surya Pratap Singh et.al.|[2304.11310v2](http://arxiv.org/abs/2304.11310v2)|null|
 |**2023-04-21**|**RGB-D Inertial Odometry for a Resource-Restricted Robot in Dynamic Environments**|Jianheng Liu et.al.|[2304.10987v1](http://arxiv.org/abs/2304.10987v1)|**[link](https://github.com/hitsz-nrsl/dynamic-vins)**|
@@ -484,7 +484,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## SFM
 
@@ -586,7 +586,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -983,7 +983,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1122,7 +1122,7 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1249,14 +1249,14 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643v1](http://arxiv.org/abs/2305.01643v1)|null|
-|**2023-05-02**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190v1](http://arxiv.org/abs/2305.01190v1)|null|
+|**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190v2](http://arxiv.org/abs/2305.01190v2)|null|
 |**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375v1](http://arxiv.org/abs/2305.00375v1)|null|
@@ -1264,7 +1264,7 @@ layout: default
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
-|**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
+|**2023-05-03**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
 |**2023-04-27**|**Compositional 3D Human-Object Neural Animation**|Zhi Hou et.al.|[2304.14070v1](http://arxiv.org/abs/2304.14070v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 |**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386v1](http://arxiv.org/abs/2304.13386v1)|**[link](https://github.com/sjojok/vgos)**|
@@ -1599,7 +1599,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
