@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Multi S-graphs: A Collaborative Semantic SLAM architecture**|Miguel Fernandez-Cortizas et.al.|[2305.03441v1](http://arxiv.org/abs/2305.03441v1)|null|
 |**2023-05-04**|**Edge-aware Consistent Stereo Video Depth Estimation**|Elena Kosheleva et.al.|[2305.02645v1](http://arxiv.org/abs/2305.02645v1)|null|
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-05-02**|**EgoLocate: Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors**|Xinyu Yi et.al.|[2305.01599v1](http://arxiv.org/abs/2305.01599v1)|null|
@@ -590,6 +591,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
+|**2023-05-05**|**HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer**|Shuzhe Wang et.al.|[2305.03595v1](http://arxiv.org/abs/2305.03595v1)|null|
+|**2023-05-05**|**WWFedCBMIR: World-Wide Federated Content-Based Medical Image Retrieval**|Zahra Tabatabaei et.al.|[2305.03383v1](http://arxiv.org/abs/2305.03383v1)|null|
 |**2023-05-04**|**Boundary-aware Backward-Compatible Representation via Adversarial Learning in Image Retrieval**|Tan Pan et.al.|[2305.02610v1](http://arxiv.org/abs/2305.02610v1)|**[link](https://github.com/ashespt/advbct)**|
 |**2023-05-03**|**Learning-based Relational Object Matching Across Views**|Cathrin Elich et.al.|[2305.02398v1](http://arxiv.org/abs/2305.02398v1)|null|
 |**2023-05-05**|**A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text**|Yunxin Li et.al.|[2305.02265v2](http://arxiv.org/abs/2305.02265v2)|**[link](https://github.com/yunxinli/ndcr)**|
@@ -991,6 +995,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**|Canhui Tang et.al.|[2305.03487v1](http://arxiv.org/abs/2305.03487v1)|**[link](https://github.com/hui-design/hd2reg)**|
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186v1](http://arxiv.org/abs/2304.08186v1)|null|
 |**2023-04-14**|**CoPR: Towards Accurate Visual Localization With Continuous Place-descriptor Regression**|Mubariz Zaffar et.al.|[2304.07426v1](http://arxiv.org/abs/2304.07426v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
@@ -1257,6 +1262,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**NeRF-QA: Neural Radiance Fields Quality Assessment Database**|Pedro Martin et.al.|[2305.03176v1](http://arxiv.org/abs/2305.03176v1)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618v1](http://arxiv.org/abs/2305.02618v1)|**[link](https://github.com/aiart-hdu/sage)**|
@@ -1265,7 +1271,7 @@
 |**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375v1](http://arxiv.org/abs/2305.00375v1)|null|
-|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|null|
+|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
