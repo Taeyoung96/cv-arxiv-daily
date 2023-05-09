@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-05-05, **Set-Type Belief Propagation with Applications to Mapping, MTT, SLAM, and SLAT**, Hyowon Kim et.al., Paper: [http://arxiv.org/abs/2305.04797v1](http://arxiv.org/abs/2305.04797v1)
+- 2023-05-07, **Simulation of Dynamic Environments for SLAM**, Elia Bonetto et.al., Paper: [http://arxiv.org/abs/2305.04286v1](http://arxiv.org/abs/2305.04286v1)
+- 2023-05-06, **Robust optimization of control parameters for WEC arrays using stochastic methods**, Marco Gambarini et.al., Paper: [http://arxiv.org/abs/2305.04130v1](http://arxiv.org/abs/2305.04130v1)
 - 2023-05-05, **Multi S-graphs: A Collaborative Semantic SLAM architecture**, Miguel Fernandez-Cortizas et.al., Paper: [http://arxiv.org/abs/2305.03441v1](http://arxiv.org/abs/2305.03441v1)
 - 2023-05-04, **Edge-aware Consistent Stereo Video Depth Estimation**, Elena Kosheleva et.al., Paper: [http://arxiv.org/abs/2305.02645v1](http://arxiv.org/abs/2305.02645v1)
 - 2023-05-03, **Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**, Kenny Chen et.al., Paper: [http://arxiv.org/abs/2305.01843v1](http://arxiv.org/abs/2305.01843v1)
@@ -527,6 +530,10 @@
 
 ## Visual Localization
 
+- 2023-05-08, **Hierarchical Visual Localization Based on Sparse Feature Pyramid for Adaptive Reduction of Keypoint Map Size**, Andrei Potapov et.al., Paper: [http://arxiv.org/abs/2305.04856v1](http://arxiv.org/abs/2305.04856v1)
+- 2023-05-08, **Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**, Kunal Chelani et.al., Paper: [http://arxiv.org/abs/2305.04603v1](http://arxiv.org/abs/2305.04603v1)
+- 2023-05-06, **Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**, Minyi Zhao et.al., Paper: [http://arxiv.org/abs/2305.04072v1](http://arxiv.org/abs/2305.04072v1)
+- 2023-05-06, **Fairness in Image Search: A Study of Occupational Stereotyping in Image Retrieval and its Debiasing**, Swagatika Dash et.al., Paper: [http://arxiv.org/abs/2305.03881v1](http://arxiv.org/abs/2305.03881v1)
 - 2023-05-05, **COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**, Arijit Ray et.al., Paper: [http://arxiv.org/abs/2305.03689v1](http://arxiv.org/abs/2305.03689v1)
 - 2023-05-05, **HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer**, Shuzhe Wang et.al., Paper: [http://arxiv.org/abs/2305.03595v1](http://arxiv.org/abs/2305.03595v1)
 - 2023-05-05, **WWFedCBMIR: World-Wide Federated Content-Based Medical Image Retrieval**, Zahra Tabatabaei et.al., Paper: [http://arxiv.org/abs/2305.03383v1](http://arxiv.org/abs/2305.03383v1)
@@ -1153,6 +1160,9 @@
 
 ## NeRF
 
+- 2023-05-08, **AvatarReX: Real-time Expressive Full-body Avatars**, Zerong Zheng et.al., Paper: [http://arxiv.org/abs/2305.04789v1](http://arxiv.org/abs/2305.04789v1)
+- 2023-05-07, **HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**, Jan Olszewski et.al., Paper: [http://arxiv.org/abs/2305.04296v1](http://arxiv.org/abs/2305.04296v1)
+- 2023-05-07, **Multi-Space Neural Radiance Fields**, Ze-Xin Yin et.al., Paper: [http://arxiv.org/abs/2305.04268v1](http://arxiv.org/abs/2305.04268v1)
 - 2023-05-04, **NeRF-QA: Neural Radiance Fields Quality Assessment Database**, Pedro Martin et.al., Paper: [http://arxiv.org/abs/2305.03176v1](http://arxiv.org/abs/2305.03176v1)
 - 2023-05-04, **NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2305.03049v1](http://arxiv.org/abs/2305.03049v1)
 - 2023-05-04, **Radiance Field Gradient Scaling for Unbiased Near-Camera Training**, Julien Philip et.al., Paper: [http://arxiv.org/abs/2305.02756v1](http://arxiv.org/abs/2305.02756v1), Code: **[https://github.com/gradient-scaling/gradient-scaling.github.io](https://github.com/gradient-scaling/gradient-scaling.github.io)**
