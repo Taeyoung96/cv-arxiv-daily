@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-05-09, **Understanding why SLAM algorithms fail in modern indoor environments**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2305.05313v1](http://arxiv.org/abs/2305.05313v1)
 - 2023-05-05, **Set-Type Belief Propagation with Applications to Mapping, MTT, SLAM, and SLAT**, Hyowon Kim et.al., Paper: [http://arxiv.org/abs/2305.04797v1](http://arxiv.org/abs/2305.04797v1)
 - 2023-05-07, **Simulation of Dynamic Environments for SLAM**, Elia Bonetto et.al., Paper: [http://arxiv.org/abs/2305.04286v1](http://arxiv.org/abs/2305.04286v1)
 - 2023-05-06, **Robust optimization of control parameters for WEC arrays using stochastic methods**, Marco Gambarini et.al., Paper: [http://arxiv.org/abs/2305.04130v1](http://arxiv.org/abs/2305.04130v1)
@@ -442,6 +443,8 @@
 
 ## SFM
 
+- 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
+- 2023-05-09, **Rotation Synchronization via Deep Matrix Factorization**, Gk Tejus et.al., Paper: [http://arxiv.org/abs/2305.05268v1](http://arxiv.org/abs/2305.05268v1), Code: **[https://github.com/gktejus/DMF-Synch](https://github.com/gktejus/DMF-Synch)**
 - 2023-04-20, **A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**, Miriam Jäger et.al., Paper: [http://arxiv.org/abs/2304.10664v1](http://arxiv.org/abs/2304.10664v1)
 - 2023-04-14, **Fusing Structure from Motion and Simulation-Augmented Pose Regression from Optical Flow for Challenging Indoor Environments**, Felix Ott et.al., Paper: [http://arxiv.org/abs/2304.07250v1](http://arxiv.org/abs/2304.07250v1)
 - 2023-04-12, **Visual Localization using Imperfect 3D Models from the Internet**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2304.05947v1](http://arxiv.org/abs/2304.05947v1), Code: **[https://github.com/v-pnk/cadloc](https://github.com/v-pnk/cadloc)**
@@ -530,6 +533,11 @@
 
 ## Visual Localization
 
+- 2023-05-09, **Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**, Ho Hin Lee et.al., Paper: [http://arxiv.org/abs/2305.05598v1](http://arxiv.org/abs/2305.05598v1)
+- 2023-05-09, **ColonMapper: topological mapping and localization for colonoscopy**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2305.05546v1](http://arxiv.org/abs/2305.05546v1)
+- 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
+- 2023-05-09, **Patch-DrosoNet: Classifying Image Partitions With Fly-Inspired Models For Lightweight Visual Place Recognition**, Bruno Arcanjo et.al., Paper: [http://arxiv.org/abs/2305.05256v1](http://arxiv.org/abs/2305.05256v1)
+- 2023-05-09, **Adapt and Align to Improve Zero-Shot Sketch-Based Image Retrieval**, Shiyin Dong et.al., Paper: [http://arxiv.org/abs/2305.05144v1](http://arxiv.org/abs/2305.05144v1)
 - 2023-05-08, **Hierarchical Visual Localization Based on Sparse Feature Pyramid for Adaptive Reduction of Keypoint Map Size**, Andrei Potapov et.al., Paper: [http://arxiv.org/abs/2305.04856v1](http://arxiv.org/abs/2305.04856v1)
 - 2023-05-08, **Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**, Kunal Chelani et.al., Paper: [http://arxiv.org/abs/2305.04603v1](http://arxiv.org/abs/2305.04603v1)
 - 2023-05-06, **Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**, Minyi Zhao et.al., Paper: [http://arxiv.org/abs/2305.04072v1](http://arxiv.org/abs/2305.04072v1)
@@ -1048,6 +1056,7 @@
 
 ## Image Matching
 
+- 2023-05-09, **ColonMapper: topological mapping and localization for colonoscopy**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2305.05546v1](http://arxiv.org/abs/2305.05546v1)
 - 2023-04-28, **SFD2: Semantic-guided Feature Detection and Description**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2304.14845v1](http://arxiv.org/abs/2304.14845v1), Code: **[https://github.com/feixue94/sfd2](https://github.com/feixue94/sfd2)**
 - 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
 - 2023-04-16, **Long-term Visual Localization with Mobile Sensors**, Shen Yan et.al., Paper: [http://arxiv.org/abs/2304.07691v1](http://arxiv.org/abs/2304.07691v1)
@@ -1160,6 +1169,8 @@
 
 ## NeRF
 
+- 2023-05-09, **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**, Yiqun Wang et.al., Paper: [http://arxiv.org/abs/2305.05594v1](http://arxiv.org/abs/2305.05594v1), Code: **[https://github.com/yiqun-wang/pet-neus](https://github.com/yiqun-wang/pet-neus)**
+- 2023-05-08, **NerfAcc: Efficient Sampling Accelerates NeRFs**, Ruilong Li et.al., Paper: [http://arxiv.org/abs/2305.04966v1](http://arxiv.org/abs/2305.04966v1)
 - 2023-05-08, **AvatarReX: Real-time Expressive Full-body Avatars**, Zerong Zheng et.al., Paper: [http://arxiv.org/abs/2305.04789v1](http://arxiv.org/abs/2305.04789v1)
 - 2023-05-07, **HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**, Jan Olszewski et.al., Paper: [http://arxiv.org/abs/2305.04296v1](http://arxiv.org/abs/2305.04296v1)
 - 2023-05-07, **Multi-Space Neural Radiance Fields**, Ze-Xin Yin et.al., Paper: [http://arxiv.org/abs/2305.04268v1](http://arxiv.org/abs/2305.04268v1)
