@@ -1153,6 +1153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v1](http://arxiv.org/abs/2305.06477v1)|null|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546v1](http://arxiv.org/abs/2305.05546v1)|null|
 |**2023-04-28**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845v1](http://arxiv.org/abs/2304.14845v1)|**[link](https://github.com/feixue94/sfd2)**|
 |**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056v1](http://arxiv.org/abs/2304.08056v1)|**[link](https://github.com/dalichebbi/deepsimnets)**|

@@ -1059,6 +1059,7 @@
 
 ## Image Matching
 
+- 2023-05-10, **SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**, Adam Schmidt et.al., Paper: [http://arxiv.org/abs/2305.06477v1](http://arxiv.org/abs/2305.06477v1)
 - 2023-05-09, **ColonMapper: topological mapping and localization for colonoscopy**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2305.05546v1](http://arxiv.org/abs/2305.05546v1)
 - 2023-04-28, **SFD2: Semantic-guided Feature Detection and Description**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2304.14845v1](http://arxiv.org/abs/2304.14845v1), Code: **[https://github.com/feixue94/sfd2](https://github.com/feixue94/sfd2)**
 - 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
