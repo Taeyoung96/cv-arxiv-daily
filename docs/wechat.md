@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-05-16, **Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**, Muhammad Shaheer et.al., Paper: [http://arxiv.org/abs/2305.09295v1](http://arxiv.org/abs/2305.09295v1)
 - 2023-05-12, **An Object SLAM Framework for Association, Mapping, and High-Level Tasks**, Yanmin Wu et.al., Paper: [http://arxiv.org/abs/2305.07299v1](http://arxiv.org/abs/2305.07299v1)
 - 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
 - 2023-05-09, **Understanding why SLAM algorithms fail in modern indoor environments**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2305.05313v1](http://arxiv.org/abs/2305.05313v1)
@@ -1065,6 +1066,7 @@
 
 ## Image Matching
 
+- 2023-05-15, **Image Matching by Bare Homography**, Fabio Bellavia et.al., Paper: [http://arxiv.org/abs/2305.08946v1](http://arxiv.org/abs/2305.08946v1)
 - 2023-05-12, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v1](http://arxiv.org/abs/2305.07304v1), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
 - 2023-05-10, **SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**, Adam Schmidt et.al., Paper: [http://arxiv.org/abs/2305.06477v1](http://arxiv.org/abs/2305.06477v1)
 - 2023-05-09, **ColonMapper: topological mapping and localization for colonoscopy**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2305.05546v1](http://arxiv.org/abs/2305.05546v1)
