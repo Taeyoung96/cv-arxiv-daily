@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**TextSLAM: Visual SLAM with Semantic Planar Text Features**|Boying Li et.al.|[2305.10029v1](http://arxiv.org/abs/2305.10029v1)|null|
 |**2023-05-16**|**Graph-based Global Robot Simultaneous Localization and Mapping using Architectural Plans**|Muhammad Shaheer et.al.|[2305.09295v1](http://arxiv.org/abs/2305.09295v1)|null|
 |**2023-05-12**|**An Object SLAM Framework for Association, Mapping, and High-Level Tasks**|Yanmin Wu et.al.|[2305.07299v1](http://arxiv.org/abs/2305.07299v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
@@ -604,6 +605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979v1](http://arxiv.org/abs/2305.09979v1)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943v1](http://arxiv.org/abs/2305.07943v1)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
 |**2023-05-09**|**Visual Place Recognition with Low-Resolution Images**|Mihnea-Alexandru Tomita et.al.|[2305.05776v1](http://arxiv.org/abs/2305.05776v1)|null|
@@ -1164,6 +1166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817v1](http://arxiv.org/abs/2305.09817v1)|null|
 |**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946v1](http://arxiv.org/abs/2305.08946v1)|null|
 |**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304v1](http://arxiv.org/abs/2305.07304v1)|**[link](https://github.com/songrise/clip-count)**|
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v1](http://arxiv.org/abs/2305.06477v1)|null|
@@ -1295,6 +1298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|null|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342v1](http://arxiv.org/abs/2305.07342v1)|null|
 |**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v1](http://arxiv.org/abs/2305.06131v1)|null|
