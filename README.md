@@ -601,6 +601,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728v1](http://arxiv.org/abs/2305.11728v1)|null|
+|**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467v1](http://arxiv.org/abs/2305.11467v1)|null|
 |**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438v1](http://arxiv.org/abs/2305.10438v1)|null|
 |**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979v1](http://arxiv.org/abs/2305.09979v1)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943v1](http://arxiv.org/abs/2305.07943v1)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
@@ -1296,6 +1298,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
