@@ -1204,6 +1204,8 @@
 
 ## NeRF
 
+- 2023-05-26, **PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**, Fusang Wang et.al., Paper: [http://arxiv.org/abs/2305.16914v1](http://arxiv.org/abs/2305.16914v1)
+- 2023-05-25, **ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**, Zhenzhen Weng et.al., Paper: [http://arxiv.org/abs/2305.16411v1](http://arxiv.org/abs/2305.16411v1)
 - 2023-05-25, **Interactive Segment Anything NeRF with Feature Imitation**, Xiaokang Chen et.al., Paper: [http://arxiv.org/abs/2305.16233v1](http://arxiv.org/abs/2305.16233v1)
 - 2023-05-25, **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**, Zhengyi Wang et.al., Paper: [http://arxiv.org/abs/2305.16213v1](http://arxiv.org/abs/2305.16213v1), Code: **[https://github.com/thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer)**
 - 2023-05-24, **Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2305.15171v1](http://arxiv.org/abs/2305.15171v1)
