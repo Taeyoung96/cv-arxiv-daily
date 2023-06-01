@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-05-31, **On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**, Romain Hascoët et.al., Paper: [http://arxiv.org/abs/2305.19899v1](http://arxiv.org/abs/2305.19899v1)
 - 2023-05-28, **OSPC: Online Sequential Photometric Calibration**, Jawad Haidar et.al., Paper: [http://arxiv.org/abs/2305.17673v1](http://arxiv.org/abs/2305.17673v1)
 - 2023-05-24, **UAV Trajectory Optimization and Tracking for User Localization in Wireless Networks**, Omid Esrafilian et.al., Paper: [http://arxiv.org/abs/2305.14959v1](http://arxiv.org/abs/2305.14959v1)
 - 2023-05-24, **Towards View-invariant and Accurate Loop Detection Based on Scene Graph**, Chuhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14885v1](http://arxiv.org/abs/2305.14885v1)
@@ -547,6 +548,8 @@
 
 ## Visual Localization
 
+- 2023-05-31, **Chatting Makes Perfect -- Chat-based Image Retrieval**, Matan Levy et.al., Paper: [http://arxiv.org/abs/2305.20062v1](http://arxiv.org/abs/2305.20062v1)
+- 2023-05-31, **Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**, Junan Chen et.al., Paper: [http://arxiv.org/abs/2305.20044v1](http://arxiv.org/abs/2305.20044v1)
 - 2023-05-30, **A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**, Omar Seddati et.al., Paper: [http://arxiv.org/abs/2305.18988v1](http://arxiv.org/abs/2305.18988v1)
 - 2023-05-29, **Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2305.18260v1](http://arxiv.org/abs/2305.18260v1), Code: **[https://github.com/danielcoelho112/synfeal](https://github.com/danielcoelho112/synfeal)**
 - 2023-05-29, **Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**, Shrinkhala Sharma et.al., Paper: [http://arxiv.org/abs/2305.18197v1](http://arxiv.org/abs/2305.18197v1)
