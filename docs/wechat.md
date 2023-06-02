@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.06.01
+> Updated on 2023.06.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -453,7 +453,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## SFM
 
@@ -544,7 +544,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -555,7 +555,7 @@
 - 2023-05-29, **Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**, Shrinkhala Sharma et.al., Paper: [http://arxiv.org/abs/2305.18197v1](http://arxiv.org/abs/2305.18197v1)
 - 2023-05-29, **TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**, Tiago Barros et.al., Paper: [http://arxiv.org/abs/2305.18013v1](http://arxiv.org/abs/2305.18013v1)
 - 2023-05-28, **ConaCLIP: Exploring Distillation of Fully-Connected Knowledge Interaction Graph for Lightweight Text-Image Retrieval**, Jiapeng Wang et.al., Paper: [http://arxiv.org/abs/2305.17652v1](http://arxiv.org/abs/2305.17652v1)
-- 2023-05-27, **FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**, Zhuang Li et.al., Paper: [http://arxiv.org/abs/2305.17497v1](http://arxiv.org/abs/2305.17497v1), Code: **[https://github.com/zhuang-li/factual](https://github.com/zhuang-li/factual)**
+- 2023-06-01, **FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**, Zhuang Li et.al., Paper: [http://arxiv.org/abs/2305.17497v2](http://arxiv.org/abs/2305.17497v2), Code: **[https://github.com/zhuang-li/factual](https://github.com/zhuang-li/factual)**
 - 2023-05-27, **Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**, Yueh-Cheng Huang et.al., Paper: [http://arxiv.org/abs/2305.17463v1](http://arxiv.org/abs/2305.17463v1)
 - 2023-05-26, **Generating Images with Multimodal Language Models**, Jing Yu Koh et.al., Paper: [http://arxiv.org/abs/2305.17216v1](http://arxiv.org/abs/2305.17216v1), Code: **[https://github.com/kohjingyu/gill](https://github.com/kohjingyu/gill)**
 - 2023-05-25, **Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**, Zheyuan Liu et.al., Paper: [http://arxiv.org/abs/2305.16304v1](http://arxiv.org/abs/2305.16304v1)
@@ -974,7 +974,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1094,7 +1094,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1214,20 +1214,20 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 ## NeRF
 
 - 2023-05-30, **DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**, Jiuhn Song et.al., Paper: [http://arxiv.org/abs/2305.19201v1](http://arxiv.org/abs/2305.19201v1)
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
 - 2023-05-31, **HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**, Junzhe Zhu et.al., Paper: [http://arxiv.org/abs/2305.18766v2](http://arxiv.org/abs/2305.18766v2)
-- 2023-05-30, **Towards a Robust Framework for NeRF Evaluation**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2305.18079v2](http://arxiv.org/abs/2305.18079v2)
+- 2023-05-31, **Towards a Robust Framework for NeRF Evaluation**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2305.18079v3](http://arxiv.org/abs/2305.18079v3)
 - 2023-05-31, **Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**, Kang Han et.al., Paper: [http://arxiv.org/abs/2305.17916v2](http://arxiv.org/abs/2305.17916v2)
 - 2023-05-30, **PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**, Fusang Wang et.al., Paper: [http://arxiv.org/abs/2305.16914v2](http://arxiv.org/abs/2305.16914v2)
 - 2023-05-25, **ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**, Zhenzhen Weng et.al., Paper: [http://arxiv.org/abs/2305.16411v1](http://arxiv.org/abs/2305.16411v1)
 - 2023-05-25, **Interactive Segment Anything NeRF with Feature Imitation**, Xiaokang Chen et.al., Paper: [http://arxiv.org/abs/2305.16233v1](http://arxiv.org/abs/2305.16233v1)
 - 2023-05-25, **ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**, Zhengyi Wang et.al., Paper: [http://arxiv.org/abs/2305.16213v1](http://arxiv.org/abs/2305.16213v1), Code: **[https://github.com/thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer)**
-- 2023-05-24, **Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2305.15171v1](http://arxiv.org/abs/2305.15171v1)
+- 2023-05-31, **Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2305.15171v2](http://arxiv.org/abs/2305.15171v2)
 - 2023-05-24, **InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**, Dongqing Wang et.al., Paper: [http://arxiv.org/abs/2305.15094v1](http://arxiv.org/abs/2305.15094v1)
 - 2023-05-24, **OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2305.14831v1](http://arxiv.org/abs/2305.14831v1)
 - 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
@@ -1597,7 +1597,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230602>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
