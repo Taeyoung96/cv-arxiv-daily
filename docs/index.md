@@ -1336,7 +1336,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783v1](http://arxiv.org/abs/2306.00783v1)|**[link](https://github.com/billyxyb/fdnerf)**|
-|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|null|
+|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|**[link](https://github.com/r4dl/nerfinternals)**|
 |**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547v1](http://arxiv.org/abs/2306.00547v1)|null|
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|

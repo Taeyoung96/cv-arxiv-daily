@@ -1223,7 +1223,7 @@
 ## NeRF
 
 - 2023-06-01, **FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00783v1](http://arxiv.org/abs/2306.00783v1), Code: **[https://github.com/billyxyb/fdnerf](https://github.com/billyxyb/fdnerf)**
-- 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1)
+- 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-06-01, **AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**, Mohit Mendiratta. Xingang Pan et.al., Paper: [http://arxiv.org/abs/2306.00547v1](http://arxiv.org/abs/2306.00547v1)
 - 2023-05-30, **DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**, Jiuhn Song et.al., Paper: [http://arxiv.org/abs/2305.19201v1](http://arxiv.org/abs/2305.19201v1)
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
