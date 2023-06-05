@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-06-01, **BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2306.01173v1](http://arxiv.org/abs/2306.01173v1)
 - 2023-06-01, **FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**, Tongyan Hua et.al., Paper: [http://arxiv.org/abs/2306.00579v1](http://arxiv.org/abs/2306.00579v1)
 - 2023-05-31, **On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**, Romain Hascoët et.al., Paper: [http://arxiv.org/abs/2305.19899v1](http://arxiv.org/abs/2305.19899v1)
 - 2023-05-28, **OSPC: Online Sequential Photometric Calibration**, Jawad Haidar et.al., Paper: [http://arxiv.org/abs/2305.17673v1](http://arxiv.org/abs/2305.17673v1)
