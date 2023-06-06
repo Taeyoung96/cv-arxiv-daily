@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-06-04, **NICE-SLAM with Adaptive Feature Grids**, Ganlin Zhang et.al., Paper: [http://arxiv.org/abs/2306.02395v1](http://arxiv.org/abs/2306.02395v1), Code: **[https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**
+- 2023-06-02, **DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**, Abanob Soliman et.al., Paper: [http://arxiv.org/abs/2306.01891v1](http://arxiv.org/abs/2306.01891v1)
 - 2023-06-01, **BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2306.01173v1](http://arxiv.org/abs/2306.01173v1)
 - 2023-06-01, **FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM**, Tongyan Hua et.al., Paper: [http://arxiv.org/abs/2306.00579v1](http://arxiv.org/abs/2306.00579v1)
 - 2023-05-31, **On the relevance of fatigue in the risk of failure of marine structures exposed to bottom wave slamming**, Romain Hascoët et.al., Paper: [http://arxiv.org/abs/2305.19899v1](http://arxiv.org/abs/2305.19899v1)
@@ -459,6 +461,7 @@
 
 ## SFM
 
+- 2023-06-02, **Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**, Marcela Mera-Trujillo et.al., Paper: [http://arxiv.org/abs/2306.01938v1](http://arxiv.org/abs/2306.01938v1)
 - 2023-05-31, **FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow**, Cameron Smith et.al., Paper: [http://arxiv.org/abs/2306.00180v1](http://arxiv.org/abs/2306.00180v1)
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
 - 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
@@ -551,6 +554,7 @@
 
 ## Visual Localization
 
+- 2023-06-03, **Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2306.02092v1](http://arxiv.org/abs/2306.02092v1)
 - 2023-06-03, **Class Anchor Margin Loss for Content-Based Image Retrieval**, Alexandru Ghita et.al., Paper: [http://arxiv.org/abs/2306.00630v2](http://arxiv.org/abs/2306.00630v2)
 - 2023-05-31, **Chatting Makes Perfect -- Chat-based Image Retrieval**, Matan Levy et.al., Paper: [http://arxiv.org/abs/2305.20062v1](http://arxiv.org/abs/2305.20062v1)
 - 2023-05-31, **Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**, Junan Chen et.al., Paper: [http://arxiv.org/abs/2305.20044v1](http://arxiv.org/abs/2305.20044v1)
@@ -982,6 +986,8 @@
 
 ## Keypoint Detection
 
+- 2023-06-03, **LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**, Amitabha Dey et.al., Paper: [http://arxiv.org/abs/2306.02193v1](http://arxiv.org/abs/2306.02193v1)
+- 2023-06-02, **Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images**, Marcela Mera-Trujillo et.al., Paper: [http://arxiv.org/abs/2306.01938v1](http://arxiv.org/abs/2306.01938v1)
 - 2023-06-01, **A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**, Onur Beker et.al., Paper: [http://arxiv.org/abs/2306.00892v1](http://arxiv.org/abs/2306.00892v1)
 - 2023-05-30, **Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**, Supeng Wang et.al., Paper: [http://arxiv.org/abs/2305.18714v1](http://arxiv.org/abs/2305.18714v1), Code: **[https://github.com/wangsp1999/cd-research](https://github.com/wangsp1999/cd-research)**
 - 2023-05-23, **Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**, Grace Luo et.al., Paper: [http://arxiv.org/abs/2305.14334v1](http://arxiv.org/abs/2305.14334v1)
@@ -1103,6 +1109,7 @@
 
 ## Image Matching
 
+- 2023-06-05, **A2B: Anchor to Barycentric Coordinate for Robust Correspondence**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2306.02760v1](http://arxiv.org/abs/2306.02760v1)
 - 2023-05-27, **Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**, Yueh-Cheng Huang et.al., Paper: [http://arxiv.org/abs/2305.17463v1](http://arxiv.org/abs/2305.17463v1)
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
 - 2023-05-18, **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2305.11116v1](http://arxiv.org/abs/2305.11116v1), Code: **[https://github.com/yujielu10/llmscore](https://github.com/yujielu10/llmscore)**
@@ -1223,6 +1230,8 @@
 
 ## NeRF
 
+- 2023-06-05, **BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**, AKM Shahariar Azad Rabby et.al., Paper: [http://arxiv.org/abs/2306.03000v1](http://arxiv.org/abs/2306.03000v1)
+- 2023-06-05, **ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**, Kanghyeok Ko et.al., Paper: [http://arxiv.org/abs/2306.02741v1](http://arxiv.org/abs/2306.02741v1)
 - 2023-06-01, **FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00783v1](http://arxiv.org/abs/2306.00783v1), Code: **[https://github.com/billyxyb/fdnerf](https://github.com/billyxyb/fdnerf)**
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-06-02, **AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**, Mohit Mendiratta et.al., Paper: [http://arxiv.org/abs/2306.00547v2](http://arxiv.org/abs/2306.00547v2)
