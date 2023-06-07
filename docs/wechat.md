@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-06-06, **PQM: A Point Quality Evaluation Metric for Dense Maps**, Yash Turkar et.al., Paper: [http://arxiv.org/abs/2306.03660v1](http://arxiv.org/abs/2306.03660v1)
 - 2023-06-04, **NICE-SLAM with Adaptive Feature Grids**, Ganlin Zhang et.al., Paper: [http://arxiv.org/abs/2306.02395v1](http://arxiv.org/abs/2306.02395v1), Code: **[https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids](https://github.com/zhangganlin/nice-slam-with-adaptive-feature-grids)**
 - 2023-06-02, **DH-PTAM: A Deep Hybrid Stereo Events-Frames Parallel Tracking And Mapping System**, Abanob Soliman et.al., Paper: [http://arxiv.org/abs/2306.01891v1](http://arxiv.org/abs/2306.01891v1)
 - 2023-06-01, **BAMF-SLAM: Bundle Adjusted Multi-Fisheye Visual-Inertial SLAM Using Recurrent Field Transforms**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2306.01173v1](http://arxiv.org/abs/2306.01173v1)
@@ -1230,6 +1231,9 @@
 
 ## NeRF
 
+- 2023-06-06, **Towards Visual Foundational Models of Physical Scenes**, Chethan Parameshwara et.al., Paper: [http://arxiv.org/abs/2306.03727v1](http://arxiv.org/abs/2306.03727v1)
+- 2023-06-06, **Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey**, Mingyang Sun et.al., Paper: [http://arxiv.org/abs/2306.03576v1](http://arxiv.org/abs/2306.03576v1)
+- 2023-06-05, **H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**, Chenxing Jiang et.al., Paper: [http://arxiv.org/abs/2306.03207v1](http://arxiv.org/abs/2306.03207v1)
 - 2023-06-05, **BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**, AKM Shahariar Azad Rabby et.al., Paper: [http://arxiv.org/abs/2306.03000v1](http://arxiv.org/abs/2306.03000v1)
 - 2023-06-05, **ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**, Kanghyeok Ko et.al., Paper: [http://arxiv.org/abs/2306.02741v1](http://arxiv.org/abs/2306.02741v1)
 - 2023-06-01, **FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2306.00783v1](http://arxiv.org/abs/2306.00783v1), Code: **[https://github.com/billyxyb/fdnerf](https://github.com/billyxyb/fdnerf)**
