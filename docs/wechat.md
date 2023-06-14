@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-06-13, **iSLAM: Imperative SLAM**, Taimeng Fu et.al., Paper: [http://arxiv.org/abs/2306.07894v1](http://arxiv.org/abs/2306.07894v1)
+- 2023-06-12, **H-SLAM: Hybrid Direct-Indirect Visual SLAM**, Georges Younes et.al., Paper: [http://arxiv.org/abs/2306.07363v1](http://arxiv.org/abs/2306.07363v1), Code: **[https://github.com/aubvrl/fslam_ros_docker](https://github.com/aubvrl/fslam_ros_docker)**
 - 2023-06-12, **Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**, Peter Stratton et.al., Paper: [http://arxiv.org/abs/2306.06850v1](http://arxiv.org/abs/2306.06850v1), Code: **[https://github.com/peterstratton/volume-droid](https://github.com/peterstratton/volume-droid)**
 - 2023-06-07, **Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**, Ofer Dagan et.al., Paper: [http://arxiv.org/abs/2306.04570v1](http://arxiv.org/abs/2306.04570v1)
 - 2023-06-06, **Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping**, Manon Kok et.al., Paper: [http://arxiv.org/abs/2306.03953v1](http://arxiv.org/abs/2306.03953v1)
@@ -559,6 +561,8 @@
 
 ## Visual Localization
 
+- 2023-06-13, **GeneCIS: A Benchmark for General Conditional Image Similarity**, Sagar Vaze et.al., Paper: [http://arxiv.org/abs/2306.07969v1](http://arxiv.org/abs/2306.07969v1)
+- 2023-06-13, **MOFI: Learning Image Representations from Noisy Entity Annotated Images**, Wentao Wu et.al., Paper: [http://arxiv.org/abs/2306.07952v1](http://arxiv.org/abs/2306.07952v1)
 - 2023-06-12, **Zero-shot Composed Text-Image Retrieval**, Yikun Liu et.al., Paper: [http://arxiv.org/abs/2306.07272v1](http://arxiv.org/abs/2306.07272v1)
 - 2023-06-12, **Sticker820K: Empowering Interactive Retrieval with Stickers**, Sijie Zhao et.al., Paper: [http://arxiv.org/abs/2306.06870v1](http://arxiv.org/abs/2306.06870v1)
 - 2023-06-11, **Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**, Yuguang Yang et.al., Paper: [http://arxiv.org/abs/2306.06691v1](http://arxiv.org/abs/2306.06691v1)
@@ -1240,6 +1244,7 @@
 
 ## NeRF
 
+- 2023-06-13, **Binary Radiance Fields**, Seungjoo Shin et.al., Paper: [http://arxiv.org/abs/2306.07581v1](http://arxiv.org/abs/2306.07581v1)
 - 2023-06-10, **From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**, Kun Zhou et.al., Paper: [http://arxiv.org/abs/2306.06388v1](http://arxiv.org/abs/2306.06388v1)
 - 2023-06-09, **NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**, Ali Karami et.al., Paper: [http://arxiv.org/abs/2306.06300v1](http://arxiv.org/abs/2306.06300v1), Code: **[https://github.com/3dom-fbk/nerfbk](https://github.com/3dom-fbk/nerfbk)**
 - 2023-06-09, **HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**, Bipasha Sen et.al., Paper: [http://arxiv.org/abs/2306.06093v1](http://arxiv.org/abs/2306.06093v1)
