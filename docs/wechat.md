@@ -1246,7 +1246,7 @@
 
 - 2023-06-13, **Binary Radiance Fields**, Seungjoo Shin et.al., Paper: [http://arxiv.org/abs/2306.07581v1](http://arxiv.org/abs/2306.07581v1)
 - 2023-06-10, **From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**, Kun Zhou et.al., Paper: [http://arxiv.org/abs/2306.06388v1](http://arxiv.org/abs/2306.06388v1)
-- 2023-06-09, **NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**, Ali Karami et.al., Paper: [http://arxiv.org/abs/2306.06300v1](http://arxiv.org/abs/2306.06300v1), Code: **[https://github.com/3dom-fbk/nerfbk](https://github.com/3dom-fbk/nerfbk)**
+- 2023-06-15, **NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**, Ali Karami et.al., Paper: [http://arxiv.org/abs/2306.06300v2](http://arxiv.org/abs/2306.06300v2), Code: **[https://github.com/3dom-fbk/nerfbk](https://github.com/3dom-fbk/nerfbk)**
 - 2023-06-09, **HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**, Bipasha Sen et.al., Paper: [http://arxiv.org/abs/2306.06093v1](http://arxiv.org/abs/2306.06093v1)
 - 2023-06-09, **GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**, Barbara Roessle et.al., Paper: [http://arxiv.org/abs/2306.06044v1](http://arxiv.org/abs/2306.06044v1)
 - 2023-06-09, **RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**, Xingchen Zhou et.al., Paper: [http://arxiv.org/abs/2306.05668v1](http://arxiv.org/abs/2306.05668v1)
