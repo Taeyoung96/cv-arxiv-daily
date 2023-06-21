@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-06-19, **UncLe-SLAM: Uncertainty Learning for Dense Neural SLAM**, Erik Sandström et.al., Paper: [http://arxiv.org/abs/2306.11048v1](http://arxiv.org/abs/2306.11048v1)
+- 2023-06-18, **LiDAR-Based Place Recognition For Autonomous Driving: A Survey**, Pengcheng Shi et.al., Paper: [http://arxiv.org/abs/2306.10561v1](http://arxiv.org/abs/2306.10561v1)
+- 2023-06-18, **Lighthouses and Global Graph Stabilization: Active SLAM for Low-compute, Narrow-FoV Robots**, Mohit Deshpande et.al., Paper: [http://arxiv.org/abs/2306.10463v1](http://arxiv.org/abs/2306.10463v1)
 - 2023-06-14, **Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**, Michele Grimaldi et.al., Paper: [http://arxiv.org/abs/2306.08738v1](http://arxiv.org/abs/2306.08738v1)
 - 2023-06-14, **FROG: A new people detection dataset for knee-high 2D range finders**, Fernando Amodeo et.al., Paper: [http://arxiv.org/abs/2306.08531v1](http://arxiv.org/abs/2306.08531v1), Code: **[https://github.com/robotics-upo/2dlaserpeoplebenchmark](https://github.com/robotics-upo/2dlaserpeoplebenchmark)**
 - 2023-06-14, **Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2306.08522v1](http://arxiv.org/abs/2306.08522v1), Code: **[https://github.com/neufieldrobotics/nufr-m3f](https://github.com/neufieldrobotics/nufr-m3f)**
@@ -566,6 +569,9 @@
 
 ## Visual Localization
 
+- 2023-06-20, **Annotation Cost Efficient Active Learning for Content Based Image Retrieval**, Julia Henkel et.al., Paper: [http://arxiv.org/abs/2306.11605v1](http://arxiv.org/abs/2306.11605v1)
+- 2023-06-19, **Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**, Shivaen Ramshetty et.al., Paper: [http://arxiv.org/abs/2306.11065v1](http://arxiv.org/abs/2306.11065v1), Code: **[https://github.com/claws-lab/multimodal-robustness-xmai](https://github.com/claws-lab/multimodal-robustness-xmai)**
+- 2023-06-18, **LiDAR-Based Place Recognition For Autonomous Driving: A Survey**, Pengcheng Shi et.al., Paper: [http://arxiv.org/abs/2306.10561v1](http://arxiv.org/abs/2306.10561v1)
 - 2023-06-15, **Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**, Dror Aiger et.al., Paper: [http://arxiv.org/abs/2306.09012v1](http://arxiv.org/abs/2306.09012v1)
 - 2023-06-15, **Prompt Performance Prediction for Generative IR**, Nicolas Bizzozzero et.al., Paper: [http://arxiv.org/abs/2306.08915v1](http://arxiv.org/abs/2306.08915v1)
 - 2023-06-15, **Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2306.08792v1](http://arxiv.org/abs/2306.08792v1), Code: **[https://github.com/WesleyZhang1991/GCN_rerank](https://github.com/WesleyZhang1991/GCN_rerank)**
@@ -1131,6 +1137,7 @@
 
 ## Image Matching
 
+- 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-06-07, **A2B: Anchor to Barycentric Coordinate for Robust Correspondence**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2306.02760v2](http://arxiv.org/abs/2306.02760v2)
 - 2023-05-27, **Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**, Yueh-Cheng Huang et.al., Paper: [http://arxiv.org/abs/2305.17463v1](http://arxiv.org/abs/2305.17463v1)
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
@@ -1252,6 +1259,8 @@
 
 ## NeRF
 
+- 2023-06-20, **NeRF synthesis with shading guidance**, Chenbin Li et.al., Paper: [http://arxiv.org/abs/2306.11556v1](http://arxiv.org/abs/2306.11556v1)
+- 2023-06-17, **MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**, Weichen Zhang et.al., Paper: [http://arxiv.org/abs/2306.10350v1](http://arxiv.org/abs/2306.10350v1)
 - 2023-06-15, **Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**, Lu Yu et.al., Paper: [http://arxiv.org/abs/2306.09551v1](http://arxiv.org/abs/2306.09551v1)
 - 2023-06-16, **UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2306.09349v2](http://arxiv.org/abs/2306.09349v2)
 - 2023-06-13, **DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**, Allan Jabri et.al., Paper: [http://arxiv.org/abs/2306.08068v1](http://arxiv.org/abs/2306.08068v1)

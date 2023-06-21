@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**UncLe-SLAM: Uncertainty Learning for Dense Neural SLAM**|Erik Sandström et.al.|[2306.11048v1](http://arxiv.org/abs/2306.11048v1)|null|
+|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561v1](http://arxiv.org/abs/2306.10561v1)|null|
+|**2023-06-18**|**Lighthouses and Global Graph Stabilization: Active SLAM for Low-compute, Narrow-FoV Robots**|Mohit Deshpande et.al.|[2306.10463v1](http://arxiv.org/abs/2306.10463v1)|null|
 |**2023-06-14**|**Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**|Michele Grimaldi et.al.|[2306.08738v1](http://arxiv.org/abs/2306.08738v1)|null|
 |**2023-06-14**|**FROG: A new people detection dataset for knee-high 2D range finders**|Fernando Amodeo et.al.|[2306.08531v1](http://arxiv.org/abs/2306.08531v1)|**[link](https://github.com/robotics-upo/2dlaserpeoplebenchmark)**|
 |**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|**[link](https://github.com/neufieldrobotics/nufr-m3f)**|
@@ -630,6 +633,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605v1](http://arxiv.org/abs/2306.11605v1)|null|
+|**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065v1](http://arxiv.org/abs/2306.11065v1)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
+|**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561v1](http://arxiv.org/abs/2306.10561v1)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
 |**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915v1](http://arxiv.org/abs/2306.08915v1)|null|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792v1](http://arxiv.org/abs/2306.08792v1)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
@@ -1225,6 +1231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141v1](http://arxiv.org/abs/2306.11141v1)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760v2](http://arxiv.org/abs/2306.02760v2)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463v1](http://arxiv.org/abs/2305.17463v1)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036v1](http://arxiv.org/abs/2305.12036v1)|**[link](https://github.com/niika/SIDAR)**|
@@ -1361,6 +1368,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
+|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v1](http://arxiv.org/abs/2306.10350v1)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551v1](http://arxiv.org/abs/2306.09551v1)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068v1](http://arxiv.org/abs/2306.08068v1)|null|
