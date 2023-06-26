@@ -636,6 +636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357v1](http://arxiv.org/abs/2306.13357v1)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055v1](http://arxiv.org/abs/2306.13055v1)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
 |**2023-06-22**|**Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**|Katrin Glinka et.al.|[2306.12843v1](http://arxiv.org/abs/2306.12843v1)|null|
