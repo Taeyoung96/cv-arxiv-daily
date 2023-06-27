@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.06.26
+> Updated on 2023.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -471,11 +471,11 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## SFM
 
-- 2023-06-22, **3D Reconstruction of Spherical Images based on Incremental Structure from Motion**, San Jiang et.al., Paper: [http://arxiv.org/abs/2306.12770v1](http://arxiv.org/abs/2306.12770v1)
+- 2023-06-24, **3D Reconstruction of Spherical Images based on Incremental Structure from Motion**, San Jiang et.al., Paper: [http://arxiv.org/abs/2306.12770v2](http://arxiv.org/abs/2306.12770v2)
 - 2023-06-15, **NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**, Varun Jampani et.al., Paper: [http://arxiv.org/abs/2306.09109v1](http://arxiv.org/abs/2306.09109v1)
 - 2023-06-15, **Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**, Dror Aiger et.al., Paper: [http://arxiv.org/abs/2306.09012v1](http://arxiv.org/abs/2306.09012v1)
 - 2023-06-10, **3D reconstruction using Structure for Motion**, Kshitij Karnawat et.al., Paper: [http://arxiv.org/abs/2306.06360v1](http://arxiv.org/abs/2306.06360v1), Code: **[https://github.com/kshitijkarnawat/structure-from-motion](https://github.com/kshitijkarnawat/structure-from-motion)**
@@ -568,7 +568,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -576,7 +576,7 @@
 - 2023-06-22, **Deep Metric Learning with Soft Orthogonal Proxies**, Farshad Saberi-Movahed et.al., Paper: [http://arxiv.org/abs/2306.13055v1](http://arxiv.org/abs/2306.13055v1)
 - 2023-06-22, **What to Learn: Features, Image Transformations, or Both?**, Yuxuan Chen et.al., Paper: [http://arxiv.org/abs/2306.13040v1](http://arxiv.org/abs/2306.13040v1)
 - 2023-06-22, **Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**, Katrin Glinka et.al., Paper: [http://arxiv.org/abs/2306.12843v1](http://arxiv.org/abs/2306.12843v1)
-- 2023-06-20, **Annotation Cost Efficient Active Learning for Content Based Image Retrieval**, Julia Henkel et.al., Paper: [http://arxiv.org/abs/2306.11605v1](http://arxiv.org/abs/2306.11605v1)
+- 2023-06-26, **Annotation Cost Efficient Active Learning for Content Based Image Retrieval**, Julia Henkel et.al., Paper: [http://arxiv.org/abs/2306.11605v2](http://arxiv.org/abs/2306.11605v2)
 - 2023-06-19, **Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**, Shivaen Ramshetty et.al., Paper: [http://arxiv.org/abs/2306.11065v1](http://arxiv.org/abs/2306.11065v1), Code: **[https://github.com/claws-lab/multimodal-robustness-xmai](https://github.com/claws-lab/multimodal-robustness-xmai)**
 - 2023-06-18, **LiDAR-Based Place Recognition For Autonomous Driving: A Survey**, Pengcheng Shi et.al., Paper: [http://arxiv.org/abs/2306.10561v1](http://arxiv.org/abs/2306.10561v1)
 - 2023-06-15, **Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**, Dror Aiger et.al., Paper: [http://arxiv.org/abs/2306.09012v1](http://arxiv.org/abs/2306.09012v1)
@@ -1015,7 +1015,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1140,7 +1140,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1262,7 +1262,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## NeRF
 
@@ -1271,7 +1271,7 @@
 - 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
 - 2023-06-21, **DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2306.12422v1](http://arxiv.org/abs/2306.12422v1)
 - 2023-06-20, **NeRF synthesis with shading guidance**, Chenbin Li et.al., Paper: [http://arxiv.org/abs/2306.11556v1](http://arxiv.org/abs/2306.11556v1)
-- 2023-06-17, **MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**, Weichen Zhang et.al., Paper: [http://arxiv.org/abs/2306.10350v1](http://arxiv.org/abs/2306.10350v1)
+- 2023-06-24, **MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**, Weichen Zhang et.al., Paper: [http://arxiv.org/abs/2306.10350v2](http://arxiv.org/abs/2306.10350v2)
 - 2023-06-15, **Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**, Lu Yu et.al., Paper: [http://arxiv.org/abs/2306.09551v1](http://arxiv.org/abs/2306.09551v1)
 - 2023-06-16, **UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2306.09349v2](http://arxiv.org/abs/2306.09349v2)
 - 2023-06-13, **DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**, Allan Jabri et.al., Paper: [http://arxiv.org/abs/2306.08068v1](http://arxiv.org/abs/2306.08068v1)
@@ -1670,7 +1670,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
