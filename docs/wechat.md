@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-06-26, **MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**, Prashant Kumar et.al., Paper: [http://arxiv.org/abs/2306.14812v1](http://arxiv.org/abs/2306.14812v1)
+- 2023-06-25, **BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**, Yuanzhi Liu et.al., Paper: [http://arxiv.org/abs/2306.14137v1](http://arxiv.org/abs/2306.14137v1)
 - 2023-06-22, **Map Point Selection for Visual SLAM**, Christiaan J. Müller et.al., Paper: [http://arxiv.org/abs/2306.12901v1](http://arxiv.org/abs/2306.12901v1), Code: **[https://github.com/ChristiaanM/MapSelect](https://github.com/ChristiaanM/MapSelect)**
 - 2023-06-22, **PEBO-SLAM: Observer design for visual inertial SLAM with convergence guarantees**, Bowen Yi et.al., Paper: [http://arxiv.org/abs/2306.12723v1](http://arxiv.org/abs/2306.12723v1)
 - 2023-06-19, **UncLe-SLAM: Uncertainty Learning for Dense Neural SLAM**, Erik Sandström et.al., Paper: [http://arxiv.org/abs/2306.11048v1](http://arxiv.org/abs/2306.11048v1)
@@ -572,6 +574,8 @@
 
 ## Visual Localization
 
+- 2023-06-26, **Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**, Zhong Ji et.al., Paper: [http://arxiv.org/abs/2306.14460v1](http://arxiv.org/abs/2306.14460v1)
+- 2023-06-25, **Enhancing Dynamic Image Advertising with Vision-Language Pre-training**, Zhoufutu Wen et.al., Paper: [http://arxiv.org/abs/2306.14112v1](http://arxiv.org/abs/2306.14112v1)
 - 2023-06-23, **Catching Image Retrieval Generalization**, Maksim Zhdanov et.al., Paper: [http://arxiv.org/abs/2306.13357v1](http://arxiv.org/abs/2306.13357v1)
 - 2023-06-22, **Deep Metric Learning with Soft Orthogonal Proxies**, Farshad Saberi-Movahed et.al., Paper: [http://arxiv.org/abs/2306.13055v1](http://arxiv.org/abs/2306.13055v1)
 - 2023-06-22, **What to Learn: Features, Image Transformations, or Both?**, Yuxuan Chen et.al., Paper: [http://arxiv.org/abs/2306.13040v1](http://arxiv.org/abs/2306.13040v1)
@@ -1144,6 +1148,7 @@
 
 ## Image Matching
 
+- 2023-06-25, **Enhancing Dynamic Image Advertising with Vision-Language Pre-training**, Zhoufutu Wen et.al., Paper: [http://arxiv.org/abs/2306.14112v1](http://arxiv.org/abs/2306.14112v1)
 - 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-06-07, **A2B: Anchor to Barycentric Coordinate for Robust Correspondence**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2306.02760v2](http://arxiv.org/abs/2306.02760v2)
 - 2023-05-27, **Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**, Yueh-Cheng Huang et.al., Paper: [http://arxiv.org/abs/2305.17463v1](http://arxiv.org/abs/2305.17463v1)
