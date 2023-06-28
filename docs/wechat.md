@@ -477,6 +477,8 @@
 
 ## SFM
 
+- 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1)
+- 2023-06-27, **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2306.15667v1](http://arxiv.org/abs/2306.15667v1)
 - 2023-06-24, **3D Reconstruction of Spherical Images based on Incremental Structure from Motion**, San Jiang et.al., Paper: [http://arxiv.org/abs/2306.12770v2](http://arxiv.org/abs/2306.12770v2)
 - 2023-06-15, **NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**, Varun Jampani et.al., Paper: [http://arxiv.org/abs/2306.09109v1](http://arxiv.org/abs/2306.09109v1)
 - 2023-06-15, **Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**, Dror Aiger et.al., Paper: [http://arxiv.org/abs/2306.09012v1](http://arxiv.org/abs/2306.09012v1)
@@ -574,6 +576,8 @@
 
 ## Visual Localization
 
+- 2023-06-27, **Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**, Tanjida Kabir et.al., Paper: [http://arxiv.org/abs/2306.15651v1](http://arxiv.org/abs/2306.15651v1)
+- 2023-06-27, **Mean Field Theory in Deep Metric Learning**, Takuya Furusawa et.al., Paper: [http://arxiv.org/abs/2306.15368v1](http://arxiv.org/abs/2306.15368v1)
 - 2023-06-26, **Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**, Zhong Ji et.al., Paper: [http://arxiv.org/abs/2306.14460v1](http://arxiv.org/abs/2306.14460v1)
 - 2023-06-25, **Enhancing Dynamic Image Advertising with Vision-Language Pre-training**, Zhoufutu Wen et.al., Paper: [http://arxiv.org/abs/2306.14112v1](http://arxiv.org/abs/2306.14112v1)
 - 2023-06-23, **Catching Image Retrieval Generalization**, Maksim Zhdanov et.al., Paper: [http://arxiv.org/abs/2306.13357v1](http://arxiv.org/abs/2306.13357v1)
@@ -1023,6 +1027,8 @@
 
 ## Keypoint Detection
 
+- 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1)
+- 2023-06-26, **CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**, Li Ding et.al., Paper: [http://arxiv.org/abs/2306.15073v1](http://arxiv.org/abs/2306.15073v1)
 - 2023-06-12, **Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**, Ziqiao Weng et.al., Paper: [http://arxiv.org/abs/2306.07089v1](http://arxiv.org/abs/2306.07089v1)
 - 2023-06-07, **Learning Probabilistic Coordinate Fields for Robust Correspondences**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2306.04231v1](http://arxiv.org/abs/2306.04231v1)
 - 2023-06-03, **LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**, Amitabha Dey et.al., Paper: [http://arxiv.org/abs/2306.02193v1](http://arxiv.org/abs/2306.02193v1)
@@ -1148,6 +1154,8 @@
 
 ## Image Matching
 
+- 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1)
+- 2023-06-27, **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2306.15667v1](http://arxiv.org/abs/2306.15667v1)
 - 2023-06-25, **Enhancing Dynamic Image Advertising with Vision-Language Pre-training**, Zhoufutu Wen et.al., Paper: [http://arxiv.org/abs/2306.14112v1](http://arxiv.org/abs/2306.14112v1)
 - 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-06-07, **A2B: Anchor to Barycentric Coordinate for Robust Correspondence**, Weiyue Zhao et.al., Paper: [http://arxiv.org/abs/2306.02760v2](http://arxiv.org/abs/2306.02760v2)
@@ -1271,6 +1279,7 @@
 
 ## NeRF
 
+- 2023-06-27, **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2306.15203v1](http://arxiv.org/abs/2306.15203v1)
 - 2023-06-22, **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**, Ori Gordon et.al., Paper: [http://arxiv.org/abs/2306.12760v1](http://arxiv.org/abs/2306.12760v1)
 - 2023-06-21, **Local 3D Editing via 3D Distillation of CLIP Knowledge**, Junha Hyung et.al., Paper: [http://arxiv.org/abs/2306.12570v1](http://arxiv.org/abs/2306.12570v1)
 - 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
