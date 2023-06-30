@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-06-29, **The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**, David Recasens et.al., Paper: [http://arxiv.org/abs/2306.16917v1](http://arxiv.org/abs/2306.16917v1), Code: **[https://github.com/UZ-SLAMLab/DrunkardsOdometry](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**
+- 2023-06-28, **SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**, Jingwen Wang et.al., Paper: [http://arxiv.org/abs/2306.16585v1](http://arxiv.org/abs/2306.16585v1)
+- 2023-06-28, **Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**, Guanqi He et.al., Paper: [http://arxiv.org/abs/2306.16530v1](http://arxiv.org/abs/2306.16530v1)
 - 2023-06-26, **MOVESe: MOVablE and Moving LiDAR Scene Segmentation with Improved Navigation in Seg-label free settings**, Prashant Kumar et.al., Paper: [http://arxiv.org/abs/2306.14812v1](http://arxiv.org/abs/2306.14812v1)
 - 2023-06-25, **BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**, Yuanzhi Liu et.al., Paper: [http://arxiv.org/abs/2306.14137v1](http://arxiv.org/abs/2306.14137v1), Code: **[https://github.com/robot-pesg/botanicgarden](https://github.com/robot-pesg/botanicgarden)**
 - 2023-06-22, **Map Point Selection for Visual SLAM**, Christiaan J. Müller et.al., Paper: [http://arxiv.org/abs/2306.12901v1](http://arxiv.org/abs/2306.12901v1), Code: **[https://github.com/ChristiaanM/MapSelect](https://github.com/ChristiaanM/MapSelect)**
@@ -477,6 +480,7 @@
 
 ## SFM
 
+- 2023-06-29, **The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**, David Recasens et.al., Paper: [http://arxiv.org/abs/2306.16917v1](http://arxiv.org/abs/2306.16917v1), Code: **[https://github.com/UZ-SLAMLab/DrunkardsOdometry](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1)
 - 2023-06-28, **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2306.15667v2](http://arxiv.org/abs/2306.15667v2)
 - 2023-06-24, **3D Reconstruction of Spherical Images based on Incremental Structure from Motion**, San Jiang et.al., Paper: [http://arxiv.org/abs/2306.12770v2](http://arxiv.org/abs/2306.12770v2)
@@ -1279,6 +1283,7 @@
 
 ## NeRF
 
+- 2023-06-28, **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**, Chuanyue Shen et.al., Paper: [http://arxiv.org/abs/2306.16541v1](http://arxiv.org/abs/2306.16541v1)
 - 2023-06-27, **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2306.15203v1](http://arxiv.org/abs/2306.15203v1)
 - 2023-06-22, **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**, Ori Gordon et.al., Paper: [http://arxiv.org/abs/2306.12760v1](http://arxiv.org/abs/2306.12760v1)
 - 2023-06-21, **Local 3D Editing via 3D Distillation of CLIP Knowledge**, Junha Hyung et.al., Paper: [http://arxiv.org/abs/2306.12570v1](http://arxiv.org/abs/2306.12570v1)
