@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-06-30, **Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17529v1](http://arxiv.org/abs/2306.17529v1)
 - 2023-06-29, **The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**, David Recasens et.al., Paper: [http://arxiv.org/abs/2306.16917v1](http://arxiv.org/abs/2306.16917v1), Code: **[https://github.com/UZ-SLAMLab/DrunkardsOdometry](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**
 - 2023-06-28, **SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**, Jingwen Wang et.al., Paper: [http://arxiv.org/abs/2306.16585v1](http://arxiv.org/abs/2306.16585v1)
 - 2023-06-28, **Image-based Visual Servo Control for Aerial Manipulation Using a Fully-Actuated UAV**, Guanqi He et.al., Paper: [http://arxiv.org/abs/2306.16530v1](http://arxiv.org/abs/2306.16530v1)
@@ -580,6 +581,8 @@
 
 ## Visual Localization
 
+- 2023-06-30, **DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17536v1](http://arxiv.org/abs/2306.17536v1)
+- 2023-06-30, **Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17529v1](http://arxiv.org/abs/2306.17529v1)
 - 2023-06-27, **Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**, Tanjida Kabir et.al., Paper: [http://arxiv.org/abs/2306.15651v1](http://arxiv.org/abs/2306.15651v1)
 - 2023-06-27, **Mean Field Theory in Deep Metric Learning**, Takuya Furusawa et.al., Paper: [http://arxiv.org/abs/2306.15368v1](http://arxiv.org/abs/2306.15368v1)
 - 2023-06-26, **Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**, Zhong Ji et.al., Paper: [http://arxiv.org/abs/2306.14460v1](http://arxiv.org/abs/2306.14460v1)
@@ -1283,6 +1286,8 @@
 
 ## NeRF
 
+- 2023-06-30, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v1](http://arxiv.org/abs/2306.17723v1)
+- 2023-06-30, **Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**, Gengchen Mai et.al., Paper: [http://arxiv.org/abs/2306.17624v1](http://arxiv.org/abs/2306.17624v1)
 - 2023-06-28, **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**, Chuanyue Shen et.al., Paper: [http://arxiv.org/abs/2306.16541v1](http://arxiv.org/abs/2306.16541v1)
 - 2023-06-27, **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2306.15203v1](http://arxiv.org/abs/2306.15203v1)
 - 2023-06-22, **Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**, Ori Gordon et.al., Paper: [http://arxiv.org/abs/2306.12760v1](http://arxiv.org/abs/2306.12760v1)
