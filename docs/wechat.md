@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-07-03, **Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**, Federico Rollo et.al., Paper: [http://arxiv.org/abs/2307.01121v1](http://arxiv.org/abs/2307.01121v1)
+- 2023-07-02, **POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**, Jingxing Qian et.al., Paper: [http://arxiv.org/abs/2307.00488v1](http://arxiv.org/abs/2307.00488v1)
 - 2023-06-30, **Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17529v1](http://arxiv.org/abs/2306.17529v1)
 - 2023-06-29, **The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**, David Recasens et.al., Paper: [http://arxiv.org/abs/2306.16917v1](http://arxiv.org/abs/2306.16917v1), Code: **[https://github.com/UZ-SLAMLab/DrunkardsOdometry](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**
 - 2023-06-28, **SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**, Jingwen Wang et.al., Paper: [http://arxiv.org/abs/2306.16585v1](http://arxiv.org/abs/2306.16585v1)
@@ -581,6 +583,7 @@
 
 ## Visual Localization
 
+- 2023-07-03, **Cross-modal Place Recognition in Image Databases using Event-based Sensors**, Xiang Ji et.al., Paper: [http://arxiv.org/abs/2307.01047v1](http://arxiv.org/abs/2307.01047v1)
 - 2023-06-30, **DisPlacing Objects: Improving Dynamic Vehicle Detection via Visual Place Recognition under Adverse Conditions**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17536v1](http://arxiv.org/abs/2306.17536v1)
 - 2023-06-30, **Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17529v1](http://arxiv.org/abs/2306.17529v1)
 - 2023-06-27, **Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**, Tanjida Kabir et.al., Paper: [http://arxiv.org/abs/2306.15651v1](http://arxiv.org/abs/2306.15651v1)
@@ -1034,6 +1037,7 @@
 
 ## Keypoint Detection
 
+- 2023-07-01, **SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**, Fabian Duffhauss et.al., Paper: [http://arxiv.org/abs/2307.00306v1](http://arxiv.org/abs/2307.00306v1)
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-26, **CLERA: A Unified Model for Joint Cognitive Load and Eye Region Analysis in the Wild**, Li Ding et.al., Paper: [http://arxiv.org/abs/2306.15073v1](http://arxiv.org/abs/2306.15073v1)
 - 2023-06-28, **Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**, Ziqiao Weng et.al., Paper: [http://arxiv.org/abs/2306.07089v2](http://arxiv.org/abs/2306.07089v2)
@@ -1161,6 +1165,7 @@
 
 ## Image Matching
 
+- 2023-07-02, **TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2307.00485v1](http://arxiv.org/abs/2307.00485v1), Code: **[https://github.com/truongkhang/topicfm](https://github.com/truongkhang/topicfm)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-28, **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2306.15667v2](http://arxiv.org/abs/2306.15667v2)
 - 2023-06-25, **Enhancing Dynamic Image Advertising with Vision-Language Pre-training**, Zhoufutu Wen et.al., Paper: [http://arxiv.org/abs/2306.14112v1](http://arxiv.org/abs/2306.14112v1)
