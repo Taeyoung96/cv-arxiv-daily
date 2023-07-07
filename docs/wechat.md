@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-07-06, **Benign landscapes of low-dimensional relaxations for orthogonal synchronization on general graphs**, Andrew D. McRae et.al., Paper: [http://arxiv.org/abs/2307.02941v1](http://arxiv.org/abs/2307.02941v1)
 - 2023-07-03, **Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**, Federico Rollo et.al., Paper: [http://arxiv.org/abs/2307.01121v1](http://arxiv.org/abs/2307.01121v1)
 - 2023-07-02, **POV-SLAM: Probabilistic Object-Aware Variational SLAM in Semi-Static Environments**, Jingxing Qian et.al., Paper: [http://arxiv.org/abs/2307.00488v1](http://arxiv.org/abs/2307.00488v1)
 - 2023-06-30, **Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2306.17529v1](http://arxiv.org/abs/2306.17529v1)
