@@ -484,6 +484,7 @@
 
 ## SFM
 
+- 2023-07-07, **RGB-D Mapping and Tracking in a Plenoxel Radiance Field**, Andreas L. Teigen et.al., Paper: [http://arxiv.org/abs/2307.03404v1](http://arxiv.org/abs/2307.03404v1)
 - 2023-06-29, **The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**, David Recasens et.al., Paper: [http://arxiv.org/abs/2306.16917v1](http://arxiv.org/abs/2306.16917v1), Code: **[https://github.com/UZ-SLAMLab/DrunkardsOdometry](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-28, **PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2306.15667v2](http://arxiv.org/abs/2306.15667v2)
@@ -1294,6 +1295,8 @@
 
 ## NeRF
 
+- 2023-07-07, **NOFA: NeRF-based One-shot Facial Avatar Reconstruction**, Wangbo Yu et.al., Paper: [http://arxiv.org/abs/2307.03441v1](http://arxiv.org/abs/2307.03441v1)
+- 2023-07-07, **RGB-D Mapping and Tracking in a Plenoxel Radiance Field**, Andreas L. Teigen et.al., Paper: [http://arxiv.org/abs/2307.03404v1](http://arxiv.org/abs/2307.03404v1)
 - 2023-06-30, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v1](http://arxiv.org/abs/2306.17723v1)
 - 2023-07-03, **Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**, Gengchen Mai et.al., Paper: [http://arxiv.org/abs/2306.17624v2](http://arxiv.org/abs/2306.17624v2)
 - 2023-06-28, **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**, Chuanyue Shen et.al., Paper: [http://arxiv.org/abs/2306.16541v1](http://arxiv.org/abs/2306.16541v1)
