@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.17
+> Updated on 2023.07.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -482,7 +482,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## SFM
 
@@ -584,7 +584,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1047,7 +1047,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1175,7 +1175,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1303,14 +1303,14 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## NeRF
 
 - 2023-07-11, **SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**, Zhengxin Lei et.al., Paper: [http://arxiv.org/abs/2307.05087v1](http://arxiv.org/abs/2307.05087v1)
 - 2023-07-07, **NOFA: NeRF-based One-shot Facial Avatar Reconstruction**, Wangbo Yu et.al., Paper: [http://arxiv.org/abs/2307.03441v1](http://arxiv.org/abs/2307.03441v1)
 - 2023-07-07, **RGB-D Mapping and Tracking in a Plenoxel Radiance Field**, Andreas L. Teigen et.al., Paper: [http://arxiv.org/abs/2307.03404v1](http://arxiv.org/abs/2307.03404v1)
-- 2023-06-30, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v1](http://arxiv.org/abs/2306.17723v1)
+- 2023-07-16, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v2](http://arxiv.org/abs/2306.17723v2)
 - 2023-07-03, **Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**, Gengchen Mai et.al., Paper: [http://arxiv.org/abs/2306.17624v2](http://arxiv.org/abs/2306.17624v2)
 - 2023-06-28, **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**, Chuanyue Shen et.al., Paper: [http://arxiv.org/abs/2306.16541v1](http://arxiv.org/abs/2306.16541v1)
 - 2023-06-27, **Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2306.15203v1](http://arxiv.org/abs/2306.15203v1)
@@ -1718,7 +1718,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
