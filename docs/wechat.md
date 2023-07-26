@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-07-25, **Preliminary Design of the Dragonfly Navigation Filter**, Ben Schilling et.al., Paper: [http://arxiv.org/abs/2307.13513v1](http://arxiv.org/abs/2307.13513v1)
 - 2023-07-24, **GNSS-stereo-inertial SLAM for arable farming**, Javier Cremona et.al., Paper: [http://arxiv.org/abs/2307.12836v1](http://arxiv.org/abs/2307.12836v1), Code: **[https://github.com/CIFASIS/gnss-stereo-inertial-fusion](https://github.com/CIFASIS/gnss-stereo-inertial-fusion)**
 - 2023-07-23, **Scale jump-aware pose graph relaxation for monocular SLAM with re-initializations**, Runze Yuan et.al., Paper: [http://arxiv.org/abs/2307.12326v1](http://arxiv.org/abs/2307.12326v1)
 - 2023-07-20, **Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**, Wei Yin et.al., Paper: [http://arxiv.org/abs/2307.10984v1](http://arxiv.org/abs/2307.10984v1), Code: **[https://github.com/yvanyin/metric3d](https://github.com/yvanyin/metric3d)**
@@ -600,6 +601,7 @@
 
 ## Visual Localization
 
+- 2023-07-25, **Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2307.13254v1](http://arxiv.org/abs/2307.13254v1)
 - 2023-07-21, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v1](http://arxiv.org/abs/2307.11702v1)
 - 2023-07-19, **Lazy Visual Localization via Motion Averaging**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2307.09981v1](http://arxiv.org/abs/2307.09981v1)
 - 2023-07-19, **Quantum Optics based Algorithm for Measuring the Similarity between Images**, Vivek Mehta et.al., Paper: [http://arxiv.org/abs/2307.09789v1](http://arxiv.org/abs/2307.09789v1)
@@ -1073,6 +1075,7 @@
 
 ## Keypoint Detection
 
+- 2023-07-25, **Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2307.13300v1](http://arxiv.org/abs/2307.13300v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
 - 2023-07-19, **SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**, Zi Li et.al., Paper: [http://arxiv.org/abs/2307.09727v1](http://arxiv.org/abs/2307.09727v1)
 - 2023-07-01, **SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**, Fabian Duffhauss et.al., Paper: [http://arxiv.org/abs/2307.00306v1](http://arxiv.org/abs/2307.00306v1), Code: **[https://github.com/boschresearch/symfm6d](https://github.com/boschresearch/symfm6d)**
