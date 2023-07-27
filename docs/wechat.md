@@ -601,6 +601,8 @@
 
 ## Visual Localization
 
+- 2023-07-26, **Neural-based Cross-modal Search and Retrieval of Artwork**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14244v1](http://arxiv.org/abs/2307.14244v1)
+- 2023-07-26, **Boon: A Neural Search Engine for Cross-Modal Information Retrieval**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14240v1](http://arxiv.org/abs/2307.14240v1)
 - 2023-07-25, **Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2307.13254v1](http://arxiv.org/abs/2307.13254v1)
 - 2023-07-21, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v1](http://arxiv.org/abs/2307.11702v1)
 - 2023-07-19, **Lazy Visual Localization via Motion Averaging**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2307.09981v1](http://arxiv.org/abs/2307.09981v1)
@@ -1339,6 +1341,7 @@
 
 ## NeRF
 
+- 2023-07-26, **Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**, Chaohui Yu et.al., Paper: [http://arxiv.org/abs/2307.13908v1](http://arxiv.org/abs/2307.13908v1)
 - 2023-07-24, **Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**, Shangzhan Zhang et.al., Paper: [http://arxiv.org/abs/2307.12909v1](http://arxiv.org/abs/2307.12909v1)
 - 2023-07-24, **CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**, Davide Di Nucci et.al., Paper: [http://arxiv.org/abs/2307.12718v1](http://arxiv.org/abs/2307.12718v1)
 - 2023-07-23, **TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**, Xiao Pan et.al., Paper: [http://arxiv.org/abs/2307.12291v1](http://arxiv.org/abs/2307.12291v1)
