@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.07.30
+> Updated on 2023.07.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -494,12 +494,12 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## SFM
 
 - 2023-07-27, **PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**, Yang Zheng et.al., Paper: [http://arxiv.org/abs/2307.15055v1](http://arxiv.org/abs/2307.15055v1)
-- 2023-07-21, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v1](http://arxiv.org/abs/2307.11702v1)
+- 2023-07-28, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v2](http://arxiv.org/abs/2307.11702v2)
 - 2023-07-19, **Lazy Visual Localization via Motion Averaging**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2307.09981v1](http://arxiv.org/abs/2307.09981v1)
 - 2023-07-10, **Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**, San Jiang et.al., Paper: [http://arxiv.org/abs/2307.04520v1](http://arxiv.org/abs/2307.04520v1)
 - 2023-07-07, **RGB-D Mapping and Tracking in a Plenoxel Radiance Field**, Andreas L. Teigen et.al., Paper: [http://arxiv.org/abs/2307.03404v1](http://arxiv.org/abs/2307.03404v1)
@@ -599,14 +599,14 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2023-07-26, **Neural-based Cross-modal Search and Retrieval of Artwork**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14244v1](http://arxiv.org/abs/2307.14244v1)
 - 2023-07-26, **Boon: A Neural Search Engine for Cross-Modal Information Retrieval**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14240v1](http://arxiv.org/abs/2307.14240v1)
 - 2023-07-25, **Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2307.13254v1](http://arxiv.org/abs/2307.13254v1)
-- 2023-07-21, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v1](http://arxiv.org/abs/2307.11702v1)
+- 2023-07-28, **SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**, Jerome Revaud et.al., Paper: [http://arxiv.org/abs/2307.11702v2](http://arxiv.org/abs/2307.11702v2)
 - 2023-07-19, **Lazy Visual Localization via Motion Averaging**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2307.09981v1](http://arxiv.org/abs/2307.09981v1)
 - 2023-07-19, **Quantum Optics based Algorithm for Measuring the Similarity between Images**, Vivek Mehta et.al., Paper: [http://arxiv.org/abs/2307.09789v1](http://arxiv.org/abs/2307.09789v1)
 - 2023-07-18, **Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**, Max Moebius et.al., Paper: [http://arxiv.org/abs/2307.09172v1](http://arxiv.org/abs/2307.09172v1)
@@ -1075,7 +1075,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1206,7 +1206,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1339,7 +1339,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## NeRF
 
@@ -1771,7 +1771,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
