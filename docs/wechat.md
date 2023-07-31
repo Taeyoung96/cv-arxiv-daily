@@ -603,6 +603,7 @@
 
 ## Visual Localization
 
+- 2023-07-28, **D2S: Representing local descriptors and global scene coordinates for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2307.15250v1](http://arxiv.org/abs/2307.15250v1)
 - 2023-07-26, **Neural-based Cross-modal Search and Retrieval of Artwork**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14244v1](http://arxiv.org/abs/2307.14244v1)
 - 2023-07-26, **Boon: A Neural Search Engine for Cross-Modal Information Retrieval**, Yan Gong et.al., Paper: [http://arxiv.org/abs/2307.14240v1](http://arxiv.org/abs/2307.14240v1)
 - 2023-07-25, **Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2307.13254v1](http://arxiv.org/abs/2307.13254v1)
@@ -1210,6 +1211,7 @@
 
 ## Image Matching
 
+- 2023-07-28, **Cross-Modal Concept Learning and Inference for Vision-Language Models**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2307.15460v1](http://arxiv.org/abs/2307.15460v1)
 - 2023-07-22, **CryptoMask : Privacy-preserving Face Recognition**, Jianli Bai et.al., Paper: [http://arxiv.org/abs/2307.12010v1](http://arxiv.org/abs/2307.12010v1)
 - 2023-07-22, **A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**, Jing Hao et.al., Paper: [http://arxiv.org/abs/2307.11997v1](http://arxiv.org/abs/2307.11997v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
@@ -1343,6 +1345,8 @@
 
 ## NeRF
 
+- 2023-07-28, **Dynamic PlenOctree for Adaptive Sampling Refinement in Explicit NeRF**, Haotian Bai et.al., Paper: [http://arxiv.org/abs/2307.15333v1](http://arxiv.org/abs/2307.15333v1)
+- 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
 - 2023-07-27, **MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**, Zirui Wu et.al., Paper: [http://arxiv.org/abs/2307.15058v1](http://arxiv.org/abs/2307.15058v1)
 - 2023-07-27, **NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection**, Chenfeng Xu et.al., Paper: [http://arxiv.org/abs/2307.14620v1](http://arxiv.org/abs/2307.14620v1), Code: **[https://github.com/facebookresearch/nerf-det](https://github.com/facebookresearch/nerf-det)**
 - 2023-07-26, **Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**, Chaohui Yu et.al., Paper: [http://arxiv.org/abs/2307.13908v1](http://arxiv.org/abs/2307.13908v1)
