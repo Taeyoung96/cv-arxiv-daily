@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.02
+> Updated on 2023.08.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 - 2023-07-31, **Convex relaxations for large-scale graphically structured nonconvex problems with spherical constraints: An optimal transport approach**, Robin Kenis et.al., Paper: [http://arxiv.org/abs/2308.00079v1](http://arxiv.org/abs/2308.00079v1)
 - 2023-07-31, **Learning whom to trust in navigation: dynamically switching between classical and neural planning**, Sombit Dey et.al., Paper: [http://arxiv.org/abs/2307.16710v1](http://arxiv.org/abs/2307.16710v1)
 - 2023-07-27, **FLiCR: A Fast and Lightweight LiDAR Point Cloud Compression Based on Lossy RI**, Jin Heo et.al., Paper: [http://arxiv.org/abs/2307.15005v1](http://arxiv.org/abs/2307.15005v1)
-- 2023-07-25, **Preliminary Design of the Dragonfly Navigation Filter**, Ben Schilling et.al., Paper: [http://arxiv.org/abs/2307.13513v1](http://arxiv.org/abs/2307.13513v1)
+- 2023-08-02, **Preliminary Design of the Dragonfly Navigation Filter**, Ben Schilling et.al., Paper: [http://arxiv.org/abs/2307.13513v2](http://arxiv.org/abs/2307.13513v2)
 - 2023-07-24, **GNSS-stereo-inertial SLAM for arable farming**, Javier Cremona et.al., Paper: [http://arxiv.org/abs/2307.12836v1](http://arxiv.org/abs/2307.12836v1), Code: **[https://github.com/CIFASIS/gnss-stereo-inertial-fusion](https://github.com/CIFASIS/gnss-stereo-inertial-fusion)**
 - 2023-07-23, **Scale jump-aware pose graph relaxation for monocular SLAM with re-initializations**, Runze Yuan et.al., Paper: [http://arxiv.org/abs/2307.12326v1](http://arxiv.org/abs/2307.12326v1)
 - 2023-07-20, **Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**, Wei Yin et.al., Paper: [http://arxiv.org/abs/2307.10984v1](http://arxiv.org/abs/2307.10984v1), Code: **[https://github.com/yvanyin/metric3d](https://github.com/yvanyin/metric3d)**
@@ -497,7 +497,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## SFM
 
@@ -602,11 +602,11 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1)
+- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-31, **Guiding Image Captioning Models Toward More Specific Captions**, Simon Kornblith et.al., Paper: [http://arxiv.org/abs/2307.16686v1](http://arxiv.org/abs/2307.16686v1)
 - 2023-07-31, **Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**, Kousik Rajesh et.al., Paper: [http://arxiv.org/abs/2307.16395v1](http://arxiv.org/abs/2307.16395v1)
 - 2023-07-28, **D2S: Representing local descriptors and global scene coordinates for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2307.15250v1](http://arxiv.org/abs/2307.15250v1)
@@ -1082,11 +1082,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2023-07-29, **Transformer on Shuttlecock Flying Direction Prediction for Hit-frame Detection**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v1](http://arxiv.org/abs/2307.16000v1), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
+- 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-25, **Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2307.13300v1](http://arxiv.org/abs/2307.13300v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
 - 2023-07-19, **SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**, Zi Li et.al., Paper: [http://arxiv.org/abs/2307.09727v1](http://arxiv.org/abs/2307.09727v1)
@@ -1214,11 +1214,11 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## Image Matching
 
-- 2023-08-01, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v1](http://arxiv.org/abs/2308.00400v1), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
+- 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-28, **Cross-Modal Concept Learning and Inference for Vision-Language Models**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2307.15460v1](http://arxiv.org/abs/2307.15460v1)
 - 2023-07-22, **CryptoMask : Privacy-preserving Face Recognition**, Jianli Bai et.al., Paper: [http://arxiv.org/abs/2307.12010v1](http://arxiv.org/abs/2307.12010v1)
 - 2023-07-22, **A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**, Jing Hao et.al., Paper: [http://arxiv.org/abs/2307.11997v1](http://arxiv.org/abs/2307.11997v1)
@@ -1349,7 +1349,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 ## NeRF
 
@@ -1784,7 +1784,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
