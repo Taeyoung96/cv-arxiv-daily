@@ -1466,6 +1466,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**ES-MVSNet: Efficient Framework for End-to-end Self-supervised Multi-View Stereo**|Qiang Zhou et.al.|[2308.02191v1](http://arxiv.org/abs/2308.02191v1)|null|
 |**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262v1](http://arxiv.org/abs/2308.01262v1)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
 |**2023-08-01**|**High-Fidelity Eye Animatable Neural Radiance Fields for Human Face**|Hengfei Wang et.al.|[2308.00773v1](http://arxiv.org/abs/2308.00773v1)|null|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462v1](http://arxiv.org/abs/2308.00462v1)|null|
