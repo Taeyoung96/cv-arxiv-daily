@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-08-01, **NR-SLAM: Non-Rigid Monocular SLAM**, Juan J. Gomez Rodriguez et.al., Paper: [http://arxiv.org/abs/2308.04036v1](http://arxiv.org/abs/2308.04036v1)
+- 2023-08-08, **Multi-level Map Construction for Dynamic Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2308.04000v1](http://arxiv.org/abs/2308.04000v1)
 - 2023-08-05, **VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry**, Yifei Yuan et.al., Paper: [http://arxiv.org/abs/2308.02799v1](http://arxiv.org/abs/2308.02799v1)
 - 2023-08-04, **EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**, Weihan Wang et.al., Paper: [http://arxiv.org/abs/2308.02670v1](http://arxiv.org/abs/2308.02670v1)
 - 2023-08-03, **Uncertainty analysis for accurate ground truth trajectories with robotic total stations**, Maxime Vaidis et.al., Paper: [http://arxiv.org/abs/2308.01553v1](http://arxiv.org/abs/2308.01553v1)
@@ -612,6 +614,8 @@
 
 ## Visual Localization
 
+- 2023-08-08, **Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**, Yi Bin et.al., Paper: [http://arxiv.org/abs/2308.04343v1](http://arxiv.org/abs/2308.04343v1), Code: **[https://github.com/luminosityx/hat](https://github.com/luminosityx/hat)**
+- 2023-08-08, **Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**, Yunquan Zhu et.al., Paper: [http://arxiv.org/abs/2308.04008v1](http://arxiv.org/abs/2308.04008v1), Code: **[https://github.com/bassyess/cfcd](https://github.com/bassyess/cfcd)**
 - 2023-08-05, **A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**, Sai Suprabhanu Nallapaneni et.al., Paper: [http://arxiv.org/abs/2308.02833v1](http://arxiv.org/abs/2308.02833v1)
 - 2023-08-03, **Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**, Eunsuk Seo et.al., Paper: [http://arxiv.org/abs/2308.01871v1](http://arxiv.org/abs/2308.01871v1)
 - 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
@@ -1361,6 +1365,7 @@
 
 ## NeRF
 
+- 2023-08-08, **Digging into Depth Priors for Outdoor Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2308.04413v1](http://arxiv.org/abs/2308.04413v1)
 - 2023-08-07, **Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**, Junyi Zeng et.al., Paper: [http://arxiv.org/abs/2308.03280v1](http://arxiv.org/abs/2308.03280v1)
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
 - 2023-08-05, **Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**, Yuxin Wang et.al., Paper: [http://arxiv.org/abs/2308.02840v1](http://arxiv.org/abs/2308.02840v1)
