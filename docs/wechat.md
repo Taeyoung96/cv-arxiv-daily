@@ -614,6 +614,7 @@
 
 ## Visual Localization
 
+- 2023-08-09, **AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**, Jingdan Zhang et.al., Paper: [http://arxiv.org/abs/2308.04992v1](http://arxiv.org/abs/2308.04992v1), Code: **[https://github.com/thezjd/aspectmmkg](https://github.com/thezjd/aspectmmkg)**
 - 2023-08-08, **Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**, Yi Bin et.al., Paper: [http://arxiv.org/abs/2308.04343v1](http://arxiv.org/abs/2308.04343v1), Code: **[https://github.com/luminosityx/hat](https://github.com/luminosityx/hat)**
 - 2023-08-08, **Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**, Yunquan Zhu et.al., Paper: [http://arxiv.org/abs/2308.04008v1](http://arxiv.org/abs/2308.04008v1), Code: **[https://github.com/bassyess/cfcd](https://github.com/bassyess/cfcd)**
 - 2023-08-05, **A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**, Sai Suprabhanu Nallapaneni et.al., Paper: [http://arxiv.org/abs/2308.02833v1](http://arxiv.org/abs/2308.02833v1)
@@ -1365,6 +1366,8 @@
 
 ## NeRF
 
+- 2023-08-09, **WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**, Muyu Xu et.al., Paper: [http://arxiv.org/abs/2308.04826v1](http://arxiv.org/abs/2308.04826v1)
+- 2023-08-09, **A General Implicit Framework for Fast NeRF Composition and Rendering**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2308.04669v1](http://arxiv.org/abs/2308.04669v1)
 - 2023-08-08, **Digging into Depth Priors for Outdoor Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2308.04413v1](http://arxiv.org/abs/2308.04413v1)
 - 2023-08-07, **Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**, Junyi Zeng et.al., Paper: [http://arxiv.org/abs/2308.03280v1](http://arxiv.org/abs/2308.03280v1)
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
