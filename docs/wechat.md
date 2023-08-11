@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2023-08-10, **A Robust and Rapidly Deployable Waypoint Navigation Architecture for Long-Duration Operations in GPS-Denied Environments**, Erik Pearson et.al., Paper: [http://arxiv.org/abs/2308.05620v1](http://arxiv.org/abs/2308.05620v1)
+- 2023-08-10, **Robust Lifelong Indoor LiDAR Localization using the Area Graph**, Fujing Xie et.al., Paper: [http://arxiv.org/abs/2308.05593v1](http://arxiv.org/abs/2308.05593v1)
+- 2023-08-10, **Detecting and Classifying Bio-Inspired Artificial Landmarks Using In-Air 3D Sonar**, Maarten de Backer et.al., Paper: [http://arxiv.org/abs/2308.05504v1](http://arxiv.org/abs/2308.05504v1)
+- 2023-08-10, **How-to Augmented Lagrangian on Factor Graphs**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2308.05444v1](http://arxiv.org/abs/2308.05444v1)
+- 2023-08-10, **Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2308.05443v1](http://arxiv.org/abs/2308.05443v1)
 - 2023-08-01, **NR-SLAM: Non-Rigid Monocular SLAM**, Juan J. Gomez Rodriguez et.al., Paper: [http://arxiv.org/abs/2308.04036v1](http://arxiv.org/abs/2308.04036v1)
 - 2023-08-08, **Multi-level Map Construction for Dynamic Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2308.04000v1](http://arxiv.org/abs/2308.04000v1)
 - 2023-08-05, **VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry**, Yifei Yuan et.al., Paper: [http://arxiv.org/abs/2308.02799v1](http://arxiv.org/abs/2308.02799v1), Code: **[https://github.com/uestc-icsp/voxelmapplus_public](https://github.com/uestc-icsp/voxelmapplus_public)**
@@ -614,6 +619,7 @@
 
 ## Visual Localization
 
+- 2023-08-10, **KS-APR: Keyframe Selection for Robust Absolute Pose Regression**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2308.05459v1](http://arxiv.org/abs/2308.05459v1)
 - 2023-08-09, **AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**, Jingdan Zhang et.al., Paper: [http://arxiv.org/abs/2308.04992v1](http://arxiv.org/abs/2308.04992v1), Code: **[https://github.com/thezjd/aspectmmkg](https://github.com/thezjd/aspectmmkg)**
 - 2023-08-08, **Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**, Yi Bin et.al., Paper: [http://arxiv.org/abs/2308.04343v1](http://arxiv.org/abs/2308.04343v1), Code: **[https://github.com/luminosityx/hat](https://github.com/luminosityx/hat)**
 - 2023-08-08, **Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**, Yunquan Zhu et.al., Paper: [http://arxiv.org/abs/2308.04008v1](http://arxiv.org/abs/2308.04008v1), Code: **[https://github.com/bassyess/cfcd](https://github.com/bassyess/cfcd)**
@@ -1099,6 +1105,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-10, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v1](http://arxiv.org/abs/2308.05667v1)
 - 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-25, **Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2307.13300v1](http://arxiv.org/abs/2307.13300v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
