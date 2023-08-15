@@ -1108,7 +1108,7 @@
 
 ## Keypoint Detection
 
-- 2023-08-10, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v1](http://arxiv.org/abs/2308.05667v1)
+- 2023-08-14, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v2](http://arxiv.org/abs/2308.05667v2)
 - 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-25, **Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2307.13300v1](http://arxiv.org/abs/2307.13300v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
@@ -1379,7 +1379,7 @@
 - 2023-08-11, **Focused Specific Objects NeRF**, Yuesong Li et.al., Paper: [http://arxiv.org/abs/2308.05970v1](http://arxiv.org/abs/2308.05970v1)
 - 2023-08-11, **VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**, Dominic Maggio et.al., Paper: [http://arxiv.org/abs/2308.05939v1](http://arxiv.org/abs/2308.05939v1)
 - 2023-08-09, **WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**, Muyu Xu et.al., Paper: [http://arxiv.org/abs/2308.04826v1](http://arxiv.org/abs/2308.04826v1)
-- 2023-08-09, **A General Implicit Framework for Fast NeRF Composition and Rendering**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2308.04669v1](http://arxiv.org/abs/2308.04669v1)
+- 2023-08-14, **A General Implicit Framework for Fast NeRF Composition and Rendering**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2308.04669v2](http://arxiv.org/abs/2308.04669v2)
 - 2023-08-08, **Digging into Depth Priors for Outdoor Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2308.04413v1](http://arxiv.org/abs/2308.04413v1)
 - 2023-08-07, **Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**, Junyi Zeng et.al., Paper: [http://arxiv.org/abs/2308.03280v1](http://arxiv.org/abs/2308.03280v1)
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
