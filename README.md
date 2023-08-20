@@ -13,7 +13,7 @@
     <li><a href=#Visual-Localization>Visual Localization</a></li>
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#neRF>neRF</a></li>
   </ol>
 </details>
 
