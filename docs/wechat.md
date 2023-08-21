@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-08-17, **MV-ROPE: Multi-view Constraints for Robust Category-level Object Pose and Size Estimation**, Jiaqi Yang et.al., Paper: [http://arxiv.org/abs/2308.08856v1](http://arxiv.org/abs/2308.08856v1), Code: **[https://github.com/greatoyster/mv-rope](https://github.com/greatoyster/mv-rope)**
 - 2023-08-15, **Extended Preintegration for Relative State Estimation of Leader-Follower Platform**, Ruican Xia et.al., Paper: [http://arxiv.org/abs/2308.07723v1](http://arxiv.org/abs/2308.07723v1)
 - 2023-08-14, **On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics**, Connor Holmes et.al., Paper: [http://arxiv.org/abs/2308.07275v1](http://arxiv.org/abs/2308.07275v1)
 - 2023-08-11, **Efficient Large-scale AUV-based Visual Seafloor Mapping**, Mengkun She et.al., Paper: [http://arxiv.org/abs/2308.06147v1](http://arxiv.org/abs/2308.06147v1)
@@ -625,6 +626,8 @@
 
 ## Visual Localization
 
+- 2023-08-18, **3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**, Yanmei Jiao et.al., Paper: [http://arxiv.org/abs/2308.09566v1](http://arxiv.org/abs/2308.09566v1)
+- 2023-08-17, **FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**, Yulin Su et.al., Paper: [http://arxiv.org/abs/2308.09012v1](http://arxiv.org/abs/2308.09012v1), Code: **[https://github.com/valley-vl/fashionlogo](https://github.com/valley-vl/fashionlogo)**
 - 2023-08-16, **Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**, Aishwarya Venkataramanan et.al., Paper: [http://arxiv.org/abs/2308.08431v1](http://arxiv.org/abs/2308.08431v1), Code: **[https://github.com/vaishwarya96/hierarchy-image-retrieval](https://github.com/vaishwarya96/hierarchy-image-retrieval)**
 - 2023-08-16, **Ranking-aware Uncertainty for Text-guided Image Retrieval**, Junyang Chen et.al., Paper: [http://arxiv.org/abs/2308.08131v1](http://arxiv.org/abs/2308.08131v1)
 - 2023-08-14, **Global Features are All You Need for Image Retrieval and Reranking**, Shihao Shao et.al., Paper: [http://arxiv.org/abs/2308.06954v1](http://arxiv.org/abs/2308.06954v1), Code: **[https://github.com/shihaoshao-gh/superglobal](https://github.com/shihaoshao-gh/superglobal)**
@@ -1387,6 +1390,9 @@
 
 ## NeRF
 
+- 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
+- 2023-08-18, **DReg-NeRF: Deep Registration for Neural Radiance Fields**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2308.09386v1](http://arxiv.org/abs/2308.09386v1), Code: **[https://github.com/aibluefisher/dreg-nerf](https://github.com/aibluefisher/dreg-nerf)**
+- 2023-08-17, **Watch Your Steps: Local Image and Scene Editing by Text Instructions**, Ashkan Mirzaei et.al., Paper: [http://arxiv.org/abs/2308.08947v1](http://arxiv.org/abs/2308.08947v1)
 - 2023-08-17, **Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2308.08530v2](http://arxiv.org/abs/2308.08530v2), Code: **[https://github.com/gkouros/ref-dvgo](https://github.com/gkouros/ref-dvgo)**
 - 2023-08-16, **SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**, Edith Tretschk et.al., Paper: [http://arxiv.org/abs/2308.08258v1](http://arxiv.org/abs/2308.08258v1)
 - 2023-08-16, **Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**, Eugen Šlapak et.al., Paper: [http://arxiv.org/abs/2308.07118v2](http://arxiv.org/abs/2308.07118v2), Code: **[https://github.com/maftej/iisnerf](https://github.com/maftej/iisnerf)**
