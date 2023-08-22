@@ -516,6 +516,8 @@
 
 ## SFM
 
+- 2023-08-21, **CamP: Camera Preconditioning for Neural Radiance Fields**, Keunhong Park et.al., Paper: [http://arxiv.org/abs/2308.10902v1](http://arxiv.org/abs/2308.10902v1)
+- 2023-08-18, **Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**, Haorui Ji et.al., Paper: [http://arxiv.org/abs/2308.10705v1](http://arxiv.org/abs/2308.10705v1)
 - 2023-08-14, **Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2308.07231v1](http://arxiv.org/abs/2308.07231v1), Code: **[https://github.com/liutao1126/enhance-sfm](https://github.com/liutao1126/enhance-sfm)**
 - 2023-08-11, **Efficient Large-scale AUV-based Visual Seafloor Mapping**, Mengkun She et.al., Paper: [http://arxiv.org/abs/2308.06147v1](http://arxiv.org/abs/2308.06147v1)
 - 2023-08-04, **EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**, Weihan Wang et.al., Paper: [http://arxiv.org/abs/2308.02670v1](http://arxiv.org/abs/2308.02670v1)
@@ -626,6 +628,8 @@
 
 ## Visual Localization
 
+- 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/eigenplaces](https://github.com/gmberton/eigenplaces)**
+- 2023-08-20, **FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**, Anwesan Pal et.al., Paper: [http://arxiv.org/abs/2308.10170v1](http://arxiv.org/abs/2308.10170v1)
 - 2023-08-18, **3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**, Yanmei Jiao et.al., Paper: [http://arxiv.org/abs/2308.09566v1](http://arxiv.org/abs/2308.09566v1)
 - 2023-08-17, **FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**, Yulin Su et.al., Paper: [http://arxiv.org/abs/2308.09012v1](http://arxiv.org/abs/2308.09012v1), Code: **[https://github.com/valley-vl/fashionlogo](https://github.com/valley-vl/fashionlogo)**
 - 2023-08-16, **Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**, Aishwarya Venkataramanan et.al., Paper: [http://arxiv.org/abs/2308.08431v1](http://arxiv.org/abs/2308.08431v1), Code: **[https://github.com/vaishwarya96/hierarchy-image-retrieval](https://github.com/vaishwarya96/hierarchy-image-retrieval)**
@@ -1118,6 +1122,8 @@
 
 ## Keypoint Detection
 
+- 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1)
+- 2023-08-19, **ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**, Bingyang Zhou et.al., Paper: [http://arxiv.org/abs/2308.09987v1](http://arxiv.org/abs/2308.09987v1)
 - 2023-08-16, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v1](http://arxiv.org/abs/2308.08479v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
 - 2023-08-15, **ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**, Wenyuan Xue et.al., Paper: [http://arxiv.org/abs/2308.07743v1](http://arxiv.org/abs/2308.07743v1)
@@ -1255,6 +1261,7 @@
 
 ## Image Matching
 
+- 2023-08-19, **Scene-Aware Feature Matching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2308.09949v1](http://arxiv.org/abs/2308.09949v1)
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-28, **Cross-Modal Concept Learning and Inference for Vision-Language Models**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2307.15460v1](http://arxiv.org/abs/2307.15460v1)
 - 2023-07-22, **CryptoMask : Privacy-preserving Face Recognition**, Jianli Bai et.al., Paper: [http://arxiv.org/abs/2307.12010v1](http://arxiv.org/abs/2307.12010v1)
@@ -1390,6 +1397,11 @@
 
 ## NeRF
 
+- 2023-08-21, **CamP: Camera Preconditioning for Neural Radiance Fields**, Keunhong Park et.al., Paper: [http://arxiv.org/abs/2308.10902v1](http://arxiv.org/abs/2308.10902v1)
+- 2023-08-20, **Strata-NeRF : Neural Radiance Fields for Stratified Scenes**, Ankit Dhiman et.al., Paper: [http://arxiv.org/abs/2308.10337v1](http://arxiv.org/abs/2308.10337v1)
+- 2023-08-19, **HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**, Xiufeng Xie et.al., Paper: [http://arxiv.org/abs/2308.10122v1](http://arxiv.org/abs/2308.10122v1)
+- 2023-08-19, **AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2308.10001v1](http://arxiv.org/abs/2308.10001v1)
+- 2023-08-19, **Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2308.09894v1](http://arxiv.org/abs/2308.09894v1)
 - 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
 - 2023-08-18, **DReg-NeRF: Deep Registration for Neural Radiance Fields**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2308.09386v1](http://arxiv.org/abs/2308.09386v1), Code: **[https://github.com/aibluefisher/dreg-nerf](https://github.com/aibluefisher/dreg-nerf)**
 - 2023-08-17, **Watch Your Steps: Local Image and Scene Editing by Text Instructions**, Ashkan Mirzaei et.al., Paper: [http://arxiv.org/abs/2308.08947v1](http://arxiv.org/abs/2308.08947v1)
