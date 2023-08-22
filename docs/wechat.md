@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.21
+> Updated on 2023.08.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -512,7 +512,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## SFM
 
@@ -622,7 +622,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -630,7 +630,7 @@
 - 2023-08-17, **FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**, Yulin Su et.al., Paper: [http://arxiv.org/abs/2308.09012v1](http://arxiv.org/abs/2308.09012v1), Code: **[https://github.com/valley-vl/fashionlogo](https://github.com/valley-vl/fashionlogo)**
 - 2023-08-16, **Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**, Aishwarya Venkataramanan et.al., Paper: [http://arxiv.org/abs/2308.08431v1](http://arxiv.org/abs/2308.08431v1), Code: **[https://github.com/vaishwarya96/hierarchy-image-retrieval](https://github.com/vaishwarya96/hierarchy-image-retrieval)**
 - 2023-08-16, **Ranking-aware Uncertainty for Text-guided Image Retrieval**, Junyang Chen et.al., Paper: [http://arxiv.org/abs/2308.08131v1](http://arxiv.org/abs/2308.08131v1)
-- 2023-08-14, **Global Features are All You Need for Image Retrieval and Reranking**, Shihao Shao et.al., Paper: [http://arxiv.org/abs/2308.06954v1](http://arxiv.org/abs/2308.06954v1), Code: **[https://github.com/shihaoshao-gh/superglobal](https://github.com/shihaoshao-gh/superglobal)**
+- 2023-08-19, **Global Features are All You Need for Image Retrieval and Reranking**, Shihao Shao et.al., Paper: [http://arxiv.org/abs/2308.06954v2](http://arxiv.org/abs/2308.06954v2), Code: **[https://github.com/shihaoshao-gh/superglobal](https://github.com/shihaoshao-gh/superglobal)**
 - 2023-08-14, **MixBCT: Towards Self-Adapting Backward-Compatible Training**, Yu Liang et.al., Paper: [http://arxiv.org/abs/2308.06948v1](http://arxiv.org/abs/2308.06948v1), Code: **[https://github.com/yuleung/mixbct](https://github.com/yuleung/mixbct)**
 - 2023-08-10, **KS-APR: Keyframe Selection for Robust Absolute Pose Regression**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2308.05459v1](http://arxiv.org/abs/2308.05459v1)
 - 2023-08-09, **AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**, Jingdan Zhang et.al., Paper: [http://arxiv.org/abs/2308.04992v1](http://arxiv.org/abs/2308.04992v1), Code: **[https://github.com/thezjd/aspectmmkg](https://github.com/thezjd/aspectmmkg)**
@@ -1114,7 +1114,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1251,7 +1251,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1386,7 +1386,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## NeRF
 
@@ -1840,7 +1840,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
