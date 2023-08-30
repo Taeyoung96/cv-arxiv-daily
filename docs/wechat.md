@@ -637,6 +637,7 @@
 
 ## Visual Localization
 
+- 2023-08-28, **Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**, Nils Böhne et.al., Paper: [http://arxiv.org/abs/2308.14786v1](http://arxiv.org/abs/2308.14786v1)
 - 2023-08-28, **CoVR: Learning Composed Video Retrieval from Web Video Captions**, Lucas Ventura et.al., Paper: [http://arxiv.org/abs/2308.14746v1](http://arxiv.org/abs/2308.14746v1), Code: **[https://github.com/lucas-ventura/CoVR](https://github.com/lucas-ventura/CoVR)**
 - 2023-08-27, **Deep Learning for Visual Localization and Mapping: A Survey**, Changhao Chen et.al., Paper: [http://arxiv.org/abs/2308.14039v1](http://arxiv.org/abs/2308.14039v1)
 - 2023-08-26, **Learning Efficient Representations for Image-Based Patent Retrieval**, Hongsong Wang et.al., Paper: [http://arxiv.org/abs/2308.13749v1](http://arxiv.org/abs/2308.13749v1)
@@ -1141,6 +1142,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-29, **A lightweight 3D dense facial landmark estimation model from position map data**, Shubhajit Basak et.al., Paper: [http://arxiv.org/abs/2308.15170v1](http://arxiv.org/abs/2308.15170v1)
 - 2023-08-27, **Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**, Francesco Pirotti et.al., Paper: [http://arxiv.org/abs/2308.14047v1](http://arxiv.org/abs/2308.14047v1)
 - 2023-08-24, **VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**, Gengxuan Tian et.al., Paper: [http://arxiv.org/abs/2308.12870v1](http://arxiv.org/abs/2308.12870v1)
 - 2023-08-22, **LDP-Feat: Image Features with Local Differential Privacy**, Francesco Pittaluga et.al., Paper: [http://arxiv.org/abs/2308.11223v1](http://arxiv.org/abs/2308.11223v1)
@@ -1419,6 +1421,8 @@
 
 ## NeRF
 
+- 2023-08-29, **Pose-Free Neural Radiance Fields via Implicit Pose Regularization**, Jiahui Zhang et.al., Paper: [http://arxiv.org/abs/2308.15049v1](http://arxiv.org/abs/2308.15049v1)
+- 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 - 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
 - 2023-08-24, **NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**, Dakshit Agrawal et.al., Paper: [http://arxiv.org/abs/2308.12560v1](http://arxiv.org/abs/2308.12560v1), Code: **[https://github.com/dakshitagrawal/nova](https://github.com/dakshitagrawal/nova)**
 - 2023-08-23, **Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**, Hyeonseop Song et.al., Paper: [http://arxiv.org/abs/2308.11974v1](http://arxiv.org/abs/2308.11974v1)
