@@ -524,6 +524,7 @@
 
 ## SFM
 
+- 2023-08-30, **Learning Structure-from-Motion with Graph Attention Networks**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2308.15984v1](http://arxiv.org/abs/2308.15984v1)
 - 2023-08-26, **Disjoint Pose and Shape for 3D Face Reconstruction**, Raja Kumar et.al., Paper: [http://arxiv.org/abs/2308.13903v1](http://arxiv.org/abs/2308.13903v1)
 - 2023-08-21, **CamP: Camera Preconditioning for Neural Radiance Fields**, Keunhong Park et.al., Paper: [http://arxiv.org/abs/2308.10902v1](http://arxiv.org/abs/2308.10902v1)
 - 2023-08-18, **Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**, Haorui Ji et.al., Paper: [http://arxiv.org/abs/2308.10705v1](http://arxiv.org/abs/2308.10705v1)
@@ -1142,6 +1143,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-30, **Learning Structure-from-Motion with Graph Attention Networks**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2308.15984v1](http://arxiv.org/abs/2308.15984v1)
 - 2023-08-29, **A lightweight 3D dense facial landmark estimation model from position map data**, Shubhajit Basak et.al., Paper: [http://arxiv.org/abs/2308.15170v1](http://arxiv.org/abs/2308.15170v1)
 - 2023-08-27, **Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**, Francesco Pirotti et.al., Paper: [http://arxiv.org/abs/2308.14047v1](http://arxiv.org/abs/2308.14047v1)
 - 2023-08-24, **VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**, Gengxuan Tian et.al., Paper: [http://arxiv.org/abs/2308.12870v1](http://arxiv.org/abs/2308.12870v1)
@@ -1285,6 +1287,7 @@
 
 ## Image Matching
 
+- 2023-08-14, **Occ$^2$Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**, Miao Fan et.al., Paper: [http://arxiv.org/abs/2308.16160v1](http://arxiv.org/abs/2308.16160v1)
 - 2023-08-22, **Scene-Aware Feature Matching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2308.09949v2](http://arxiv.org/abs/2308.09949v2)
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-28, **Cross-Modal Concept Learning and Inference for Vision-Language Models**, Yi Zhang et.al., Paper: [http://arxiv.org/abs/2307.15460v1](http://arxiv.org/abs/2307.15460v1)
@@ -1421,6 +1424,9 @@
 
 ## NeRF
 
+- 2023-08-30, **From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**, Shreyank N Gowda et.al., Paper: [http://arxiv.org/abs/2308.16041v1](http://arxiv.org/abs/2308.16041v1)
+- 2023-08-30, **Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**, Zhihao Jia et.al., Paper: [http://arxiv.org/abs/2308.15733v1](http://arxiv.org/abs/2308.15733v1)
+- 2023-08-29, **Efficient Ray Sampling for Radiance Fields Reconstruction**, Shilei Sun et.al., Paper: [http://arxiv.org/abs/2308.15547v1](http://arxiv.org/abs/2308.15547v1)
 - 2023-08-29, **Pose-Free Neural Radiance Fields via Implicit Pose Regularization**, Jiahui Zhang et.al., Paper: [http://arxiv.org/abs/2308.15049v1](http://arxiv.org/abs/2308.15049v1)
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 - 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
