@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-08-31, **SiTAR: Situated Trajectory Analysis for In-the-Wild Pose Error Estimation**, Tim Scargill et.al., Paper: [http://arxiv.org/abs/2308.16813v1](http://arxiv.org/abs/2308.16813v1)
+- 2023-08-31, **Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information**, Ruofei Bai et.al., Paper: [http://arxiv.org/abs/2308.16522v1](http://arxiv.org/abs/2308.16522v1)
 - 2023-08-28, **Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**, Xinyang Liu et.al., Paper: [http://arxiv.org/abs/2308.14383v1](http://arxiv.org/abs/2308.14383v1)
 - 2023-08-27, **Deep Learning for Visual Localization and Mapping: A Survey**, Changhao Chen et.al., Paper: [http://arxiv.org/abs/2308.14039v1](http://arxiv.org/abs/2308.14039v1)
 - 2023-08-24, **VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**, Gengxuan Tian et.al., Paper: [http://arxiv.org/abs/2308.12870v1](http://arxiv.org/abs/2308.12870v1)
@@ -638,6 +640,7 @@
 
 ## Visual Localization
 
+- 2023-08-31, **Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**, Prateksha Udhayanan et.al., Paper: [http://arxiv.org/abs/2308.16649v1](http://arxiv.org/abs/2308.16649v1)
 - 2023-08-28, **Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**, Nils Böhne et.al., Paper: [http://arxiv.org/abs/2308.14786v1](http://arxiv.org/abs/2308.14786v1)
 - 2023-08-28, **CoVR: Learning Composed Video Retrieval from Web Video Captions**, Lucas Ventura et.al., Paper: [http://arxiv.org/abs/2308.14746v1](http://arxiv.org/abs/2308.14746v1), Code: **[https://github.com/lucas-ventura/CoVR](https://github.com/lucas-ventura/CoVR)**
 - 2023-08-27, **Deep Learning for Visual Localization and Mapping: A Survey**, Changhao Chen et.al., Paper: [http://arxiv.org/abs/2308.14039v1](http://arxiv.org/abs/2308.14039v1)
@@ -1143,6 +1146,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-31, **SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**, Jiaben Chen et.al., Paper: [http://arxiv.org/abs/2308.16876v1](http://arxiv.org/abs/2308.16876v1)
 - 2023-08-30, **Learning Structure-from-Motion with Graph Attention Networks**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2308.15984v1](http://arxiv.org/abs/2308.15984v1)
 - 2023-08-29, **A lightweight 3D dense facial landmark estimation model from position map data**, Shubhajit Basak et.al., Paper: [http://arxiv.org/abs/2308.15170v1](http://arxiv.org/abs/2308.15170v1)
 - 2023-08-27, **Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**, Francesco Pirotti et.al., Paper: [http://arxiv.org/abs/2308.14047v1](http://arxiv.org/abs/2308.14047v1)
@@ -1424,6 +1428,7 @@
 
 ## NeRF
 
+- 2023-08-31, **GHuNeRF: Generalizable Human NeRF from a Monocular Video**, Chen Li et.al., Paper: [http://arxiv.org/abs/2308.16576v1](http://arxiv.org/abs/2308.16576v1)
 - 2023-08-30, **From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**, Shreyank N Gowda et.al., Paper: [http://arxiv.org/abs/2308.16041v1](http://arxiv.org/abs/2308.16041v1)
 - 2023-08-30, **Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**, Zhihao Jia et.al., Paper: [http://arxiv.org/abs/2308.15733v1](http://arxiv.org/abs/2308.15733v1)
 - 2023-08-29, **Efficient Ray Sampling for Radiance Fields Reconstruction**, Shilei Sun et.al., Paper: [http://arxiv.org/abs/2308.15547v1](http://arxiv.org/abs/2308.15547v1)
