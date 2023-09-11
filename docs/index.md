@@ -25,6 +25,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441v1](http://arxiv.org/abs/2309.04441v1)|null|
+|**2023-09-08**|**Data-Driven Batch Localization and SLAM Using Koopman Linearization**|Zi Cong Guo et.al.|[2309.04375v1](http://arxiv.org/abs/2309.04375v1)|null|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
+|**2023-09-08**|**Depth Completion with Multiple Balanced Bases and Confidence for Dense Monocular SLAM**|Weijian Xie et.al.|[2309.04145v1](http://arxiv.org/abs/2309.04145v1)|null|
 |**2023-09-07**|**Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**|Carl Friess et.al.|[2309.03678v1](http://arxiv.org/abs/2309.03678v1)|null|
 |**2023-09-06**|**Feasibility of Local Trajectory Planning for Level-2+ Semi-autonomous Driving without Absolute Localization**|Sheng Zhu et.al.|[2309.03051v1](http://arxiv.org/abs/2309.03051v1)|null|
 |**2023-09-06**|**tinySLAM-based exploration with a swarm of nano-UAVs**|Johan Markdahl et.al.|[2309.02834v1](http://arxiv.org/abs/2309.02834v1)|null|
@@ -588,6 +592,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526v1](http://arxiv.org/abs/2309.00526v1)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385v1](http://arxiv.org/abs/2309.00385v1)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
@@ -718,6 +723,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148v1](http://arxiv.org/abs/2309.04148v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169v1](http://arxiv.org/abs/2309.02169v1)|null|
 |**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859v1](http://arxiv.org/abs/2309.01859v1)|null|
@@ -1560,6 +1566,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|null|
+|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v1](http://arxiv.org/abs/2309.03955v1)|null|
+|**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933v1](http://arxiv.org/abs/2309.03933v1)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|null|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|**[link](https://github.com/markomih/ResFields)**|
