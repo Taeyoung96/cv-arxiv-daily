@@ -1462,6 +1462,7 @@
 
 ## NeRF
 
+- 2023-09-12, **Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**, Teppei Suzuki et.al., Paper: [http://arxiv.org/abs/2309.06030v1](http://arxiv.org/abs/2309.06030v1)
 - 2023-09-11, **PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**, Claus Smitt et.al., Paper: [http://arxiv.org/abs/2309.05339v1](http://arxiv.org/abs/2309.05339v1)
 - 2023-09-10, **Text-driven Editing of 3D Scenes without Retraining**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2309.04917v1](http://arxiv.org/abs/2309.04917v1)
 - 2023-09-09, **Mirror-Aware Neural Humans**, Daniel Ajisafe et.al., Paper: [http://arxiv.org/abs/2309.04750v1](http://arxiv.org/abs/2309.04750v1)
