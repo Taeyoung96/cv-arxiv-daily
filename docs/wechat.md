@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2023-09-15, **Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes**, Fabien Delattre et.al., Paper: [http://arxiv.org/abs/2309.08588v1](http://arxiv.org/abs/2309.08588v1)
+- 2023-09-15, **AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**, Ye Li et.al., Paper: [http://arxiv.org/abs/2309.08180v1](http://arxiv.org/abs/2309.08180v1)
+- 2023-09-15, **MAVIS: Multi-Camera Augmented Visual-Inertial SLAM using SE2(3) Based Exact IMU Pre-integration**, Yifu Wang et.al., Paper: [http://arxiv.org/abs/2309.08142v1](http://arxiv.org/abs/2309.08142v1)
+- 2023-09-15, **Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**, Chenghao Shi et.al., Paper: [http://arxiv.org/abs/2309.08086v1](http://arxiv.org/abs/2309.08086v1)
 - 2023-09-13, **3D Active Metric-Semantic SLAM**, Yuezhan Tao et.al., Paper: [http://arxiv.org/abs/2309.06950v1](http://arxiv.org/abs/2309.06950v1)
 - 2023-09-13, **Motion-Bias-Free Feature-Based SLAM**, Alejandro Fontan et.al., Paper: [http://arxiv.org/abs/2309.06792v1](http://arxiv.org/abs/2309.06792v1)
 - 2023-09-12, **Collaborative Dynamic 3D Scene Graphs for Automated Driving**, Elias Greve et.al., Paper: [http://arxiv.org/abs/2309.06635v1](http://arxiv.org/abs/2309.06635v1)
@@ -663,6 +667,8 @@
 
 ## Visual Localization
 
+- 2023-09-15, **Optimization of Rank Losses for Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2309.08250v1](http://arxiv.org/abs/2309.08250v1), Code: **[https://github.com/cvdfoundation/google-landmark](https://github.com/cvdfoundation/google-landmark)**
+- 2023-09-13, **Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**, Yaoting Wang et.al., Paper: [http://arxiv.org/abs/2309.07929v1](http://arxiv.org/abs/2309.07929v1)
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-13, **RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**, Mirko Usuelli et.al., Paper: [http://arxiv.org/abs/2309.07094v1](http://arxiv.org/abs/2309.07094v1)
 - 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
@@ -1468,6 +1474,8 @@
 
 ## NeRF
 
+- 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
+- 2023-09-14, **Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**, Gergely Sóti et.al., Paper: [http://arxiv.org/abs/2309.08040v1](http://arxiv.org/abs/2309.08040v1)
 - 2023-09-14, **MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**, Yu Gao et.al., Paper: [http://arxiv.org/abs/2309.07846v1](http://arxiv.org/abs/2309.07846v1)
 - 2023-09-14, **DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Yaoyu Su et.al., Paper: [http://arxiv.org/abs/2309.07752v1](http://arxiv.org/abs/2309.07752v1)
 - 2023-09-14, **CoRF : Colorizing Radiance Fields using Knowledge Distillation**, Ankit Dhiman et.al., Paper: [http://arxiv.org/abs/2309.07668v1](http://arxiv.org/abs/2309.07668v1)
