@@ -668,7 +668,7 @@
 ## Visual Localization
 
 - 2023-09-15, **Optimization of Rank Losses for Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2309.08250v1](http://arxiv.org/abs/2309.08250v1), Code: **[https://github.com/cvdfoundation/google-landmark](https://github.com/cvdfoundation/google-landmark)**
-- 2023-09-13, **Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**, Yaoting Wang et.al., Paper: [http://arxiv.org/abs/2309.07929v1](http://arxiv.org/abs/2309.07929v1)
+- 2023-09-18, **Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**, Yaoting Wang et.al., Paper: [http://arxiv.org/abs/2309.07929v2](http://arxiv.org/abs/2309.07929v2)
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-13, **RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**, Mirko Usuelli et.al., Paper: [http://arxiv.org/abs/2309.07094v1](http://arxiv.org/abs/2309.07094v1)
 - 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
