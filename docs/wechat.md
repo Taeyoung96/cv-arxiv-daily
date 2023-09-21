@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-09-19, **PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**, Luigi Freda et.al., Paper: [http://arxiv.org/abs/2309.10896v1](http://arxiv.org/abs/2309.10896v1)
 - 2023-09-19, **Measurement Simplification in ρ-POMDP with Performance Guarantees**, Tom Yotam et.al., Paper: [http://arxiv.org/abs/2309.10701v1](http://arxiv.org/abs/2309.10701v1)
 - 2023-09-19, **OASIS: Optimal Arrangements for Sensing in SLAM**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2309.10698v1](http://arxiv.org/abs/2309.10698v1)
 - 2023-09-19, **Vision-based Situational Graphs Generating Optimizable 3D Scene Representations**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2309.10461v1](http://arxiv.org/abs/2309.10461v1)
@@ -678,6 +679,7 @@
 
 ## Visual Localization
 
+- 2023-09-20, **2D-3D Pose Tracking with Multi-View Constraints**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2309.11335v1](http://arxiv.org/abs/2309.11335v1)
 - 2023-09-19, **VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2309.10225v1](http://arxiv.org/abs/2309.10225v1), Code: **[https://github.com/QVPR/VPRTempo](https://github.com/QVPR/VPRTempo)**
 - 2023-09-18, **DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**, Chenghao Xu et.al., Paper: [http://arxiv.org/abs/2309.09879v1](http://arxiv.org/abs/2309.09879v1)
 - 2023-09-18, **Decompose Semantic Shifts for Composed Image Retrieval**, Xingyu Yang et.al., Paper: [http://arxiv.org/abs/2309.09531v1](http://arxiv.org/abs/2309.09531v1)
@@ -1496,6 +1498,8 @@
 
 ## NeRF
 
+- 2023-09-20, **Controllable Dynamic Appearance for Neural 3D Portraits**, ShahRukh Athar et.al., Paper: [http://arxiv.org/abs/2309.11009v1](http://arxiv.org/abs/2309.11009v1)
+- 2023-09-20, **Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**, Xingting Yao et.al., Paper: [http://arxiv.org/abs/2309.10987v1](http://arxiv.org/abs/2309.10987v1)
 - 2023-09-19, **Locally Stylized Neural Radiance Fields**, Hong-Wing Pang et.al., Paper: [http://arxiv.org/abs/2309.10684v1](http://arxiv.org/abs/2309.10684v1)
 - 2023-09-19, **Steganography for Neural Radiance Fields by Backdooring**, Weina Dong et.al., Paper: [http://arxiv.org/abs/2309.10503v1](http://arxiv.org/abs/2309.10503v1)
 - 2023-09-18, **Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**, Rong Liu et.al., Paper: [http://arxiv.org/abs/2309.10011v1](http://arxiv.org/abs/2309.10011v1)
