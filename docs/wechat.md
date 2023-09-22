@@ -1498,7 +1498,7 @@
 
 ## NeRF
 
-- 2023-09-20, **Controllable Dynamic Appearance for Neural 3D Portraits**, ShahRukh Athar et.al., Paper: [http://arxiv.org/abs/2309.11009v1](http://arxiv.org/abs/2309.11009v1)
+- 2023-09-21, **Controllable Dynamic Appearance for Neural 3D Portraits**, ShahRukh Athar et.al., Paper: [http://arxiv.org/abs/2309.11009v2](http://arxiv.org/abs/2309.11009v2)
 - 2023-09-20, **Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**, Xingting Yao et.al., Paper: [http://arxiv.org/abs/2309.10987v1](http://arxiv.org/abs/2309.10987v1)
 - 2023-09-19, **Locally Stylized Neural Radiance Fields**, Hong-Wing Pang et.al., Paper: [http://arxiv.org/abs/2309.10684v1](http://arxiv.org/abs/2309.10684v1)
 - 2023-09-19, **Steganography for Neural Radiance Fields by Backdooring**, Weina Dong et.al., Paper: [http://arxiv.org/abs/2309.10503v1](http://arxiv.org/abs/2309.10503v1)
