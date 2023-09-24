@@ -1504,7 +1504,7 @@
 ## NeRF
 
 - 2023-09-21, **ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**, Yu Cheng et.al., Paper: [http://arxiv.org/abs/2309.12183v1](http://arxiv.org/abs/2309.12183v1)
-- 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1)
+- 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1), Code: **[https://github.com/FlorisE/neural-labeling](https://github.com/FlorisE/neural-labeling)**
 - 2023-09-21, **Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**, Tongtong Zhang et.al., Paper: [http://arxiv.org/abs/2309.11767v1](http://arxiv.org/abs/2309.11767v1)
 - 2023-09-21, **MarkNerf:Watermarking for Neural Radiance Field**, Lifeng Chen et.al., Paper: [http://arxiv.org/abs/2309.11747v1](http://arxiv.org/abs/2309.11747v1)
 - 2023-09-21, **Rendering stable features improves sampling-based localisation with Neural radiance fields**, Boxuan Zhang et.al., Paper: [http://arxiv.org/abs/2309.11698v1](http://arxiv.org/abs/2309.11698v1)
