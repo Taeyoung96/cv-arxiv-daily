@@ -612,6 +612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804v1](http://arxiv.org/abs/2309.12804v1)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269v1](http://arxiv.org/abs/2309.10269v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
@@ -1612,6 +1613,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767v1](http://arxiv.org/abs/2309.11767v1)|null|
