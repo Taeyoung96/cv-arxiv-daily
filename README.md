@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v1](http://arxiv.org/abs/2309.14063v1)|null|
+|**2023-09-25**|**DVI-SLAM: A Dual Visual Inertial SLAM Network**|Xiongfeng Peng et.al.|[2309.13814v1](http://arxiv.org/abs/2309.13814v1)|null|
+|**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772v1](http://arxiv.org/abs/2309.13772v1)|null|
 |**2023-09-21**|**NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots**|Vlad Niculescu et.al.|[2309.12008v1](http://arxiv.org/abs/2309.12008v1)|null|
 |**2023-09-21**|**RTS-GT: Robotic Total Stations Ground Truthing dataset**|Maxime Vaidis et.al.|[2309.11935v1](http://arxiv.org/abs/2309.11935v1)|null|
 |**2023-09-19**|**PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation**|Luigi Freda et.al.|[2309.10896v1](http://arxiv.org/abs/2309.10896v1)|**[link](https://github.com/luigifreda/plvs)**|
@@ -747,6 +750,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430v1](http://arxiv.org/abs/2309.13430v1)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033v1](http://arxiv.org/abs/2309.12033v1)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
 |**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335v1](http://arxiv.org/abs/2309.11335v1)|null|
@@ -1613,6 +1617,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
+|**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010v1](http://arxiv.org/abs/2309.14010v1)|null|
+|**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
+|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240v1](http://arxiv.org/abs/2309.13240v1)|null|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
 |**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
