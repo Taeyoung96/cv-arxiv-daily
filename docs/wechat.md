@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2023-09-26, **Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**, Christina Kassab et.al., Paper: [http://arxiv.org/abs/2309.15065v1](http://arxiv.org/abs/2309.15065v1)
+- 2023-09-26, **Volumetric Semantically Consistent 3D Panoptic Mapping**, Yang Miao et.al., Paper: [http://arxiv.org/abs/2309.14737v1](http://arxiv.org/abs/2309.14737v1)
+- 2023-09-26, **Ambient-Aware LiDAR Odometry in Variable Terrains**, Mazeyu Ji et.al., Paper: [http://arxiv.org/abs/2309.14641v1](http://arxiv.org/abs/2309.14641v1)
+- 2023-09-26, **HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations**, Minwoo Jung et.al., Paper: [http://arxiv.org/abs/2309.14590v1](http://arxiv.org/abs/2309.14590v1)
+- 2023-09-25, **Accurate and Interactive Visual-Inertial Sensor Calibration with Next-Best-View and Next-Best-Trajectory Suggestion**, Christopher L. Choi et.al., Paper: [http://arxiv.org/abs/2309.14514v1](http://arxiv.org/abs/2309.14514v1), Code: **[https://github.com/chutsu/yac](https://github.com/chutsu/yac)**
 - 2023-09-26, **Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**, Akash Chikhalikar et.al., Paper: [http://arxiv.org/abs/2309.14063v2](http://arxiv.org/abs/2309.14063v2)
 - 2023-09-25, **DVI-SLAM: A Dual Visual Inertial SLAM Network**, Xiongfeng Peng et.al., Paper: [http://arxiv.org/abs/2309.13814v1](http://arxiv.org/abs/2309.13814v1)
 - 2023-09-24, **Motion Segmentation from a Moving Monocular Camera**, Yuxiang Huang et.al., Paper: [http://arxiv.org/abs/2309.13772v1](http://arxiv.org/abs/2309.13772v1)
@@ -686,6 +691,7 @@
 
 ## Visual Localization
 
+- 2023-09-26, **Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**, Hila Levi et.al., Paper: [http://arxiv.org/abs/2309.14999v1](http://arxiv.org/abs/2309.14999v1)
 - 2023-09-23, **Resolving References in Visually-Grounded Dialogue via Text Generation**, Bram Willemsen et.al., Paper: [http://arxiv.org/abs/2309.13430v1](http://arxiv.org/abs/2309.13430v1), Code: **[https://github.com/willemsenbram/reference-resolution-via-text-generation](https://github.com/willemsenbram/reference-resolution-via-text-generation)**
 - 2023-09-21, **Face Identity-Aware Disentanglement in StyleGAN**, Adrian Suwała et.al., Paper: [http://arxiv.org/abs/2309.12033v1](http://arxiv.org/abs/2309.12033v1)
 - 2023-09-21, **On-the-Fly SfM: What you capture is What you get**, Zongqian Zhan et.al., Paper: [http://arxiv.org/abs/2309.11883v1](http://arxiv.org/abs/2309.11883v1)
@@ -1508,6 +1514,7 @@
 
 ## NeRF
 
+- 2023-09-26, **3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**, Miriam Jäger et.al., Paper: [http://arxiv.org/abs/2309.14800v1](http://arxiv.org/abs/2309.14800v1)
 - 2023-09-25, **NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**, Saeejith Nair et.al., Paper: [http://arxiv.org/abs/2309.14293v1](http://arxiv.org/abs/2309.14293v1)
 - 2023-09-25, **Variational Inference for Scalable 3D Object-centric Learning**, Tianyu Wang et.al., Paper: [http://arxiv.org/abs/2309.14010v1](http://arxiv.org/abs/2309.14010v1)
 - 2023-09-24, **MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**, Zijiang Yang et.al., Paper: [http://arxiv.org/abs/2309.13607v1](http://arxiv.org/abs/2309.13607v1)
