@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Active SLAM Utility Function Exploiting Path Entropy**|Muhammad Farhan Ahmed et.al.|[2309.16490v1](http://arxiv.org/abs/2309.16490v1)|null|
 |**2023-09-26**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v1](http://arxiv.org/abs/2309.15268v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-26**|**Volumetric Semantically Consistent 3D Panoptic Mapping**|Yang Miao et.al.|[2309.14737v1](http://arxiv.org/abs/2309.14737v1)|**[link](https://github.com/y9miao/consistentpanopticslam)**|
@@ -760,6 +761,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351v1](http://arxiv.org/abs/2309.16351v1)|**[link](https://github.com/mohwald/gandtr)**|
+|**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249v1](http://arxiv.org/abs/2309.16249v1)|**[link](https://github.com/pxiangwu/forb)**|
+|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|null|
+|**2023-09-27**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|Vicente Vivanco Cepeda et.al.|[2309.16020v1](http://arxiv.org/abs/2309.16020v1)|null|
 |**2023-09-27**|**Learning Dense Flow Field for Highly-accurate Cross-view Camera Localization**|Zhenbo Song et.al.|[2309.15556v1](http://arxiv.org/abs/2309.15556v1)|null|
 |**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999v1](http://arxiv.org/abs/2309.14999v1)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430v1](http://arxiv.org/abs/2309.13430v1)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
@@ -1631,6 +1636,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
+|**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v1](http://arxiv.org/abs/2309.16364v1)|null|
+|**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110v1](http://arxiv.org/abs/2309.16110v1)|null|
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
