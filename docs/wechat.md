@@ -1541,6 +1541,10 @@
 
 ## NeRF
 
+- 2023-10-05, **Drag View: Generalizable Novel View Synthesis with Unposed Imagery**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2310.03704v1](http://arxiv.org/abs/2310.03704v1)
+- 2023-10-05, **Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**, Andras Horvath et.al., Paper: [http://arxiv.org/abs/2310.03578v1](http://arxiv.org/abs/2310.03578v1)
+- 2023-10-05, **BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**, Ágoston István Csehi et.al., Paper: [http://arxiv.org/abs/2310.03563v1](http://arxiv.org/abs/2310.03563v1)
+- 2023-10-04, **Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**, Yihan Wu et.al., Paper: [http://arxiv.org/abs/2310.03125v1](http://arxiv.org/abs/2310.03125v1)
 - 2023-10-04, **T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**, Yuze He et.al., Paper: [http://arxiv.org/abs/2310.02977v1](http://arxiv.org/abs/2310.02977v1)
 - 2023-10-04, **ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**, Jangho Park et.al., Paper: [http://arxiv.org/abs/2310.02712v1](http://arxiv.org/abs/2310.02712v1)
 - 2023-10-04, **USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**, Moyang Li et.al., Paper: [http://arxiv.org/abs/2310.02687v1](http://arxiv.org/abs/2310.02687v1)
