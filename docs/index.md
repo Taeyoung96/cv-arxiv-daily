@@ -1658,7 +1658,7 @@ layout: default
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578v1](http://arxiv.org/abs/2310.03578v1)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
-|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
