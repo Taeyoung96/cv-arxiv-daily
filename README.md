@@ -777,6 +777,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
+|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906v1](http://arxiv.org/abs/2310.06906v1)|null|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566v1](http://arxiv.org/abs/2310.06566v1)|null|
 |**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486v1](http://arxiv.org/abs/2310.06486v1)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|**[link](https://github.com/sai-krishna-ghanta/3DS-SLAM)**|
@@ -1673,6 +1675,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v1](http://arxiv.org/abs/2310.07449v1)|null|
+|**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179v1](http://arxiv.org/abs/2310.07179v1)|null|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275v1](http://arxiv.org/abs/2310.06275v1)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837v1](http://arxiv.org/abs/2310.05837v1)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391v1](http://arxiv.org/abs/2310.05391v1)|null|
