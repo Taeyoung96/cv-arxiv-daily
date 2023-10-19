@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-10-18, **Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**, Khoa Tuan Nguyen et.al., Paper: [http://arxiv.org/abs/2310.11645v1](http://arxiv.org/abs/2310.11645v1)
+- 2023-10-17, **Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**, Pengchong Hu et.al., Paper: [http://arxiv.org/abs/2310.11598v1](http://arxiv.org/abs/2310.11598v1)
 - 2023-10-17, **Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**, Yanyan Li et.al., Paper: [http://arxiv.org/abs/2310.10931v1](http://arxiv.org/abs/2310.10931v1), Code: **[https://github.com/yanyan-li/open-structure](https://github.com/yanyan-li/open-structure)**
 - 2023-10-16, **The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation**, Paul Ruvolo et.al., Paper: [http://arxiv.org/abs/2310.10862v1](http://arxiv.org/abs/2310.10862v1)
 - 2023-10-16, **Neuromorphic Place Cells**, Zhaoqi Chen et.al., Paper: [http://arxiv.org/abs/2310.10790v1](http://arxiv.org/abs/2310.10790v1)
@@ -719,6 +721,7 @@
 
 ## Visual Localization
 
+- 2023-10-18, **Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**, Junaid Ali et.al., Paper: [http://arxiv.org/abs/2310.11867v1](http://arxiv.org/abs/2310.11867v1)
 - 2023-10-17, **Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**, Shuanglin Yan et.al., Paper: [http://arxiv.org/abs/2310.11210v1](http://arxiv.org/abs/2310.11210v1)
 - 2023-10-16, **Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**, Dharmateja Adapa et.al., Paper: [http://arxiv.org/abs/2310.10290v1](http://arxiv.org/abs/2310.10290v1)
 - 2023-10-16, **EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**, Tom Bryan et.al., Paper: [http://arxiv.org/abs/2310.10050v1](http://arxiv.org/abs/2310.10050v1)
@@ -1581,6 +1584,8 @@
 
 ## NeRF
 
+- 2023-10-18, **VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**, Hongliang Zhong et.al., Paper: [http://arxiv.org/abs/2310.11864v1](http://arxiv.org/abs/2310.11864v1)
+- 2023-10-18, **Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**, Khoa Tuan Nguyen et.al., Paper: [http://arxiv.org/abs/2310.11645v1](http://arxiv.org/abs/2310.11645v1)
 - 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1), Code: **[https://github.com/Rubikalubi/TraM-NeRF](https://github.com/Rubikalubi/TraM-NeRF)**
 - 2023-10-16, **DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2310.10624v1](http://arxiv.org/abs/2310.10624v1)
 - 2023-10-16, **Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**, Junpeng Tan et.al., Paper: [http://arxiv.org/abs/2310.10209v1](http://arxiv.org/abs/2310.10209v1)
