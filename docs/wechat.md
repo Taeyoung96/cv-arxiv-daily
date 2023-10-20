@@ -721,6 +721,7 @@
 
 ## Visual Localization
 
+- 2023-10-19, **Representation Learning via Consistent Assignment of Views over Random Partitions**, Thalles Silva et.al., Paper: [http://arxiv.org/abs/2310.12692v1](http://arxiv.org/abs/2310.12692v1), Code: **[https://github.com/sthalles/carp](https://github.com/sthalles/carp)**
 - 2023-10-18, **Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**, Junaid Ali et.al., Paper: [http://arxiv.org/abs/2310.11867v1](http://arxiv.org/abs/2310.11867v1)
 - 2023-10-17, **Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**, Shuanglin Yan et.al., Paper: [http://arxiv.org/abs/2310.11210v1](http://arxiv.org/abs/2310.11210v1)
 - 2023-10-16, **Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**, Dharmateja Adapa et.al., Paper: [http://arxiv.org/abs/2310.10290v1](http://arxiv.org/abs/2310.10290v1)
