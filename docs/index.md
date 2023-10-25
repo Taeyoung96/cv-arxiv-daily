@@ -28,7 +28,7 @@ layout: default
 |**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode et.al.|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768v1](http://arxiv.org/abs/2310.13768v1)|null|
-|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|null|
+|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|**[link](https://github.com/fast-fire/colag)**|
 |**2023-10-20**|**Higher or Lower: Challenges in Object based SLAM**|Zhihe Zhang et.al.|[2310.13256v1](http://arxiv.org/abs/2310.13256v1)|null|
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645v1](http://arxiv.org/abs/2310.11645v1)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu et.al.|[2310.11598v1](http://arxiv.org/abs/2310.11598v1)|null|
@@ -796,8 +796,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504v1](http://arxiv.org/abs/2310.15504v1)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637v1](http://arxiv.org/abs/2310.14637v1)|**[link](https://github.com/xandery-geek/SAAT)**|
-|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025v1](http://arxiv.org/abs/2310.14025v1)|null|
+|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025v1](http://arxiv.org/abs/2310.14025v1)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605v1](http://arxiv.org/abs/2310.13605v1)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692v1](http://arxiv.org/abs/2310.12692v1)|**[link](https://github.com/sthalles/carp)**|
@@ -1713,6 +1714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504v1](http://arxiv.org/abs/2310.15504v1)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695v1](http://arxiv.org/abs/2310.14695v1)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487v1](http://arxiv.org/abs/2310.14487v1)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|null|
