@@ -1602,8 +1602,10 @@
 
 ## NeRF
 
+- 2023-10-26, **HyperFields: Towards Zero-Shot Generation of NeRFs from Text**, Sudarshan Babu et.al., Paper: [http://arxiv.org/abs/2310.17075v1](http://arxiv.org/abs/2310.17075v1)
+- 2023-10-25, **4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**, Dadong Jiang et.al., Paper: [http://arxiv.org/abs/2310.16858v1](http://arxiv.org/abs/2310.16858v1)
 - 2023-10-25, **LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**, Aarush Gupta et.al., Paper: [http://arxiv.org/abs/2310.16832v1](http://arxiv.org/abs/2310.16832v1), Code: **[https://github.com/lightspeed-r2l/lightspeed](https://github.com/lightspeed-r2l/lightspeed)**
-- 2023-10-25, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v1](http://arxiv.org/abs/2310.16831v1)
+- 2023-10-25, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v1](http://arxiv.org/abs/2310.16831v1), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
 - 2023-10-25, **Open-NeRF: Towards Open Vocabulary NeRF Decomposition**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2310.16383v1](http://arxiv.org/abs/2310.16383v1)
 - 2023-10-25, **UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**, Christopher Maxey et.al., Paper: [http://arxiv.org/abs/2310.16255v1](http://arxiv.org/abs/2310.16255v1)
 - 2023-10-24, **Cross-view Self-localization from Synthesized Scene-graphs**, Ryogo Yamamoto et.al., Paper: [http://arxiv.org/abs/2310.15504v1](http://arxiv.org/abs/2310.15504v1)
