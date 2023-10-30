@@ -1711,7 +1711,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v1](http://arxiv.org/abs/2310.17075v1)|null|
+|**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v2](http://arxiv.org/abs/2310.17075v2)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858v1](http://arxiv.org/abs/2310.16858v1)|null|
 |**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v2](http://arxiv.org/abs/2310.16832v2)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|**[link](https://github.com/perf-project/PeRF)**|
