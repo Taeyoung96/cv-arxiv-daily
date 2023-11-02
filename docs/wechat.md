@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-11-01, **LiDAR-based SLAM for robotic mapping: state of the art and new frontiers**, Xiangdi Yue et.al., Paper: [http://arxiv.org/abs/2311.00276v1](http://arxiv.org/abs/2311.00276v1)
 - 2023-10-30, **Distributed multi-agent magnetic field norm SLAM with Gaussian processes**, Frida Viset et.al., Paper: [http://arxiv.org/abs/2310.19400v1](http://arxiv.org/abs/2310.19400v1)
 - 2023-10-29, **TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**, Chengyao Duan et.al., Paper: [http://arxiv.org/abs/2310.18917v1](http://arxiv.org/abs/2310.18917v1)
 - 2023-10-28, **KernelGPA: A Globally Optimal Solution to Deformable SLAM in Closed-form**, Fang Bai et.al., Paper: [http://arxiv.org/abs/2310.18697v1](http://arxiv.org/abs/2310.18697v1)
@@ -732,6 +733,7 @@
 
 ## Visual Localization
 
+- 2023-11-01, **DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**, Gaoshuang Huang et.al., Paper: [http://arxiv.org/abs/2311.00230v1](http://arxiv.org/abs/2311.00230v1)
 - 2023-10-29, **Identifiable Contrastive Learning with Automatic Feature Importance Discovery**, Qi Zhang et.al., Paper: [http://arxiv.org/abs/2310.18904v1](http://arxiv.org/abs/2310.18904v1), Code: **[https://github.com/pku-ml/tri-factor-contrastive-learning](https://github.com/pku-ml/tri-factor-contrastive-learning)**
 - 2023-10-27, **LipSim: A Provably Robust Perceptual Similarity Metric**, Sara Ghazanfari et.al., Paper: [http://arxiv.org/abs/2310.18274v1](http://arxiv.org/abs/2310.18274v1), Code: **[https://github.com/saraghazanfari/lipsim](https://github.com/saraghazanfari/lipsim)**
 - 2023-10-27, **Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**, Susu Fang et.al., Paper: [http://arxiv.org/abs/2310.17879v1](http://arxiv.org/abs/2310.17879v1)
