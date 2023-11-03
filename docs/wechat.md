@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-11-02, **Semiparametric Latent ANOVA Model for Event-Related Potentials**, Cheng-Han Yu et.al., Paper: [http://arxiv.org/abs/2311.01287v1](http://arxiv.org/abs/2311.01287v1)
+- 2023-11-02, **Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2311.00928v1](http://arxiv.org/abs/2311.00928v1)
 - 2023-11-01, **LiDAR-based SLAM for robotic mapping: state of the art and new frontiers**, Xiangdi Yue et.al., Paper: [http://arxiv.org/abs/2311.00276v1](http://arxiv.org/abs/2311.00276v1)
 - 2023-10-30, **Distributed multi-agent magnetic field norm SLAM with Gaussian processes**, Frida Viset et.al., Paper: [http://arxiv.org/abs/2310.19400v1](http://arxiv.org/abs/2310.19400v1)
 - 2023-10-29, **TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**, Chengyao Duan et.al., Paper: [http://arxiv.org/abs/2310.18917v1](http://arxiv.org/abs/2310.18917v1)
@@ -1611,6 +1613,7 @@
 
 ## NeRF
 
+- 2023-11-02, **Novel View Synthesis from a Single RGBD Image for Indoor Scenes**, Congrui Hetang et.al., Paper: [http://arxiv.org/abs/2311.01065v1](http://arxiv.org/abs/2311.01065v1)
 - 2023-10-31, **FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**, Saskia Rabich et.al., Paper: [http://arxiv.org/abs/2310.20710v1](http://arxiv.org/abs/2310.20710v1)
 - 2023-10-31, **NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**, Mikaela Angelina Uy et.al., Paper: [http://arxiv.org/abs/2310.20685v1](http://arxiv.org/abs/2310.20685v1)
 - 2023-10-30, **Generative Neural Fields by Mixtures of Neural Implicit Functions**, Tackgeun You et.al., Paper: [http://arxiv.org/abs/2310.19464v1](http://arxiv.org/abs/2310.19464v1)
