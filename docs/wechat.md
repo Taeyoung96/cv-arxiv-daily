@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2023-11-06, **SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2311.02831v1](http://arxiv.org/abs/2311.02831v1)
+- 2023-11-07, **SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2311.02831v2](http://arxiv.org/abs/2311.02831v2)
 - 2023-11-04, **ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**, Peiyu Chen et.al., Paper: [http://arxiv.org/abs/2311.02327v1](http://arxiv.org/abs/2311.02327v1)
 - 2023-11-02, **Semiparametric Latent ANOVA Model for Event-Related Potentials**, Cheng-Han Yu et.al., Paper: [http://arxiv.org/abs/2311.01287v1](http://arxiv.org/abs/2311.01287v1)
 - 2023-11-02, **Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2311.00928v1](http://arxiv.org/abs/2311.00928v1)
