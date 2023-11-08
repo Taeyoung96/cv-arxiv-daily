@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-11-07, **Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**, Seongwook Yoon et.al., Paper: [http://arxiv.org/abs/2311.03722v1](http://arxiv.org/abs/2311.03722v1)
+- 2023-11-06, **Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**, Rowan Border et.al., Paper: [http://arxiv.org/abs/2311.03484v1](http://arxiv.org/abs/2311.03484v1)
 - 2023-11-07, **SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2311.02831v2](http://arxiv.org/abs/2311.02831v2)
 - 2023-11-04, **ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**, Peiyu Chen et.al., Paper: [http://arxiv.org/abs/2311.02327v1](http://arxiv.org/abs/2311.02327v1)
 - 2023-11-02, **Semiparametric Latent ANOVA Model for Event-Related Potentials**, Cheng-Han Yu et.al., Paper: [http://arxiv.org/abs/2311.01287v1](http://arxiv.org/abs/2311.01287v1)
@@ -737,6 +739,7 @@
 
 ## Visual Localization
 
+- 2023-11-07, **DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**, Kehinde Ajayi et.al., Paper: [http://arxiv.org/abs/2311.04098v1](http://arxiv.org/abs/2311.04098v1)
 - 2023-11-06, **Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2311.03345v1](http://arxiv.org/abs/2311.03345v1)
 - 2023-11-06, **FocusTune: Tuning Visual Localization through Focus-Guided Sampling**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2311.02872v1](http://arxiv.org/abs/2311.02872v1), Code: **[https://github.com/sontung/focus-tune](https://github.com/sontung/focus-tune)**
 - 2023-11-01, **DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**, Gaoshuang Huang et.al., Paper: [http://arxiv.org/abs/2311.00230v1](http://arxiv.org/abs/2311.00230v1)
@@ -1620,6 +1623,10 @@
 
 ## NeRF
 
+- 2023-11-07, **High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**, Kewei Hu et.al., Paper: [http://arxiv.org/abs/2311.04154v1](http://arxiv.org/abs/2311.04154v1)
+- 2023-11-07, **Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**, Yeonjin Chang et.al., Paper: [http://arxiv.org/abs/2311.03965v1](http://arxiv.org/abs/2311.03965v1)
+- 2023-11-07, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v1](http://arxiv.org/abs/2311.03784v1)
+- 2023-11-06, **Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**, Rowan Border et.al., Paper: [http://arxiv.org/abs/2311.03484v1](http://arxiv.org/abs/2311.03484v1)
 - 2023-11-06, **Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**, Paul Knoll et.al., Paper: [http://arxiv.org/abs/2311.03140v1](http://arxiv.org/abs/2311.03140v1)
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
 - 2023-11-03, **Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**, Jianxiong Shen et.al., Paper: [http://arxiv.org/abs/2311.01815v1](http://arxiv.org/abs/2311.01815v1)
