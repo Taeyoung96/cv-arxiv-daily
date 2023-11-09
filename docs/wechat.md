@@ -1625,7 +1625,7 @@
 
 - 2023-11-07, **High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**, Kewei Hu et.al., Paper: [http://arxiv.org/abs/2311.04154v1](http://arxiv.org/abs/2311.04154v1)
 - 2023-11-07, **Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**, Yeonjin Chang et.al., Paper: [http://arxiv.org/abs/2311.03965v1](http://arxiv.org/abs/2311.03965v1)
-- 2023-11-07, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v1](http://arxiv.org/abs/2311.03784v1)
+- 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2)
 - 2023-11-06, **Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**, Rowan Border et.al., Paper: [http://arxiv.org/abs/2311.03484v1](http://arxiv.org/abs/2311.03484v1)
 - 2023-11-06, **Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**, Paul Knoll et.al., Paper: [http://arxiv.org/abs/2311.03140v1](http://arxiv.org/abs/2311.03140v1)
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
