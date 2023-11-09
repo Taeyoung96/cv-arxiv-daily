@@ -666,6 +666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634v1](http://arxiv.org/abs/2311.04634v1)|**[link](https://github.com/lfranke/vet)**|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364v1](http://arxiv.org/abs/2310.14364v1)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605v1](http://arxiv.org/abs/2310.13605v1)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
@@ -807,6 +808,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788v1](http://arxiv.org/abs/2311.04788v1)|null|
+|**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711v1](http://arxiv.org/abs/2311.04711v1)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345v1](http://arxiv.org/abs/2311.03345v1)|null|
 |**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872v1](http://arxiv.org/abs/2311.02872v1)|**[link](https://github.com/sontung/focus-tune)**|
@@ -1386,6 +1389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699v1](http://arxiv.org/abs/2311.04699v1)|null|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|null|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842v1](http://arxiv.org/abs/2311.02842v1)|null|
 |**2023-10-20**|**Feature Selection and Hyperparameter Fine-tuning in Artificial Neural Networks for Wood Quality Classification**|Mateus Roder et.al.|[2310.13490v1](http://arxiv.org/abs/2310.13490v1)|null|
@@ -1736,6 +1740,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
+|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246v1](http://arxiv.org/abs/2311.04246v1)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
