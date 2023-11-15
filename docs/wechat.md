@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-11-14, **CP-SLAM: Collaborative Neural Point-based SLAM System**, Jiarui Hu et.al., Paper: [http://arxiv.org/abs/2311.08013v1](http://arxiv.org/abs/2311.08013v1)
+- 2023-11-14, **Spectral Line Analysis/Modeling (SLAM) I: pvanalysis**, Yusuke Aso et.al., Paper: [http://arxiv.org/abs/2311.07988v1](http://arxiv.org/abs/2311.07988v1)
 - 2023-11-11, **3DFusion, A real-time 3D object reconstruction pipeline based on streamed instance segmented data**, Xi Sun et.al., Paper: [http://arxiv.org/abs/2311.06659v1](http://arxiv.org/abs/2311.06659v1)
 - 2023-11-09, **FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications**, Kaiyuan Chen et.al., Paper: [http://arxiv.org/abs/2311.05600v1](http://arxiv.org/abs/2311.05600v1)
 - 2023-11-07, **Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**, Seongwook Yoon et.al., Paper: [http://arxiv.org/abs/2311.03722v1](http://arxiv.org/abs/2311.03722v1)
@@ -743,6 +745,7 @@
 
 ## Visual Localization
 
+- 2023-11-13, **Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**, Junyang Chen et.al., Paper: [http://arxiv.org/abs/2311.07622v1](http://arxiv.org/abs/2311.07622v1)
 - 2023-11-13, **VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**, Shuting He et.al., Paper: [http://arxiv.org/abs/2311.07514v1](http://arxiv.org/abs/2311.07514v1)
 - 2023-11-10, **Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**, Xin Lu et.al., Paper: [http://arxiv.org/abs/2311.06067v1](http://arxiv.org/abs/2311.06067v1)
 - 2023-11-08, **Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**, Junya Shiraishi et.al., Paper: [http://arxiv.org/abs/2311.04788v1](http://arxiv.org/abs/2311.04788v1)
