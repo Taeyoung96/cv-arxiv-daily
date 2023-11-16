@@ -745,6 +745,7 @@
 
 ## Visual Localization
 
+- 2023-11-15, **Flow reconstruction and particle characterization from inertial Lagrangian tracks**, Ke Zhou et.al., Paper: [http://arxiv.org/abs/2311.09076v1](http://arxiv.org/abs/2311.09076v1)
 - 2023-11-13, **Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**, Junyang Chen et.al., Paper: [http://arxiv.org/abs/2311.07622v1](http://arxiv.org/abs/2311.07622v1)
 - 2023-11-13, **VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**, Shuting He et.al., Paper: [http://arxiv.org/abs/2311.07514v1](http://arxiv.org/abs/2311.07514v1)
 - 2023-11-10, **Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**, Xin Lu et.al., Paper: [http://arxiv.org/abs/2311.06067v1](http://arxiv.org/abs/2311.06067v1)
@@ -1638,6 +1639,9 @@
 
 ## NeRF
 
+- 2023-11-15, **Single-Image 3D Human Digitization with Shape-Guided Diffusion**, Badour AlBahar et.al., Paper: [http://arxiv.org/abs/2311.09221v1](http://arxiv.org/abs/2311.09221v1)
+- 2023-11-15, **DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2311.09217v1](http://arxiv.org/abs/2311.09217v1)
+- 2023-11-15, **Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**, Zhanfeng Liao et.al., Paper: [http://arxiv.org/abs/2311.09077v1](http://arxiv.org/abs/2311.09077v1)
 - 2023-11-13, **$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**, Liangchen Li et.al., Paper: [http://arxiv.org/abs/2311.07044v1](http://arxiv.org/abs/2311.07044v1)
 - 2023-11-11, **Aria-NeRF: Multimodal Egocentric View Synthesis**, Jiankai Sun et.al., Paper: [http://arxiv.org/abs/2311.06455v1](http://arxiv.org/abs/2311.06455v1)
 - 2023-11-10, **Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2311.06214v1](http://arxiv.org/abs/2311.06214v1)
