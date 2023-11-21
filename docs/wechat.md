@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2023-11-20, **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Chi Yan et.al., Paper: [http://arxiv.org/abs/2311.11700v1](http://arxiv.org/abs/2311.11700v1)
+- 2023-11-19, **Radarize: Large-Scale Radar SLAM for Indoor Environments**, Emerson Sie et.al., Paper: [http://arxiv.org/abs/2311.11260v1](http://arxiv.org/abs/2311.11260v1)
+- 2023-11-18, **SNI-SLAM: Semantic Neural Implicit SLAM**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2311.11016v1](http://arxiv.org/abs/2311.11016v1)
+- 2023-11-18, **Implicit Event-RGBD Neural SLAM**, Delin Qu et.al., Paper: [http://arxiv.org/abs/2311.11013v1](http://arxiv.org/abs/2311.11013v1)
 - 2023-11-16, **NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2311.09525v1](http://arxiv.org/abs/2311.09525v1)
 - 2023-11-14, **CP-SLAM: Collaborative Neural Point-based SLAM System**, Jiarui Hu et.al., Paper: [http://arxiv.org/abs/2311.08013v1](http://arxiv.org/abs/2311.08013v1)
 - 2023-11-14, **Spectral Line Analysis/Modeling (SLAM) I: pvanalysis**, Yusuke Aso et.al., Paper: [http://arxiv.org/abs/2311.07988v1](http://arxiv.org/abs/2311.07988v1)
@@ -617,6 +621,8 @@
 
 ## SFM
 
+- 2023-11-20, **Robot Hand-Eye Calibration using Structure-from-Motion**, Nicolas Andreff et.al., Paper: [http://arxiv.org/abs/2311.11808v1](http://arxiv.org/abs/2311.11808v1)
+- 2023-11-18, **LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**, Sébastien Henry et.al., Paper: [http://arxiv.org/abs/2311.11171v1](http://arxiv.org/abs/2311.11171v1)
 - 2023-11-10, **MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**, Rémi Marsal et.al., Paper: [http://arxiv.org/abs/2311.06137v1](http://arxiv.org/abs/2311.06137v1), Code: **[https://github.com/cea-list/monoprob](https://github.com/cea-list/monoprob)**
 - 2023-11-08, **VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**, Linus Franke et.al., Paper: [http://arxiv.org/abs/2311.04634v1](http://arxiv.org/abs/2311.04634v1), Code: **[https://github.com/lfranke/vet](https://github.com/lfranke/vet)**
 - 2023-10-22, **A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**, Jan Emily Mangulabnan et.al., Paper: [http://arxiv.org/abs/2310.14364v1](http://arxiv.org/abs/2310.14364v1)
@@ -746,6 +752,8 @@
 
 ## Visual Localization
 
+- 2023-11-19, **From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**, Ameya Prabhu et.al., Paper: [http://arxiv.org/abs/2311.11293v1](http://arxiv.org/abs/2311.11293v1)
+- 2023-11-18, **Lesion Search with Self-supervised Learning**, Kristin Qi et.al., Paper: [http://arxiv.org/abs/2311.11014v1](http://arxiv.org/abs/2311.11014v1)
 - 2023-11-15, **Flow reconstruction and particle characterization from inertial Lagrangian tracks**, Ke Zhou et.al., Paper: [http://arxiv.org/abs/2311.09076v1](http://arxiv.org/abs/2311.09076v1)
 - 2023-11-15, **Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**, Junyang Chen et.al., Paper: [http://arxiv.org/abs/2311.07622v2](http://arxiv.org/abs/2311.07622v2)
 - 2023-11-13, **VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**, Shuting He et.al., Paper: [http://arxiv.org/abs/2311.07514v1](http://arxiv.org/abs/2311.07514v1)
@@ -1325,6 +1333,7 @@
 
 ## Keypoint Detection
 
+- 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-17, **Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**, Paul J. Claasen et.al., Paper: [http://arxiv.org/abs/2311.10361v1](http://arxiv.org/abs/2311.10361v1)
 - 2023-11-13, **Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**, Tomáš Kunzo et.al., Paper: [http://arxiv.org/abs/2311.07398v1](http://arxiv.org/abs/2311.07398v1)
 - 2023-11-11, **CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**, Haoyu Ma et.al., Paper: [http://arxiv.org/abs/2311.06443v1](http://arxiv.org/abs/2311.06443v1)
@@ -1641,6 +1650,11 @@
 
 ## NeRF
 
+- 2023-11-20, **GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**, Hao Li et.al., Paper: [http://arxiv.org/abs/2311.11863v1](http://arxiv.org/abs/2311.11863v1)
+- 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
+- 2023-11-19, **GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**, Xinhai Li et.al., Paper: [http://arxiv.org/abs/2311.11221v1](http://arxiv.org/abs/2311.11221v1)
+- 2023-11-18, **SNI-SLAM: Semantic Neural Implicit SLAM**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2311.11016v1](http://arxiv.org/abs/2311.11016v1)
+- 2023-11-18, **Structure-Aware Sparse-View X-ray 3D Reconstruction**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2311.10959v1](http://arxiv.org/abs/2311.10959v1)
 - 2023-11-17, **Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**, Andreas L. Teigen et.al., Paper: [http://arxiv.org/abs/2311.10523v1](http://arxiv.org/abs/2311.10523v1)
 - 2023-11-18, **EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**, Jingnan Gao et.al., Paper: [http://arxiv.org/abs/2311.09806v2](http://arxiv.org/abs/2311.09806v2)
 - 2023-11-16, **Reconstructing Continuous Light Field From Single Coded Image**, Yuya Ishikawa et.al., Paper: [http://arxiv.org/abs/2311.09646v1](http://arxiv.org/abs/2311.09646v1)
