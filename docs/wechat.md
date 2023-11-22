@@ -19,10 +19,10 @@
 
 ## SLAM
 
-- 2023-11-20, **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Chi Yan et.al., Paper: [http://arxiv.org/abs/2311.11700v1](http://arxiv.org/abs/2311.11700v1)
+- 2023-11-21, **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Chi Yan et.al., Paper: [http://arxiv.org/abs/2311.11700v2](http://arxiv.org/abs/2311.11700v2)
 - 2023-11-19, **Radarize: Large-Scale Radar SLAM for Indoor Environments**, Emerson Sie et.al., Paper: [http://arxiv.org/abs/2311.11260v1](http://arxiv.org/abs/2311.11260v1)
 - 2023-11-18, **SNI-SLAM: Semantic Neural Implicit SLAM**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2311.11016v1](http://arxiv.org/abs/2311.11016v1)
-- 2023-11-18, **Implicit Event-RGBD Neural SLAM**, Delin Qu et.al., Paper: [http://arxiv.org/abs/2311.11013v1](http://arxiv.org/abs/2311.11013v1)
+- 2023-11-21, **Implicit Event-RGBD Neural SLAM**, Delin Qu et.al., Paper: [http://arxiv.org/abs/2311.11013v2](http://arxiv.org/abs/2311.11013v2)
 - 2023-11-16, **NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2311.09525v1](http://arxiv.org/abs/2311.09525v1)
 - 2023-11-14, **CP-SLAM: Collaborative Neural Point-based SLAM System**, Jiarui Hu et.al., Paper: [http://arxiv.org/abs/2311.08013v1](http://arxiv.org/abs/2311.08013v1)
 - 2023-11-14, **Spectral Line Analysis/Modeling (SLAM) I: pvanalysis**, Yusuke Aso et.al., Paper: [http://arxiv.org/abs/2311.07988v1](http://arxiv.org/abs/2311.07988v1)
@@ -621,7 +621,7 @@
 
 ## SFM
 
-- 2023-11-20, **Robot Hand-Eye Calibration using Structure-from-Motion**, Nicolas Andreff et.al., Paper: [http://arxiv.org/abs/2311.11808v1](http://arxiv.org/abs/2311.11808v1)
+- 2023-11-21, **Robot Hand-Eye Calibration using Structure-from-Motion**, Nicolas Andreff et.al., Paper: [http://arxiv.org/abs/2311.11808v2](http://arxiv.org/abs/2311.11808v2)
 - 2023-11-18, **LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**, Sébastien Henry et.al., Paper: [http://arxiv.org/abs/2311.11171v1](http://arxiv.org/abs/2311.11171v1)
 - 2023-11-10, **MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**, Rémi Marsal et.al., Paper: [http://arxiv.org/abs/2311.06137v1](http://arxiv.org/abs/2311.06137v1), Code: **[https://github.com/cea-list/monoprob](https://github.com/cea-list/monoprob)**
 - 2023-11-08, **VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**, Linus Franke et.al., Paper: [http://arxiv.org/abs/2311.04634v1](http://arxiv.org/abs/2311.04634v1), Code: **[https://github.com/lfranke/vet](https://github.com/lfranke/vet)**
