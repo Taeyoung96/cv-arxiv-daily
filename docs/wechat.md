@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2023-11-21, **CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**, Young-Hee Lee et.al., Paper: [http://arxiv.org/abs/2311.12580v1](http://arxiv.org/abs/2311.12580v1)
+- 2023-11-21, **Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2311.12245v1](http://arxiv.org/abs/2311.12245v1)
 - 2023-11-21, **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Chi Yan et.al., Paper: [http://arxiv.org/abs/2311.11700v2](http://arxiv.org/abs/2311.11700v2)
 - 2023-11-19, **Radarize: Large-Scale Radar SLAM for Indoor Environments**, Emerson Sie et.al., Paper: [http://arxiv.org/abs/2311.11260v1](http://arxiv.org/abs/2311.11260v1)
 - 2023-11-18, **SNI-SLAM: Semantic Neural Implicit SLAM**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2311.11016v1](http://arxiv.org/abs/2311.11016v1)
@@ -752,6 +754,7 @@
 
 ## Visual Localization
 
+- 2023-11-21, **Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2311.12245v1](http://arxiv.org/abs/2311.12245v1)
 - 2023-11-19, **From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**, Ameya Prabhu et.al., Paper: [http://arxiv.org/abs/2311.11293v1](http://arxiv.org/abs/2311.11293v1)
 - 2023-11-18, **Lesion Search with Self-supervised Learning**, Kristin Qi et.al., Paper: [http://arxiv.org/abs/2311.11014v1](http://arxiv.org/abs/2311.11014v1)
 - 2023-11-15, **Flow reconstruction and particle characterization from inertial Lagrangian tracks**, Ke Zhou et.al., Paper: [http://arxiv.org/abs/2311.09076v1](http://arxiv.org/abs/2311.09076v1)
@@ -1333,6 +1336,7 @@
 
 ## Keypoint Detection
 
+- 2023-11-21, **Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**, Bo Sun et.al., Paper: [http://arxiv.org/abs/2311.12291v1](http://arxiv.org/abs/2311.12291v1)
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-17, **Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**, Paul J. Claasen et.al., Paper: [http://arxiv.org/abs/2311.10361v1](http://arxiv.org/abs/2311.10361v1)
 - 2023-11-13, **Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**, Tomáš Kunzo et.al., Paper: [http://arxiv.org/abs/2311.07398v1](http://arxiv.org/abs/2311.07398v1)
@@ -1650,6 +1654,9 @@
 
 ## NeRF
 
+- 2023-11-21, **SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**, Antoine Guédon et.al., Paper: [http://arxiv.org/abs/2311.12775v1](http://arxiv.org/abs/2311.12775v1)
+- 2023-11-21, **Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2311.12490v1](http://arxiv.org/abs/2311.12490v1)
+- 2023-11-18, **Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**, Xingyu Zhu et.al., Paper: [http://arxiv.org/abs/2311.12059v1](http://arxiv.org/abs/2311.12059v1)
 - 2023-11-20, **GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**, Hao Li et.al., Paper: [http://arxiv.org/abs/2311.11863v1](http://arxiv.org/abs/2311.11863v1)
 - 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
 - 2023-11-19, **GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**, Xinhai Li et.al., Paper: [http://arxiv.org/abs/2311.11221v1](http://arxiv.org/abs/2311.11221v1)
