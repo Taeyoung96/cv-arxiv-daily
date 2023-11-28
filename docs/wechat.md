@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-11-25, **UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**, H. A. G. C. Premachandra et.al., Paper: [http://arxiv.org/abs/2311.14970v1](http://arxiv.org/abs/2311.14970v1)
 - 2023-11-21, **CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**, Young-Hee Lee et.al., Paper: [http://arxiv.org/abs/2311.12580v1](http://arxiv.org/abs/2311.12580v1)
 - 2023-11-21, **Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**, Zhentian Qian et.al., Paper: [http://arxiv.org/abs/2311.12245v1](http://arxiv.org/abs/2311.12245v1)
 - 2023-11-21, **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Chi Yan et.al., Paper: [http://arxiv.org/abs/2311.11700v2](http://arxiv.org/abs/2311.11700v2)
@@ -754,7 +755,8 @@
 
 ## Visual Localization
 
-- 2023-11-23, **AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**, Shicheng Xu et.al., Paper: [http://arxiv.org/abs/2311.14084v1](http://arxiv.org/abs/2311.14084v1)
+- 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
+- 2023-11-27, **AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**, Shicheng Xu et.al., Paper: [http://arxiv.org/abs/2311.14084v2](http://arxiv.org/abs/2311.14084v2)
 - 2023-11-23, **3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**, Asma Ben Abacha et.al., Paper: [http://arxiv.org/abs/2311.13752v1](http://arxiv.org/abs/2311.13752v1)
 - 2023-11-22, **Medical Image Retrieval Using Pretrained Embeddings**, Farnaz Khun Jush et.al., Paper: [http://arxiv.org/abs/2311.13547v1](http://arxiv.org/abs/2311.13547v1)
 - 2023-11-22, **Applications of Spiking Neural Networks in Visual Place Recognition**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2311.13186v1](http://arxiv.org/abs/2311.13186v1), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
@@ -1341,6 +1343,7 @@
 
 ## Keypoint Detection
 
+- 2023-11-27, **A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**, Jialin Liu et.al., Paper: [http://arxiv.org/abs/2311.15609v1](http://arxiv.org/abs/2311.15609v1)
 - 2023-11-21, **Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**, Bo Sun et.al., Paper: [http://arxiv.org/abs/2311.12291v1](http://arxiv.org/abs/2311.12291v1)
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-17, **Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**, Paul J. Claasen et.al., Paper: [http://arxiv.org/abs/2311.10361v1](http://arxiv.org/abs/2311.10361v1)
@@ -1659,6 +1662,12 @@
 
 ## NeRF
 
+- 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
+- 2023-11-27, **SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**, Quentin Herau et.al., Paper: [http://arxiv.org/abs/2311.15803v1](http://arxiv.org/abs/2311.15803v1)
+- 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
+- 2023-11-26, **Efficient Encoding of Graphics Primitives with Simplex-based Structures**, Yibo Wen et.al., Paper: [http://arxiv.org/abs/2311.15439v1](http://arxiv.org/abs/2311.15439v1)
+- 2023-11-26, **Obj-NeRF: Extract Object NeRFs from Multi-view Images**, Zhiyi Li et.al., Paper: [http://arxiv.org/abs/2311.15291v1](http://arxiv.org/abs/2311.15291v1)
+- 2023-11-26, **NeuRAD: Neural Rendering for Autonomous Driving**, Adam Tonderski et.al., Paper: [http://arxiv.org/abs/2311.15260v1](http://arxiv.org/abs/2311.15260v1), Code: **[https://github.com/georghess/neurad](https://github.com/georghess/neurad)**
 - 2023-11-24, **Animate124: Animating One Image to 4D Dynamic Scene**, Yuyang Zhao et.al., Paper: [http://arxiv.org/abs/2311.14603v1](http://arxiv.org/abs/2311.14603v1)
 - 2023-11-24, **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**, Yiwen Chen et.al., Paper: [http://arxiv.org/abs/2311.14521v1](http://arxiv.org/abs/2311.14521v1)
 - 2023-11-23, **ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**, Soonbin Lee et.al., Paper: [http://arxiv.org/abs/2311.14208v1](http://arxiv.org/abs/2311.14208v1)
