@@ -1666,7 +1666,7 @@
 - 2023-11-23, **Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2311.13750v1](http://arxiv.org/abs/2311.13750v1)
 - 2023-11-22, **Compact 3D Gaussian Representation for Radiance Field**, Joo Chan Lee et.al., Paper: [http://arxiv.org/abs/2311.13681v1](http://arxiv.org/abs/2311.13681v1)
 - 2023-11-22, **Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**, Kai Yu et.al., Paper: [http://arxiv.org/abs/2311.13617v1](http://arxiv.org/abs/2311.13617v1)
-- 2023-11-22, **Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**, Keyang Ye et.al., Paper: [http://arxiv.org/abs/2311.13404v1](http://arxiv.org/abs/2311.13404v1)
+- 2023-11-27, **Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**, Keyang Ye et.al., Paper: [http://arxiv.org/abs/2311.13404v2](http://arxiv.org/abs/2311.13404v2)
 - 2023-11-22, **Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**, Jaeyoung Chung et.al., Paper: [http://arxiv.org/abs/2311.13398v1](http://arxiv.org/abs/2311.13398v1)
 - 2023-11-22, **3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**, Jianwei Feng et.al., Paper: [http://arxiv.org/abs/2311.13168v1](http://arxiv.org/abs/2311.13168v1)
 - 2023-11-22, **PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**, Yutao Feng et.al., Paper: [http://arxiv.org/abs/2311.13099v1](http://arxiv.org/abs/2311.13099v1)
