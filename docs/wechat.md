@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-11-29, **Cinematic Behavior Transfer via NeRF-based Differentiable Filming**, Xuekun Jiang et.al., Paper: [http://arxiv.org/abs/2311.17754v1](http://arxiv.org/abs/2311.17754v1)
 - 2023-11-28, **Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras**, Huajian Huang et.al., Paper: [http://arxiv.org/abs/2311.16728v1](http://arxiv.org/abs/2311.16728v1)
 - 2023-11-25, **UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**, H. A. G. C. Premachandra et.al., Paper: [http://arxiv.org/abs/2311.14970v1](http://arxiv.org/abs/2311.14970v1)
 - 2023-11-21, **CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**, Young-Hee Lee et.al., Paper: [http://arxiv.org/abs/2311.12580v1](http://arxiv.org/abs/2311.12580v1)
@@ -756,6 +757,7 @@
 
 ## Visual Localization
 
+- 2023-11-29, **360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**, Huajian Huang et.al., Paper: [http://arxiv.org/abs/2311.17389v1](http://arxiv.org/abs/2311.17389v1)
 - 2023-11-27, **Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**, Samuele Poppi et.al., Paper: [http://arxiv.org/abs/2311.16254v1](http://arxiv.org/abs/2311.16254v1), Code: **[https://github.com/aimagelab/safe-clip](https://github.com/aimagelab/safe-clip)**
 - 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
 - 2023-11-27, **AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**, Shicheng Xu et.al., Paper: [http://arxiv.org/abs/2311.14084v2](http://arxiv.org/abs/2311.14084v2)
@@ -1516,6 +1518,7 @@
 
 ## Image Matching
 
+- 2023-11-29, **LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**, Wenhao Zhong et.al., Paper: [http://arxiv.org/abs/2311.17571v1](http://arxiv.org/abs/2311.17571v1)
 - 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 - 2023-11-06, **An invariant feature extraction for multi-modal images matching**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2311.02842v1](http://arxiv.org/abs/2311.02842v1)
 - 2023-10-23, **RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**, Jinyu Li et.al., Paper: [http://arxiv.org/abs/2310.15072v1](http://arxiv.org/abs/2310.15072v1)
@@ -1666,6 +1669,13 @@
 
 ## NeRF
 
+- 2023-11-29, **AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**, Jianfeng Zhang et.al., Paper: [http://arxiv.org/abs/2311.17917v1](http://arxiv.org/abs/2311.17917v1)
+- 2023-11-29, **FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**, Wen Jiang et.al., Paper: [http://arxiv.org/abs/2311.17874v1](http://arxiv.org/abs/2311.17874v1)
+- 2023-11-29, **Cinematic Behavior Transfer via NeRF-based Differentiable Filming**, Xuekun Jiang et.al., Paper: [http://arxiv.org/abs/2311.17754v1](http://arxiv.org/abs/2311.17754v1)
+- 2023-11-29, **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2311.17590v1](http://arxiv.org/abs/2311.17590v1), Code: **[https://github.com/ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)**
+- 2023-11-29, **NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**, Xiaoliang Liu et.al., Paper: [http://arxiv.org/abs/2311.17332v1](http://arxiv.org/abs/2311.17332v1)
+- 2023-11-28, **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2311.17245v1](http://arxiv.org/abs/2311.17245v1), Code: **[https://github.com/VITA-Group/LightGaussian](https://github.com/VITA-Group/LightGaussian)**
+- 2023-11-28, **Continuous Pose for Monocular Cameras in Neural Implicit Representation**, Qi Ma et.al., Paper: [http://arxiv.org/abs/2311.17119v1](http://arxiv.org/abs/2311.17119v1), Code: **[https://github.com/qimaqi/continuous-pose-in-nerf](https://github.com/qimaqi/continuous-pose-in-nerf)**
 - 2023-11-28, **UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**, Kai Cheng et.al., Paper: [http://arxiv.org/abs/2311.16945v1](http://arxiv.org/abs/2311.16945v1)
 - 2023-11-28, **The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**, James A. D. Gardner et.al., Paper: [http://arxiv.org/abs/2311.16937v1](http://arxiv.org/abs/2311.16937v1), Code: **[https://github.com/jadgardner/neusky](https://github.com/jadgardner/neusky)**
 - 2023-11-28, **SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**, Jesus Zarzar et.al., Paper: [http://arxiv.org/abs/2311.16671v1](http://arxiv.org/abs/2311.16671v1)
