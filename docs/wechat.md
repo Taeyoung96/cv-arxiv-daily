@@ -626,6 +626,7 @@
 
 ## SFM
 
+- 2023-11-30, **Distributed Global Structure-from-Motion with a Deep Front-End**, Ayush Baid et.al., Paper: [http://arxiv.org/abs/2311.18801v1](http://arxiv.org/abs/2311.18801v1)
 - 2023-11-21, **Robot Hand-Eye Calibration using Structure-from-Motion**, Nicolas Andreff et.al., Paper: [http://arxiv.org/abs/2311.11808v2](http://arxiv.org/abs/2311.11808v2)
 - 2023-11-18, **LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**, Sébastien Henry et.al., Paper: [http://arxiv.org/abs/2311.11171v1](http://arxiv.org/abs/2311.11171v1)
 - 2023-11-10, **MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**, Rémi Marsal et.al., Paper: [http://arxiv.org/abs/2311.06137v1](http://arxiv.org/abs/2311.06137v1), Code: **[https://github.com/cea-list/monoprob](https://github.com/cea-list/monoprob)**
@@ -634,6 +635,7 @@
 - 2023-10-20, **FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2310.13605v1](http://arxiv.org/abs/2310.13605v1)
 - 2023-10-09, **Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**, Chunge Bai et.al., Paper: [http://arxiv.org/abs/2310.05504v1](http://arxiv.org/abs/2310.05504v1), Code: **[https://github.com/xiaobaiiiiii/colmap-pcd](https://github.com/xiaobaiiiiii/colmap-pcd)**
 - 2023-10-08, **LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**, Artem Nenashev et.al., Paper: [http://arxiv.org/abs/2310.05134v1](http://arxiv.org/abs/2310.05134v1)
+- 2023-11-29, **Pose-Free Generalizable Rendering Transformer**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2310.03704v2](http://arxiv.org/abs/2310.03704v2), Code: **[https://github.com/zhiwenfan/DragView](https://github.com/zhiwenfan/DragView)**
 - 2023-10-02, **Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2310.01092v1](http://arxiv.org/abs/2310.01092v1)
 - 2023-10-01, **Propagating Semantic Labels in Video Data**, David Balaban et.al., Paper: [http://arxiv.org/abs/2310.00783v1](http://arxiv.org/abs/2310.00783v1)
 - 2023-09-22, **Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**, Jonathan Sauder et.al., Paper: [http://arxiv.org/abs/2309.12804v1](http://arxiv.org/abs/2309.12804v1)
@@ -757,6 +759,10 @@
 
 ## Visual Localization
 
+- 2023-11-30, **HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**, Zhuohao Yin et.al., Paper: [http://arxiv.org/abs/2311.18273v1](http://arxiv.org/abs/2311.18273v1), Code: **[https://github.com/thomas-yin/semeval-2023-task1](https://github.com/thomas-yin/semeval-2023-task1)**
+- 2023-11-30, **Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**, Raviteja Vemulapalli et.al., Paper: [http://arxiv.org/abs/2311.18237v1](http://arxiv.org/abs/2311.18237v1)
+- 2023-11-29, **Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2311.17954v1](http://arxiv.org/abs/2311.17954v1)
+- 2023-11-28, **Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2311.17940v1](http://arxiv.org/abs/2311.17940v1)
 - 2023-11-29, **360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**, Huajian Huang et.al., Paper: [http://arxiv.org/abs/2311.17389v1](http://arxiv.org/abs/2311.17389v1)
 - 2023-11-27, **Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**, Samuele Poppi et.al., Paper: [http://arxiv.org/abs/2311.16254v1](http://arxiv.org/abs/2311.16254v1), Code: **[https://github.com/aimagelab/safe-clip](https://github.com/aimagelab/safe-clip)**
 - 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
@@ -1347,6 +1353,8 @@
 
 ## Keypoint Detection
 
+- 2023-11-30, **Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2311.18281v1](http://arxiv.org/abs/2311.18281v1)
+- 2023-11-29, **Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**, Thomas Wimmer et.al., Paper: [http://arxiv.org/abs/2311.18113v1](http://arxiv.org/abs/2311.18113v1)
 - 2023-11-28, **Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**, Niladri Shekhar Dutt et.al., Paper: [http://arxiv.org/abs/2311.17024v1](http://arxiv.org/abs/2311.17024v1)
 - 2023-11-28, **Riemannian Self-Attention Mechanism for SPD Networks**, Rui Wang et.al., Paper: [http://arxiv.org/abs/2311.16738v1](http://arxiv.org/abs/2311.16738v1)
 - 2023-11-27, **A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**, Jialin Liu et.al., Paper: [http://arxiv.org/abs/2311.15609v1](http://arxiv.org/abs/2311.15609v1)
@@ -1518,6 +1526,7 @@
 
 ## Image Matching
 
+- 2023-11-30, **Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2311.18281v1](http://arxiv.org/abs/2311.18281v1)
 - 2023-11-29, **LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**, Wenhao Zhong et.al., Paper: [http://arxiv.org/abs/2311.17571v1](http://arxiv.org/abs/2311.17571v1)
 - 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 - 2023-11-06, **An invariant feature extraction for multi-modal images matching**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2311.02842v1](http://arxiv.org/abs/2311.02842v1)
@@ -1669,6 +1678,12 @@
 
 ## NeRF
 
+- 2023-11-30, **Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**, Hyelin Nam et.al., Paper: [http://arxiv.org/abs/2311.18608v1](http://arxiv.org/abs/2311.18608v1)
+- 2023-11-30, **ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**, Violeta Menéndez González et.al., Paper: [http://arxiv.org/abs/2311.18491v1](http://arxiv.org/abs/2311.18491v1)
+- 2023-11-30, **Anisotropic Neural Representation Learning for High-Quality Neural Rendering**, Y. Wang et.al., Paper: [http://arxiv.org/abs/2311.18311v1](http://arxiv.org/abs/2311.18311v1)
+- 2023-11-30, **CosAvatar: Consistent and Animatable Portrait Video Tuning with Text Prompt**, Haiyao Xiao et.al., Paper: [http://arxiv.org/abs/2311.18288v1](http://arxiv.org/abs/2311.18288v1)
+- 2023-11-30, **Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization**, KL Navaneet et.al., Paper: [http://arxiv.org/abs/2311.18159v1](http://arxiv.org/abs/2311.18159v1), Code: **[https://github.com/ucdvision/compact3d](https://github.com/ucdvision/compact3d)**
+- 2023-11-29, **GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces**, Yingwenqi Jiang et.al., Paper: [http://arxiv.org/abs/2311.17977v1](http://arxiv.org/abs/2311.17977v1)
 - 2023-11-29, **AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**, Jianfeng Zhang et.al., Paper: [http://arxiv.org/abs/2311.17917v1](http://arxiv.org/abs/2311.17917v1)
 - 2023-11-29, **FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**, Wen Jiang et.al., Paper: [http://arxiv.org/abs/2311.17874v1](http://arxiv.org/abs/2311.17874v1)
 - 2023-11-29, **Cinematic Behavior Transfer via NeRF-based Differentiable Filming**, Xuekun Jiang et.al., Paper: [http://arxiv.org/abs/2311.17754v1](http://arxiv.org/abs/2311.17754v1)
