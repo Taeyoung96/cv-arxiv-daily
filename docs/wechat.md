@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2023-12-05, **DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**, Xiaze Zhang et.al., Paper: [http://arxiv.org/abs/2312.02684v1](http://arxiv.org/abs/2312.02684v1)
+- 2023-12-05, **MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**, Chuan Huang et.al., Paper: [http://arxiv.org/abs/2312.02599v1](http://arxiv.org/abs/2312.02599v1)
+- 2023-12-04, **Efficient 2D Graph SLAM for Sparse Sensing**, Hanzhi Zhou et.al., Paper: [http://arxiv.org/abs/2312.02353v1](http://arxiv.org/abs/2312.02353v1)
 - 2023-12-04, **SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2312.02126v1](http://arxiv.org/abs/2312.02126v1)
 - 2023-11-30, **DNS SLAM: Dense Neural Semantic-Informed SLAM**, Kunyi Li et.al., Paper: [http://arxiv.org/abs/2312.00204v1](http://arxiv.org/abs/2312.00204v1)
 - 2023-11-29, **GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**, Prashant Kumar et.al., Paper: [http://arxiv.org/abs/2312.00068v1](http://arxiv.org/abs/2312.00068v1)
@@ -762,11 +765,12 @@
 
 ## Visual Localization
 
+- 2023-12-05, **FreestyleRet: Retrieving Images from Style-Diversified Queries**, Hao Li et.al., Paper: [http://arxiv.org/abs/2312.02428v1](http://arxiv.org/abs/2312.02428v1)
 - 2023-12-04, **Implicit Learning of Scene Geometry from Poses for Global Localization**, Mohammad Altillawi et.al., Paper: [http://arxiv.org/abs/2312.02029v1](http://arxiv.org/abs/2312.02029v1)
 - 2023-12-04, **Language-only Efficient Training of Zero-shot Composed Image Retrieval**, Geonmo Gu et.al., Paper: [http://arxiv.org/abs/2312.01998v1](http://arxiv.org/abs/2312.01998v1), Code: **[https://github.com/navervision/lincir](https://github.com/navervision/lincir)**
 - 2023-12-03, **G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**, Che Liu et.al., Paper: [http://arxiv.org/abs/2312.01522v1](http://arxiv.org/abs/2312.01522v1)
 - 2023-12-01, **Improve Supervised Representation Learning with Masked Image Modeling**, Kaifeng Chen et.al., Paper: [http://arxiv.org/abs/2312.00950v1](http://arxiv.org/abs/2312.00950v1)
-- 2023-12-05, **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**, Walid Bousselham et.al., Paper: [http://arxiv.org/abs/2312.00878v2](http://arxiv.org/abs/2312.00878v2)
+- 2023-12-05, **Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**, Walid Bousselham et.al., Paper: [http://arxiv.org/abs/2312.00878v2](http://arxiv.org/abs/2312.00878v2), Code: **[https://github.com/walbouss/gem](https://github.com/walbouss/gem)**
 - 2023-12-01, **Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**, Mohammad Altillawi et.al., Paper: [http://arxiv.org/abs/2312.00500v1](http://arxiv.org/abs/2312.00500v1)
 - 2023-11-30, **HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**, Zhuohao Yin et.al., Paper: [http://arxiv.org/abs/2311.18273v1](http://arxiv.org/abs/2311.18273v1), Code: **[https://github.com/thomas-yin/semeval-2023-task1](https://github.com/thomas-yin/semeval-2023-task1)**
 - 2023-11-30, **Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**, Raviteja Vemulapalli et.al., Paper: [http://arxiv.org/abs/2311.18237v1](http://arxiv.org/abs/2311.18237v1)
@@ -1689,6 +1693,15 @@
 
 ## NeRF
 
+- 2023-12-05, **ReconFusion: 3D Reconstruction with Diffusion Priors**, Rundi Wu et.al., Paper: [http://arxiv.org/abs/2312.02981v1](http://arxiv.org/abs/2312.02981v1)
+- 2023-12-05, **GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2312.02973v1](http://arxiv.org/abs/2312.02973v1), Code: **[https://github.com/skhu101/gauhuman](https://github.com/skhu101/gauhuman)**
+- 2023-12-05, **Alchemist: Parametric Control of Material Properties with Diffusion Models**, Prafull Sharma et.al., Paper: [http://arxiv.org/abs/2312.02970v1](http://arxiv.org/abs/2312.02970v1)
+- 2023-12-05, **MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**, Zhangyang Xiong et.al., Paper: [http://arxiv.org/abs/2312.02963v1](http://arxiv.org/abs/2312.02963v1)
+- 2023-12-05, **C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2312.02751v1](http://arxiv.org/abs/2312.02751v1), Code: **[https://github.com/c-nerf/c-nerf](https://github.com/c-nerf/c-nerf)**
+- 2023-12-05, **Prompt2NeRF-PIL: Fast NeRF Generation via Pretrained Implicit Latent**, Jianmeng Liu et.al., Paper: [http://arxiv.org/abs/2312.02568v1](http://arxiv.org/abs/2312.02568v1)
+- 2023-12-04, **PointNeRF++: A multi-scale, point-based Neural Radiance Field**, Weiwei Sun et.al., Paper: [http://arxiv.org/abs/2312.02362v1](http://arxiv.org/abs/2312.02362v1)
+- 2023-12-04, **Calibrated Uncertainties for Neural Radiance Fields**, Niki Amini-Naieni et.al., Paper: [http://arxiv.org/abs/2312.02350v1](http://arxiv.org/abs/2312.02350v1)
+- 2023-12-04, **Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis**, Felix Tristram et.al., Paper: [http://arxiv.org/abs/2312.02255v1](http://arxiv.org/abs/2312.02255v1)
 - 2023-12-04, **ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**, Yufei Shi et.al., Paper: [http://arxiv.org/abs/2312.02015v1](http://arxiv.org/abs/2312.02015v1)
 - 2023-12-04, **Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**, Runze He et.al., Paper: [http://arxiv.org/abs/2312.01663v1](http://arxiv.org/abs/2312.01663v1)
 - 2023-12-03, **SANeRF-HQ: Segment Anything for NeRF in High Quality**, Yichen Liu et.al., Paper: [http://arxiv.org/abs/2312.01531v1](http://arxiv.org/abs/2312.01531v1)
