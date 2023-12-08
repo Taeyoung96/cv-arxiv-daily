@@ -25,9 +25,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**The Importance of Coordinate Frames in Dynamic SLAM**|Jesse Morris et.al.|[2312.04031v1](http://arxiv.org/abs/2312.04031v1)|null|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
-|**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|null|
-|**2023-12-04**|**Efficient 2D Graph SLAM for Sparse Sensing**|Hanzhi Zhou et.al.|[2312.02353v1](http://arxiv.org/abs/2312.02353v1)|null|
+|**2023-12-05**|**MAINS: A Magnetic Field Aided Inertial Navigation System for Indoor Positioning**|Chuan Huang et.al.|[2312.02599v1](http://arxiv.org/abs/2312.02599v1)|**[link](https://github.com/huang-chuan/mainsvsmagekf)**|
+|**2023-12-04**|**Efficient 2D Graph SLAM for Sparse Sensing**|Hanzhi Zhou et.al.|[2312.02353v1](http://arxiv.org/abs/2312.02353v1)|**[link](https://github.com/shiftlab-nanodrone/sparse-gslam)**|
 |**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126v1](http://arxiv.org/abs/2312.02126v1)|null|
 |**2023-11-30**|**DNS SLAM: Dense Neural Semantic-Informed SLAM**|Kunyi Li et.al.|[2312.00204v1](http://arxiv.org/abs/2312.00204v1)|null|
 |**2023-11-29**|**GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**|Prashant Kumar et.al.|[2312.00068v1](http://arxiv.org/abs/2312.00068v1)|null|
@@ -686,6 +687,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801v1](http://arxiv.org/abs/2311.18801v1)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-11-21**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v2](http://arxiv.org/abs/2311.11808v2)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
@@ -833,6 +835,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781v1](http://arxiv.org/abs/2312.03781v1)|null|
 |**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428v1](http://arxiv.org/abs/2312.02428v1)|null|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029v1](http://arxiv.org/abs/2312.02029v1)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998v1](http://arxiv.org/abs/2312.01998v1)|**[link](https://github.com/navervision/lincir)**|
@@ -1638,6 +1641,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571v1](http://arxiv.org/abs/2311.17571v1)|null|
@@ -1806,6 +1810,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
+|**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564v1](http://arxiv.org/abs/2312.04564v1)|null|
+|**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
+|**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337v1](http://arxiv.org/abs/2312.04337v1)|null|
+|**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143v1](http://arxiv.org/abs/2312.04143v1)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
+|**2023-12-07**|**Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction**|Jiayi Kong et.al.|[2312.04106v1](http://arxiv.org/abs/2312.04106v1)|null|
+|**2023-12-06**|**Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion**|Kira Prabhu et.al.|[2312.03869v1](http://arxiv.org/abs/2312.03869v1)|null|
 |**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
 |**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420v1](http://arxiv.org/abs/2312.03420v1)|null|
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
