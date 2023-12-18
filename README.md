@@ -1824,9 +1824,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249v1](http://arxiv.org/abs/2312.09249v1)|null|
-|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228v1](http://arxiv.org/abs/2312.09228v1)|null|
-|**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095v1](http://arxiv.org/abs/2312.09095v1)|**[link](https://github.com/eezkni/colnerf)**|
-|**2023-12-14**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093v1](http://arxiv.org/abs/2312.09093v1)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
+|**2023-12-15**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228v2](http://arxiv.org/abs/2312.09228v2)|null|
+|**2023-12-15**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095v2](http://arxiv.org/abs/2312.09095v2)|**[link](https://github.com/eezkni/colnerf)**|
+|**2023-12-15**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093v2](http://arxiv.org/abs/2312.09093v2)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031v1](http://arxiv.org/abs/2312.09031v1)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005v1](http://arxiv.org/abs/2312.09005v1)|null|
 |**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760v1](http://arxiv.org/abs/2312.08760v1)|null|
