@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2023-12-06, **Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting**, Vladimir Yugay et.al., Paper: [http://arxiv.org/abs/2312.10070v1](http://arxiv.org/abs/2312.10070v1)
 - 2023-12-15, **PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2312.09866v1](http://arxiv.org/abs/2312.09866v1)
 - 2023-12-12, **WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**, Soyong Shin et.al., Paper: [http://arxiv.org/abs/2312.07531v1](http://arxiv.org/abs/2312.07531v1)
 - 2023-12-12, **Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2312.06991v1](http://arxiv.org/abs/2312.06991v1)
@@ -637,6 +638,7 @@
 
 ## SFM
 
+- 2023-12-16, **Transformers in Unsupervised Structure-from-Motion**, Hemang Chawla et.al., Paper: [http://arxiv.org/abs/2312.10529v1](http://arxiv.org/abs/2312.10529v1), Code: **[https://github.com/neurai-lab/mt-sfmlearner](https://github.com/neurai-lab/mt-sfmlearner)**
 - 2023-12-14, **HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video**, Xueying Wang et.al., Paper: [http://arxiv.org/abs/2312.08863v1](http://arxiv.org/abs/2312.08863v1)
 - 2023-12-14, **CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2312.08760v1](http://arxiv.org/abs/2312.08760v1)
 - 2023-12-11, **Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2312.06865v1](http://arxiv.org/abs/2312.06865v1)
@@ -776,6 +778,11 @@
 
 ## Visual Localization
 
+- 2023-12-17, **PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**, Boming Zhao et.al., Paper: [http://arxiv.org/abs/2312.10649v1](http://arxiv.org/abs/2312.10649v1)
+- 2023-12-17, **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2312.10616v1](http://arxiv.org/abs/2312.10616v1), Code: **[https://github.com/sijieaaa/distilvpr](https://github.com/sijieaaa/distilvpr)**
+- 2023-12-16, **Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**, Decheng Liu et.al., Paper: [http://arxiv.org/abs/2312.10320v1](http://arxiv.org/abs/2312.10320v1)
+- 2023-12-15, **Data-Efficient Multimodal Fusion on a Single GPU**, Noël Vouitsis et.al., Paper: [http://arxiv.org/abs/2312.10144v1](http://arxiv.org/abs/2312.10144v1), Code: **[https://github.com/layer6ai-labs/fusemix](https://github.com/layer6ai-labs/fusemix)**
+- 2023-12-13, **Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques**, Hamed Qazanfari et.al., Paper: [http://arxiv.org/abs/2312.10089v1](http://arxiv.org/abs/2312.10089v1)
 - 2023-12-15, **Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**, Zhe Ma et.al., Paper: [http://arxiv.org/abs/2312.09716v1](http://arxiv.org/abs/2312.09716v1), Code: **[https://github.com/maryeon/whiten_mtd](https://github.com/maryeon/whiten_mtd)**
 - 2023-12-14, **Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2312.09028v1](http://arxiv.org/abs/2312.09028v1)
 - 2023-12-14, **Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**, Shitong Sun et.al., Paper: [http://arxiv.org/abs/2312.08924v1](http://arxiv.org/abs/2312.08924v1)
@@ -1716,6 +1723,8 @@
 
 ## NeRF
 
+- 2023-12-17, **PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**, Boming Zhao et.al., Paper: [http://arxiv.org/abs/2312.10649v1](http://arxiv.org/abs/2312.10649v1)
+- 2023-12-16, **Learning Dense Correspondence for NeRF-Based Face Reenactment**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2312.10422v1](http://arxiv.org/abs/2312.10422v1)
 - 2023-12-15, **SlimmeRF: Slimmable Radiance Fields**, Shiran Yuan et.al., Paper: [http://arxiv.org/abs/2312.10034v1](http://arxiv.org/abs/2312.10034v1), Code: **[https://github.com/shiran-yuan/slimmerf](https://github.com/shiran-yuan/slimmerf)**
 - 2023-12-15, **LAENeRF: Local Appearance Editing for Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2312.09913v1](http://arxiv.org/abs/2312.09913v1)
 - 2023-12-15, **SLS4D: Sparse Latent Space for 4D Novel View Synthesis**, Qi-Yuan Feng et.al., Paper: [http://arxiv.org/abs/2312.09743v1](http://arxiv.org/abs/2312.09743v1)
