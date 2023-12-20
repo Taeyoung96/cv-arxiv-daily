@@ -1724,12 +1724,12 @@
 ## NeRF
 
 - 2023-12-17, **PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**, Boming Zhao et.al., Paper: [http://arxiv.org/abs/2312.10649v1](http://arxiv.org/abs/2312.10649v1)
-- 2023-12-16, **Learning Dense Correspondence for NeRF-Based Face Reenactment**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2312.10422v1](http://arxiv.org/abs/2312.10422v1)
+- 2023-12-19, **Learning Dense Correspondence for NeRF-Based Face Reenactment**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2312.10422v2](http://arxiv.org/abs/2312.10422v2)
 - 2023-12-15, **SlimmeRF: Slimmable Radiance Fields**, Shiran Yuan et.al., Paper: [http://arxiv.org/abs/2312.10034v1](http://arxiv.org/abs/2312.10034v1), Code: **[https://github.com/shiran-yuan/slimmerf](https://github.com/shiran-yuan/slimmerf)**
 - 2023-12-15, **LAENeRF: Local Appearance Editing for Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2312.09913v1](http://arxiv.org/abs/2312.09913v1)
 - 2023-12-15, **SLS4D: Sparse Latent Space for 4D Novel View Synthesis**, Qi-Yuan Feng et.al., Paper: [http://arxiv.org/abs/2312.09743v1](http://arxiv.org/abs/2312.09743v1)
 - 2023-12-15, **Towards Transferable Targeted 3D Adversarial Attack in the Physical World**, Yao Huang et.al., Paper: [http://arxiv.org/abs/2312.09558v1](http://arxiv.org/abs/2312.09558v1)
-- 2023-12-14, **LatentEditor: Text Driven Local Editing of 3D Scenes**, Umar Khalid et.al., Paper: [http://arxiv.org/abs/2312.09313v1](http://arxiv.org/abs/2312.09313v1), Code: **[https://github.com/umarkhalidAI/LatentEditor](https://github.com/umarkhalidAI/LatentEditor)**
+- 2023-12-18, **LatentEditor: Text Driven Local Editing of 3D Scenes**, Umar Khalid et.al., Paper: [http://arxiv.org/abs/2312.09313v2](http://arxiv.org/abs/2312.09313v2), Code: **[https://github.com/umarkhalidAI/LatentEditor](https://github.com/umarkhalidAI/LatentEditor)**
 - 2023-12-14, **Stable Score Distillation for High-Quality 3D Generation**, Boshi Tang et.al., Paper: [http://arxiv.org/abs/2312.09305v1](http://arxiv.org/abs/2312.09305v1)
 - 2023-12-14, **ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**, Ruoxi Shi et.al., Paper: [http://arxiv.org/abs/2312.09249v1](http://arxiv.org/abs/2312.09249v1)
 - 2023-12-15, **3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**, Zhiyin Qian et.al., Paper: [http://arxiv.org/abs/2312.09228v2](http://arxiv.org/abs/2312.09228v2)
