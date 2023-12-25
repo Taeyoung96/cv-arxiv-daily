@@ -1402,6 +1402,7 @@
 
 ## Keypoint Detection
 
+- 2023-12-22, **BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping of Sugar Beet Plants under Field Conditions**, Elias Marks et.al., Paper: [http://arxiv.org/abs/2312.14706v1](http://arxiv.org/abs/2312.14706v1)
 - 2023-12-19, **Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**, Jiaming Liu et.al., Paper: [http://arxiv.org/abs/2312.12480v1](http://arxiv.org/abs/2312.12480v1)
 - 2023-12-19, **An effective image copy-move forgery detection using entropy image**, Zhaowei Lu et.al., Paper: [http://arxiv.org/abs/2312.11793v1](http://arxiv.org/abs/2312.11793v1)
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
@@ -1580,6 +1581,7 @@
 
 ## Image Matching
 
+- 2023-12-22, **Harnessing Diffusion Models for Visual Perception with Meta Prompts**, Qiang Wan et.al., Paper: [http://arxiv.org/abs/2312.14733v1](http://arxiv.org/abs/2312.14733v1), Code: **[https://github.com/fudan-zvg/meta-prompts](https://github.com/fudan-zvg/meta-prompts)**
 - 2023-12-18, **MatchDet: A Collaborative Framework for Image Matching and Object Detection**, Jinxiang Lai et.al., Paper: [http://arxiv.org/abs/2312.10983v1](http://arxiv.org/abs/2312.10983v1)
 - 2023-12-07, **Visual Geometry Grounded Deep Structure From Motion**, Jianyuan Wang et.al., Paper: [http://arxiv.org/abs/2312.04563v1](http://arxiv.org/abs/2312.04563v1)
 - 2023-12-04, **Steerers: A framework for rotation equivariant keypoint descriptors**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2312.02152v1](http://arxiv.org/abs/2312.02152v1), Code: **[https://github.com/georg-bn/rotation-steerers](https://github.com/georg-bn/rotation-steerers)**
@@ -1735,6 +1737,9 @@
 
 ## NeRF
 
+- 2023-12-22, **PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2312.14915v1](http://arxiv.org/abs/2312.14915v1)
+- 2023-12-22, **Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**, Miriam Jäger et.al., Paper: [http://arxiv.org/abs/2312.14664v1](http://arxiv.org/abs/2312.14664v1)
+- 2023-12-21, **PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**, Tzofi Klinghoffer et.al., Paper: [http://arxiv.org/abs/2312.14239v1](http://arxiv.org/abs/2312.14239v1)
 - 2023-12-21, **Virtual Pets: Animatable Animal Generation in 3D Scenes**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2312.14154v1](http://arxiv.org/abs/2312.14154v1)
 - 2023-12-21, **Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2312.13980v1](http://arxiv.org/abs/2312.13980v1)
 - 2023-12-21, **SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**, Ahmet Haydar Ornek et.al., Paper: [http://arxiv.org/abs/2312.13832v1](http://arxiv.org/abs/2312.13832v1)
