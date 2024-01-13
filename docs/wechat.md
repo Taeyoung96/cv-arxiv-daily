@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2024-01-10, **Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**, Miguel Fernandez-Cortizas et.al., Paper: [http://arxiv.org/abs/2401.05152v1](http://arxiv.org/abs/2401.05152v1)
+- 2024-01-10, **Multi S-Graphs: an Efficient Real-time Distributed Semantic-Relational Collaborative SLAM**, Miguel Fernandez-Cortizas et.al., Paper: [http://arxiv.org/abs/2401.05152v1](http://arxiv.org/abs/2401.05152v1), Code: **[https://github.com/snt-arg/multi_s_graphs_docker](https://github.com/snt-arg/multi_s_graphs_docker)**
 - 2024-01-09, **SOS-SLAM: Segmentation for Open-Set SLAM in Unstructured Environments**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2401.04791v1](http://arxiv.org/abs/2401.04791v1)
 - 2024-01-07, **Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**, Haobo Zhang et.al., Paper: [http://arxiv.org/abs/2401.03453v1](http://arxiv.org/abs/2401.03453v1)
 - 2024-01-09, **Amplifying robotics capacities with a human touch: An immersive low-latency panoramic remote system**, Junjie Li et.al., Paper: [http://arxiv.org/abs/2401.03398v2](http://arxiv.org/abs/2401.03398v2)
