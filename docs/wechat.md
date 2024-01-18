@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2024-01-17, **CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**, Artem Lykov et.al., Paper: [http://arxiv.org/abs/2401.09388v1](http://arxiv.org/abs/2401.09388v1)
+- 2024-01-17, **FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**, Suchetan Saravanan et.al., Paper: [http://arxiv.org/abs/2401.09322v1](http://arxiv.org/abs/2401.09322v1)
+- 2024-01-17, **DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2401.09160v1](http://arxiv.org/abs/2401.09160v1)
+- 2024-01-17, **PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**, Yue Pan et.al., Paper: [http://arxiv.org/abs/2401.09101v1](http://arxiv.org/abs/2401.09101v1), Code: **[https://github.com/prbonn/pin_slam](https://github.com/prbonn/pin_slam)**
 - 2024-01-16, **S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2401.08134v1](http://arxiv.org/abs/2401.08134v1)
 - 2024-01-16, **Object-Oriented Semantic Mapping for Reliable UAVs Navigation**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2401.08132v1](http://arxiv.org/abs/2401.08132v1)
 - 2024-01-16, **Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2401.08043v1](http://arxiv.org/abs/2401.08043v1), Code: **[https://github.com/zyfff/canny-evt](https://github.com/zyfff/canny-evt)**
@@ -664,6 +668,8 @@
 
 ## SFM
 
+- 2024-01-17, **3D Scene Geometry Estimation from 360$^\circ$ Imagery: A Survey**, Thiago Lopes Trugillo da Silveira et.al., Paper: [http://arxiv.org/abs/2401.09252v1](http://arxiv.org/abs/2401.09252v1)
+- 2024-01-17, **ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**, Weiyao Wang et.al., Paper: [http://arxiv.org/abs/2401.08937v1](http://arxiv.org/abs/2401.08937v1)
 - 2024-01-16, **Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2401.08043v1](http://arxiv.org/abs/2401.08043v1), Code: **[https://github.com/zyfff/canny-evt](https://github.com/zyfff/canny-evt)**
 - 2024-01-10, **Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**, Tianhang Cheng et.al., Paper: [http://arxiv.org/abs/2401.05236v1](http://arxiv.org/abs/2401.05236v1), Code: **[https://github.com/tianhang-cheng/sfd](https://github.com/tianhang-cheng/sfd)**
 - 2024-01-07, **A Classification of Critical Configurations for any Number of Projective Views**, Martin Bråtelund et.al., Paper: [http://arxiv.org/abs/2401.03450v1](http://arxiv.org/abs/2401.03450v1), Code: **[https://github.com/mabraate/critical-configurations](https://github.com/mabraate/critical-configurations)**
@@ -1441,6 +1447,7 @@
 
 ## Keypoint Detection
 
+- 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
 - 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1)
 - 2024-01-02, **6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**, Li Xu et.al., Paper: [http://arxiv.org/abs/2401.00029v2](http://arxiv.org/abs/2401.00029v2)
 - 2023-12-27, **Bezier-based Regression Feature Descriptor for Deformable Linear Objects**, Fangqing Chen et.al., Paper: [http://arxiv.org/abs/2312.16502v1](http://arxiv.org/abs/2312.16502v1)
@@ -1785,6 +1792,7 @@
 
 ## NeRF
 
+- 2024-01-17, **ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**, Weiyao Wang et.al., Paper: [http://arxiv.org/abs/2401.08937v1](http://arxiv.org/abs/2401.08937v1)
 - 2024-01-16, **ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**, Kiyohiro Nakayama et.al., Paper: [http://arxiv.org/abs/2401.08140v1](http://arxiv.org/abs/2401.08140v1)
 - 2024-01-16, **Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**, Xu Yan et.al., Paper: [http://arxiv.org/abs/2401.08045v1](http://arxiv.org/abs/2401.08045v1), Code: **[https://github.com/zhanghm1995/forge_vfm4ad](https://github.com/zhanghm1995/forge_vfm4ad)**
 - 2024-01-15, **6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**, Gergely Sóti et.al., Paper: [http://arxiv.org/abs/2401.07935v1](http://arxiv.org/abs/2401.07935v1)
