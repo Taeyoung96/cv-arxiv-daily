@@ -668,6 +668,7 @@
 
 ## SFM
 
+- 2024-01-15, **3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**, Mathilde Letard et.al., Paper: [http://arxiv.org/abs/2401.09481v1](http://arxiv.org/abs/2401.09481v1)
 - 2024-01-17, **3D Scene Geometry Estimation from 360$^\circ$ Imagery: A Survey**, Thiago Lopes Trugillo da Silveira et.al., Paper: [http://arxiv.org/abs/2401.09252v1](http://arxiv.org/abs/2401.09252v1)
 - 2024-01-17, **ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**, Weiyao Wang et.al., Paper: [http://arxiv.org/abs/2401.08937v1](http://arxiv.org/abs/2401.08937v1)
 - 2024-01-16, **Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2401.08043v1](http://arxiv.org/abs/2401.08043v1), Code: **[https://github.com/zyfff/canny-evt](https://github.com/zyfff/canny-evt)**
@@ -814,6 +815,7 @@
 
 ## Visual Localization
 
+- 2024-01-18, **Cross-Modality Perturbation Synergy Attack for Person Re-identification**, Yunpeng Gong et.al., Paper: [http://arxiv.org/abs/2401.10090v1](http://arxiv.org/abs/2401.10090v1)
 - 2024-01-16, **Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**, Zahra Tabatabaei et.al., Paper: [http://arxiv.org/abs/2401.08272v1](http://arxiv.org/abs/2401.08272v1)
 - 2024-01-16, **Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments**, Bruno Arcanjo et.al., Paper: [http://arxiv.org/abs/2401.08263v1](http://arxiv.org/abs/2401.08263v1)
 - 2024-01-15, **Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**, Jakob Hackstein et.al., Paper: [http://arxiv.org/abs/2401.07782v1](http://arxiv.org/abs/2401.07782v1), Code: **[https://github.com/jakhac/csmae](https://github.com/jakhac/csmae)**
@@ -1631,6 +1633,7 @@
 
 ## Image Matching
 
+- 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
 - 2024-01-09, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v1](http://arxiv.org/abs/2401.04345v1), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
 - 2024-01-05, **CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2401.02582v1](http://arxiv.org/abs/2401.02582v1)
 - 2024-01-03, **Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**, Zhizhen Wang et.al., Paper: [http://arxiv.org/abs/2401.01720v1](http://arxiv.org/abs/2401.01720v1)
@@ -1792,6 +1795,7 @@
 
 ## NeRF
 
+- 2024-01-17, **IPR-NeRF: Ownership Verification meets Neural Radiance Field**, Win Kent Ong et.al., Paper: [http://arxiv.org/abs/2401.09495v1](http://arxiv.org/abs/2401.09495v1)
 - 2024-01-17, **ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**, Weiyao Wang et.al., Paper: [http://arxiv.org/abs/2401.08937v1](http://arxiv.org/abs/2401.08937v1)
 - 2024-01-18, **ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**, Kiyohiro Nakayama et.al., Paper: [http://arxiv.org/abs/2401.08140v2](http://arxiv.org/abs/2401.08140v2)
 - 2024-01-16, **Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**, Xu Yan et.al., Paper: [http://arxiv.org/abs/2401.08045v1](http://arxiv.org/abs/2401.08045v1), Code: **[https://github.com/zhanghm1995/forge_vfm4ad](https://github.com/zhanghm1995/forge_vfm4ad)**
