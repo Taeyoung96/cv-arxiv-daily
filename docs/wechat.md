@@ -1803,7 +1803,7 @@
 - 2024-01-22, **Single-View 3D Human Digitalization with Large Reconstruction Models**, Zhenzhen Weng et.al., Paper: [http://arxiv.org/abs/2401.12175v1](http://arxiv.org/abs/2401.12175v1)
 - 2024-01-22, **Scaling Face Interaction Graph Networks to Real World Scenes**, Tatiana Lopez-Guevara et.al., Paper: [http://arxiv.org/abs/2401.11985v1](http://arxiv.org/abs/2401.11985v1)
 - 2024-01-22, **HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**, Zelin Gao et.al., Paper: [http://arxiv.org/abs/2401.11711v1](http://arxiv.org/abs/2401.11711v1)
-- 2024-01-22, **IPR-NeRF: Ownership Verification meets Neural Radiance Field**, Win Kent Ong et.al., Paper: [http://arxiv.org/abs/2401.09495v3](http://arxiv.org/abs/2401.09495v3)
+- 2024-01-23, **IPR-NeRF: Ownership Verification meets Neural Radiance Field**, Win Kent Ong et.al., Paper: [http://arxiv.org/abs/2401.09495v4](http://arxiv.org/abs/2401.09495v4)
 - 2024-01-17, **ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**, Weiyao Wang et.al., Paper: [http://arxiv.org/abs/2401.08937v1](http://arxiv.org/abs/2401.08937v1)
 - 2024-01-18, **ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**, Kiyohiro Nakayama et.al., Paper: [http://arxiv.org/abs/2401.08140v2](http://arxiv.org/abs/2401.08140v2)
 - 2024-01-16, **Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**, Xu Yan et.al., Paper: [http://arxiv.org/abs/2401.08045v1](http://arxiv.org/abs/2401.08045v1), Code: **[https://github.com/zhanghm1995/forge_vfm4ad](https://github.com/zhanghm1995/forge_vfm4ad)**
