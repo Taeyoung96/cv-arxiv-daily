@@ -818,7 +818,10 @@
 
 ## Visual Localization
 
-- 2024-01-19, **CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**, Xiangshuo Qiao et.al., Paper: [http://arxiv.org/abs/2401.10475v1](http://arxiv.org/abs/2401.10475v1)
+- 2024-01-24, **Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**, Naresh Kumar Lahajal et.al., Paper: [http://arxiv.org/abs/2401.13613v1](http://arxiv.org/abs/2401.13613v1)
+- 2024-01-23, **PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**, Shyam Sundar Kannan et.al., Paper: [http://arxiv.org/abs/2401.13082v1](http://arxiv.org/abs/2401.13082v1)
+- 2024-01-23, **SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**, Mingyang Li et.al., Paper: [http://arxiv.org/abs/2401.13076v1](http://arxiv.org/abs/2401.13076v1), Code: **[https://github.com/leomingyangli/semanticslam](https://github.com/leomingyangli/semanticslam)**
+- 2024-01-19, **CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**, Xiangshuo Qiao et.al., Paper: [http://arxiv.org/abs/2401.10475v1](http://arxiv.org/abs/2401.10475v1), Code: **[https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP](https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP)**
 - 2024-01-19, **PhotoScout: Synthesis-Powered Multi-Modal Image Search**, Celeste Barnaby et.al., Paper: [http://arxiv.org/abs/2401.10464v1](http://arxiv.org/abs/2401.10464v1)
 - 2024-01-19, **Cross-Modality Perturbation Synergy Attack for Person Re-identification**, Yunpeng Gong et.al., Paper: [http://arxiv.org/abs/2401.10090v2](http://arxiv.org/abs/2401.10090v2)
 - 2024-01-16, **Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**, Zahra Tabatabaei et.al., Paper: [http://arxiv.org/abs/2401.08272v1](http://arxiv.org/abs/2401.08272v1)
@@ -1638,6 +1641,7 @@
 
 ## Image Matching
 
+- 2024-01-24, **Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**, Qi Cai et.al., Paper: [http://arxiv.org/abs/2401.13357v1](http://arxiv.org/abs/2401.13357v1)
 - 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
 - 2024-01-09, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v1](http://arxiv.org/abs/2401.04345v1), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
 - 2024-01-05, **CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2401.02582v1](http://arxiv.org/abs/2401.02582v1)
@@ -1800,6 +1804,7 @@
 
 ## NeRF
 
+- 2024-01-24, **EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**, Yangsen Chen et.al., Paper: [http://arxiv.org/abs/2401.13352v1](http://arxiv.org/abs/2401.13352v1)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568v1](http://arxiv.org/abs/2401.12568v1)
 - 2024-01-23, **Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**, Shun Fang et.al., Paper: [http://arxiv.org/abs/2401.12456v1](http://arxiv.org/abs/2401.12456v1)
 - 2024-01-23, **Methods and strategies for improving the novel view synthesis quality of neural radiation field**, Shun Fang et.al., Paper: [http://arxiv.org/abs/2401.12451v1](http://arxiv.org/abs/2401.12451v1)
