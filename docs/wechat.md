@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-01-25, **AscDAMs: Advanced SLAM-based channel detection and mapping system**, Tengfei Wang et.al., Paper: [http://arxiv.org/abs/2401.13877v1](http://arxiv.org/abs/2401.13877v1)
+- 2024-01-24, **Multi-Object Navigation in real environments using hybrid policies**, Assem Sadek et.al., Paper: [http://arxiv.org/abs/2401.13800v1](http://arxiv.org/abs/2401.13800v1)
 - 2024-01-19, **360ORB-SLAM: A Visual SLAM System for Panoramic Images with Depth Completion Network**, Yichen Chen et.al., Paper: [http://arxiv.org/abs/2401.10560v1](http://arxiv.org/abs/2401.10560v1)
 - 2024-01-17, **CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**, Artem Lykov et.al., Paper: [http://arxiv.org/abs/2401.09388v1](http://arxiv.org/abs/2401.09388v1)
 - 2024-01-17, **FIT-SLAM -- Fisher Information and Traversability estimation-based Active SLAM for exploration in 3D environments**, Suchetan Saravanan et.al., Paper: [http://arxiv.org/abs/2401.09322v1](http://arxiv.org/abs/2401.09322v1)
@@ -1804,6 +1806,8 @@
 
 ## NeRF
 
+- 2024-01-25, **Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.14354v1](http://arxiv.org/abs/2401.14354v1)
+- 2024-01-25, **Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**, Minglin Chen et.al., Paper: [http://arxiv.org/abs/2401.14257v1](http://arxiv.org/abs/2401.14257v1)
 - 2024-01-24, **EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**, Yangsen Chen et.al., Paper: [http://arxiv.org/abs/2401.13352v1](http://arxiv.org/abs/2401.13352v1)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568v1](http://arxiv.org/abs/2401.12568v1)
 - 2024-01-23, **Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**, Shun Fang et.al., Paper: [http://arxiv.org/abs/2401.12456v1](http://arxiv.org/abs/2401.12456v1)
