@@ -821,6 +821,9 @@
 
 ## Visual Localization
 
+- 2024-01-29, **Cross-Modal Coordination Across a Diverse Set of Input Modalities**, Jorge Sánchez et.al., Paper: [http://arxiv.org/abs/2401.16347v1](http://arxiv.org/abs/2401.16347v1)
+- 2024-01-29, **Regressing Transformers for Data-efficient Visual Place Recognition**, María Leyva-Vallina et.al., Paper: [http://arxiv.org/abs/2401.16304v1](http://arxiv.org/abs/2401.16304v1)
+- 2024-01-27, **Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**, Ayush Dubey et.al., Paper: [http://arxiv.org/abs/2401.15362v1](http://arxiv.org/abs/2401.15362v1)
 - 2024-01-24, **Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**, Naresh Kumar Lahajal et.al., Paper: [http://arxiv.org/abs/2401.13613v1](http://arxiv.org/abs/2401.13613v1)
 - 2024-01-23, **PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**, Shyam Sundar Kannan et.al., Paper: [http://arxiv.org/abs/2401.13082v1](http://arxiv.org/abs/2401.13082v1)
 - 2024-01-23, **SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**, Mingyang Li et.al., Paper: [http://arxiv.org/abs/2401.13076v1](http://arxiv.org/abs/2401.13076v1), Code: **[https://github.com/leomingyangli/semanticslam](https://github.com/leomingyangli/semanticslam)**
@@ -1460,6 +1463,7 @@
 
 ## Keypoint Detection
 
+- 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1)
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
 - 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1)
 - 2024-01-02, **6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**, Li Xu et.al., Paper: [http://arxiv.org/abs/2401.00029v2](http://arxiv.org/abs/2401.00029v2)
@@ -1807,6 +1811,8 @@
 
 ## NeRF
 
+- 2024-01-29, **Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**, Yiming Huang et.al., Paper: [http://arxiv.org/abs/2401.16416v1](http://arxiv.org/abs/2401.16416v1)
+- 2024-01-29, **Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**, Rongkai Ma et.al., Paper: [http://arxiv.org/abs/2401.16144v1](http://arxiv.org/abs/2401.16144v1)
 - 2024-01-26, **3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**, Zhenyu Bao et.al., Paper: [http://arxiv.org/abs/2401.14726v1](http://arxiv.org/abs/2401.14726v1)
 - 2024-01-25, **Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.14354v1](http://arxiv.org/abs/2401.14354v1)
 - 2024-01-27, **Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**, Minglin Chen et.al., Paper: [http://arxiv.org/abs/2401.14257v2](http://arxiv.org/abs/2401.14257v2)
