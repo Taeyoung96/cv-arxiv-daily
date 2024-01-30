@@ -1809,7 +1809,7 @@
 
 - 2024-01-26, **3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**, Zhenyu Bao et.al., Paper: [http://arxiv.org/abs/2401.14726v1](http://arxiv.org/abs/2401.14726v1)
 - 2024-01-25, **Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.14354v1](http://arxiv.org/abs/2401.14354v1)
-- 2024-01-25, **Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**, Minglin Chen et.al., Paper: [http://arxiv.org/abs/2401.14257v1](http://arxiv.org/abs/2401.14257v1)
+- 2024-01-27, **Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**, Minglin Chen et.al., Paper: [http://arxiv.org/abs/2401.14257v2](http://arxiv.org/abs/2401.14257v2)
 - 2024-01-24, **EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**, Yangsen Chen et.al., Paper: [http://arxiv.org/abs/2401.13352v1](http://arxiv.org/abs/2401.13352v1)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568v1](http://arxiv.org/abs/2401.12568v1)
 - 2024-01-23, **Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**, Shun Fang et.al., Paper: [http://arxiv.org/abs/2401.12456v1](http://arxiv.org/abs/2401.12456v1)
