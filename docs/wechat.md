@@ -19,8 +19,10 @@
 
 ## SLAM
 
-- 2024-01-31, **SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**, Olaya Álvarez-Tuñón et.al., Paper: [http://arxiv.org/abs/2401.17907v1](http://arxiv.org/abs/2401.17907v1)
-- 2024-01-31, **PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**, Xiangcheng Hu et.al., Paper: [http://arxiv.org/abs/2401.17826v1](http://arxiv.org/abs/2401.17826v1)
+- 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
+- 2024-02-01, **The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**, Fernando Cañadas-Aránega et.al., Paper: [http://arxiv.org/abs/2402.00438v1](http://arxiv.org/abs/2402.00438v1)
+- 2024-01-31, **SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**, Olaya Álvarez-Tuñón et.al., Paper: [http://arxiv.org/abs/2401.17907v1](http://arxiv.org/abs/2401.17907v1), Code: **[https://github.com/remaro-network/subpipe-dataset](https://github.com/remaro-network/subpipe-dataset)**
+- 2024-01-31, **PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation**, Xiangcheng Hu et.al., Paper: [http://arxiv.org/abs/2401.17826v1](http://arxiv.org/abs/2401.17826v1), Code: **[https://github.com/jokerjohn/paloc](https://github.com/jokerjohn/paloc)**
 - 2024-01-31, **Haris: an Advanced Autonomous Mobile Robot for Smart Parking Assistance**, Layth Hamad et.al., Paper: [http://arxiv.org/abs/2401.17741v1](http://arxiv.org/abs/2401.17741v1)
 - 2024-01-30, **A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation**, Varun Agrawal et.al., Paper: [http://arxiv.org/abs/2401.17463v1](http://arxiv.org/abs/2401.17463v1)
 - 2024-01-30, **OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**, Bruno Berenguel-Baeta et.al., Paper: [http://arxiv.org/abs/2401.17061v1](http://arxiv.org/abs/2401.17061v1), Code: **[https://github.com/sbrunoberenguel/omniscv](https://github.com/sbrunoberenguel/omniscv)**
@@ -828,6 +830,8 @@
 
 ## Visual Localization
 
+- 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
+- 2024-02-01, **Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**, Tianxiao Gao et.al., Paper: [http://arxiv.org/abs/2402.00330v1](http://arxiv.org/abs/2402.00330v1)
 - 2024-01-31, **Improved Scene Landmark Detection for Camera Localization**, Tien Do et.al., Paper: [http://arxiv.org/abs/2401.18083v1](http://arxiv.org/abs/2401.18083v1), Code: **[https://github.com/microsoft/scenelandmarklocalization](https://github.com/microsoft/scenelandmarklocalization)**
 - 2024-01-31, **Local Feature Matching Using Deep Learning: A Survey**, Shibiao Xu et.al., Paper: [http://arxiv.org/abs/2401.17592v1](http://arxiv.org/abs/2401.17592v1)
 - 2024-01-29, **Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**, Shiyin Dong et.al., Paper: [http://arxiv.org/abs/2401.16459v1](http://arxiv.org/abs/2401.16459v1)
@@ -1821,6 +1825,8 @@
 
 ## NeRF
 
+- 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
+- 2024-02-01, **Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**, Pinxin Liu et.al., Paper: [http://arxiv.org/abs/2402.00827v1](http://arxiv.org/abs/2402.00827v1)
 - 2024-01-31, **CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**, Jiezhi Yang et.al., Paper: [http://arxiv.org/abs/2401.18075v1](http://arxiv.org/abs/2401.18075v1)
 - 2024-02-01, **Segment Anything in 3D Gaussians**, Xu Hu et.al., Paper: [http://arxiv.org/abs/2401.17857v2](http://arxiv.org/abs/2401.17857v2)
 - 2024-01-30, **Physical Priors Augmented Event-Based 3D Reconstruction**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.17121v1](http://arxiv.org/abs/2401.17121v1), Code: **[https://github.com/mercerai/paev3d](https://github.com/mercerai/paev3d)**
