@@ -1825,6 +1825,11 @@
 
 ## NeRF
 
+- 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
+- 2024-02-02, **Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**, Mahboubeh Asadi et.al., Paper: [http://arxiv.org/abs/2402.01485v1](http://arxiv.org/abs/2402.01485v1)
+- 2024-02-02, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v1](http://arxiv.org/abs/2402.01459v1), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
+- 2024-02-02, **Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**, Zhiyu Zhang et.al., Paper: [http://arxiv.org/abs/2402.01380v1](http://arxiv.org/abs/2402.01380v1)
+- 2024-02-02, **Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**, Yaokun Li et.al., Paper: [http://arxiv.org/abs/2402.01217v1](http://arxiv.org/abs/2402.01217v1)
 - 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
 - 2024-02-01, **Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**, Pinxin Liu et.al., Paper: [http://arxiv.org/abs/2402.00827v1](http://arxiv.org/abs/2402.00827v1)
 - 2024-01-31, **CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**, Jiezhi Yang et.al., Paper: [http://arxiv.org/abs/2401.18075v1](http://arxiv.org/abs/2401.18075v1)
