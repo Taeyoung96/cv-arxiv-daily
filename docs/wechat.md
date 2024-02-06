@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-02-05, **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2402.03246v1](http://arxiv.org/abs/2402.03246v1)
+- 2024-02-03, **Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**, David Gualda et.al., Paper: [http://arxiv.org/abs/2402.02241v1](http://arxiv.org/abs/2402.02241v1)
+- 2024-02-03, **NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**, Wenzhi Guo et.al., Paper: [http://arxiv.org/abs/2402.02020v1](http://arxiv.org/abs/2402.02020v1)
 - 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
 - 2024-02-01, **The GREENBOT dataset: Multimodal mobile robotic dataset for a typical Mediterranean greenhouse**, Fernando Cañadas-Aránega et.al., Paper: [http://arxiv.org/abs/2402.00438v1](http://arxiv.org/abs/2402.00438v1)
 - 2024-01-31, **SubPipe: A Submarine Pipeline Inspection Dataset for Segmentation and Visual-inertial Localization**, Olaya Álvarez-Tuñón et.al., Paper: [http://arxiv.org/abs/2401.17907v1](http://arxiv.org/abs/2401.17907v1), Code: **[https://github.com/remaro-network/subpipe-dataset](https://github.com/remaro-network/subpipe-dataset)**
@@ -830,6 +833,8 @@
 
 ## Visual Localization
 
+- 2024-02-04, **Region-Based Representations Revisited**, Michal Shlapentokh-Rothman et.al., Paper: [http://arxiv.org/abs/2402.02352v1](http://arxiv.org/abs/2402.02352v1)
+- 2024-02-03, **Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2402.02141v1](http://arxiv.org/abs/2402.02141v1)
 - 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
 - 2024-02-01, **Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**, Tianxiao Gao et.al., Paper: [http://arxiv.org/abs/2402.00330v1](http://arxiv.org/abs/2402.00330v1), Code: **[https://github.com/imrl/night-rider](https://github.com/imrl/night-rider)**
 - 2024-01-31, **Improved Scene Landmark Detection for Camera Localization**, Tien Do et.al., Paper: [http://arxiv.org/abs/2401.18083v1](http://arxiv.org/abs/2401.18083v1), Code: **[https://github.com/microsoft/scenelandmarklocalization](https://github.com/microsoft/scenelandmarklocalization)**
@@ -1825,6 +1830,9 @@
 
 ## NeRF
 
+- 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
+- 2024-02-02, **ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**, Xingyu Miao et.al., Paper: [http://arxiv.org/abs/2402.01950v1](http://arxiv.org/abs/2402.01950v1), Code: **[https://github.com/xingy038/conrf](https://github.com/xingy038/conrf)**
+- 2024-02-02, **Robust Inverse Graphics via Probabilistic Inference**, Tuan Anh Le et.al., Paper: [http://arxiv.org/abs/2402.01915v1](http://arxiv.org/abs/2402.01915v1)
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
 - 2024-02-02, **Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**, Mahboubeh Asadi et.al., Paper: [http://arxiv.org/abs/2402.01485v1](http://arxiv.org/abs/2402.01485v1)
 - 2024-02-02, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v1](http://arxiv.org/abs/2402.01459v1), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
