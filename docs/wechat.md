@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-02-06, **YOLOPoint Joint Keypoint and Object Detection**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2402.03989v1](http://arxiv.org/abs/2402.03989v1)
+- 2024-02-06, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v1](http://arxiv.org/abs/2402.03762v1)
+- 2024-02-03, **Weighted Conformal LiDAR-Mapping for Structured SLAM**, Natalia Prieto-Fernández et.al., Paper: [http://arxiv.org/abs/2402.03376v1](http://arxiv.org/abs/2402.03376v1)
 - 2024-02-05, **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2402.03246v1](http://arxiv.org/abs/2402.03246v1)
 - 2024-02-03, **Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**, David Gualda et.al., Paper: [http://arxiv.org/abs/2402.02241v1](http://arxiv.org/abs/2402.02241v1)
 - 2024-02-03, **NeuV-SLAM: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM**, Wenzhi Guo et.al., Paper: [http://arxiv.org/abs/2402.02020v1](http://arxiv.org/abs/2402.02020v1)
@@ -833,6 +836,7 @@
 
 ## Visual Localization
 
+- 2024-02-06, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v1](http://arxiv.org/abs/2402.03762v1)
 - 2024-02-04, **Region-Based Representations Revisited**, Michal Shlapentokh-Rothman et.al., Paper: [http://arxiv.org/abs/2402.02352v1](http://arxiv.org/abs/2402.02352v1)
 - 2024-02-03, **Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2402.02141v1](http://arxiv.org/abs/2402.02141v1)
 - 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
@@ -1830,12 +1834,13 @@
 
 ## NeRF
 
+- 2024-02-06, **Improved Generalization of Weight Space Networks via Augmentations**, Aviv Shamsian et.al., Paper: [http://arxiv.org/abs/2402.04081v1](http://arxiv.org/abs/2402.04081v1)
 - 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
 - 2024-02-02, **ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**, Xingyu Miao et.al., Paper: [http://arxiv.org/abs/2402.01950v1](http://arxiv.org/abs/2402.01950v1), Code: **[https://github.com/xingy038/conrf](https://github.com/xingy038/conrf)**
 - 2024-02-02, **Robust Inverse Graphics via Probabilistic Inference**, Tuan Anh Le et.al., Paper: [http://arxiv.org/abs/2402.01915v1](http://arxiv.org/abs/2402.01915v1)
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
 - 2024-02-02, **Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**, Mahboubeh Asadi et.al., Paper: [http://arxiv.org/abs/2402.01485v1](http://arxiv.org/abs/2402.01485v1)
-- 2024-02-02, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v1](http://arxiv.org/abs/2402.01459v1), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
+- 2024-02-06, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v2](http://arxiv.org/abs/2402.01459v2), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
 - 2024-02-02, **Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**, Zhiyu Zhang et.al., Paper: [http://arxiv.org/abs/2402.01380v1](http://arxiv.org/abs/2402.01380v1)
 - 2024-02-06, **Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**, Yaokun Li et.al., Paper: [http://arxiv.org/abs/2402.01217v2](http://arxiv.org/abs/2402.01217v2)
 - 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
