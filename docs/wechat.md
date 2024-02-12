@@ -21,7 +21,7 @@
 
 - 2024-02-07, **Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**, Xinghan Li et.al., Paper: [http://arxiv.org/abs/2402.05003v1](http://arxiv.org/abs/2402.05003v1)
 - 2024-02-06, **YOLOPoint Joint Keypoint and Object Detection**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2402.03989v1](http://arxiv.org/abs/2402.03989v1), Code: **[https://github.com/unibwtas/yolopoint](https://github.com/unibwtas/yolopoint)**
-- 2024-02-06, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v1](http://arxiv.org/abs/2402.03762v1)
+- 2024-02-09, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v2](http://arxiv.org/abs/2402.03762v2)
 - 2024-02-03, **Weighted Conformal LiDAR-Mapping for Structured SLAM**, Natalia Prieto-Fernández et.al., Paper: [http://arxiv.org/abs/2402.03376v1](http://arxiv.org/abs/2402.03376v1)
 - 2024-02-05, **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2402.03246v1](http://arxiv.org/abs/2402.03246v1)
 - 2024-02-03, **Simultaneous Calibration and Navigation (SCAN) of Multiple Ultrasonic Local Positioning Systems**, David Gualda et.al., Paper: [http://arxiv.org/abs/2402.02241v1](http://arxiv.org/abs/2402.02241v1)
@@ -837,7 +837,7 @@
 
 ## Visual Localization
 
-- 2024-02-06, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v1](http://arxiv.org/abs/2402.03762v1)
+- 2024-02-09, **MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**, Heng Zhou et.al., Paper: [http://arxiv.org/abs/2402.03762v2](http://arxiv.org/abs/2402.03762v2)
 - 2024-02-04, **Region-Based Representations Revisited**, Michal Shlapentokh-Rothman et.al., Paper: [http://arxiv.org/abs/2402.02352v1](http://arxiv.org/abs/2402.02352v1)
 - 2024-02-03, **Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2402.02141v1](http://arxiv.org/abs/2402.02141v1)
 - 2024-02-01, **BrainSLAM: SLAM on Neural Population Activity Data**, Kipp Freud et.al., Paper: [http://arxiv.org/abs/2402.00588v1](http://arxiv.org/abs/2402.00588v1)
