@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-02-12, **Customizable Perturbation Synthesis for Robust SLAM Benchmarking**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2402.08125v1](http://arxiv.org/abs/2402.08125v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
 - 2024-02-12, **UAV-assisted Visual SLAM Generating Reconstructed 3D Scene Graphs in GPS-denied Environments**, Ahmed Radwan et.al., Paper: [http://arxiv.org/abs/2402.07537v1](http://arxiv.org/abs/2402.07537v1)
 - 2024-02-12, **Particle Filter SLAM for Vehicle Localization**, Tianrui Liu et.al., Paper: [http://arxiv.org/abs/2402.07429v1](http://arxiv.org/abs/2402.07429v1)
 - 2024-02-10, **Semantic Object-level Modeling for Robust Visual Camera Relocalization**, Yifan Zhu et.al., Paper: [http://arxiv.org/abs/2402.06951v1](http://arxiv.org/abs/2402.06951v1)
@@ -841,6 +842,8 @@
 
 ## Visual Localization
 
+- 2024-02-13, **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**, Xiangming Gu et.al., Paper: [http://arxiv.org/abs/2402.08567v1](http://arxiv.org/abs/2402.08567v1), Code: **[https://github.com/sail-sg/agent-smith](https://github.com/sail-sg/agent-smith)**
+- 2024-02-13, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v1](http://arxiv.org/abs/2402.08359v1), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 - 2024-02-10, **Semantic Object-level Modeling for Robust Visual Camera Relocalization**, Yifan Zhu et.al., Paper: [http://arxiv.org/abs/2402.06951v1](http://arxiv.org/abs/2402.06951v1)
 - 2024-02-09, **Large Language Models for Captioning and Retrieving Remote Sensing Images**, João Daniel Silva et.al., Paper: [http://arxiv.org/abs/2402.06475v1](http://arxiv.org/abs/2402.06475v1)
 - 2024-02-09, **PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2402.06131v1](http://arxiv.org/abs/2402.06131v1)
@@ -1679,6 +1682,8 @@
 
 ## Image Matching
 
+- 2024-02-13, **Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**, Matthieu Vilain et.al., Paper: [http://arxiv.org/abs/2402.08671v1](http://arxiv.org/abs/2402.08671v1)
+- 2024-02-13, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v1](http://arxiv.org/abs/2402.08359v1), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 - 2024-01-24, **Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**, Qi Cai et.al., Paper: [http://arxiv.org/abs/2401.13357v1](http://arxiv.org/abs/2401.13357v1)
 - 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
 - 2024-01-26, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v2](http://arxiv.org/abs/2401.04345v2), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
@@ -1842,6 +1847,8 @@
 
 ## NeRF
 
+- 2024-02-13, **NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**, Michael Fischer et.al., Paper: [http://arxiv.org/abs/2402.08622v1](http://arxiv.org/abs/2402.08622v1)
+- 2024-02-13, **H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**, Minyoung Park et.al., Paper: [http://arxiv.org/abs/2402.08138v1](http://arxiv.org/abs/2402.08138v1)
 - 2024-02-12, **DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**, Chenchang Li et.al., Paper: [http://arxiv.org/abs/2402.07648v1](http://arxiv.org/abs/2402.07648v1)
 - 2024-02-11, **BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**, Leandro A. Passos et.al., Paper: [http://arxiv.org/abs/2402.07310v1](http://arxiv.org/abs/2402.07310v1)
 - 2024-02-11, **3D Gaussian as a New Vision Era: A Survey**, Ben Fei et.al., Paper: [http://arxiv.org/abs/2402.07181v1](http://arxiv.org/abs/2402.07181v1)
