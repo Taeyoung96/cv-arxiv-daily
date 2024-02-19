@@ -845,6 +845,7 @@
 
 ## Visual Localization
 
+- 2024-02-16, **Spike-EVPR: Deep Spiking Residual Network with Cross-Representation Aggregation for Event-Based Visual Place Recognition**, Chenming Hu et.al., Paper: [http://arxiv.org/abs/2402.10476v1](http://arxiv.org/abs/2402.10476v1)
 - 2024-02-15, **Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**, Mirko Nava et.al., Paper: [http://arxiv.org/abs/2402.09886v1](http://arxiv.org/abs/2402.09886v1), Code: **[https://github.com/idsia-robotics/leds-as-pretext](https://github.com/idsia-robotics/leds-as-pretext)**
 - 2024-02-14, **Weatherproofing Retrieval for Localization with Generative AI and Geometric Consistency**, Yannis Kalantidis et.al., Paper: [http://arxiv.org/abs/2402.09237v1](http://arxiv.org/abs/2402.09237v1)
 - 2024-02-13, **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**, Xiangming Gu et.al., Paper: [http://arxiv.org/abs/2402.08567v1](http://arxiv.org/abs/2402.08567v1), Code: **[https://github.com/sail-sg/agent-smith](https://github.com/sail-sg/agent-smith)**
@@ -1853,6 +1854,7 @@
 
 ## NeRF
 
+- 2024-02-15, **Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**, Muhammad Arbab Arshad et.al., Paper: [http://arxiv.org/abs/2402.10344v1](http://arxiv.org/abs/2402.10344v1)
 - 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2024-02-13, **Preconditioners for the Stochastic Training of Implicit Neural Representations**, Shin-Fang Chng et.al., Paper: [http://arxiv.org/abs/2402.08784v1](http://arxiv.org/abs/2402.08784v1)
 - 2024-02-13, **NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**, Michael Fischer et.al., Paper: [http://arxiv.org/abs/2402.08622v1](http://arxiv.org/abs/2402.08622v1)
