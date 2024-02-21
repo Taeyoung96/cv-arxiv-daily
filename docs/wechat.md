@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-02-20, **How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**, Fabio Tosi et.al., Paper: [http://arxiv.org/abs/2402.13255v1](http://arxiv.org/abs/2402.13255v1)
+- 2024-02-19, **Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2402.12551v1](http://arxiv.org/abs/2402.12551v1)
 - 2024-02-19, **MLFEF: Machine Learning Fusion Model with Empirical Formula to Explore the Momentum in Competitive Sports**, Ruixin Peng et.al., Paper: [http://arxiv.org/abs/2402.12149v1](http://arxiv.org/abs/2402.12149v1)
 - 2024-02-19, **CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2402.11790v1](http://arxiv.org/abs/2402.11790v1)
 - 2024-02-18, **3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**, Till Beemelmanns et.al., Paper: [http://arxiv.org/abs/2402.11680v1](http://arxiv.org/abs/2402.11680v1), Code: **[https://github.com/ika-rwth-aachen/point-cloud-compression](https://github.com/ika-rwth-aachen/point-cloud-compression)**
@@ -1508,6 +1510,7 @@
 
 ## Keypoint Detection
 
+- 2024-02-20, **3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**, Zhi-Yi Lin et.al., Paper: [http://arxiv.org/abs/2402.13172v1](http://arxiv.org/abs/2402.13172v1)
 - 2024-02-18, **Region Feature Descriptor Adapted to High Affine Transformations**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.09724v2](http://arxiv.org/abs/2402.09724v2)
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
@@ -1694,6 +1697,7 @@
 
 ## Image Matching
 
+- 2024-02-20, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v1](http://arxiv.org/abs/2402.12974v1)
 - 2024-02-16, **GIM: Learning Generalizable Image Matcher From Internet Videos**, Xuelun Shen et.al., Paper: [http://arxiv.org/abs/2402.11095v1](http://arxiv.org/abs/2402.11095v1)
 - 2024-02-13, **Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**, Matthieu Vilain et.al., Paper: [http://arxiv.org/abs/2402.08671v1](http://arxiv.org/abs/2402.08671v1)
 - 2024-02-13, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v1](http://arxiv.org/abs/2402.08359v1), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
@@ -1860,6 +1864,10 @@
 
 ## NeRF
 
+- 2024-02-20, **How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**, Fabio Tosi et.al., Paper: [http://arxiv.org/abs/2402.13255v1](http://arxiv.org/abs/2402.13255v1)
+- 2024-02-20, **Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**, Bo-Yu Cheng et.al., Paper: [http://arxiv.org/abs/2402.13252v1](http://arxiv.org/abs/2402.13252v1), Code: **[https://github.com/nemo1999/joint-tensorf](https://github.com/nemo1999/joint-tensorf)**
+- 2024-02-20, **NeRF Solves Undersampled MRI Reconstruction**, Tae Jun Jang et.al., Paper: [http://arxiv.org/abs/2402.13226v1](http://arxiv.org/abs/2402.13226v1)
+- 2024-02-20, **OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**, Simon Boeder et.al., Paper: [http://arxiv.org/abs/2402.12792v1](http://arxiv.org/abs/2402.12792v1)
 - 2024-02-19, **Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**, Christian Reiser et.al., Paper: [http://arxiv.org/abs/2402.12377v1](http://arxiv.org/abs/2402.12377v1)
 - 2024-02-19, **Colorizing Monochromatic Radiance Fields**, Yean Cheng et.al., Paper: [http://arxiv.org/abs/2402.12184v1](http://arxiv.org/abs/2402.12184v1)
 - 2024-02-17, **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**, Thang-Anh-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2402.11141v1](http://arxiv.org/abs/2402.11141v1)
