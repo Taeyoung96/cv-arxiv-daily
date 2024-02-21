@@ -27,7 +27,7 @@
 - 2024-02-13, **An Embarrassingly Simple Approach for LLM with Strong ASR Capacity**, Ziyang Ma et.al., Paper: [http://arxiv.org/abs/2402.08846v1](http://arxiv.org/abs/2402.08846v1)
 - 2024-02-12, **Customizable Perturbation Synthesis for Robust SLAM Benchmarking**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2402.08125v1](http://arxiv.org/abs/2402.08125v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
 - 2024-02-12, **UAV-assisted Visual SLAM Generating Reconstructed 3D Scene Graphs in GPS-denied Environments**, Ahmed Radwan et.al., Paper: [http://arxiv.org/abs/2402.07537v1](http://arxiv.org/abs/2402.07537v1)
-- 2024-02-12, **Particle Filter SLAM for Vehicle Localization**, Tianrui Liu et.al., Paper: [http://arxiv.org/abs/2402.07429v1](http://arxiv.org/abs/2402.07429v1)
+- 2024-02-20, **Particle Filter SLAM for Vehicle Localization**, Tianrui Liu et.al., Paper: [http://arxiv.org/abs/2402.07429v2](http://arxiv.org/abs/2402.07429v2)
 - 2024-02-10, **Semantic Object-level Modeling for Robust Visual Camera Relocalization**, Yifan Zhu et.al., Paper: [http://arxiv.org/abs/2402.06951v1](http://arxiv.org/abs/2402.06951v1)
 - 2024-02-09, **PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2402.06131v1](http://arxiv.org/abs/2402.06131v1)
 - 2024-02-07, **Efficient Invariant Kalman Filter for Inertial-based Odometry with Large-sample Environmental Measurements**, Xinghan Li et.al., Paper: [http://arxiv.org/abs/2402.05003v1](http://arxiv.org/abs/2402.05003v1)
