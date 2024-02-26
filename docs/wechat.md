@@ -21,7 +21,7 @@
 
 - 2024-02-22, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v1](http://arxiv.org/abs/2402.14591v1)
 - 2024-02-22, **An Error-Matching Exclusion Method for Accelerating Visual SLAM**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.14345v1](http://arxiv.org/abs/2402.14345v1)
-- 2024-02-22, **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**, Jie Yin et.al., Paper: [http://arxiv.org/abs/2402.14308v1](http://arxiv.org/abs/2402.14308v1), Code: **[https://github.com/sjtu-visys/m2dgr-plus](https://github.com/sjtu-visys/m2dgr-plus)**
+- 2024-02-22, **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**, Jie Yin et.al., Paper: [http://arxiv.org/abs/2402.14308v1](http://arxiv.org/abs/2402.14308v1)
 - 2024-02-22, **Secure Navigation using Landmark-based Localization in a GPS-denied Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2402.14280v1](http://arxiv.org/abs/2402.14280v1)
 - 2024-02-21, **Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**, Lukas Schmid et.al., Paper: [http://arxiv.org/abs/2402.13817v1](http://arxiv.org/abs/2402.13817v1), Code: **[https://github.com/mit-spark/khronos](https://github.com/mit-spark/khronos)**
 - 2024-02-21, **VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2402.13609v1](http://arxiv.org/abs/2402.13609v1), Code: **[https://github.com/yutongwangbit/voom](https://github.com/yutongwangbit/voom)**
