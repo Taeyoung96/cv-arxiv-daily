@@ -19,14 +19,15 @@
 
 ## SLAM
 
+- 2024-02-25, **Modeling Point Uncertainty in Radar SLAM**, Yang Xu et.al., Paper: [http://arxiv.org/abs/2402.16082v1](http://arxiv.org/abs/2402.16082v1)
 - 2024-02-22, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v1](http://arxiv.org/abs/2402.14591v1)
-- 2024-02-22, **An Error-Matching Exclusion Method for Accelerating Visual SLAM**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.14345v1](http://arxiv.org/abs/2402.14345v1)
+- 2024-02-25, **An Error-Matching Exclusion Method for Accelerating Visual SLAM**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.14345v2](http://arxiv.org/abs/2402.14345v2)
 - 2024-02-22, **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**, Jie Yin et.al., Paper: [http://arxiv.org/abs/2402.14308v1](http://arxiv.org/abs/2402.14308v1)
 - 2024-02-22, **Secure Navigation using Landmark-based Localization in a GPS-denied Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2402.14280v1](http://arxiv.org/abs/2402.14280v1)
 - 2024-02-21, **Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**, Lukas Schmid et.al., Paper: [http://arxiv.org/abs/2402.13817v1](http://arxiv.org/abs/2402.13817v1), Code: **[https://github.com/mit-spark/khronos](https://github.com/mit-spark/khronos)**
-- 2024-02-21, **VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2402.13609v1](http://arxiv.org/abs/2402.13609v1), Code: **[https://github.com/yutongwangbit/voom](https://github.com/yutongwangbit/voom)**
+- 2024-02-26, **VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2402.13609v2](http://arxiv.org/abs/2402.13609v2), Code: **[https://github.com/yutongwangbit/voom](https://github.com/yutongwangbit/voom)**
 - 2024-02-21, **EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2402.13537v1](http://arxiv.org/abs/2402.13537v1)
-- 2024-02-21, **A Feature Matching Method Based on Multi-Level Refinement Strategy**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.13488v1](http://arxiv.org/abs/2402.13488v1)
+- 2024-02-25, **A Feature Matching Method Based on Multi-Level Refinement Strategy**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.13488v2](http://arxiv.org/abs/2402.13488v2)
 - 2024-02-20, **How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**, Fabio Tosi et.al., Paper: [http://arxiv.org/abs/2402.13255v1](http://arxiv.org/abs/2402.13255v1)
 - 2024-02-19, **Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2402.12551v1](http://arxiv.org/abs/2402.12551v1)
 - 2024-02-19, **MLFEF: Machine Learning Fusion Model with Empirical Formula to Explore the Momentum in Competitive Sports**, Ruixin Peng et.al., Paper: [http://arxiv.org/abs/2402.12149v1](http://arxiv.org/abs/2402.12149v1)
@@ -709,7 +710,7 @@
 ## SFM
 
 - 2024-02-22, **GaussianPro: 3D Gaussian Splatting with Progressive Propagation**, Kai Cheng et.al., Paper: [http://arxiv.org/abs/2402.14650v1](http://arxiv.org/abs/2402.14650v1)
-- 2024-02-18, **A Robust Error-Resistant View Selection Method for 3D Reconstruction**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.11431v1](http://arxiv.org/abs/2402.11431v1)
+- 2024-02-25, **A Robust Error-Resistant View Selection Method for 3D Reconstruction**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.11431v2](http://arxiv.org/abs/2402.11431v2)
 - 2024-02-17, **Dense Matchers for Dense Tracking**, Tomáš Jelínek et.al., Paper: [http://arxiv.org/abs/2402.11287v1](http://arxiv.org/abs/2402.11287v1)
 - 2024-01-31, **Local Feature Matching Using Deep Learning: A Survey**, Shibiao Xu et.al., Paper: [http://arxiv.org/abs/2401.17592v1](http://arxiv.org/abs/2401.17592v1)
 - 2024-01-22, **HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**, Zelin Gao et.al., Paper: [http://arxiv.org/abs/2401.11711v1](http://arxiv.org/abs/2401.11711v1)
@@ -861,6 +862,8 @@
 
 ## Visual Localization
 
+- 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
+- 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 - 2024-02-23, **Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**, Zijun Long et.al., Paper: [http://arxiv.org/abs/2402.15276v1](http://arxiv.org/abs/2402.15276v1)
 - 2024-02-23, **Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**, Hyunjae Kim et.al., Paper: [http://arxiv.org/abs/2402.15120v1](http://arxiv.org/abs/2402.15120v1)
 - 2024-02-22, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v1](http://arxiv.org/abs/2402.14505v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
@@ -1523,9 +1526,9 @@
 ## Keypoint Detection
 
 - 2024-02-22, **A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**, Chengzhang Yu et.al., Paper: [http://arxiv.org/abs/2402.14241v1](http://arxiv.org/abs/2402.14241v1)
-- 2024-02-21, **A Feature Matching Method Based on Multi-Level Refinement Strategy**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.13488v1](http://arxiv.org/abs/2402.13488v1)
-- 2024-02-20, **3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**, Zhi-Yi Lin et.al., Paper: [http://arxiv.org/abs/2402.13172v1](http://arxiv.org/abs/2402.13172v1)
-- 2024-02-18, **Region Feature Descriptor Adapted to High Affine Transformations**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.09724v2](http://arxiv.org/abs/2402.09724v2)
+- 2024-02-25, **A Feature Matching Method Based on Multi-Level Refinement Strategy**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.13488v2](http://arxiv.org/abs/2402.13488v2)
+- 2024-02-26, **3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**, Zhi-Yi Lin et.al., Paper: [http://arxiv.org/abs/2402.13172v2](http://arxiv.org/abs/2402.13172v2)
+- 2024-02-25, **Region Feature Descriptor Adapted to High Affine Transformations**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.09724v3](http://arxiv.org/abs/2402.09724v3)
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
 - 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1)
@@ -1878,8 +1881,11 @@
 
 ## NeRF
 
+- 2024-02-26, **CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**, Hanxin Zhu et.al., Paper: [http://arxiv.org/abs/2402.16407v1](http://arxiv.org/abs/2402.16407v1)
+- 2024-02-26, **SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**, Zetian Song et.al., Paper: [http://arxiv.org/abs/2402.16366v1](http://arxiv.org/abs/2402.16366v1)
+- 2024-02-26, **DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**, Yizhe Wu et.al., Paper: [http://arxiv.org/abs/2402.16308v1](http://arxiv.org/abs/2402.16308v1)
 - 2024-02-22, **Consolidating Attention Features for Multi-view Image Editing**, Or Patashnik et.al., Paper: [http://arxiv.org/abs/2402.14792v1](http://arxiv.org/abs/2402.14792v1)
-- 2024-02-22, **FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**, Yan Xing et.al., Paper: [http://arxiv.org/abs/2402.14586v1](http://arxiv.org/abs/2402.14586v1)
+- 2024-02-26, **FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**, Yan Xing et.al., Paper: [http://arxiv.org/abs/2402.14586v2](http://arxiv.org/abs/2402.14586v2)
 - 2024-02-22, **NeRF-Det++: Incorporating Semantic Cues and Perspective-aware Depth Supervision for Indoor Multi-View 3D Detection**, Chenxi Huang et.al., Paper: [http://arxiv.org/abs/2402.14464v1](http://arxiv.org/abs/2402.14464v1), Code: **[https://github.com/mrsempress/nerf-detplusplus](https://github.com/mrsempress/nerf-detplusplus)**
 - 2024-02-22, **TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization**, Renyi Mao et.al., Paper: [http://arxiv.org/abs/2402.14415v1](http://arxiv.org/abs/2402.14415v1)
 - 2024-02-22, **Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**, Seungtae Nam et.al., Paper: [http://arxiv.org/abs/2402.14196v1](http://arxiv.org/abs/2402.14196v1)
