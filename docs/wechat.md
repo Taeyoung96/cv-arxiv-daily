@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-02-29, **NARUTO: Neural Active Reconstruction from Uncertain Target Observations**, Ziyue Feng et.al., Paper: [http://arxiv.org/abs/2402.18771v1](http://arxiv.org/abs/2402.18771v1)
 - 2024-02-28, **SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**, Feiya Li et.al., Paper: [http://arxiv.org/abs/2402.18318v1](http://arxiv.org/abs/2402.18318v1)
 - 2024-02-28, **Generation of skill-specific maps from graph world models for robotic systems**, Koen de Vos et.al., Paper: [http://arxiv.org/abs/2402.18174v1](http://arxiv.org/abs/2402.18174v1)
 - 2024-02-26, **Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**, Luca Barbieri et.al., Paper: [http://arxiv.org/abs/2402.16656v1](http://arxiv.org/abs/2402.16656v1)
@@ -865,11 +866,12 @@
 
 ## Visual Localization
 
+- 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**, Bin Li et.al., Paper: [http://arxiv.org/abs/2402.18411v1](http://arxiv.org/abs/2402.18411v1), Code: **[https://github.com/hcvlab/protoot](https://github.com/hcvlab/protoot)**
 - 2024-02-28, **Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**, Hanyao Wang et.al., Paper: [http://arxiv.org/abs/2402.18400v1](http://arxiv.org/abs/2402.18400v1)
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
 - 2024-02-27, **Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**, Thong Nguyen et.al., Paper: [http://arxiv.org/abs/2402.17535v1](http://arxiv.org/abs/2402.17535v1), Code: **[https://github.com/thongnt99/lsr-multimodal](https://github.com/thongnt99/lsr-multimodal)**
-- 2024-02-27, **Active propulsion noise shaping for multi-rotor aircraft localization**, Serussi Gabriele et.al., Paper: [http://arxiv.org/abs/2402.17289v1](http://arxiv.org/abs/2402.17289v1), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
+- 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 - 2024-02-27, **NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2402.17159v1](http://arxiv.org/abs/2402.17159v1)
 - 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 - 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
