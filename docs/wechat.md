@@ -24,7 +24,7 @@
 - 2024-02-28, **Generation of skill-specific maps from graph world models for robotic systems**, Koen de Vos et.al., Paper: [http://arxiv.org/abs/2402.18174v1](http://arxiv.org/abs/2402.18174v1)
 - 2024-02-26, **Deep Learning-based Cooperative LiDAR Sensing for Improved Vehicle Positioning**, Luca Barbieri et.al., Paper: [http://arxiv.org/abs/2402.16656v1](http://arxiv.org/abs/2402.16656v1)
 - 2024-02-25, **Modeling Point Uncertainty in Radar SLAM**, Yang Xu et.al., Paper: [http://arxiv.org/abs/2402.16082v1](http://arxiv.org/abs/2402.16082v1)
-- 2024-02-22, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v1](http://arxiv.org/abs/2402.14591v1)
+- 2024-03-01, **High-Speed Detector For Low-Powered Devices In Aerial Grasping**, Ashish Kumar et.al., Paper: [http://arxiv.org/abs/2402.14591v2](http://arxiv.org/abs/2402.14591v2)
 - 2024-02-25, **An Error-Matching Exclusion Method for Accelerating Visual SLAM**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.14345v2](http://arxiv.org/abs/2402.14345v2)
 - 2024-02-22, **Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases**, Jie Yin et.al., Paper: [http://arxiv.org/abs/2402.14308v1](http://arxiv.org/abs/2402.14308v1)
 - 2024-02-22, **Secure Navigation using Landmark-based Localization in a GPS-denied Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2402.14280v1](http://arxiv.org/abs/2402.14280v1)
