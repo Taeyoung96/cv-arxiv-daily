@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-03-02, **Grid-based Fast and Structural Visual Odometry**, Zhang Zhihe et.al., Paper: [http://arxiv.org/abs/2403.01110v1](http://arxiv.org/abs/2403.01110v1)
+- 2024-03-01, **Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor**, Junlin Song et.al., Paper: [http://arxiv.org/abs/2403.00976v1](http://arxiv.org/abs/2403.00976v1)
+- 2024-03-01, **DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**, Chunlin Li et.al., Paper: [http://arxiv.org/abs/2403.00228v1](http://arxiv.org/abs/2403.00228v1)
 - 2024-02-29, **NARUTO: Neural Active Reconstruction from Uncertain Target Observations**, Ziyue Feng et.al., Paper: [http://arxiv.org/abs/2402.18771v1](http://arxiv.org/abs/2402.18771v1)
 - 2024-02-28, **SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**, Feiya Li et.al., Paper: [http://arxiv.org/abs/2402.18318v1](http://arxiv.org/abs/2402.18318v1)
 - 2024-02-28, **Generation of skill-specific maps from graph world models for robotic systems**, Koen de Vos et.al., Paper: [http://arxiv.org/abs/2402.18174v1](http://arxiv.org/abs/2402.18174v1)
@@ -866,6 +869,8 @@
 
 ## Visual Localization
 
+- 2024-03-01, **Asymmetric Feature Fusion for Image Retrieval**, Hui Wu et.al., Paper: [http://arxiv.org/abs/2403.00671v1](http://arxiv.org/abs/2403.00671v1)
+- 2024-03-01, **Structure Similarity Preservation Learning for Asymmetric Image Retrieval**, Hui Wu et.al., Paper: [http://arxiv.org/abs/2403.00648v1](http://arxiv.org/abs/2403.00648v1)
 - 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**, Bin Li et.al., Paper: [http://arxiv.org/abs/2402.18411v1](http://arxiv.org/abs/2402.18411v1), Code: **[https://github.com/hcvlab/protoot](https://github.com/hcvlab/protoot)**
 - 2024-02-28, **Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**, Hanyao Wang et.al., Paper: [http://arxiv.org/abs/2402.18400v1](http://arxiv.org/abs/2402.18400v1)
@@ -1538,7 +1543,7 @@
 
 - 2024-02-22, **A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**, Chengzhang Yu et.al., Paper: [http://arxiv.org/abs/2402.14241v1](http://arxiv.org/abs/2402.14241v1)
 - 2024-02-25, **A Feature Matching Method Based on Multi-Level Refinement Strategy**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.13488v2](http://arxiv.org/abs/2402.13488v2)
-- 2024-02-26, **3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**, Zhi-Yi Lin et.al., Paper: [http://arxiv.org/abs/2402.13172v2](http://arxiv.org/abs/2402.13172v2)
+- 2024-03-04, **3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**, Zhi-Yi Lin et.al., Paper: [http://arxiv.org/abs/2402.13172v3](http://arxiv.org/abs/2402.13172v3)
 - 2024-02-25, **Region Feature Descriptor Adapted to High Affine Transformations**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.09724v3](http://arxiv.org/abs/2402.09724v3)
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
@@ -1892,6 +1897,10 @@
 
 ## NeRF
 
+- 2024-03-02, **NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**, Linsheng Chen et.al., Paper: [http://arxiv.org/abs/2403.01325v1](http://arxiv.org/abs/2403.01325v1), Code: **[https://github.com/freedomcls/nerf-vpt](https://github.com/freedomcls/nerf-vpt)**
+- 2024-03-02, **Neural radiance fields-based holography [Invited]**, Minsung Kang et.al., Paper: [http://arxiv.org/abs/2403.01137v1](http://arxiv.org/abs/2403.01137v1)
+- 2024-03-02, **Neural Field Classifiers via Target Encoding and Classification Loss**, Xindi Yang et.al., Paper: [http://arxiv.org/abs/2403.01058v1](http://arxiv.org/abs/2403.01058v1)
+- 2024-03-01, **DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**, Chunlin Li et.al., Paper: [http://arxiv.org/abs/2403.00228v1](http://arxiv.org/abs/2403.00228v1)
 - 2024-02-28, **NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**, Jingrui Yu et.al., Paper: [http://arxiv.org/abs/2402.18196v1](http://arxiv.org/abs/2402.18196v1)
 - 2024-02-26, **Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2402.17797v1](http://arxiv.org/abs/2402.17797v1)
 - 2024-02-27, **Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2402.17768v1](http://arxiv.org/abs/2402.17768v1)
