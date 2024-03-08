@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Control-Barrier-Aided Teleoperation with Visual-Inertial SLAM for Safe MAV Navigation in Complex Environments**|Siqi Zhou et.al.|[2403.04331v1](http://arxiv.org/abs/2403.04331v1)|null|
 |**2024-03-04**|**Tightly-Coupled LiDAR-Visual-Inertial SLAM and Large-Scale Volumetric Occupancy Mapping**|Simon Boche et.al.|[2403.02280v1](http://arxiv.org/abs/2403.02280v1)|null|
 |**2024-03-04**|**Structure from WiFi (SfW): RSSI-based Geometric Mapping of Indoor Environments**|Junseo Kim et.al.|[2403.02235v1](http://arxiv.org/abs/2403.02235v1)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|null|
@@ -940,6 +941,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765v1](http://arxiv.org/abs/2403.04765v1)|null|
+|**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740v1](http://arxiv.org/abs/2403.03740v1)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059v1](http://arxiv.org/abs/2403.02059v1)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
 |**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431v1](http://arxiv.org/abs/2403.01431v1)|null|
@@ -2018,6 +2021,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Space**|Evangelos Skartados et.al.|[2403.04508v1](http://arxiv.org/abs/2403.04508v1)|null|
+|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
+|**2024-03-07**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115v1](http://arxiv.org/abs/2403.04115v1)|null|
+|**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114v1](http://arxiv.org/abs/2403.04114v1)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608v1](http://arxiv.org/abs/2403.03608v1)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241v1](http://arxiv.org/abs/2403.03241v1)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
