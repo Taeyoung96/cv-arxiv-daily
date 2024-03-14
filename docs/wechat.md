@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.03.13
+> Updated on 2024.03.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -723,7 +723,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## SFM
 
@@ -732,7 +732,7 @@
 - 2024-02-22, **GaussianPro: 3D Gaussian Splatting with Progressive Propagation**, Kai Cheng et.al., Paper: [http://arxiv.org/abs/2402.14650v1](http://arxiv.org/abs/2402.14650v1)
 - 2024-02-25, **A Robust Error-Resistant View Selection Method for 3D Reconstruction**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2402.11431v2](http://arxiv.org/abs/2402.11431v2)
 - 2024-02-17, **Dense Matchers for Dense Tracking**, Tomáš Jelínek et.al., Paper: [http://arxiv.org/abs/2402.11287v1](http://arxiv.org/abs/2402.11287v1)
-- 2024-03-11, **Local Feature Matching Using Deep Learning: A Survey**, Shibiao Xu et.al., Paper: [http://arxiv.org/abs/2401.17592v2](http://arxiv.org/abs/2401.17592v2)
+- 2024-03-11, **Local Feature Matching Using Deep Learning: A Survey**, Shibiao Xu et.al., Paper: [http://arxiv.org/abs/2401.17592v2](http://arxiv.org/abs/2401.17592v2), Code: **[https://github.com/vignywang/awesome-local-feature-matching](https://github.com/vignywang/awesome-local-feature-matching)**
 - 2024-01-22, **HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**, Zelin Gao et.al., Paper: [http://arxiv.org/abs/2401.11711v1](http://arxiv.org/abs/2401.11711v1)
 - 2024-01-19, **SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**, Dominik A. Kloepfer et.al., Paper: [http://arxiv.org/abs/2401.10886v1](http://arxiv.org/abs/2401.10886v1)
 - 2024-01-15, **3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data**, Mathilde Letard et.al., Paper: [http://arxiv.org/abs/2401.09481v1](http://arxiv.org/abs/2401.09481v1)
@@ -878,7 +878,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -891,7 +891,7 @@
 - 2024-03-11, **Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**, Stefan Denner et.al., Paper: [http://arxiv.org/abs/2403.06567v1](http://arxiv.org/abs/2403.06567v1)
 - 2024-03-10, **RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**, Mathieu Labbé et.al., Paper: [http://arxiv.org/abs/2403.06341v1](http://arxiv.org/abs/2403.06341v1)
 - 2024-03-10, **Texture image retrieval using a classification and contourlet-based features**, Asal Rouhafzay et.al., Paper: [http://arxiv.org/abs/2403.06048v1](http://arxiv.org/abs/2403.06048v1)
-- 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2)
+- 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
 - 2024-03-11, **Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2403.04765v2](http://arxiv.org/abs/2403.04765v2)
 - 2024-03-07, **mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**, Chengzhen Meng et.al., Paper: [http://arxiv.org/abs/2403.04703v1](http://arxiv.org/abs/2403.04703v1)
 - 2024-03-06, **Self-supervised Photographic Image Layout Representation Learning**, Zhaoran Zhao et.al., Paper: [http://arxiv.org/abs/2403.03740v1](http://arxiv.org/abs/2403.03740v1), Code: **[https://github.com/cv-xueba/image-layout-learning](https://github.com/cv-xueba/image-layout-learning)**
@@ -1565,7 +1565,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1755,7 +1755,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1923,16 +1923,16 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-03-12, **SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**, Jungho Lee et.al., Paper: [http://arxiv.org/abs/2403.07547v1](http://arxiv.org/abs/2403.07547v1), Code: **[https://github.com/jho-yonsei/smurf](https://github.com/jho-yonsei/smurf)**
 - 2024-03-11, **SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2403.06877v1](http://arxiv.org/abs/2403.06877v1)
 - 2024-03-11, **Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2403.06505v1](http://arxiv.org/abs/2403.06505v1)
-- 2024-03-11, **FSViewFusion: Few-Shots View Generation of Novel Objects**, Rukhshanda Hussain et.al., Paper: [http://arxiv.org/abs/2403.06394v1](http://arxiv.org/abs/2403.06394v1)
+- 2024-03-13, **FSViewFusion: Few-Shots View Generation of Novel Objects**, Rukhshanda Hussain et.al., Paper: [http://arxiv.org/abs/2403.06394v2](http://arxiv.org/abs/2403.06394v2)
 - 2024-03-10, **Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**, Hanxin Zhu et.al., Paper: [http://arxiv.org/abs/2403.06092v1](http://arxiv.org/abs/2403.06092v1)
-- 2024-03-09, **Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**, Junyi Cao et.al., Paper: [http://arxiv.org/abs/2403.05907v1](http://arxiv.org/abs/2403.05907v1)
+- 2024-03-09, **Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**, Junyi Cao et.al., Paper: [http://arxiv.org/abs/2403.05907v1](http://arxiv.org/abs/2403.05907v1), Code: **[https://github.com/vision-sjtu/lightning-nerf](https://github.com/vision-sjtu/lightning-nerf)**
 - 2024-03-09, **Large Generative Model Assisted 3D Semantic Communication**, Feibo Jiang et.al., Paper: [http://arxiv.org/abs/2403.05783v1](http://arxiv.org/abs/2403.05783v1)
 - 2024-03-08, **GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**, Francesco Palandra et.al., Paper: [http://arxiv.org/abs/2403.05154v1](http://arxiv.org/abs/2403.05154v1)
 - 2024-03-08, **Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**, Evangelos Skartados et.al., Paper: [http://arxiv.org/abs/2403.04508v2](http://arxiv.org/abs/2403.04508v2)
@@ -2777,7 +2777,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
