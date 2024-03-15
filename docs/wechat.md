@@ -19,9 +19,10 @@
 
 ## SLAM
 
+- 2024-03-14, **Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**, Sebastián Barbas Laina et.al., Paper: [http://arxiv.org/abs/2403.09596v1](http://arxiv.org/abs/2403.09596v1)
 - 2024-03-13, **NeRF-Supervised Feature Point Detection and Description**, Ali Youssef et.al., Paper: [http://arxiv.org/abs/2403.08156v1](http://arxiv.org/abs/2403.08156v1)
 - 2024-03-12, **Q-SLAM: Quadric Representations for Monocular SLAM**, Chensheng Peng et.al., Paper: [http://arxiv.org/abs/2403.08125v1](http://arxiv.org/abs/2403.08125v1)
-- 2024-03-12, **CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**, Shuang Guo et.al., Paper: [http://arxiv.org/abs/2403.08119v1](http://arxiv.org/abs/2403.08119v1)
+- 2024-03-12, **CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**, Shuang Guo et.al., Paper: [http://arxiv.org/abs/2403.08119v1](http://arxiv.org/abs/2403.08119v1), Code: **[https://github.com/tub-rip/cmax_slam](https://github.com/tub-rip/cmax_slam)**
 - 2024-03-12, **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2403.07788v1](http://arxiv.org/abs/2403.07788v1)
 - 2024-03-12, **SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2403.07494v1](http://arxiv.org/abs/2403.07494v1)
 - 2024-03-12, **Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**, Weihan Wang et.al., Paper: [http://arxiv.org/abs/2403.07225v1](http://arxiv.org/abs/2403.07225v1)
@@ -730,6 +731,7 @@
 
 ## SFM
 
+- 2024-03-14, **Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**, Jaewoo Jung et.al., Paper: [http://arxiv.org/abs/2403.09413v1](http://arxiv.org/abs/2403.09413v1)
 - 2024-03-13, **Refractive COLMAP: Refractive Structure-from-Motion Revisited**, Mengkun She et.al., Paper: [http://arxiv.org/abs/2403.08640v1](http://arxiv.org/abs/2403.08640v1)
 - 2024-03-13, **NeRF-Supervised Feature Point Detection and Description**, Ali Youssef et.al., Paper: [http://arxiv.org/abs/2403.08156v1](http://arxiv.org/abs/2403.08156v1)
 - 2024-03-11, **SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2403.06877v1](http://arxiv.org/abs/2403.06877v1)
@@ -887,6 +889,9 @@
 
 ## Visual Localization
 
+- 2024-03-14, **The NeRFect Match: Exploring NeRF Features for Visual Localization**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2403.09577v1](http://arxiv.org/abs/2403.09577v1)
+- 2024-03-14, **VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**, Benjamin Ramtoula et.al., Paper: [http://arxiv.org/abs/2403.09025v1](http://arxiv.org/abs/2403.09025v1)
+- 2024-03-13, **PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**, Siddharth Mishra-Sharma et.al., Paper: [http://arxiv.org/abs/2403.08851v1](http://arxiv.org/abs/2403.08851v1), Code: **[https://github.com/smsharma/paperclip-hubble](https://github.com/smsharma/paperclip-hubble)**
 - 2024-03-13, **NeRF-Supervised Feature Point Detection and Description**, Ali Youssef et.al., Paper: [http://arxiv.org/abs/2403.08156v1](http://arxiv.org/abs/2403.08156v1)
 - 2024-03-12, **It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2403.07234v1](http://arxiv.org/abs/2403.07234v1), Code: **[https://github.com/subhadeepkoley/demosketch2rgb](https://github.com/subhadeepkoley/demosketch2rgb)**
 - 2024-03-12, **You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2403.07222v1](http://arxiv.org/abs/2403.07222v1)
@@ -1765,6 +1770,7 @@
 
 ## Image Matching
 
+- 2024-03-14, **Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**, Xilin Yang et.al., Paper: [http://arxiv.org/abs/2403.09100v1](http://arxiv.org/abs/2403.09100v1)
 - 2024-03-13, **Matching Non-Identical Objects**, Yusuke Marumo et.al., Paper: [http://arxiv.org/abs/2403.08227v1](http://arxiv.org/abs/2403.08227v1)
 - 2024-03-07, **Scene Depth Estimation from Traditional Oriental Landscape Paintings**, Sungho Kang et.al., Paper: [http://arxiv.org/abs/2403.03408v2](http://arxiv.org/abs/2403.03408v2)
 - 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2)
@@ -1934,6 +1940,12 @@
 
 ## NeRF
 
+- 2024-03-14, **GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**, Yuhang Zheng et.al., Paper: [http://arxiv.org/abs/2403.09637v1](http://arxiv.org/abs/2403.09637v1)
+- 2024-03-14, **The NeRFect Match: Exploring NeRF Features for Visual Localization**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2403.09577v1](http://arxiv.org/abs/2403.09577v1)
+- 2024-03-14, **VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**, Nicolaj Schmid et.al., Paper: [http://arxiv.org/abs/2403.09477v1](http://arxiv.org/abs/2403.09477v1)
+- 2024-03-14, **3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**, Frank Zhang et.al., Paper: [http://arxiv.org/abs/2403.09439v1](http://arxiv.org/abs/2403.09439v1)
+- 2024-03-14, **RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**, Thang-Anh-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2403.09419v1](http://arxiv.org/abs/2403.09419v1)
+- 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1)
 - 2024-03-13, **Gaussian Splatting in Style**, Abhishek Saroha et.al., Paper: [http://arxiv.org/abs/2403.08498v1](http://arxiv.org/abs/2403.08498v1)
 - 2024-03-13, **StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**, Hongbin Xu et.al., Paper: [http://arxiv.org/abs/2403.08310v1](http://arxiv.org/abs/2403.08310v1)
 - 2024-03-13, **NeRF-Supervised Feature Point Detection and Description**, Ali Youssef et.al., Paper: [http://arxiv.org/abs/2403.08156v1](http://arxiv.org/abs/2403.08156v1)
