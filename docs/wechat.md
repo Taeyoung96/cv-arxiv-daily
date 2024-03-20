@@ -19,9 +19,10 @@
 
 ## SLAM
 
+- 2024-03-18, **DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2403.11776v1](http://arxiv.org/abs/2403.11776v1)
 - 2024-03-18, **NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**, Yiming Ji et.al., Paper: [http://arxiv.org/abs/2403.11679v1](http://arxiv.org/abs/2403.11679v1)
 - 2024-03-18, **MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**, Thien-Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2403.11496v1](http://arxiv.org/abs/2403.11496v1)
-- 2024-03-17, **DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**, Theresa Huber et.al., Paper: [http://arxiv.org/abs/2403.11370v1](http://arxiv.org/abs/2403.11370v1)
+- 2024-03-19, **DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**, Theresa Huber et.al., Paper: [http://arxiv.org/abs/2403.11370v2](http://arxiv.org/abs/2403.11370v2)
 - 2024-03-17, **Compact 3D Gaussian Splatting For Dense Visual SLAM**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.11247v1](http://arxiv.org/abs/2403.11247v1)
 - 2024-03-15, **Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**, Adam Rashid et.al., Paper: [http://arxiv.org/abs/2403.10494v1](http://arxiv.org/abs/2403.10494v1)
 - 2024-03-15, **NeuFlow: Real-time, High-accuracy Optical Flow Estimation on Robots Using Edge Devices**, Zhiyong Zhang et.al., Paper: [http://arxiv.org/abs/2403.10425v1](http://arxiv.org/abs/2403.10425v1), Code: **[https://github.com/neufieldrobotics/neuflow](https://github.com/neufieldrobotics/neuflow)**
@@ -1960,6 +1961,7 @@
 
 ## NeRF
 
+- 2024-03-18, **DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2403.11776v1](http://arxiv.org/abs/2403.11776v1)
 - 2024-03-18, **Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**, Antoine Schnepf et.al., Paper: [http://arxiv.org/abs/2403.11678v1](http://arxiv.org/abs/2403.11678v1)
 - 2024-03-18, **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**, Yujiao Jiang et.al., Paper: [http://arxiv.org/abs/2403.11589v1](http://arxiv.org/abs/2403.11589v1)
 - 2024-03-18, **Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**, Mincheol Chang et.al., Paper: [http://arxiv.org/abs/2403.11573v1](http://arxiv.org/abs/2403.11573v1)
