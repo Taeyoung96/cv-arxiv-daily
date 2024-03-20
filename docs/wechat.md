@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-03-19, **Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**, Kurran Singh et.al., Paper: [http://arxiv.org/abs/2403.12837v1](http://arxiv.org/abs/2403.12837v1)
+- 2024-03-19, **RGBD GS-ICP SLAM**, Seongbo Ha et.al., Paper: [http://arxiv.org/abs/2403.12550v1](http://arxiv.org/abs/2403.12550v1)
+- 2024-03-19, **High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2403.12535v1](http://arxiv.org/abs/2403.12535v1)
 - 2024-03-18, **DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2403.11776v1](http://arxiv.org/abs/2403.11776v1)
 - 2024-03-18, **NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**, Yiming Ji et.al., Paper: [http://arxiv.org/abs/2403.11679v1](http://arxiv.org/abs/2403.11679v1)
 - 2024-03-18, **MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**, Thien-Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2403.11496v1](http://arxiv.org/abs/2403.11496v1)
@@ -898,6 +901,8 @@
 
 ## Visual Localization
 
+- 2024-03-19, **Learning Neural Volumetric Pose Features for Camera Localization**, Jingyu Lin et.al., Paper: [http://arxiv.org/abs/2403.12800v1](http://arxiv.org/abs/2403.12800v1)
+- 2024-03-19, **Quantixar: High-performance Vector Data Management System**, Gulshan Yadav et.al., Paper: [http://arxiv.org/abs/2403.12583v1](http://arxiv.org/abs/2403.12583v1)
 - 2024-03-17, **3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**, Peng Jiang et.al., Paper: [http://arxiv.org/abs/2403.11367v1](http://arxiv.org/abs/2403.11367v1)
 - 2024-03-17, **MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data**, Paul S. Scotti et.al., Paper: [http://arxiv.org/abs/2403.11207v1](http://arxiv.org/abs/2403.11207v1), Code: **[https://github.com/medarc-ai/mindeyev2](https://github.com/medarc-ai/mindeyev2)**
 - 2024-03-16, **Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**, Shunsuke Tsubaki et.al., Paper: [http://arxiv.org/abs/2403.10756v1](http://arxiv.org/abs/2403.10756v1)
@@ -1787,6 +1792,7 @@
 
 ## Image Matching
 
+- 2024-03-19, **HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**, Ying Chen et.al., Paper: [http://arxiv.org/abs/2403.12543v1](http://arxiv.org/abs/2403.12543v1)
 - 2024-03-16, **Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**, Shunsuke Tsubaki et.al., Paper: [http://arxiv.org/abs/2403.10756v1](http://arxiv.org/abs/2403.10756v1)
 - 2024-03-16, **Vector search with small radiuses**, Gergely Szilvasy et.al., Paper: [http://arxiv.org/abs/2403.10746v1](http://arxiv.org/abs/2403.10746v1)
 - 2024-03-15, **Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**, Fangming Yuan et.al., Paper: [http://arxiv.org/abs/2403.10283v1](http://arxiv.org/abs/2403.10283v1)
@@ -1961,6 +1967,16 @@
 
 ## NeRF
 
+- 2024-03-19, **Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**, Mingqi Shao et.al., Paper: [http://arxiv.org/abs/2403.12839v1](http://arxiv.org/abs/2403.12839v1)
+- 2024-03-19, **Learning Neural Volumetric Pose Features for Camera Localization**, Jingyu Lin et.al., Paper: [http://arxiv.org/abs/2403.12800v1](http://arxiv.org/abs/2403.12800v1)
+- 2024-03-19, **IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**, Matteo Bortolon et.al., Paper: [http://arxiv.org/abs/2403.12682v1](http://arxiv.org/abs/2403.12682v1)
+- 2024-03-18, **FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**, Florian Philipp Stilz et.al., Paper: [http://arxiv.org/abs/2403.12198v1](http://arxiv.org/abs/2403.12198v1)
+- 2024-03-18, **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2403.12154v1](http://arxiv.org/abs/2403.12154v1), Code: **[https://github.com/schindlerepfl/thermo-nerf](https://github.com/schindlerepfl/thermo-nerf)**
+- 2024-03-18, **RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**, Sibi Catley-Chandar et.al., Paper: [http://arxiv.org/abs/2403.11909v1](http://arxiv.org/abs/2403.11909v1)
+- 2024-03-18, **GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**, LI Yang et.al., Paper: [http://arxiv.org/abs/2403.11899v1](http://arxiv.org/abs/2403.11899v1)
+- 2024-03-18, **Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**, Mert Özer et.al., Paper: [http://arxiv.org/abs/2403.11865v1](http://arxiv.org/abs/2403.11865v1)
+- 2024-03-19, **BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**, Lingzhe Zhao et.al., Paper: [http://arxiv.org/abs/2403.11831v2](http://arxiv.org/abs/2403.11831v2), Code: **[https://github.com/WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians)**
+- 2024-03-18, **Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2403.11812v1](http://arxiv.org/abs/2403.11812v1)
 - 2024-03-18, **DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2403.11776v1](http://arxiv.org/abs/2403.11776v1)
 - 2024-03-18, **Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**, Antoine Schnepf et.al., Paper: [http://arxiv.org/abs/2403.11678v1](http://arxiv.org/abs/2403.11678v1)
 - 2024-03-18, **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**, Yujiao Jiang et.al., Paper: [http://arxiv.org/abs/2403.11589v1](http://arxiv.org/abs/2403.11589v1)
