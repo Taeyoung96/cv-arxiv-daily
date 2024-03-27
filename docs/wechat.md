@@ -19,6 +19,12 @@
 
 ## SLAM
 
+- 2024-03-26, **MUTE-SLAM: Real-Time Neural SLAM with Multiple Tri-Plane Hash Representations**, Yifan Yan et.al., Paper: [http://arxiv.org/abs/2403.17765v1](http://arxiv.org/abs/2403.17765v1)
+- 2024-03-26, **Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**, Leonard Freißmuth et.al., Paper: [http://arxiv.org/abs/2403.17622v1](http://arxiv.org/abs/2403.17622v1)
+- 2024-03-26, **Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification**, Hanxuan Yang et.al., Paper: [http://arxiv.org/abs/2403.17500v1](http://arxiv.org/abs/2403.17500v1)
+- 2024-03-26, **TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**, Yufu Wang et.al., Paper: [http://arxiv.org/abs/2403.17346v1](http://arxiv.org/abs/2403.17346v1)
+- 2024-03-25, **A Comparative Analysis of Visual Odometry in Virtual and Real-World Railways Environments**, Gianluca D'Amico et.al., Paper: [http://arxiv.org/abs/2403.17084v1](http://arxiv.org/abs/2403.17084v1)
+- 2024-03-25, **TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**, Chen Yao et.al., Paper: [http://arxiv.org/abs/2403.16875v1](http://arxiv.org/abs/2403.16875v1)
 - 2024-03-24, **CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**, Jiarui Hu et.al., Paper: [http://arxiv.org/abs/2403.16095v1](http://arxiv.org/abs/2403.16095v1)
 - 2024-03-22, **U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments**, Aalok Patwardhan et.al., Paper: [http://arxiv.org/abs/2403.15583v1](http://arxiv.org/abs/2403.15583v1)
 - 2024-03-22, **EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting**, Kailing Wang et.al., Paper: [http://arxiv.org/abs/2403.15124v1](http://arxiv.org/abs/2403.15124v1)
@@ -750,6 +756,8 @@
 
 ## SFM
 
+- 2024-03-26, **NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**, Jiahao Chen et.al., Paper: [http://arxiv.org/abs/2403.17537v1](http://arxiv.org/abs/2403.17537v1)
+- 2024-03-25, **INPC: Implicit Neural Point Clouds for Radiance Field Rendering**, Florian Hahlbohm et.al., Paper: [http://arxiv.org/abs/2403.16862v1](http://arxiv.org/abs/2403.16862v1)
 - 2024-03-18, **An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**, Zewen Xu et.al., Paper: [http://arxiv.org/abs/2403.11639v1](http://arxiv.org/abs/2403.11639v1)
 - 2024-03-14, **Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting**, Jaewoo Jung et.al., Paper: [http://arxiv.org/abs/2403.09413v1](http://arxiv.org/abs/2403.09413v1), Code: **[https://github.com/KU-CVLAB/RAIN-GS](https://github.com/KU-CVLAB/RAIN-GS)**
 - 2024-03-13, **Refractive COLMAP: Refractive Structure-from-Motion Revisited**, Mengkun She et.al., Paper: [http://arxiv.org/abs/2403.08640v1](http://arxiv.org/abs/2403.08640v1)
@@ -909,6 +917,7 @@
 
 ## Visual Localization
 
+- 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
 - 2024-03-25, **Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**, Gokul B. Nair et.al., Paper: [http://arxiv.org/abs/2403.16425v1](http://arxiv.org/abs/2403.16425v1)
 - 2024-03-24, **Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**, Yucheng Suo et.al., Paper: [http://arxiv.org/abs/2403.16005v1](http://arxiv.org/abs/2403.16005v1)
 - 2024-03-24, **BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval**, Yinda Chen et.al., Paper: [http://arxiv.org/abs/2403.15992v1](http://arxiv.org/abs/2403.15992v1)
@@ -1985,6 +1994,10 @@
 
 ## NeRF
 
+- 2024-03-26, **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**, Kerui Ren et.al., Paper: [http://arxiv.org/abs/2403.17898v1](http://arxiv.org/abs/2403.17898v1)
+- 2024-03-26, **NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**, Jiahao Chen et.al., Paper: [http://arxiv.org/abs/2403.17537v1](http://arxiv.org/abs/2403.17537v1)
+- 2024-03-25, **VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2403.17001v1](http://arxiv.org/abs/2403.17001v1)
+- 2024-03-25, **CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**, Yingji Zhong et.al., Paper: [http://arxiv.org/abs/2403.16885v1](http://arxiv.org/abs/2403.16885v1)
 - 2024-03-25, **Spike-NeRF: Neural Radiance Field Based On Spike Camera**, Yijia Guo et.al., Paper: [http://arxiv.org/abs/2403.16410v1](http://arxiv.org/abs/2403.16410v1)
 - 2024-03-24, **Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**, Haoyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.16224v1](http://arxiv.org/abs/2403.16224v1)
 - 2024-03-24, **Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**, Takashi Otonari et.al., Paper: [http://arxiv.org/abs/2403.16141v1](http://arxiv.org/abs/2403.16141v1)
