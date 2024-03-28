@@ -917,6 +917,7 @@
 
 ## Visual Localization
 
+- 2024-03-27, **AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2403.18281v1](http://arxiv.org/abs/2403.18281v1)
 - 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
 - 2024-03-25, **Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras**, Gokul B. Nair et.al., Paper: [http://arxiv.org/abs/2403.16425v1](http://arxiv.org/abs/2403.16425v1)
 - 2024-03-24, **Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**, Yucheng Suo et.al., Paper: [http://arxiv.org/abs/2403.16005v1](http://arxiv.org/abs/2403.16005v1)
@@ -1627,6 +1628,7 @@
 
 ## Keypoint Detection
 
+- 2024-03-27, **RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**, Yang Tian et.al., Paper: [http://arxiv.org/abs/2403.18259v1](http://arxiv.org/abs/2403.18259v1)
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
 - 2024-03-05, **Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**, Meng Zheng et.al., Paper: [http://arxiv.org/abs/2403.03217v1](http://arxiv.org/abs/2403.03217v1)
 - 2024-02-22, **A Self-supervised Pressure Map human keypoint Detection Approch: Optimizing Generalization and Computational Efficiency Across Datasets**, Chengzhang Yu et.al., Paper: [http://arxiv.org/abs/2402.14241v1](http://arxiv.org/abs/2402.14241v1)
@@ -1994,6 +1996,9 @@
 
 ## NeRF
 
+- 2024-03-27, **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2403.18795v1](http://arxiv.org/abs/2403.18795v1)
+- 2024-03-27, **SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**, Camille Billouard et.al., Paper: [http://arxiv.org/abs/2403.18711v1](http://arxiv.org/abs/2403.18711v1)
+- 2024-03-27, **Modeling uncertainty for Gaussian Splatting**, Luca Savant et.al., Paper: [http://arxiv.org/abs/2403.18476v1](http://arxiv.org/abs/2403.18476v1)
 - 2024-03-26, **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**, Kerui Ren et.al., Paper: [http://arxiv.org/abs/2403.17898v1](http://arxiv.org/abs/2403.17898v1)
 - 2024-03-26, **NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**, Jiahao Chen et.al., Paper: [http://arxiv.org/abs/2403.17537v1](http://arxiv.org/abs/2403.17537v1)
 - 2024-03-25, **VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2403.17001v1](http://arxiv.org/abs/2403.17001v1)
