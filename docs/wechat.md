@@ -2004,7 +2004,7 @@
 - 2024-03-28, **CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**, Avinash Paliwal et.al., Paper: [http://arxiv.org/abs/2403.19495v1](http://arxiv.org/abs/2403.19495v1)
 - 2024-03-28, **Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**, Yujin Chen et.al., Paper: [http://arxiv.org/abs/2403.19319v1](http://arxiv.org/abs/2403.19319v1)
 - 2024-03-28, **Sine Activated Low-Rank Matrices for Parameter Efficient Learning**, Yiping Ji et.al., Paper: [http://arxiv.org/abs/2403.19243v1](http://arxiv.org/abs/2403.19243v1)
-- 2024-03-27, **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2403.18795v1](http://arxiv.org/abs/2403.18795v1)
+- 2024-03-29, **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2403.18795v2](http://arxiv.org/abs/2403.18795v2)
 - 2024-03-27, **SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**, Camille Billouard et.al., Paper: [http://arxiv.org/abs/2403.18711v1](http://arxiv.org/abs/2403.18711v1)
 - 2024-03-27, **Modeling uncertainty for Gaussian Splatting**, Luca Savant et.al., Paper: [http://arxiv.org/abs/2403.18476v1](http://arxiv.org/abs/2403.18476v1)
 - 2024-03-26, **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**, Kerui Ren et.al., Paper: [http://arxiv.org/abs/2403.17898v1](http://arxiv.org/abs/2403.17898v1)
