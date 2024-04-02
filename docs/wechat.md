@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
-- 2024-03-28, **BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**, Han Song et.al., Paper: [http://arxiv.org/abs/2403.19886v1](http://arxiv.org/abs/2403.19886v1)
+- 2024-04-01, **BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**, Han Song et.al., Paper: [http://arxiv.org/abs/2403.19886v2](http://arxiv.org/abs/2403.19886v2)
 - 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
 - 2024-03-28, **MAC: Maximizing Algebraic Connectivity for Graph Sparsification**, Kevin Doherty et.al., Paper: [http://arxiv.org/abs/2403.19879v1](http://arxiv.org/abs/2403.19879v1)
 - 2024-03-28, **JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2403.19787v1](http://arxiv.org/abs/2403.19787v1), Code: **[https://github.com/ga1i13o/jist](https://github.com/ga1i13o/jist)**
