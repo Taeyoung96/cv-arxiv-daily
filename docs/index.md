@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-04-01**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
@@ -994,6 +995,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|null|
+|**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524v1](http://arxiv.org/abs/2404.01524v1)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-03-31**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546v1](http://arxiv.org/abs/2404.00546v1)|null|
+|**2024-03-31**|**NYC-Indoor-VPR: A Long-Term Indoor Visual Place Recognition Dataset with Semi-Automatic Annotation**|Diwei Sheng et.al.|[2404.00504v1](http://arxiv.org/abs/2404.00504v1)|null|
+|**2024-03-30**|**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**|Yang Miao et.al.|[2404.00469v1](http://arxiv.org/abs/2404.00469v1)|null|
+|**2024-03-30**|**Do Vision-Language Models Understand Compound Nouns?**|Sonal Kumar et.al.|[2404.00419v1](http://arxiv.org/abs/2404.00419v1)|null|
 |**2024-04-02**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964v2](http://arxiv.org/abs/2403.19964v2)|null|
 |**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|**[link](https://github.com/ga1i13o/jist)**|
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651v1](http://arxiv.org/abs/2403.19651v1)|null|
@@ -1932,6 +1940,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
+|**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838v1](http://arxiv.org/abs/2404.00838v1)|null|
+|**2024-03-31**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546v1](http://arxiv.org/abs/2404.00546v1)|null|
+|**2024-03-30**|**Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation**|Yuan Wang et.al.|[2404.00262v1](http://arxiv.org/abs/2404.00262v1)|null|
 |**2024-03-23**|**MatchSeg: Towards Better Segmentation via Reference Image Matching**|Ruiqiang Xiao et.al.|[2403.15901v1](http://arxiv.org/abs/2403.15901v1)|**[link](https://github.com/keeplearning-again/matchseg)**|
 |**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543v1](http://arxiv.org/abs/2403.12543v1)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756v1](http://arxiv.org/abs/2403.10756v1)|null|
@@ -2123,6 +2135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155v1](http://arxiv.org/abs/2404.02155v1)|null|
+|**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812v1](http://arxiv.org/abs/2404.01812v1)|null|
+|**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
+|**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
+|**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296v1](http://arxiv.org/abs/2404.01296v1)|null|
+|**2024-04-02**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
+|**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168v1](http://arxiv.org/abs/2404.01168v1)|null|
+|**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992v1](http://arxiv.org/abs/2404.00992v1)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|null|
+|**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159v1](http://arxiv.org/abs/2403.20159v1)|null|
 |**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153v1](http://arxiv.org/abs/2403.20153v1)|null|
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079v1](http://arxiv.org/abs/2403.20079v1)|null|
