@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Language, Environment, and Robotic Navigation**|Johnathan E. Avery et.al.|[2404.03049v1](http://arxiv.org/abs/2404.03049v1)|null|
 |**2024-04-01**|**MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements**|Lisong C. Sun et.al.|[2404.00923v1](http://arxiv.org/abs/2404.00923v1)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-04-01**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886v2](http://arxiv.org/abs/2403.19886v2)|null|
@@ -814,6 +815,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126v1](http://arxiv.org/abs/2404.03126v1)|null|
 |**2024-03-29**|**InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**|Zhiwen Fan et.al.|[2403.20309v1](http://arxiv.org/abs/2403.20309v1)|null|
 |**2024-03-29**|**HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**|Zhuopeng Li et.al.|[2403.20032v1](http://arxiv.org/abs/2403.20032v1)|null|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
@@ -2131,6 +2133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742v1](http://arxiv.org/abs/2404.02742v1)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
