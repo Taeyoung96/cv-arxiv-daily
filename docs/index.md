@@ -2141,7 +2141,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
 |**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736v1](http://arxiv.org/abs/2404.03736v1)|null|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v2](http://arxiv.org/abs/2404.03654v2)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
