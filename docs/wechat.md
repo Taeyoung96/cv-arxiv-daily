@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-04-11, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v1](http://arxiv.org/abs/2404.07644v1)
 - 2024-04-10, **Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2404.06926v1](http://arxiv.org/abs/2404.06926v1)
 - 2024-04-10, **Deep Generative Data Assimilation in Multimodal Setting**, Yongquan Qu et.al., Paper: [http://arxiv.org/abs/2404.06665v1](http://arxiv.org/abs/2404.06665v1), Code: **[https://github.com/yongquan-qu/slams](https://github.com/yongquan-qu/slams)**
 - 2024-04-06, **Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**, Han Lei et.al., Paper: [http://arxiv.org/abs/2404.04492v1](http://arxiv.org/abs/2404.04492v1)
@@ -770,6 +771,7 @@
 
 ## SFM
 
+- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1)
 - 2024-04-07, **NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**, Peng Tu et.al., Paper: [http://arxiv.org/abs/2404.04875v1](http://arxiv.org/abs/2404.04875v1)
 - 2024-04-04, **GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**, Emmanouil Nikolakakis et.al., Paper: [http://arxiv.org/abs/2404.03126v1](http://arxiv.org/abs/2404.03126v1)
 - 2024-03-29, **InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2403.20309v1](http://arxiv.org/abs/2403.20309v1)
@@ -935,6 +937,8 @@
 
 ## Visual Localization
 
+- 2024-04-11, **PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.07785v1](http://arxiv.org/abs/2404.07785v1)
+- 2024-04-11, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v1](http://arxiv.org/abs/2404.07644v1)
 - 2024-04-11, **Semantically-correlated memories in a dense associative model**, Thomas F Burns et.al., Paper: [http://arxiv.org/abs/2404.07123v2](http://arxiv.org/abs/2404.07123v2), Code: **[https://github.com/tfburns/cdam](https://github.com/tfburns/cdam)**
 - 2024-04-09, **Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**, Luca Barsellotti et.al., Paper: [http://arxiv.org/abs/2404.06542v1](http://arxiv.org/abs/2404.06542v1)
 - 2024-04-09, **Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**, Anas Gouda et.al., Paper: [http://arxiv.org/abs/2404.06277v1](http://arxiv.org/abs/2404.06277v1)
@@ -2037,6 +2041,10 @@
 
 ## NeRF
 
+- 2024-04-11, **Connecting NeRFs, Images, and Text**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2404.07993v1](http://arxiv.org/abs/2404.07993v1)
+- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1)
+- 2024-04-11, **NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2404.07762v1](http://arxiv.org/abs/2404.07762v1), Code: **[https://github.com/wljungbergh/neuroncap](https://github.com/wljungbergh/neuroncap)**
+- 2024-04-11, **G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**, Zixiong Huang et.al., Paper: [http://arxiv.org/abs/2404.07474v1](http://arxiv.org/abs/2404.07474v1)
 - 2024-04-10, **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**, Mathis Kruse et.al., Paper: [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1), Code: **[https://github.com/m-kruse98/splatpose](https://github.com/m-kruse98/splatpose)**
 - 2024-04-10, **MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**, Runfa Li et.al., Paper: [http://arxiv.org/abs/2404.06753v1](http://arxiv.org/abs/2404.06753v1)
 - 2024-04-10, **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**, Sibeak Lee et.al., Paper: [http://arxiv.org/abs/2404.06727v1](http://arxiv.org/abs/2404.06727v1), Code: **[https://github.com/lab-of-ai-and-robotics/bayesian_nerf](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**
