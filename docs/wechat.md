@@ -771,7 +771,7 @@
 
 ## SFM
 
-- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1)
+- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
 - 2024-04-07, **NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**, Peng Tu et.al., Paper: [http://arxiv.org/abs/2404.04875v1](http://arxiv.org/abs/2404.04875v1)
 - 2024-04-04, **GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**, Emmanouil Nikolakakis et.al., Paper: [http://arxiv.org/abs/2404.03126v1](http://arxiv.org/abs/2404.03126v1)
 - 2024-03-29, **InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2403.20309v1](http://arxiv.org/abs/2403.20309v1)
@@ -2042,7 +2042,7 @@
 ## NeRF
 
 - 2024-04-11, **Connecting NeRFs, Images, and Text**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2404.07993v1](http://arxiv.org/abs/2404.07993v1)
-- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1)
+- 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
 - 2024-04-11, **NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2404.07762v1](http://arxiv.org/abs/2404.07762v1), Code: **[https://github.com/wljungbergh/neuroncap](https://github.com/wljungbergh/neuroncap)**
 - 2024-04-11, **G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**, Zixiong Huang et.al., Paper: [http://arxiv.org/abs/2404.07474v1](http://arxiv.org/abs/2404.07474v1)
 - 2024-04-10, **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**, Mathis Kruse et.al., Paper: [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1), Code: **[https://github.com/m-kruse98/splatpose](https://github.com/m-kruse98/splatpose)**
