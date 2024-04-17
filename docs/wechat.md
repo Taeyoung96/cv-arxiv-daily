@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.04.16
+> Updated on 2024.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 - 2024-04-15, **DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**, WeiSheng Gong et.al., Paper: [http://arxiv.org/abs/2404.09622v1](http://arxiv.org/abs/2404.09622v1)
 - 2024-04-14, **Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**, Yanhao Zhang et.al., Paper: [http://arxiv.org/abs/2404.09169v1](http://arxiv.org/abs/2404.09169v1)
 - 2024-04-12, **FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**, Hexiang Wei et.al., Paper: [http://arxiv.org/abs/2404.08563v1](http://arxiv.org/abs/2404.08563v1)
-- 2024-04-15, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v3](http://arxiv.org/abs/2404.07644v3), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
+- 2024-04-16, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v4](http://arxiv.org/abs/2404.07644v4), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 - 2024-04-10, **Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2404.06926v1](http://arxiv.org/abs/2404.06926v1)
 - 2024-04-10, **Deep Generative Data Assimilation in Multimodal Setting**, Yongquan Qu et.al., Paper: [http://arxiv.org/abs/2404.06665v1](http://arxiv.org/abs/2404.06665v1), Code: **[https://github.com/yongquan-qu/slams](https://github.com/yongquan-qu/slams)**
 - 2024-04-06, **Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**, Han Lei et.al., Paper: [http://arxiv.org/abs/2404.04492v1](http://arxiv.org/abs/2404.04492v1)
@@ -771,7 +771,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## SFM
 
@@ -939,13 +939,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2024-04-15, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v1](http://arxiv.org/abs/2404.09640v1), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
+- 2024-04-16, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v2](http://arxiv.org/abs/2404.09640v2), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
 - 2024-04-11, **PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.07785v1](http://arxiv.org/abs/2404.07785v1)
-- 2024-04-15, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v3](http://arxiv.org/abs/2404.07644v3), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
+- 2024-04-16, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v4](http://arxiv.org/abs/2404.07644v4), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 - 2024-04-11, **Semantically-correlated memories in a dense associative model**, Thomas F Burns et.al., Paper: [http://arxiv.org/abs/2404.07123v2](http://arxiv.org/abs/2404.07123v2), Code: **[https://github.com/tfburns/cdam](https://github.com/tfburns/cdam)**
 - 2024-04-09, **Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**, Luca Barsellotti et.al., Paper: [http://arxiv.org/abs/2404.06542v1](http://arxiv.org/abs/2404.06542v1)
 - 2024-04-09, **Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**, Anas Gouda et.al., Paper: [http://arxiv.org/abs/2404.06277v1](http://arxiv.org/abs/2404.06277v1)
@@ -1669,7 +1669,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1863,7 +1863,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2046,14 +2046,14 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-04-15, **DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**, Tong Wu et.al., Paper: [http://arxiv.org/abs/2404.09412v1](http://arxiv.org/abs/2404.09412v1)
 - 2024-04-14, **VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.09271v1](http://arxiv.org/abs/2404.09271v1), Code: **[https://github.com/feixue94/vrs-nerf](https://github.com/feixue94/vrs-nerf)**
 - 2024-04-15, **OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**, Jingrui Ye et.al., Paper: [http://arxiv.org/abs/2404.08449v2](http://arxiv.org/abs/2404.08449v2)
-- 2024-04-12, **GPN: Generative Point-based NeRF**, Haipeng Wang et.al., Paper: [http://arxiv.org/abs/2404.08312v1](http://arxiv.org/abs/2404.08312v1)
+- 2024-04-12, **GPN: Generative Point-based NeRF**, Haipeng Wang et.al., Paper: [http://arxiv.org/abs/2404.08312v1](http://arxiv.org/abs/2404.08312v1), Code: **[https://github.com/forestsen/GPN](https://github.com/forestsen/GPN)**
 - 2024-04-12, **MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**, Yuqun Wu et.al., Paper: [http://arxiv.org/abs/2404.08252v1](http://arxiv.org/abs/2404.08252v1)
 - 2024-04-11, **Connecting NeRFs, Images, and Text**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2404.07993v1](http://arxiv.org/abs/2404.07993v1)
 - 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
@@ -3021,7 +3021,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
