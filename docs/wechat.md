@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-04-16, **Robust Snapshot Radio SLAM**, Ossi Kaltiokallio et.al., Paper: [http://arxiv.org/abs/2404.10291v1](http://arxiv.org/abs/2404.10291v1)
+- 2024-04-15, **A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**, Pouyan Navard et.al., Paper: [http://arxiv.org/abs/2404.10140v1](http://arxiv.org/abs/2404.10140v1)
 - 2024-04-15, **Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction**, Ashish Devadas Nair et.al., Paper: [http://arxiv.org/abs/2404.09765v1](http://arxiv.org/abs/2404.09765v1)
 - 2024-04-15, **DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**, WeiSheng Gong et.al., Paper: [http://arxiv.org/abs/2404.09622v1](http://arxiv.org/abs/2404.09622v1)
 - 2024-04-14, **Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**, Yanhao Zhang et.al., Paper: [http://arxiv.org/abs/2404.09169v1](http://arxiv.org/abs/2404.09169v1)
@@ -943,6 +945,7 @@
 
 ## Visual Localization
 
+- 2024-04-16, **SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**, Niklas Gard et.al., Paper: [http://arxiv.org/abs/2404.10527v1](http://arxiv.org/abs/2404.10527v1)
 - 2024-04-16, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v2](http://arxiv.org/abs/2404.09640v2), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
 - 2024-04-11, **PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.07785v1](http://arxiv.org/abs/2404.07785v1)
 - 2024-04-16, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v4](http://arxiv.org/abs/2404.07644v4), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
@@ -1867,6 +1870,7 @@
 
 ## Image Matching
 
+- 2024-04-16, **Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**, John Francis et.al., Paper: [http://arxiv.org/abs/2404.10626v1](http://arxiv.org/abs/2404.10626v1)
 - 2024-04-15, **XoFTR: Cross-modal Feature Matching Transformer**, Önder Tuzcuoğlu et.al., Paper: [http://arxiv.org/abs/2404.09692v1](http://arxiv.org/abs/2404.09692v1)
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-04-09, **Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**, Axel Barroso-Laguna et.al., Paper: [http://arxiv.org/abs/2404.06337v1](http://arxiv.org/abs/2404.06337v1), Code: **[https://github.com/nianticlabs/mickey](https://github.com/nianticlabs/mickey)**
@@ -2050,6 +2054,13 @@
 
 ## NeRF
 
+- 2024-04-16, **Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**, Florian Barthel et.al., Paper: [http://arxiv.org/abs/2404.10625v1](http://arxiv.org/abs/2404.10625v1)
+- 2024-04-16, **Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**, Seungwook Kim et.al., Paper: [http://arxiv.org/abs/2404.10603v1](http://arxiv.org/abs/2404.10603v1)
+- 2024-04-16, **1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**, Hang Du et.al., Paper: [http://arxiv.org/abs/2404.10441v1](http://arxiv.org/abs/2404.10441v1)
+- 2024-04-16, **SRGS: Super-Resolution 3D Gaussian Splatting**, Xiang Feng et.al., Paper: [http://arxiv.org/abs/2404.10318v1](http://arxiv.org/abs/2404.10318v1)
+- 2024-04-16, **Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**, Yoshio Kato et.al., Paper: [http://arxiv.org/abs/2404.10272v1](http://arxiv.org/abs/2404.10272v1), Code: **[https://github.com/yosshi999/faster-occgrid](https://github.com/yosshi999/faster-occgrid)**
+- 2024-04-15, **Taming Latent Diffusion Model for Neural Radiance Field Inpainting**, Chieh Hubert Lin et.al., Paper: [http://arxiv.org/abs/2404.09995v1](http://arxiv.org/abs/2404.09995v1)
+- 2024-04-15, **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**, Hongchi Xia et.al., Paper: [http://arxiv.org/abs/2404.09833v1](http://arxiv.org/abs/2404.09833v1)
 - 2024-04-15, **DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**, Tong Wu et.al., Paper: [http://arxiv.org/abs/2404.09412v1](http://arxiv.org/abs/2404.09412v1)
 - 2024-04-14, **VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.09271v1](http://arxiv.org/abs/2404.09271v1), Code: **[https://github.com/feixue94/vrs-nerf](https://github.com/feixue94/vrs-nerf)**
 - 2024-04-15, **OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**, Jingrui Ye et.al., Paper: [http://arxiv.org/abs/2404.08449v2](http://arxiv.org/abs/2404.08449v2)
