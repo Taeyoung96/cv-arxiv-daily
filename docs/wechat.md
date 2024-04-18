@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-04-17, **SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**, Vincent Cartillier et.al., Paper: [http://arxiv.org/abs/2404.11419v1](http://arxiv.org/abs/2404.11419v1)
+- 2024-04-17, **VBR: A Vision Benchmark in Rome**, Leonardo Brizi et.al., Paper: [http://arxiv.org/abs/2404.11322v1](http://arxiv.org/abs/2404.11322v1)
 - 2024-04-16, **Robust Snapshot Radio SLAM**, Ossi Kaltiokallio et.al., Paper: [http://arxiv.org/abs/2404.10291v1](http://arxiv.org/abs/2404.10291v1)
 - 2024-04-15, **A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**, Pouyan Navard et.al., Paper: [http://arxiv.org/abs/2404.10140v1](http://arxiv.org/abs/2404.10140v1)
 - 2024-04-15, **Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction**, Ashish Devadas Nair et.al., Paper: [http://arxiv.org/abs/2404.09765v1](http://arxiv.org/abs/2404.09765v1)
@@ -777,6 +779,8 @@
 
 ## SFM
 
+- 2024-04-17, **A Subspace-Constrained Tyler's Estimator and its Applications to Structure from Motion**, Feng Yu et.al., Paper: [http://arxiv.org/abs/2404.11590v1](http://arxiv.org/abs/2404.11590v1)
+- 2024-04-17, **DeblurGS: Gaussian Splatting for Camera Motion Blur**, Jeongtaek Oh et.al., Paper: [http://arxiv.org/abs/2404.11358v1](http://arxiv.org/abs/2404.11358v1)
 - 2024-04-15, **LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**, Jiadi Cui et.al., Paper: [http://arxiv.org/abs/2404.09748v1](http://arxiv.org/abs/2404.09748v1)
 - 2024-04-12, **MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**, Yuqun Wu et.al., Paper: [http://arxiv.org/abs/2404.08252v1](http://arxiv.org/abs/2404.08252v1)
 - 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
@@ -945,6 +949,8 @@
 
 ## Visual Localization
 
+- 2024-04-17, **Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**, Zhangchi Feng et.al., Paper: [http://arxiv.org/abs/2404.11317v1](http://arxiv.org/abs/2404.11317v1)
+- 2024-04-17, **Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**, Sanggeon Yun et.al., Paper: [http://arxiv.org/abs/2404.11025v1](http://arxiv.org/abs/2404.11025v1)
 - 2024-04-16, **SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**, Niklas Gard et.al., Paper: [http://arxiv.org/abs/2404.10527v1](http://arxiv.org/abs/2404.10527v1)
 - 2024-04-16, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v2](http://arxiv.org/abs/2404.09640v2), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
 - 2024-04-11, **PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.07785v1](http://arxiv.org/abs/2404.07785v1)
@@ -1676,6 +1682,7 @@
 
 ## Keypoint Detection
 
+- 2024-04-17, **Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**, Junbiao Pang et.al., Paper: [http://arxiv.org/abs/2404.10985v1](http://arxiv.org/abs/2404.10985v1)
 - 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
 - 2024-03-28, **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2403.19527v1](http://arxiv.org/abs/2403.19527v1), Code: **[https://github.com/leeiieeo/ag-pose](https://github.com/leeiieeo/ag-pose)**
 - 2024-03-27, **RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**, Yang Tian et.al., Paper: [http://arxiv.org/abs/2403.18259v1](http://arxiv.org/abs/2403.18259v1)
@@ -1870,6 +1877,7 @@
 
 ## Image Matching
 
+- 2024-04-17, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v1](http://arxiv.org/abs/2404.11302v1), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
 - 2024-04-16, **Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**, John Francis et.al., Paper: [http://arxiv.org/abs/2404.10626v1](http://arxiv.org/abs/2404.10626v1)
 - 2024-04-15, **XoFTR: Cross-modal Feature Matching Transformer**, Önder Tuzcuoğlu et.al., Paper: [http://arxiv.org/abs/2404.09692v1](http://arxiv.org/abs/2404.09692v1)
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
@@ -2054,6 +2062,7 @@
 
 ## NeRF
 
+- 2024-04-17, **SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**, Vincent Cartillier et.al., Paper: [http://arxiv.org/abs/2404.11419v1](http://arxiv.org/abs/2404.11419v1)
 - 2024-04-16, **Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**, Florian Barthel et.al., Paper: [http://arxiv.org/abs/2404.10625v1](http://arxiv.org/abs/2404.10625v1)
 - 2024-04-16, **Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**, Seungwook Kim et.al., Paper: [http://arxiv.org/abs/2404.10603v1](http://arxiv.org/abs/2404.10603v1)
 - 2024-04-16, **1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**, Hang Du et.al., Paper: [http://arxiv.org/abs/2404.10441v1](http://arxiv.org/abs/2404.10441v1)
