@@ -1019,7 +1019,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317v1](http://arxiv.org/abs/2404.11317v1)|null|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025v1](http://arxiv.org/abs/2404.11025v1)|null|
-|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v1](http://arxiv.org/abs/2404.10527v1)|null|
+|**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v1](http://arxiv.org/abs/2404.10527v1)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v2](http://arxiv.org/abs/2404.09640v2)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785v1](http://arxiv.org/abs/2404.07785v1)|null|
 |**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|**[link](https://github.com/littledang/2dliw-slam)**|
