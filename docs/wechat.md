@@ -2080,7 +2080,7 @@
 
 - 2024-04-22, **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**, Hongyun Yu et.al., Paper: [http://arxiv.org/abs/2404.14037v1](http://arxiv.org/abs/2404.14037v1)
 - 2024-04-22, **NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**, Chi Huang et.al., Paper: [http://arxiv.org/abs/2404.13921v1](http://arxiv.org/abs/2404.13921v1)
-- 2024-04-22, **CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**, Yunlong Ran et.al., Paper: [http://arxiv.org/abs/2404.13896v1](http://arxiv.org/abs/2404.13896v1)
+- 2024-04-23, **CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**, Yunlong Ran et.al., Paper: [http://arxiv.org/abs/2404.13896v2](http://arxiv.org/abs/2404.13896v2)
 - 2024-04-22, **Neural Radiance Field in Autonomous Driving: A Survey**, Lei He et.al., Paper: [http://arxiv.org/abs/2404.13816v1](http://arxiv.org/abs/2404.13816v1)
 - 2024-04-21, **ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**, Zichen Tang et.al., Paper: [http://arxiv.org/abs/2404.13711v1](http://arxiv.org/abs/2404.13711v1), Code: **[https://github.com/silence-tang/artnerf](https://github.com/silence-tang/artnerf)**
 - 2024-04-21, **Generalizable Novel-View Synthesis using a Stereo Camera**, Haechan Lee et.al., Paper: [http://arxiv.org/abs/2404.13541v1](http://arxiv.org/abs/2404.13541v1)
