@@ -961,6 +961,9 @@
 
 ## Visual Localization
 
+- 2024-04-25, **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**, Ryoya Nara et.al., Paper: [http://arxiv.org/abs/2404.16398v1](http://arxiv.org/abs/2404.16398v1)
+- 2024-04-24, **Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**, Haokun Wen et.al., Paper: [http://arxiv.org/abs/2404.15875v1](http://arxiv.org/abs/2404.15875v1)
+- 2024-04-24, **DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**, Xin Jiang et.al., Paper: [http://arxiv.org/abs/2404.15771v1](http://arxiv.org/abs/2404.15771v1)
 - 2024-04-23, **Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**, Young Kyun Jang et.al., Paper: [http://arxiv.org/abs/2404.15516v1](http://arxiv.org/abs/2404.15516v1)
 - 2024-04-22, **EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models**, Mathias Thorsager et.al., Paper: [http://arxiv.org/abs/2404.14236v1](http://arxiv.org/abs/2404.14236v1)
 - 2024-04-22, **Hierarchical localization with panoramic views and triplet loss functions**, Marcos Alfaro et.al., Paper: [http://arxiv.org/abs/2404.14117v1](http://arxiv.org/abs/2404.14117v1), Code: **[https://github.com/marcosalfaro/tripletnetworksindoorlocalization](https://github.com/marcosalfaro/tripletnetworksindoorlocalization)**
@@ -2083,6 +2086,9 @@
 
 ## NeRF
 
+- 2024-04-25, **Depth Supervised Neural Surface Reconstruction from Airborne Imagery**, Vincent Hackstein et.al., Paper: [http://arxiv.org/abs/2404.16429v1](http://arxiv.org/abs/2404.16429v1)
+- 2024-04-24, **NeRF-XL: Scaling NeRFs with Multiple GPUs**, Ruilong Li et.al., Paper: [http://arxiv.org/abs/2404.16221v1](http://arxiv.org/abs/2404.16221v1)
+- 2024-04-24, **ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**, Jinseo Jeong et.al., Paper: [http://arxiv.org/abs/2404.15707v1](http://arxiv.org/abs/2404.15707v1)
 - 2024-04-23, **DreamCraft: Text-Guided Generation of Functional 3D Environments in Minecraft**, Sam Earle et.al., Paper: [http://arxiv.org/abs/2404.15538v1](http://arxiv.org/abs/2404.15538v1)
 - 2024-04-22, **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**, Hongyun Yu et.al., Paper: [http://arxiv.org/abs/2404.14037v1](http://arxiv.org/abs/2404.14037v1)
 - 2024-04-22, **NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**, Chi Huang et.al., Paper: [http://arxiv.org/abs/2404.13921v1](http://arxiv.org/abs/2404.13921v1)
