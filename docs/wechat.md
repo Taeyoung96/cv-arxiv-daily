@@ -1700,7 +1700,7 @@
 
 ## Keypoint Detection
 
-- 2024-04-22, **Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**, Tahmim Hossain et.al., Paper: [http://arxiv.org/abs/2404.14560v1](http://arxiv.org/abs/2404.14560v1)
+- 2024-04-25, **Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**, Tahmim Hossain et.al., Paper: [http://arxiv.org/abs/2404.14560v2](http://arxiv.org/abs/2404.14560v2)
 - 2024-04-19, **SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**, Vandad Davoodnia et.al., Paper: [http://arxiv.org/abs/2404.12625v1](http://arxiv.org/abs/2404.12625v1)
 - 2024-04-17, **Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**, Junbiao Pang et.al., Paper: [http://arxiv.org/abs/2404.10985v1](http://arxiv.org/abs/2404.10985v1)
 - 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
