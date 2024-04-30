@@ -19,6 +19,13 @@
 
 ## SLAM
 
+- 2024-04-29, **Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**, Xin Chen et.al., Paper: [http://arxiv.org/abs/2404.18560v1](http://arxiv.org/abs/2404.18560v1)
+- 2024-04-29, **Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**, Jungwoo Lee et.al., Paper: [http://arxiv.org/abs/2404.18395v1](http://arxiv.org/abs/2404.18395v1)
+- 2024-04-28, **Multi-Robot Object SLAM using Distributed Variational Inference**, Hanwen Cao et.al., Paper: [http://arxiv.org/abs/2404.18331v1](http://arxiv.org/abs/2404.18331v1)
+- 2024-04-28, **S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**, Zhiyao Zhang et.al., Paper: [http://arxiv.org/abs/2404.18284v1](http://arxiv.org/abs/2404.18284v1)
+- 2024-04-28, **Block-Map-Based Localization in Large-Scale Environment**, Yixiao Feng et.al., Paper: [http://arxiv.org/abs/2404.18192v1](http://arxiv.org/abs/2404.18192v1)
+- 2024-04-27, **DF-SLAM: Neural Feature Rendering Based on Dictionary Factors Representation for High-Fidelity Dense Visual SLAM System**, Weifeng Wei et.al., Paper: [http://arxiv.org/abs/2404.17876v1](http://arxiv.org/abs/2404.17876v1)
+- 2024-04-27, **HIPer: A Human-Inspired Scene Perception Model for Multifunctional Mobile Robots**, Florenz Graf et.al., Paper: [http://arxiv.org/abs/2404.17791v1](http://arxiv.org/abs/2404.17791v1)
 - 2024-04-26, **SLAM for Indoor Mapping of Wide Area Construction Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2404.17215v1](http://arxiv.org/abs/2404.17215v1)
 - 2024-04-22, **MIMO Multipath-based SLAM for Non-Ideal Reflective Surfaces**, Lukas Wielandner et.al., Paper: [http://arxiv.org/abs/2404.15375v1](http://arxiv.org/abs/2404.15375v1)
 - 2024-04-23, **Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**, Lahav Lipson et.al., Paper: [http://arxiv.org/abs/2404.15263v1](http://arxiv.org/abs/2404.15263v1), Code: **[https://github.com/princeton-vl/multislam_diffpose](https://github.com/princeton-vl/multislam_diffpose)**
@@ -962,6 +969,9 @@
 
 ## Visual Localization
 
+- 2024-04-29, **Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**, Hongyi Zhu et.al., Paper: [http://arxiv.org/abs/2404.18746v1](http://arxiv.org/abs/2404.18746v1)
+- 2024-04-29, **Dual-Modal Prompting for Sketch-Based Image Retrieval**, Liying Gao et.al., Paper: [http://arxiv.org/abs/2404.18695v1](http://arxiv.org/abs/2404.18695v1)
+- 2024-04-29, **Semantic Line Combination Detector**, Jinwon Ko et.al., Paper: [http://arxiv.org/abs/2404.18399v1](http://arxiv.org/abs/2404.18399v1), Code: **[https://github.com/jinwon-ko/slcd](https://github.com/jinwon-ko/slcd)**
 - 2024-04-26, **Learning text-to-video retrieval from image captioning**, Lucas Ventura et.al., Paper: [http://arxiv.org/abs/2404.17498v1](http://arxiv.org/abs/2404.17498v1)
 - 2024-04-25, **CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**, Samia Shafique et.al., Paper: [http://arxiv.org/abs/2404.16972v1](http://arxiv.org/abs/2404.16972v1)
 - 2024-04-25, **Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**, Ryoya Nara et.al., Paper: [http://arxiv.org/abs/2404.16398v1](http://arxiv.org/abs/2404.16398v1)
@@ -1903,6 +1913,7 @@
 
 ## Image Matching
 
+- 2024-04-27, **MinBackProp -- Backpropagating through Minimal Solvers**, Diana Sungatullina et.al., Paper: [http://arxiv.org/abs/2404.17993v1](http://arxiv.org/abs/2404.17993v1)
 - 2024-04-23, **FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**, Hang Hua et.al., Paper: [http://arxiv.org/abs/2404.14715v1](http://arxiv.org/abs/2404.14715v1)
 - 2024-04-17, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v1](http://arxiv.org/abs/2404.11302v1), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
 - 2024-04-16, **Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**, John Francis et.al., Paper: [http://arxiv.org/abs/2404.10626v1](http://arxiv.org/abs/2404.10626v1)
@@ -2089,6 +2100,8 @@
 
 ## NeRF
 
+- 2024-04-28, **S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**, Zhiyao Zhang et.al., Paper: [http://arxiv.org/abs/2404.18284v1](http://arxiv.org/abs/2404.18284v1)
+- 2024-04-27, **DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**, Chenhe Du et.al., Paper: [http://arxiv.org/abs/2404.17890v1](http://arxiv.org/abs/2404.17890v1)
 - 2024-04-26, **Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2404.17528v1](http://arxiv.org/abs/2404.17528v1)
 - 2024-04-25, **Depth Supervised Neural Surface Reconstruction from Airborne Imagery**, Vincent Hackstein et.al., Paper: [http://arxiv.org/abs/2404.16429v1](http://arxiv.org/abs/2404.16429v1)
 - 2024-04-24, **NeRF-XL: Scaling NeRFs with Multiple GPUs**, Ruilong Li et.al., Paper: [http://arxiv.org/abs/2404.16221v1](http://arxiv.org/abs/2404.16221v1)
