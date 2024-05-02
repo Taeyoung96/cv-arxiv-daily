@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2024-04-30, **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Zhexi Peng et.al., Paper: [http://arxiv.org/abs/2404.19706v1](http://arxiv.org/abs/2404.19706v1)
+- 2024-05-01, **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Zhexi Peng et.al., Paper: [http://arxiv.org/abs/2404.19706v2](http://arxiv.org/abs/2404.19706v2)
 - 2024-04-29, **Non-convex Pose Graph Optimization in SLAM via Proximal Linearized Riemannian ADMM**, Xin Chen et.al., Paper: [http://arxiv.org/abs/2404.18560v1](http://arxiv.org/abs/2404.18560v1)
 - 2024-04-29, **Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**, Jungwoo Lee et.al., Paper: [http://arxiv.org/abs/2404.18395v1](http://arxiv.org/abs/2404.18395v1)
 - 2024-04-28, **Multi-Robot Object SLAM using Distributed Variational Inference**, Hanwen Cao et.al., Paper: [http://arxiv.org/abs/2404.18331v1](http://arxiv.org/abs/2404.18331v1)
@@ -2106,7 +2106,7 @@
 
 ## NeRF
 
-- 2024-04-30, **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Zhexi Peng et.al., Paper: [http://arxiv.org/abs/2404.19706v1](http://arxiv.org/abs/2404.19706v1)
+- 2024-05-01, **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Zhexi Peng et.al., Paper: [http://arxiv.org/abs/2404.19706v2](http://arxiv.org/abs/2404.19706v2)
 - 2024-04-30, **NeRF-Insert: 3D Local Editing with Multimodal Control Signals**, Benet Oriol Sabat et.al., Paper: [http://arxiv.org/abs/2404.19204v1](http://arxiv.org/abs/2404.19204v1)
 - 2024-04-29, **SAGS: Structure-Aware 3D Gaussian Splatting**, Evangelos Ververas et.al., Paper: [http://arxiv.org/abs/2404.19149v1](http://arxiv.org/abs/2404.19149v1)
 - 2024-04-29, **GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**, Bo Chen et.al., Paper: [http://arxiv.org/abs/2404.19040v1](http://arxiv.org/abs/2404.19040v1)
