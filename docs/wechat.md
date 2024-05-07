@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-05-06, **Neural Graph Mapping for Dense SLAM with Efficient Loop Closure**, Leonard Bruns et.al., Paper: [http://arxiv.org/abs/2405.03633v1](http://arxiv.org/abs/2405.03633v1)
+- 2024-05-06, **SL-SLAM: A robust visual-inertial SLAM based deep feature extraction and matching**, Zhang Xiao et.al., Paper: [http://arxiv.org/abs/2405.03413v1](http://arxiv.org/abs/2405.03413v1)
 - 2024-05-03, **X-SLAM: Scalable Dense SLAM for Task-aware Optimization using CSFD**, Zhexi Peng et.al., Paper: [http://arxiv.org/abs/2405.02187v1](http://arxiv.org/abs/2405.02187v1)
 - 2024-05-03, **Panoptic-SLAM: Visual SLAM in Dynamic Environments using Panoptic Segmentation**, Gabriel Fischer Abati et.al., Paper: [http://arxiv.org/abs/2405.02177v1](http://arxiv.org/abs/2405.02177v1)
 - 2024-05-03, **Multipath-based SLAM with Cooperation and Map Fusion**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2405.02126v1](http://arxiv.org/abs/2405.02126v1)
@@ -974,6 +976,10 @@
 
 ## Visual Localization
 
+- 2024-05-06, **A New Robust Partial $p$-Wasserstein-Based Metric for Comparing Distributions**, Sharath Raghvendra et.al., Paper: [http://arxiv.org/abs/2405.03664v1](http://arxiv.org/abs/2405.03664v1)
+- 2024-05-06, **Knowledge-aware Text-Image Retrieval for Remote Sensing Images**, Li Mi et.al., Paper: [http://arxiv.org/abs/2405.03373v1](http://arxiv.org/abs/2405.03373v1)
+- 2024-05-06, **Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**, Jiacheng Cheng et.al., Paper: [http://arxiv.org/abs/2405.03190v1](http://arxiv.org/abs/2405.03190v1)
+- 2024-05-05, **iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**, Lorenzo Agnolucci et.al., Paper: [http://arxiv.org/abs/2405.02951v1](http://arxiv.org/abs/2405.02951v1), Code: **[https://github.com/miccunifi/searle](https://github.com/miccunifi/searle)**
 - 2024-05-01, **Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**, Young Kyun Jang et.al., Paper: [http://arxiv.org/abs/2405.00571v1](http://arxiv.org/abs/2405.00571v1)
 - 2024-04-30, **Large Language Model Informed Patent Image Retrieval**, Hao-Cheng Lo et.al., Paper: [http://arxiv.org/abs/2404.19360v1](http://arxiv.org/abs/2404.19360v1)
 - 2024-04-30, **XFeat: Accelerated Features for Lightweight Image Matching**, Guilherme Potje et.al., Paper: [http://arxiv.org/abs/2404.19174v1](http://arxiv.org/abs/2404.19174v1)
@@ -2111,6 +2117,12 @@
 
 ## NeRF
 
+- 2024-05-05, **Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**, Baijun Ye et.al., Paper: [http://arxiv.org/abs/2405.02880v1](http://arxiv.org/abs/2405.02880v1)
+- 2024-05-05, **MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**, Honghua Chen et.al., Paper: [http://arxiv.org/abs/2405.02859v1](http://arxiv.org/abs/2405.02859v1)
+- 2024-05-04, **TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**, Christopher Maxey et.al., Paper: [http://arxiv.org/abs/2405.02762v1](http://arxiv.org/abs/2405.02762v1)
+- 2024-05-04, **ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**, Hyunseo Kim et.al., Paper: [http://arxiv.org/abs/2405.02568v1](http://arxiv.org/abs/2405.02568v1)
+- 2024-05-03, **Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**, Dhruva Tirumala et.al., Paper: [http://arxiv.org/abs/2405.02425v1](http://arxiv.org/abs/2405.02425v1)
+- 2024-05-03, **Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**, Junchen Liu et.al., Paper: [http://arxiv.org/abs/2405.02386v1](http://arxiv.org/abs/2405.02386v1), Code: **[https://github.com/junchenliu77/rip-nerf](https://github.com/junchenliu77/rip-nerf)**
 - 2024-05-03, **WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**, Youngdong Jang et.al., Paper: [http://arxiv.org/abs/2405.02066v1](http://arxiv.org/abs/2405.02066v1)
 - 2024-05-02, **NeRF in Robotics: A Survey**, Guangming Wang et.al., Paper: [http://arxiv.org/abs/2405.01333v1](http://arxiv.org/abs/2405.01333v1)
 - 2024-05-04, **LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**, Shanlin Sun et.al., Paper: [http://arxiv.org/abs/2405.00900v2](http://arxiv.org/abs/2405.00900v2)
