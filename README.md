@@ -2229,7 +2229,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-07**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v1](http://arxiv.org/abs/2405.04416v1)|null|
+|**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859v1](http://arxiv.org/abs/2405.02859v1)|null|
