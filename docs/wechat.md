@@ -990,6 +990,8 @@
 
 ## Visual Localization
 
+- 2024-05-15, **Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**, Farnaz Khun Jush et.al., Paper: [http://arxiv.org/abs/2405.09334v1](http://arxiv.org/abs/2405.09334v1)
+- 2024-05-14, **BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**, Lihong Jin et.al., Paper: [http://arxiv.org/abs/2405.09001v1](http://arxiv.org/abs/2405.09001v1)
 - 2024-05-14, **TP3M: Transformer-based Pseudo 3D Image Matching with Reference**, Liming Han et.al., Paper: [http://arxiv.org/abs/2405.08434v1](http://arxiv.org/abs/2405.08434v1)
 - 2024-05-13, **OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**, Qiuchi Xiang et.al., Paper: [http://arxiv.org/abs/2405.07966v1](http://arxiv.org/abs/2405.07966v1), Code: **[https://github.com/scnu-rislab/overlapmamba](https://github.com/scnu-rislab/overlapmamba)**
 - 2024-05-14, **HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**, Chao He et.al., Paper: [http://arxiv.org/abs/2405.07524v2](http://arxiv.org/abs/2405.07524v2), Code: **[https://github.com/shuaichaochao/hybridhash](https://github.com/shuaichaochao/hybridhash)**
