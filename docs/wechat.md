@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
+- 2024-05-17, **Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**, Liang Zhao et.al., Paper: [http://arxiv.org/abs/2405.10743v1](http://arxiv.org/abs/2405.10743v1)
 - 2024-05-14, **IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**, Emilio Olivastri et.al., Paper: [http://arxiv.org/abs/2405.08503v1](http://arxiv.org/abs/2405.08503v1)
 - 2024-05-13, **OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**, Qiuchi Xiang et.al., Paper: [http://arxiv.org/abs/2405.07966v1](http://arxiv.org/abs/2405.07966v1), Code: **[https://github.com/scnu-rislab/overlapmamba](https://github.com/scnu-rislab/overlapmamba)**
 - 2024-05-13, **SceneFactory: A Workflow-centric and Unified Framework for Incremental Scene Modeling**, Yijun Yuan et.al., Paper: [http://arxiv.org/abs/2405.07847v1](http://arxiv.org/abs/2405.07847v1)
@@ -990,6 +992,7 @@
 
 ## Visual Localization
 
+- 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
 - 2024-05-16, **FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2405.10286v1](http://arxiv.org/abs/2405.10286v1)
 - 2024-05-15, **Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**, Farnaz Khun Jush et.al., Paper: [http://arxiv.org/abs/2405.09334v1](http://arxiv.org/abs/2405.09334v1)
 - 2024-05-14, **BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**, Lihong Jin et.al., Paper: [http://arxiv.org/abs/2405.09001v1](http://arxiv.org/abs/2405.09001v1)
