@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-05-18, **Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2405.11176v1](http://arxiv.org/abs/2405.11176v1)
+- 2024-05-18, **MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**, Xinli Guo et.al., Paper: [http://arxiv.org/abs/2405.11129v1](http://arxiv.org/abs/2405.11129v1), Code: **[https://github.com/antonio521/motiongs](https://github.com/antonio521/motiongs)**
 - 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
 - 2024-05-17, **Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**, Liang Zhao et.al., Paper: [http://arxiv.org/abs/2405.10743v1](http://arxiv.org/abs/2405.10743v1)
 - 2024-05-14, **IPC: Incremental Probabilistic Consensus-based Consistent Set Maximization for SLAM Backends**, Emilio Olivastri et.al., Paper: [http://arxiv.org/abs/2405.08503v1](http://arxiv.org/abs/2405.08503v1)
@@ -992,6 +994,8 @@
 
 ## Visual Localization
 
+- 2024-05-20, **UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2405.11936v1](http://arxiv.org/abs/2405.11936v1)
+- 2024-05-19, **Register assisted aggregation for Visual Place Recognition**, Xuan Yu et.al., Paper: [http://arxiv.org/abs/2405.11526v1](http://arxiv.org/abs/2405.11526v1)
 - 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
 - 2024-05-16, **FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**, Adrian Bulat et.al., Paper: [http://arxiv.org/abs/2405.10286v1](http://arxiv.org/abs/2405.10286v1)
 - 2024-05-15, **Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**, Farnaz Khun Jush et.al., Paper: [http://arxiv.org/abs/2405.09334v1](http://arxiv.org/abs/2405.09334v1)
@@ -2151,6 +2155,12 @@
 
 ## NeRF
 
+- 2024-05-20, **Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2405.12218v1](http://arxiv.org/abs/2405.12218v1)
+- 2024-05-20, **Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**, Guanlin Wu et.al., Paper: [http://arxiv.org/abs/2405.12155v1](http://arxiv.org/abs/2405.12155v1)
+- 2024-05-20, **NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**, Fotios Logothetis et.al., Paper: [http://arxiv.org/abs/2405.12057v1](http://arxiv.org/abs/2405.12057v1)
+- 2024-05-19, **Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**, Shengxiang Sun et.al., Paper: [http://arxiv.org/abs/2405.11629v1](http://arxiv.org/abs/2405.11629v1)
+- 2024-05-19, **R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**, Huiying Yang et.al., Paper: [http://arxiv.org/abs/2405.11541v1](http://arxiv.org/abs/2405.11541v1)
+- 2024-05-18, **MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**, Xinli Guo et.al., Paper: [http://arxiv.org/abs/2405.11129v1](http://arxiv.org/abs/2405.11129v1), Code: **[https://github.com/antonio521/motiongs](https://github.com/antonio521/motiongs)**
 - 2024-05-16, **When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**, Xianzheng Ma et.al., Paper: [http://arxiv.org/abs/2405.10255v1](http://arxiv.org/abs/2405.10255v1)
 - 2024-05-15, **From NeRFs to Gaussian Splats, and Back**, Siming He et.al., Paper: [http://arxiv.org/abs/2405.09717v1](http://arxiv.org/abs/2405.09717v1), Code: **[https://github.com/grasp-lyrl/nerftogsandback](https://github.com/grasp-lyrl/nerftogsandback)**
 - 2024-05-14, **Dynamic NeRF: A Review**, Jinwei Lin et.al., Paper: [http://arxiv.org/abs/2405.08609v1](http://arxiv.org/abs/2405.08609v1)
