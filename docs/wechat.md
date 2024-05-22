@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-05-21, **NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**, Dongha Chung et.al., Paper: [http://arxiv.org/abs/2405.12563v1](http://arxiv.org/abs/2405.12563v1)
 - 2024-05-18, **Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2405.11176v1](http://arxiv.org/abs/2405.11176v1)
 - 2024-05-18, **MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**, Xinli Guo et.al., Paper: [http://arxiv.org/abs/2405.11129v1](http://arxiv.org/abs/2405.11129v1), Code: **[https://github.com/antonio521/motiongs](https://github.com/antonio521/motiongs)**
 - 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
@@ -1760,6 +1761,7 @@
 
 ## Keypoint Detection
 
+- 2024-05-21, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v1](http://arxiv.org/abs/2405.12476v1)
 - 2024-05-14, **TP3M: Transformer-based Pseudo 3D Image Matching with Reference**, Liming Han et.al., Paper: [http://arxiv.org/abs/2405.08434v1](http://arxiv.org/abs/2405.08434v1)
 - 2024-05-15, **Vector-Symbolic Architecture for Event-Based Optical Flow**, Hongzhi You et.al., Paper: [http://arxiv.org/abs/2405.08300v2](http://arxiv.org/abs/2405.08300v2)
 - 2024-05-13, **RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**, Congjia Chen et.al., Paper: [http://arxiv.org/abs/2405.07594v1](http://arxiv.org/abs/2405.07594v1)
@@ -1963,6 +1965,7 @@
 
 ## Image Matching
 
+- 2024-05-21, **OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2405.12979v1](http://arxiv.org/abs/2405.12979v1)
 - 2024-05-14, **Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2405.08556v1](http://arxiv.org/abs/2405.08556v1), Code: **[https://github.com/noureddinekhiati/semi-supervised-lung-segmentation](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**
 - 2024-05-14, **TP3M: Transformer-based Pseudo 3D Image Matching with Reference**, Liming Han et.al., Paper: [http://arxiv.org/abs/2405.08434v1](http://arxiv.org/abs/2405.08434v1)
 - 2024-05-13, **Authentic Hand Avatar from a Phone Scan via Universal Hand Model**, Gyeongsik Moon et.al., Paper: [http://arxiv.org/abs/2405.07933v1](http://arxiv.org/abs/2405.07933v1)
@@ -2155,6 +2158,8 @@
 
 ## NeRF
 
+- 2024-05-21, **MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**, Hongsheng Wang et.al., Paper: [http://arxiv.org/abs/2405.12806v1](http://arxiv.org/abs/2405.12806v1)
+- 2024-05-21, **Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**, Antoine Legrand et.al., Paper: [http://arxiv.org/abs/2405.12728v1](http://arxiv.org/abs/2405.12728v1)
 - 2024-05-20, **Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2405.12218v1](http://arxiv.org/abs/2405.12218v1)
 - 2024-05-20, **Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**, Guanlin Wu et.al., Paper: [http://arxiv.org/abs/2405.12155v1](http://arxiv.org/abs/2405.12155v1)
 - 2024-05-20, **NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**, Fotios Logothetis et.al., Paper: [http://arxiv.org/abs/2405.12057v1](http://arxiv.org/abs/2405.12057v1)
