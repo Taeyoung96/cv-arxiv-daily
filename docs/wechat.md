@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-05-24, **NeB-SLAM: Neural Blocks-based Salable RGB-D SLAM for Unknown Scenes**, Lizhi Bai et.al., Paper: [http://arxiv.org/abs/2405.15151v1](http://arxiv.org/abs/2405.15151v1)
+- 2024-05-23, **ETA-INIT: Enhancing the Translation Accuracy for Stereo Visual-Inertial SLAM Initialization**, Han Song et.al., Paper: [http://arxiv.org/abs/2405.15082v1](http://arxiv.org/abs/2405.15082v1)
 - 2024-05-23, **Synergistic Global-space Camera and Human Reconstruction from Videos**, Yizhou Zhao et.al., Paper: [http://arxiv.org/abs/2405.14855v1](http://arxiv.org/abs/2405.14855v1)
 - 2024-05-23, **CoPeD-Advancing Multi-Robot Collaborative Perception: A Comprehensive Dataset in Real-World Environments**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2405.14731v1](http://arxiv.org/abs/2405.14731v1), Code: **[https://github.com/arplaboratory/coped](https://github.com/arplaboratory/coped)**
 - 2024-05-23, **Efficient Robot Learning for Perception and Mapping**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2405.14688v1](http://arxiv.org/abs/2405.14688v1)
@@ -999,6 +1001,8 @@
 
 ## Visual Localization
 
+- 2024-05-24, **Composed Image Retrieval for Remote Sensing**, Bill Psomas et.al., Paper: [http://arxiv.org/abs/2405.15587v1](http://arxiv.org/abs/2405.15587v1)
+- 2024-05-24, **Self-distilled Dynamic Fusion Network for Language-based Fashion Retrieval**, Yiming Wu et.al., Paper: [http://arxiv.org/abs/2405.15451v1](http://arxiv.org/abs/2405.15451v1)
 - 2024-05-20, **UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2405.11936v1](http://arxiv.org/abs/2405.11936v1), Code: **[https://github.com/intellisensing/uav-visloc](https://github.com/intellisensing/uav-visloc)**
 - 2024-05-19, **Register assisted aggregation for Visual Place Recognition**, Xuan Yu et.al., Paper: [http://arxiv.org/abs/2405.11526v1](http://arxiv.org/abs/2405.11526v1)
 - 2024-05-17, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v1](http://arxiv.org/abs/2405.10793v1)
@@ -1970,7 +1974,7 @@
 ## Image Matching
 
 - 2024-05-22, **Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2405.13874v1](http://arxiv.org/abs/2405.13874v1)
-- 2024-05-21, **OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2405.12979v1](http://arxiv.org/abs/2405.12979v1)
+- 2024-05-21, **OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2405.12979v1](http://arxiv.org/abs/2405.12979v1), Code: **[https://github.com/google-research/omniglue](https://github.com/google-research/omniglue)**
 - 2024-05-14, **Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2405.08556v1](http://arxiv.org/abs/2405.08556v1), Code: **[https://github.com/noureddinekhiati/semi-supervised-lung-segmentation](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**
 - 2024-05-14, **TP3M: Transformer-based Pseudo 3D Image Matching with Reference**, Liming Han et.al., Paper: [http://arxiv.org/abs/2405.08434v1](http://arxiv.org/abs/2405.08434v1)
 - 2024-05-13, **Authentic Hand Avatar from a Phone Scan via Universal Hand Model**, Gyeongsik Moon et.al., Paper: [http://arxiv.org/abs/2405.07933v1](http://arxiv.org/abs/2405.07933v1)
@@ -2163,6 +2167,9 @@
 
 ## NeRF
 
+- 2024-05-24, **Neural Elevation Models for Terrain Mapping and Path Planning**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2405.15227v1](http://arxiv.org/abs/2405.15227v1)
+- 2024-05-24, **HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2405.15125v1](http://arxiv.org/abs/2405.15125v1)
+- 2024-05-24, **GS-Hider: Hiding Messages into 3D Gaussian Splatting**, Xuanyu Zhang et.al., Paper: [http://arxiv.org/abs/2405.15118v1](http://arxiv.org/abs/2405.15118v1)
 - 2024-05-23, **NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**, Dor Verbin et.al., Paper: [http://arxiv.org/abs/2405.14871v1](http://arxiv.org/abs/2405.14871v1)
 - 2024-05-23, **Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**, Liwen Wu et.al., Paper: [http://arxiv.org/abs/2405.14847v1](http://arxiv.org/abs/2405.14847v1)
 - 2024-05-23, **Camera Relocalization in Shadow-free Neural Radiance Fields**, Shiyao Xu et.al., Paper: [http://arxiv.org/abs/2405.14824v1](http://arxiv.org/abs/2405.14824v1)
