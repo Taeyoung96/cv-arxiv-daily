@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.05.28
+> Updated on 2024.05.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
 - 2024-05-23, **Efficient Robot Learning for Perception and Mapping**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2405.14688v1](http://arxiv.org/abs/2405.14688v1)
 - 2024-05-22, **Monocular Gaussian SLAM with Language Extended Loop Closure**, Tian Lan et.al., Paper: [http://arxiv.org/abs/2405.13748v1](http://arxiv.org/abs/2405.13748v1)
 - 2024-05-26, **NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**, Dongha Chung et.al., Paper: [http://arxiv.org/abs/2405.12563v2](http://arxiv.org/abs/2405.12563v2), Code: **[https://github.com/dhchung/nv_lio](https://github.com/dhchung/nv_lio)**
-- 2024-05-24, **Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2405.11176v2](http://arxiv.org/abs/2405.11176v2)
+- 2024-05-27, **Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**, Hyungtae Lim et.al., Paper: [http://arxiv.org/abs/2405.11176v3](http://arxiv.org/abs/2405.11176v3)
 - 2024-05-18, **MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**, Xinli Guo et.al., Paper: [http://arxiv.org/abs/2405.11129v1](http://arxiv.org/abs/2405.11129v1), Code: **[https://github.com/antonio521/motiongs](https://github.com/antonio521/motiongs)**
 - 2024-05-26, **CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**, Gang Wang et.al., Paper: [http://arxiv.org/abs/2405.10793v2](http://arxiv.org/abs/2405.10793v2)
 - 2024-05-17, **Occupancy-SLAM: Simultaneously Optimizing Robot Poses and Continuous Occupancy Map**, Liang Zhao et.al., Paper: [http://arxiv.org/abs/2405.10743v1](http://arxiv.org/abs/2405.10743v1)
@@ -822,11 +822,11 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## SFM
 
-- 2024-05-27, **3D Reconstruction with Fast Dipole Sums**, Hanyu Chen et.al., Paper: [http://arxiv.org/abs/2405.16788v1](http://arxiv.org/abs/2405.16788v1)
+- 2024-05-28, **3D Reconstruction with Fast Dipole Sums**, Hanyu Chen et.al., Paper: [http://arxiv.org/abs/2405.16788v2](http://arxiv.org/abs/2405.16788v2)
 - 2024-05-26, **MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2405.16599v1](http://arxiv.org/abs/2405.16599v1)
 - 2024-05-09, **Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**, Simon Weber et.al., Paper: [http://arxiv.org/abs/2405.05079v2](http://arxiv.org/abs/2405.05079v2)
 - 2024-05-07, **Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**, Markus Hillemann et.al., Paper: [http://arxiv.org/abs/2405.04345v1](http://arxiv.org/abs/2405.04345v1)
@@ -1001,7 +1001,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1770,7 +1770,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1975,7 +1975,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2169,12 +2169,12 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-05-27, **F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**, Xiangyu Sun et.al., Paper: [http://arxiv.org/abs/2405.17083v1](http://arxiv.org/abs/2405.17083v1)
-- 2024-05-27, **PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**, Zipeng Wang et.al., Paper: [http://arxiv.org/abs/2405.16829v1](http://arxiv.org/abs/2405.16829v1)
+- 2024-05-28, **PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**, Zipeng Wang et.al., Paper: [http://arxiv.org/abs/2405.16829v2](http://arxiv.org/abs/2405.16829v2)
 - 2024-05-26, **Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**, Soumava Paul et.al., Paper: [http://arxiv.org/abs/2405.16517v1](http://arxiv.org/abs/2405.16517v1)
 - 2024-05-24, **Neural Elevation Models for Terrain Mapping and Path Planning**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2405.15227v1](http://arxiv.org/abs/2405.15227v1)
 - 2024-05-27, **HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2405.15125v2](http://arxiv.org/abs/2405.15125v2), Code: **[https://github.com/caiyuanhao1998/hdr-gs](https://github.com/caiyuanhao1998/hdr-gs)**
@@ -3228,7 +3228,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
