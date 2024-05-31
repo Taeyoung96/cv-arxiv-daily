@@ -1008,7 +1008,7 @@
 
 - 2024-05-29, **Multi-Modal Generative Embedding Model**, Feipeng Ma et.al., Paper: [http://arxiv.org/abs/2405.19333v1](http://arxiv.org/abs/2405.19333v1)
 - 2024-05-29, **ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**, Honglin Lin et.al., Paper: [http://arxiv.org/abs/2405.19226v1](http://arxiv.org/abs/2405.19226v1)
-- 2024-05-29, **CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**, Xintong Jiang et.al., Paper: [http://arxiv.org/abs/2405.19149v1](http://arxiv.org/abs/2405.19149v1)
+- 2024-05-30, **CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**, Xintong Jiang et.al., Paper: [http://arxiv.org/abs/2405.19149v2](http://arxiv.org/abs/2405.19149v2)
 - 2024-05-29, **SketchTriplet: Self-Supervised Scenarized Sketch-Text-Image Triplet Generation**, Zhenbei Wu et.al., Paper: [http://arxiv.org/abs/2405.18801v1](http://arxiv.org/abs/2405.18801v1)
 - 2024-05-29, **Reverse Image Retrieval Cues Parametric Memory in Multimodal LLMs**, Jialiang Xu et.al., Paper: [http://arxiv.org/abs/2405.18740v1](http://arxiv.org/abs/2405.18740v1)
 - 2024-05-28, **EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**, Issar Tzachor et.al., Paper: [http://arxiv.org/abs/2405.18065v1](http://arxiv.org/abs/2405.18065v1)
