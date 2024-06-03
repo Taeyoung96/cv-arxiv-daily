@@ -2187,7 +2187,7 @@
 
 - 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
 - 2024-05-30, **TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**, Minghao Guo et.al., Paper: [http://arxiv.org/abs/2405.20283v1](http://arxiv.org/abs/2405.20283v1)
-- 2024-05-30, **NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**, Pedro Martin et.al., Paper: [http://arxiv.org/abs/2405.20078v1](http://arxiv.org/abs/2405.20078v1)
+- 2024-05-31, **NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**, Pedro Martin et.al., Paper: [http://arxiv.org/abs/2405.20078v2](http://arxiv.org/abs/2405.20078v2)
 - 2024-05-30, **IReNe: Instant Recoloring in Neural Radiance Fields**, Alessio Mazzucchelli et.al., Paper: [http://arxiv.org/abs/2405.19876v1](http://arxiv.org/abs/2405.19876v1)
 - 2024-05-30, **HINT: Learning Complete Human Neural Representations from Limited Viewpoints**, Alessandro Sanvito et.al., Paper: [http://arxiv.org/abs/2405.19712v1](http://arxiv.org/abs/2405.19712v1)
 - 2024-05-30, **View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**, Haodi He et.al., Paper: [http://arxiv.org/abs/2405.19678v1](http://arxiv.org/abs/2405.19678v1), Code: **[https://github.com/hardyho/ultrametric_feature_fields](https://github.com/hardyho/ultrametric_feature_fields)**
