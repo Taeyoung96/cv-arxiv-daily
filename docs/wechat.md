@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.05
+> Updated on 2024.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
 - 2024-05-30, **Structure Gaussian SLAM with Manhattan World Hypothesis**, Shuhong Liu et.al., Paper: [http://arxiv.org/abs/2405.20031v1](http://arxiv.org/abs/2405.20031v1)
 - 2024-05-30, **Semantic Landmark Detection & Classification Using Neural Networks For 3D In-Air Sonar**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2405.19869v1](http://arxiv.org/abs/2405.19869v1)
-- 2024-05-30, **SLAM-based Joint Calibration of Multiple Asynchronous Microphone Arrays and Sound Source Localization**, Jiang Wang et.al., Paper: [http://arxiv.org/abs/2405.19813v1](http://arxiv.org/abs/2405.19813v1)
+- 2024-05-30, **SLAM-based Joint Calibration of Multiple Asynchronous Microphone Arrays and Sound Source Localization**, Jiang Wang et.al., Paper: [http://arxiv.org/abs/2405.19813v1](http://arxiv.org/abs/2405.19813v1), Code: **[https://github.com/aislab-sustech/calibration_of_multi_mic_arrays](https://github.com/aislab-sustech/calibration_of_multi_mic_arrays)**
 - 2024-05-30, **TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**, Peifeng Jiang et.al., Paper: [http://arxiv.org/abs/2405.19614v1](http://arxiv.org/abs/2405.19614v1)
 - 2024-05-27, **CudaSIFT-SLAM: multiple-map visual SLAM for full procedure mapping in real human endoscopy**, Richard Elvira et.al., Paper: [http://arxiv.org/abs/2405.16932v1](http://arxiv.org/abs/2405.16932v1)
 - 2024-05-26, **Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians**, Erik Sandström et.al., Paper: [http://arxiv.org/abs/2405.16544v1](http://arxiv.org/abs/2405.16544v1), Code: **[https://github.com/eriksandstroem/splat-slam](https://github.com/eriksandstroem/splat-slam)**
@@ -829,7 +829,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 ## SFM
 
@@ -1010,13 +1010,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2024-06-04, **Can CLIP help CLIP in learning 3D?**, Cristian Sbrolli et.al., Paper: [http://arxiv.org/abs/2406.02202v1](http://arxiv.org/abs/2406.02202v1)
 - 2024-06-03, **Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**, Sriram Balasubramanian et.al., Paper: [http://arxiv.org/abs/2406.01583v1](http://arxiv.org/abs/2406.01583v1)
-- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1)
+- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
 - 2024-06-01, **NuRF: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization**, Wugang Meng et.al., Paper: [http://arxiv.org/abs/2406.00312v1](http://arxiv.org/abs/2406.00312v1)
 - 2024-05-31, **DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**, Linli Yao et.al., Paper: [http://arxiv.org/abs/2405.20985v1](http://arxiv.org/abs/2405.20985v1)
@@ -1792,11 +1792,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1)
+- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-02, **W-Net: A Facial Feature-Guided Face Super-Resolution Network**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2406.00676v1](http://arxiv.org/abs/2406.00676v1)
 - 2024-05-25, **Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**, Junjie Gao et.al., Paper: [http://arxiv.org/abs/2405.16085v1](http://arxiv.org/abs/2405.16085v1)
 - 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
@@ -1999,7 +1999,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2193,11 +2193,11 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 ## NeRF
 
-- 2024-06-04, **Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**, Inkyu Shin et.al., Paper: [http://arxiv.org/abs/2406.02541v1](http://arxiv.org/abs/2406.02541v1)
+- 2024-06-05, **Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**, Inkyu Shin et.al., Paper: [http://arxiv.org/abs/2406.02541v2](http://arxiv.org/abs/2406.02541v2)
 - 2024-06-04, **Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2406.02370v1](http://arxiv.org/abs/2406.02370v1)
 - 2024-06-03, **Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**, Shaojie Ma et.al., Paper: [http://arxiv.org/abs/2406.01593v1](http://arxiv.org/abs/2406.01593v1)
 - 2024-06-03, **Tetrahedron Splatting for 3D Generation**, Chun Gu et.al., Paper: [http://arxiv.org/abs/2406.01579v1](http://arxiv.org/abs/2406.01579v1), Code: **[https://github.com/fudan-zvg/tet-splatting](https://github.com/fudan-zvg/tet-splatting)**
@@ -3276,7 +3276,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
