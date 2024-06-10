@@ -1016,6 +1016,7 @@
 
 ## Visual Localization
 
+- 2024-06-07, **PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**, Eduard Poesina et.al., Paper: [http://arxiv.org/abs/2406.04746v1](http://arxiv.org/abs/2406.04746v1), Code: **[https://github.com/eduard6421/pqpp](https://github.com/eduard6421/pqpp)**
 - 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-06, **Monocular Localization with Semantics Map for Autonomous Vehicles**, Jixiang Wan et.al., Paper: [http://arxiv.org/abs/2406.03835v1](http://arxiv.org/abs/2406.03835v1)
 - 2024-06-05, **Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**, Saehyung Lee et.al., Paper: [http://arxiv.org/abs/2406.03411v1](http://arxiv.org/abs/2406.03411v1), Code: **[https://github.com/saehyung-lee/plugir](https://github.com/saehyung-lee/plugir)**
@@ -2203,6 +2204,8 @@
 
 ## NeRF
 
+- 2024-06-07, **Multiplane Prior Guided Few-Shot Aerial Scene Rendering**, Zihan Gao et.al., Paper: [http://arxiv.org/abs/2406.04961v1](http://arxiv.org/abs/2406.04961v1)
+- 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1)
 - 2024-06-06, **Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**, Takuhiro Kaneko et.al., Paper: [http://arxiv.org/abs/2406.04155v1](http://arxiv.org/abs/2406.04155v1)
 - 2024-06-06, **How Far Can We Compress Instant-NGP-Based NeRF?**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2406.04101v1](http://arxiv.org/abs/2406.04101v1), Code: **[https://github.com/yihangchen-ee/cnc](https://github.com/yihangchen-ee/cnc)**
 - 2024-06-06, **Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2406.03723v1](http://arxiv.org/abs/2406.03723v1)
