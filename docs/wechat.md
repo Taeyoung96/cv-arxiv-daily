@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2024-06-10, **Notes on Kalman Filter (KF, EKF, ESKF, IEKF, IESKF)**, Gyubeom Im et.al., Paper: [http://arxiv.org/abs/2406.06427v1](http://arxiv.org/abs/2406.06427v1)
+- 2024-06-10, **Notes on Various Errors and Jacobian Derivations for SLAM**, Gyubeom Im et.al., Paper: [http://arxiv.org/abs/2406.06422v1](http://arxiv.org/abs/2406.06422v1)
+- 2024-06-10, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v1](http://arxiv.org/abs/2406.06374v1), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
+- 2024-06-10, **Visual-Inertial SLAM as Simple as A, B, VINS**, Nathaniel Merrill et.al., Paper: [http://arxiv.org/abs/2406.05969v1](http://arxiv.org/abs/2406.05969v1)
+- 2024-06-09, **MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**, Jianhao Zheng et.al., Paper: [http://arxiv.org/abs/2406.05849v1](http://arxiv.org/abs/2406.05849v1)
 - 2024-06-06, **Open Problem: Active Representation Learning**, Nikola Milosevic et.al., Paper: [http://arxiv.org/abs/2406.03845v1](http://arxiv.org/abs/2406.03845v1)
 - 2024-06-04, **ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**, Chen Mao et.al., Paper: [http://arxiv.org/abs/2406.01906v1](http://arxiv.org/abs/2406.01906v1), Code: **[https://github.com/chain-mao/progeo](https://github.com/chain-mao/progeo)**
 - 2024-06-03, **Self-Supervised Geometry-Guided Initialization for Robust Monocular Visual Odometry**, Takayuki Kanai et.al., Paper: [http://arxiv.org/abs/2406.00929v1](http://arxiv.org/abs/2406.00929v1)
@@ -834,6 +839,7 @@
 
 ## SFM
 
+- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1)
 - 2024-06-06, **Localized Gaussian Point Management**, Haosen Yang et.al., Paper: [http://arxiv.org/abs/2406.04251v1](http://arxiv.org/abs/2406.04251v1)
 - 2024-06-04, **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2406.02509v1](http://arxiv.org/abs/2406.02509v1)
 - 2024-05-29, **Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**, Zijie Jiang et.al., Paper: [http://arxiv.org/abs/2405.18863v1](http://arxiv.org/abs/2405.18863v1)
@@ -1016,6 +1022,9 @@
 
 ## Visual Localization
 
+- 2024-06-10, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v1](http://arxiv.org/abs/2406.06374v1), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
+- 2024-06-09, **Unified Text-to-Image Generation and Retrieval**, Leigang Qu et.al., Paper: [http://arxiv.org/abs/2406.05814v1](http://arxiv.org/abs/2406.05814v1)
+- 2024-06-07, **The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**, Scott Geng et.al., Paper: [http://arxiv.org/abs/2406.05184v1](http://arxiv.org/abs/2406.05184v1), Code: **[https://github.com/scottgeng00/unmet-promise](https://github.com/scottgeng00/unmet-promise)**
 - 2024-06-07, **PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**, Eduard Poesina et.al., Paper: [http://arxiv.org/abs/2406.04746v1](http://arxiv.org/abs/2406.04746v1), Code: **[https://github.com/eduard6421/pqpp](https://github.com/eduard6421/pqpp)**
 - 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-06, **Monocular Localization with Semantics Map for Autonomous Vehicles**, Jixiang Wan et.al., Paper: [http://arxiv.org/abs/2406.03835v1](http://arxiv.org/abs/2406.03835v1)
@@ -2204,6 +2213,12 @@
 
 ## NeRF
 
+- 2024-06-10, **IllumiNeRF: 3D Relighting without Inverse Rendering**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2406.06527v1](http://arxiv.org/abs/2406.06527v1)
+- 2024-06-10, **GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**, Haozhe Xie et.al., Paper: [http://arxiv.org/abs/2406.06526v1](http://arxiv.org/abs/2406.06526v1)
+- 2024-06-10, **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Danpeng Chen et.al., Paper: [http://arxiv.org/abs/2406.06521v1](http://arxiv.org/abs/2406.06521v1)
+- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1)
+- 2024-06-10, **ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**, Meng-Li Shih et.al., Paper: [http://arxiv.org/abs/2406.06133v1](http://arxiv.org/abs/2406.06133v1)
+- 2024-06-09, **GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**, Peiye Zhuang et.al., Paper: [http://arxiv.org/abs/2406.05649v1](http://arxiv.org/abs/2406.05649v1)
 - 2024-06-07, **Multiplane Prior Guided Few-Shot Aerial Scene Rendering**, Zihan Gao et.al., Paper: [http://arxiv.org/abs/2406.04961v1](http://arxiv.org/abs/2406.04961v1)
 - 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1)
 - 2024-06-06, **Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**, Takuhiro Kaneko et.al., Paper: [http://arxiv.org/abs/2406.04155v1](http://arxiv.org/abs/2406.04155v1)
