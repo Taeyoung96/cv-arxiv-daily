@@ -2115,7 +2115,7 @@ layout: default
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933v1](http://arxiv.org/abs/2405.07933v1)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311v1](http://arxiv.org/abs/2404.19311v1)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|**[link](https://github.com/disungatullina/minbackprop)**|
+|**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v2](http://arxiv.org/abs/2404.17993v2)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715v1](http://arxiv.org/abs/2404.14715v1)|null|
 |**2024-05-23**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302v2](http://arxiv.org/abs/2404.11302v2)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626v1](http://arxiv.org/abs/2404.10626v1)|null|
@@ -2325,7 +2325,7 @@ layout: default
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
 |**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v3](http://arxiv.org/abs/2406.02541v3)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v1](http://arxiv.org/abs/2406.02370v1)|null|
+|**2024-06-09**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v2](http://arxiv.org/abs/2406.02370v2)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579v1](http://arxiv.org/abs/2406.01579v1)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
 |**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|**[link](https://github.com/fangli333/sc-4dgs)**|
