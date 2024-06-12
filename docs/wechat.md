@@ -1022,6 +1022,9 @@
 
 ## Visual Localization
 
+- 2024-06-11, **Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**, Renjie Pi et.al., Paper: [http://arxiv.org/abs/2406.07502v1](http://arxiv.org/abs/2406.07502v1), Code: **[https://github.com/sterzhang/image-textualization](https://github.com/sterzhang/image-textualization)**
+- 2024-06-11, **Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**, Shuvendu Roy et.al., Paper: [http://arxiv.org/abs/2406.07450v1](http://arxiv.org/abs/2406.07450v1), Code: **[https://github.com/shuvenduroy/multimodal](https://github.com/shuvenduroy/multimodal)**
+- 2024-06-11, **Fetch-A-Set: A Large-Scale OCR-Free Benchmark for Historical Document Retrieval**, Adrià Molina et.al., Paper: [http://arxiv.org/abs/2406.07315v1](http://arxiv.org/abs/2406.07315v1)
 - 2024-06-10, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v1](http://arxiv.org/abs/2406.06374v1), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
 - 2024-06-09, **Unified Text-to-Image Generation and Retrieval**, Leigang Qu et.al., Paper: [http://arxiv.org/abs/2406.05814v1](http://arxiv.org/abs/2406.05814v1)
 - 2024-06-07, **The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**, Scott Geng et.al., Paper: [http://arxiv.org/abs/2406.05184v1](http://arxiv.org/abs/2406.05184v1), Code: **[https://github.com/scottgeng00/unmet-promise](https://github.com/scottgeng00/unmet-promise)**
@@ -2213,6 +2216,9 @@
 
 ## NeRF
 
+- 2024-06-11, **Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**, Christopher D. Hsu et.al., Paper: [http://arxiv.org/abs/2406.07431v1](http://arxiv.org/abs/2406.07431v1)
+- 2024-06-11, **Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**, Xin Yuan et.al., Paper: [http://arxiv.org/abs/2406.06972v1](http://arxiv.org/abs/2406.06972v1)
+- 2024-06-11, **Neural Visibility Field for Uncertainty-Driven Active Mapping**, Shangjie Xue et.al., Paper: [http://arxiv.org/abs/2406.06948v1](http://arxiv.org/abs/2406.06948v1)
 - 2024-06-10, **IllumiNeRF: 3D Relighting without Inverse Rendering**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2406.06527v1](http://arxiv.org/abs/2406.06527v1)
 - 2024-06-10, **GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**, Haozhe Xie et.al., Paper: [http://arxiv.org/abs/2406.06526v1](http://arxiv.org/abs/2406.06526v1)
 - 2024-06-10, **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Danpeng Chen et.al., Paper: [http://arxiv.org/abs/2406.06521v1](http://arxiv.org/abs/2406.06521v1)
