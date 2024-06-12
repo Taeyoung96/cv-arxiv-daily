@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.06.11
+> Updated on 2024.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -835,11 +835,11 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 ## SFM
 
-- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1)
+- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1), Code: **[https://github.com/srameo/le3d](https://github.com/srameo/le3d)**
 - 2024-06-06, **Localized Gaussian Point Management**, Haosen Yang et.al., Paper: [http://arxiv.org/abs/2406.04251v1](http://arxiv.org/abs/2406.04251v1)
 - 2024-06-04, **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2406.02509v1](http://arxiv.org/abs/2406.02509v1)
 - 2024-05-29, **Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**, Zijie Jiang et.al., Paper: [http://arxiv.org/abs/2405.18863v1](http://arxiv.org/abs/2405.18863v1)
@@ -1018,7 +1018,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1808,7 +1808,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2015,7 +2015,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2209,18 +2209,18 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-06-10, **IllumiNeRF: 3D Relighting without Inverse Rendering**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2406.06527v1](http://arxiv.org/abs/2406.06527v1)
 - 2024-06-10, **GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**, Haozhe Xie et.al., Paper: [http://arxiv.org/abs/2406.06526v1](http://arxiv.org/abs/2406.06526v1)
 - 2024-06-10, **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Danpeng Chen et.al., Paper: [http://arxiv.org/abs/2406.06521v1](http://arxiv.org/abs/2406.06521v1)
-- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1)
+- 2024-06-10, **Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**, Xin Jin et.al., Paper: [http://arxiv.org/abs/2406.06216v1](http://arxiv.org/abs/2406.06216v1), Code: **[https://github.com/srameo/le3d](https://github.com/srameo/le3d)**
 - 2024-06-10, **ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**, Meng-Li Shih et.al., Paper: [http://arxiv.org/abs/2406.06133v1](http://arxiv.org/abs/2406.06133v1)
 - 2024-06-09, **GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**, Peiye Zhuang et.al., Paper: [http://arxiv.org/abs/2406.05649v1](http://arxiv.org/abs/2406.05649v1)
 - 2024-06-07, **Multiplane Prior Guided Few-Shot Aerial Scene Rendering**, Zihan Gao et.al., Paper: [http://arxiv.org/abs/2406.04961v1](http://arxiv.org/abs/2406.04961v1)
-- 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1)
+- 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1), Code: **[https://github.com/vppyw/Stylized-NeRF-with-AdaIN](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**
 - 2024-06-06, **Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**, Takuhiro Kaneko et.al., Paper: [http://arxiv.org/abs/2406.04155v1](http://arxiv.org/abs/2406.04155v1)
 - 2024-06-06, **How Far Can We Compress Instant-NGP-Based NeRF?**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2406.04101v1](http://arxiv.org/abs/2406.04101v1), Code: **[https://github.com/yihangchen-ee/cnc](https://github.com/yihangchen-ee/cnc)**
 - 2024-06-06, **Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2406.03723v1](http://arxiv.org/abs/2406.03723v1)
@@ -3305,7 +3305,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
