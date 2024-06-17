@@ -1086,6 +1086,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107v1](http://arxiv.org/abs/2406.10107v1)|null|
+|**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952v1](http://arxiv.org/abs/2406.09952v1)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317v1](http://arxiv.org/abs/2406.09317v1)|null|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188v1](http://arxiv.org/abs/2406.09188v1)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773v1](http://arxiv.org/abs/2406.08773v1)|null|
@@ -2121,6 +2123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756v1](http://arxiv.org/abs/2406.09756v1)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874v1](http://arxiv.org/abs/2405.13874v1)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556v1](http://arxiv.org/abs/2405.08556v1)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
@@ -2330,6 +2333,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219v1](http://arxiv.org/abs/2406.10219v1)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000v1](http://arxiv.org/abs/2406.10000v1)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939v1](http://arxiv.org/abs/2406.09939v1)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801v1](http://arxiv.org/abs/2406.09801v1)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417v1](http://arxiv.org/abs/2406.09417v1)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953v1](http://arxiv.org/abs/2406.08953v1)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943v1](http://arxiv.org/abs/2406.08943v1)|null|
