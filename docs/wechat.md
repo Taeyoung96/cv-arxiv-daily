@@ -1830,7 +1830,7 @@
 ## Keypoint Detection
 
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
-- 2024-06-02, **W-Net: A Facial Feature-Guided Face Super-Resolution Network**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2406.00676v1](http://arxiv.org/abs/2406.00676v1)
+- 2024-06-18, **W-Net: A Facial Feature-Guided Face Super-Resolution Network**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2406.00676v2](http://arxiv.org/abs/2406.00676v2)
 - 2024-05-25, **Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**, Junjie Gao et.al., Paper: [http://arxiv.org/abs/2405.16085v1](http://arxiv.org/abs/2405.16085v1)
 - 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
 - 2024-05-14, **TP3M: Transformer-based Pseudo 3D Image Matching with Reference**, Liming Han et.al., Paper: [http://arxiv.org/abs/2405.08434v1](http://arxiv.org/abs/2405.08434v1)
