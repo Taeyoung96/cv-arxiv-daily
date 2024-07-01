@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-06-28, **CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**, DongKi Noh et.al., Paper: [http://arxiv.org/abs/2406.19634v1](http://arxiv.org/abs/2406.19634v1)
 - 2024-06-25, **Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**, Xinzhe Liu et.al., Paper: [http://arxiv.org/abs/2406.17586v1](http://arxiv.org/abs/2406.17586v1)
 - 2024-06-25, **SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**, Xu Liu et.al., Paper: [http://arxiv.org/abs/2406.17249v1](http://arxiv.org/abs/2406.17249v1)
 - 2024-06-24, **From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2406.16850v1](http://arxiv.org/abs/2406.16850v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
@@ -1034,6 +1035,7 @@
 
 ## Visual Localization
 
+- 2024-06-27, **PathAlign: A vision-language model for whole slide images in histopathology**, Faruk Ahmed et.al., Paper: [http://arxiv.org/abs/2406.19578v1](http://arxiv.org/abs/2406.19578v1)
 - 2024-06-27, **360 in the Wild: Dataset for Depth Prediction and View Synthesis**, Kibaek Park et.al., Paper: [http://arxiv.org/abs/2406.18898v1](http://arxiv.org/abs/2406.18898v1)
 - 2024-06-27, **Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**, Huaying Zhang et.al., Paper: [http://arxiv.org/abs/2406.18836v1](http://arxiv.org/abs/2406.18836v1)
 - 2024-06-26, **WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**, Yannik Glaser et.al., Paper: [http://arxiv.org/abs/2406.18765v1](http://arxiv.org/abs/2406.18765v1)
@@ -1847,6 +1849,7 @@
 
 ## Keypoint Detection
 
+- 2024-06-28, **Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**, Chengrui Gao et.al., Paper: [http://arxiv.org/abs/2406.19672v1](http://arxiv.org/abs/2406.19672v1)
 - 2024-06-24, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v1](http://arxiv.org/abs/2406.16837v1), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-23, **W-Net: A Facial Feature-Guided Face Super-Resolution Network**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2406.00676v3](http://arxiv.org/abs/2406.00676v3)
@@ -2252,6 +2255,8 @@
 
 ## NeRF
 
+- 2024-06-28, **ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**, Ding-Jiun Huang et.al., Paper: [http://arxiv.org/abs/2406.20066v1](http://arxiv.org/abs/2406.20066v1)
+- 2024-06-28, **EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**, Daiwei Zhang et.al., Paper: [http://arxiv.org/abs/2406.19811v1](http://arxiv.org/abs/2406.19811v1)
 - 2024-06-27, **Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**, Zongyu Li et.al., Paper: [http://arxiv.org/abs/2406.18840v1](http://arxiv.org/abs/2406.18840v1)
 - 2024-06-25, **Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes**, Qi Ma et.al., Paper: [http://arxiv.org/abs/2406.17438v1](http://arxiv.org/abs/2406.17438v1), Code: **[https://github.com/qimaqi/Implicit-Zoo](https://github.com/qimaqi/Implicit-Zoo)**
 - 2024-06-25, **NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis Methods**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2406.17345v1](http://arxiv.org/abs/2406.17345v1)
