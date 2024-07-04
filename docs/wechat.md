@@ -2266,7 +2266,7 @@
 
 ## NeRF
 
-- 2024-07-02, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v1](http://arxiv.org/abs/2407.02174v1), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
+- 2024-07-03, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v2](http://arxiv.org/abs/2407.02174v2), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
 - 2024-07-01, **Active Human Pose Estimation via an Autonomous UAV Agent**, Jingxi Chen et.al., Paper: [http://arxiv.org/abs/2407.01811v1](http://arxiv.org/abs/2407.01811v1)
 - 2024-07-01, **DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**, Yujin Ham et.al., Paper: [http://arxiv.org/abs/2407.01761v1](http://arxiv.org/abs/2407.01761v1)
 - 2024-07-01, **Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**, Zihan Gao et.al., Paper: [http://arxiv.org/abs/2407.01220v1](http://arxiv.org/abs/2407.01220v1)
