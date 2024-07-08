@@ -1048,7 +1048,7 @@
 - 2024-07-01, **Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**, Hanwen Su et.al., Paper: [http://arxiv.org/abs/2407.00979v1](http://arxiv.org/abs/2407.00979v1)
 - 2024-07-01, **Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2407.00863v1](http://arxiv.org/abs/2407.00863v1)
 - 2024-06-27, **PathAlign: A vision-language model for whole slide images in histopathology**, Faruk Ahmed et.al., Paper: [http://arxiv.org/abs/2406.19578v1](http://arxiv.org/abs/2406.19578v1)
-- 2024-06-27, **360 in the Wild: Dataset for Depth Prediction and View Synthesis**, Kibaek Park et.al., Paper: [http://arxiv.org/abs/2406.18898v1](http://arxiv.org/abs/2406.18898v1)
+- 2024-07-05, **360 in the Wild: Dataset for Depth Prediction and View Synthesis**, Kibaek Park et.al., Paper: [http://arxiv.org/abs/2406.18898v2](http://arxiv.org/abs/2406.18898v2)
 - 2024-06-27, **Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**, Huaying Zhang et.al., Paper: [http://arxiv.org/abs/2406.18836v1](http://arxiv.org/abs/2406.18836v1)
 - 2024-06-26, **WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**, Yannik Glaser et.al., Paper: [http://arxiv.org/abs/2406.18765v1](http://arxiv.org/abs/2406.18765v1)
 - 2024-06-26, **View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**, Subin Varghese et.al., Paper: [http://arxiv.org/abs/2406.18012v1](http://arxiv.org/abs/2406.18012v1)
