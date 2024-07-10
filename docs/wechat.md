@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-07-09, **Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**, David Hug et.al., Paper: [http://arxiv.org/abs/2407.07074v1](http://arxiv.org/abs/2407.07074v1)
+- 2024-07-09, **A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**, Yasra Chandio et.al., Paper: [http://arxiv.org/abs/2407.06889v1](http://arxiv.org/abs/2407.06889v1)
 - 2024-07-08, **Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**, Siva Krishna Ravipati et.al., Paper: [http://arxiv.org/abs/2407.06077v1](http://arxiv.org/abs/2407.06077v1)
 - 2024-07-08, **Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**, Sangwoo Jung et.al., Paper: [http://arxiv.org/abs/2407.05820v1](http://arxiv.org/abs/2407.05820v1)
 - 2024-07-07, **Active Collaborative Visual SLAM exploiting ORB Features**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2407.05453v1](http://arxiv.org/abs/2407.05453v1)
@@ -857,6 +859,7 @@
 
 ## SFM
 
+- 2024-07-09, **Computer vision tasks for intelligent aerospace missions: An overview**, Huilin Chen et.al., Paper: [http://arxiv.org/abs/2407.06513v1](http://arxiv.org/abs/2407.06513v1)
 - 2024-07-08, **Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**, Jiawei Guo et.al., Paper: [http://arxiv.org/abs/2407.05666v1](http://arxiv.org/abs/2407.05666v1)
 - 2024-07-05, **Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2407.04260v1](http://arxiv.org/abs/2407.04260v1)
 - 2024-07-04, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v1](http://arxiv.org/abs/2407.03939v1)
@@ -1051,6 +1054,8 @@
 
 ## Visual Localization
 
+- 2024-07-09, **LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**, Teng Wang et.al., Paper: [http://arxiv.org/abs/2407.06730v1](http://arxiv.org/abs/2407.06730v1)
+- 2024-07-09, **CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**, Wenhao Xu et.al., Paper: [http://arxiv.org/abs/2407.06611v1](http://arxiv.org/abs/2407.06611v1)
 - 2024-07-08, **Pseudo-triplet Guided Few-shot Composed Image Retrieval**, Bohan Hou et.al., Paper: [http://arxiv.org/abs/2407.06001v1](http://arxiv.org/abs/2407.06001v1)
 - 2024-07-09, **HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**, Yingying Jiang et.al., Paper: [http://arxiv.org/abs/2407.05795v2](http://arxiv.org/abs/2407.05795v2)
 - 2024-07-05, **Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**, Mainak Singha et.al., Paper: [http://arxiv.org/abs/2407.04207v1](http://arxiv.org/abs/2407.04207v1)
@@ -1874,6 +1879,7 @@
 
 ## Keypoint Detection
 
+- 2024-07-09, **LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**, Teng Wang et.al., Paper: [http://arxiv.org/abs/2407.06730v1](http://arxiv.org/abs/2407.06730v1)
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
 - 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1), Code: **[https://github.com/tsuiky/3drn](https://github.com/tsuiky/3drn)**
 - 2024-07-02, **Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**, Chengchao Shen et.al., Paper: [http://arxiv.org/abs/2407.02014v1](http://arxiv.org/abs/2407.02014v1), Code: **[https://github.com/visresearch/mgc](https://github.com/visresearch/mgc)**
@@ -2285,6 +2291,8 @@
 
 ## NeRF
 
+- 2024-07-09, **Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**, Dogyoon Lee et.al., Paper: [http://arxiv.org/abs/2407.06613v1](http://arxiv.org/abs/2407.06613v1)
+- 2024-07-08, **RRM: Relightable assets using Radiance guided Material extraction**, Diego Gomez et.al., Paper: [http://arxiv.org/abs/2407.06397v1](http://arxiv.org/abs/2407.06397v1)
 - 2024-07-08, **PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**, Mohammad Reza Karimi Dastjerdi et.al., Paper: [http://arxiv.org/abs/2407.06150v1](http://arxiv.org/abs/2407.06150v1)
 - 2024-07-08, **Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**, Jiawei Guo et.al., Paper: [http://arxiv.org/abs/2407.05666v1](http://arxiv.org/abs/2407.05666v1)
 - 2024-07-08, **GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**, Weiyi Xue et.al., Paper: [http://arxiv.org/abs/2407.05597v1](http://arxiv.org/abs/2407.05597v1)
