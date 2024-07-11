@@ -19,10 +19,10 @@
 
 ## SLAM
 
-- 2024-07-09, **Hyperion - A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**, David Hug et.al., Paper: [http://arxiv.org/abs/2407.07074v1](http://arxiv.org/abs/2407.07074v1)
+- 2024-07-09, **Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**, David Hug et.al., Paper: [http://arxiv.org/abs/2407.07074v1](http://arxiv.org/abs/2407.07074v1), Code: **[https://github.com/vis4rob-lab/hyperion](https://github.com/vis4rob-lab/hyperion)**
 - 2024-07-09, **A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**, Yasra Chandio et.al., Paper: [http://arxiv.org/abs/2407.06889v1](http://arxiv.org/abs/2407.06889v1)
 - 2024-07-08, **Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**, Siva Krishna Ravipati et.al., Paper: [http://arxiv.org/abs/2407.06077v1](http://arxiv.org/abs/2407.06077v1)
-- 2024-07-08, **Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**, Sangwoo Jung et.al., Paper: [http://arxiv.org/abs/2407.05820v1](http://arxiv.org/abs/2407.05820v1)
+- 2024-07-10, **Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**, Sangwoo Jung et.al., Paper: [http://arxiv.org/abs/2407.05820v2](http://arxiv.org/abs/2407.05820v2)
 - 2024-07-07, **Active Collaborative Visual SLAM exploiting ORB Features**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2407.05453v1](http://arxiv.org/abs/2407.05453v1)
 - 2024-07-06, **VIPS-Odom: Visual-Inertial Odometry Tightly-coupled with Parking Slots for Autonomous Parking**, Xuefeng Jiang et.al., Paper: [http://arxiv.org/abs/2407.05017v1](http://arxiv.org/abs/2407.05017v1)
 - 2024-07-06, **Symmetric Linear Arc Monadic Datalog and Gadget Reductions**, Manuel Bodirsky et.al., Paper: [http://arxiv.org/abs/2407.04924v1](http://arxiv.org/abs/2407.04924v1)
@@ -2092,6 +2092,8 @@
 
 ## Image Matching
 
+- 2024-07-10, **Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2407.07789v1](http://arxiv.org/abs/2407.07789v1)
+- 2024-07-10, **Mutual Information calculation on different appearances**, Jiecheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07410v1](http://arxiv.org/abs/2407.07410v1)
 - 2024-07-04, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v1](http://arxiv.org/abs/2407.03939v1)
 - 2024-07-03, **IMC 2024 Methods & Solutions Review**, Shyam Gupta et.al., Paper: [http://arxiv.org/abs/2407.03172v1](http://arxiv.org/abs/2407.03172v1)
 - 2024-06-21, **High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**, F. S. Mortazavi et.al., Paper: [http://arxiv.org/abs/2406.15121v1](http://arxiv.org/abs/2406.15121v1)
@@ -2291,6 +2293,9 @@
 
 ## NeRF
 
+- 2024-07-10, **Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**, Qi Song et.al., Paper: [http://arxiv.org/abs/2407.07735v1](http://arxiv.org/abs/2407.07735v1)
+- 2024-07-10, **Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**, Ganlin Yang et.al., Paper: [http://arxiv.org/abs/2407.07461v1](http://arxiv.org/abs/2407.07461v1)
+- 2024-07-09, **Reference-based Controllable Scene Stylization with Gaussian Splatting**, Yiqun Mei et.al., Paper: [http://arxiv.org/abs/2407.07220v1](http://arxiv.org/abs/2407.07220v1)
 - 2024-07-09, **Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**, Dogyoon Lee et.al., Paper: [http://arxiv.org/abs/2407.06613v1](http://arxiv.org/abs/2407.06613v1)
 - 2024-07-08, **RRM: Relightable assets using Radiance guided Material extraction**, Diego Gomez et.al., Paper: [http://arxiv.org/abs/2407.06397v1](http://arxiv.org/abs/2407.06397v1)
 - 2024-07-08, **PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**, Mohammad Reza Karimi Dastjerdi et.al., Paper: [http://arxiv.org/abs/2407.06150v1](http://arxiv.org/abs/2407.06150v1)
