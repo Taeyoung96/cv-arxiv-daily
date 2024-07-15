@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.07.14
+> Updated on 2024.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -856,7 +856,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 ## SFM
 
@@ -864,7 +864,7 @@
 - 2024-07-09, **Computer vision tasks for intelligent aerospace missions: An overview**, Huilin Chen et.al., Paper: [http://arxiv.org/abs/2407.06513v1](http://arxiv.org/abs/2407.06513v1)
 - 2024-07-08, **Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**, Jiawei Guo et.al., Paper: [http://arxiv.org/abs/2407.05666v1](http://arxiv.org/abs/2407.05666v1)
 - 2024-07-05, **Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2407.04260v1](http://arxiv.org/abs/2407.04260v1)
-- 2024-07-04, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v1](http://arxiv.org/abs/2407.03939v1)
+- 2024-07-12, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v2](http://arxiv.org/abs/2407.03939v2)
 - 2024-07-03, **Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2407.02918v1](http://arxiv.org/abs/2407.02918v1), Code: **[https://github.com/wrld/free-surgs](https://github.com/wrld/free-surgs)**
 - 2024-07-02, **Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**, Zhaoshuai Qi et.al., Paper: [http://arxiv.org/abs/2407.01945v1](http://arxiv.org/abs/2407.01945v1)
 - 2024-05-29, **Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**, Gabriel Moreira et.al., Paper: [http://arxiv.org/abs/2406.18564v1](http://arxiv.org/abs/2406.18564v1)
@@ -1052,12 +1052,12 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2024-07-11, **Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**, Owen Claxton et.al., Paper: [http://arxiv.org/abs/2407.08162v1](http://arxiv.org/abs/2407.08162v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
-- 2024-07-11, **Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**, Xinyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.08153v1](http://arxiv.org/abs/2407.08153v1), Code: **[https://github.com/OliverZXY/LWSR](https://github.com/OliverZXY/LWSR)**
+- 2024-07-12, **Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**, Xinyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.08153v2](http://arxiv.org/abs/2407.08153v2), Code: **[https://github.com/OliverZXY/LWSR](https://github.com/OliverZXY/LWSR)**
 - 2024-07-11, **SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2407.08106v1](http://arxiv.org/abs/2407.08106v1)
 - 2024-07-09, **LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**, Teng Wang et.al., Paper: [http://arxiv.org/abs/2407.06730v1](http://arxiv.org/abs/2407.06730v1)
 - 2024-07-09, **CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**, Wenhao Xu et.al., Paper: [http://arxiv.org/abs/2407.06611v1](http://arxiv.org/abs/2407.06611v1)
@@ -1880,7 +1880,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2093,13 +2093,13 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 ## Image Matching
 
 - 2024-07-10, **Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2407.07789v1](http://arxiv.org/abs/2407.07789v1)
 - 2024-07-10, **Mutual Information calculation on different appearances**, Jiecheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07410v1](http://arxiv.org/abs/2407.07410v1)
-- 2024-07-04, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v1](http://arxiv.org/abs/2407.03939v1)
+- 2024-07-12, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v2](http://arxiv.org/abs/2407.03939v2)
 - 2024-07-03, **IMC 2024 Methods & Solutions Review**, Shyam Gupta et.al., Paper: [http://arxiv.org/abs/2407.03172v1](http://arxiv.org/abs/2407.03172v1)
 - 2024-06-21, **High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**, F. S. Mortazavi et.al., Paper: [http://arxiv.org/abs/2406.15121v1](http://arxiv.org/abs/2406.15121v1)
 - 2024-06-16, **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**, Yikai Zhang et.al., Paper: [http://arxiv.org/abs/2406.10902v1](http://arxiv.org/abs/2406.10902v1), Code: **[https://github.com/ykzhang721/COG](https://github.com/ykzhang721/COG)**
@@ -2294,7 +2294,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 ## NeRF
 
@@ -3462,7 +3462,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
