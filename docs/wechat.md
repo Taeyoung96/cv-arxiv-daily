@@ -22,7 +22,7 @@
 - 2024-07-12, **An Adaptive Indoor Localization Approach Using WiFi RSSI Fingerprinting with SLAM-Enabled Robotic Platform and Deep Neural Networks**, Seyed Alireza Rahimi Azghadi et.al., Paper: [http://arxiv.org/abs/2407.09242v1](http://arxiv.org/abs/2407.09242v1)
 - 2024-07-11, **SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2407.08106v1](http://arxiv.org/abs/2407.08106v1)
 - 2024-07-09, **Hyperion -- A fast, versatile symbolic Gaussian Belief Propagation framework for Continuous-Time SLAM**, David Hug et.al., Paper: [http://arxiv.org/abs/2407.07074v1](http://arxiv.org/abs/2407.07074v1), Code: **[https://github.com/vis4rob-lab/hyperion](https://github.com/vis4rob-lab/hyperion)**
-- 2024-07-09, **A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**, Yasra Chandio et.al., Paper: [http://arxiv.org/abs/2407.06889v1](http://arxiv.org/abs/2407.06889v1)
+- 2024-07-15, **A Neurosymbolic Approach to Adaptive Feature Extraction in SLAM**, Yasra Chandio et.al., Paper: [http://arxiv.org/abs/2407.06889v2](http://arxiv.org/abs/2407.06889v2)
 - 2024-07-08, **Object-Oriented Material Classification and 3D Clustering for Improved Semantic Perception and Mapping in Mobile Robots**, Siva Krishna Ravipati et.al., Paper: [http://arxiv.org/abs/2407.06077v1](http://arxiv.org/abs/2407.06077v1), Code: **[https://github.com/herolab-uga/matsee](https://github.com/herolab-uga/matsee)**
 - 2024-07-10, **Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**, Sangwoo Jung et.al., Paper: [http://arxiv.org/abs/2407.05820v2](http://arxiv.org/abs/2407.05820v2)
 - 2024-07-07, **Active Collaborative Visual SLAM exploiting ORB Features**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2407.05453v1](http://arxiv.org/abs/2407.05453v1)
@@ -865,7 +865,7 @@
 - 2024-07-09, **Computer vision tasks for intelligent aerospace missions: An overview**, Huilin Chen et.al., Paper: [http://arxiv.org/abs/2407.06513v1](http://arxiv.org/abs/2407.06513v1)
 - 2024-07-08, **Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**, Jiawei Guo et.al., Paper: [http://arxiv.org/abs/2407.05666v1](http://arxiv.org/abs/2407.05666v1)
 - 2024-07-05, **Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2407.04260v1](http://arxiv.org/abs/2407.04260v1)
-- 2024-07-12, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v2](http://arxiv.org/abs/2407.03939v2)
+- 2024-07-15, **SfM on-the-fly: Get better 3D from What You Capture**, Zongqian Zhan et.al., Paper: [http://arxiv.org/abs/2407.03939v3](http://arxiv.org/abs/2407.03939v3)
 - 2024-07-03, **Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2407.02918v1](http://arxiv.org/abs/2407.02918v1), Code: **[https://github.com/wrld/free-surgs](https://github.com/wrld/free-surgs)**
 - 2024-07-02, **Indoor 3D Reconstruction with an Unknown Camera-Projector Pair**, Zhaoshuai Qi et.al., Paper: [http://arxiv.org/abs/2407.01945v1](http://arxiv.org/abs/2407.01945v1)
 - 2024-05-29, **Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**, Gabriel Moreira et.al., Paper: [http://arxiv.org/abs/2406.18564v1](http://arxiv.org/abs/2406.18564v1)
@@ -2099,9 +2099,9 @@
 
 ## Image Matching
 
-- 2024-07-10, **Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2407.07789v1](http://arxiv.org/abs/2407.07789v1)
+- 2024-07-14, **Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2407.07789v2](http://arxiv.org/abs/2407.07789v2)
 - 2024-07-10, **Mutual Information calculation on different appearances**, Jiecheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07410v1](http://arxiv.org/abs/2407.07410v1)
-- 2024-07-12, **SfM on-the-fly: Get better 3D from What You Capture**, Zhan Zongqian et.al., Paper: [http://arxiv.org/abs/2407.03939v2](http://arxiv.org/abs/2407.03939v2)
+- 2024-07-15, **SfM on-the-fly: Get better 3D from What You Capture**, Zongqian Zhan et.al., Paper: [http://arxiv.org/abs/2407.03939v3](http://arxiv.org/abs/2407.03939v3)
 - 2024-07-03, **IMC 2024 Methods & Solutions Review**, Shyam Gupta et.al., Paper: [http://arxiv.org/abs/2407.03172v1](http://arxiv.org/abs/2407.03172v1)
 - 2024-06-21, **High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**, F. S. Mortazavi et.al., Paper: [http://arxiv.org/abs/2406.15121v1](http://arxiv.org/abs/2406.15121v1)
 - 2024-06-16, **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**, Yikai Zhang et.al., Paper: [http://arxiv.org/abs/2406.10902v1](http://arxiv.org/abs/2406.10902v1), Code: **[https://github.com/ykzhang721/COG](https://github.com/ykzhang721/COG)**
