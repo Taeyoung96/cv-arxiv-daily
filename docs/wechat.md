@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-07-19, **MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion**, Qiyan Li et.al., Paper: [http://arxiv.org/abs/2407.14102v1](http://arxiv.org/abs/2407.14102v1)
+- 2024-07-18, **A New Tightly-Coupled Dual-VIO for a Mobile Manipulator With Dynamic Locomotion**, Jianxiang Xu et.al., Paper: [http://arxiv.org/abs/2407.13878v1](http://arxiv.org/abs/2407.13878v1)
 - 2024-07-18, **Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**, Baicheng Li et.al., Paper: [http://arxiv.org/abs/2407.13338v1](http://arxiv.org/abs/2407.13338v1)
 - 2024-07-17, **Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**, Markus Weißflog et.al., Paper: [http://arxiv.org/abs/2407.12408v1](http://arxiv.org/abs/2407.12408v1)
 - 2024-07-19, **Fisheye-Calib-Adapter: An Easy Tool for Fisheye Camera Model Conversion**, Sangjun Lee et.al., Paper: [http://arxiv.org/abs/2407.12405v2](http://arxiv.org/abs/2407.12405v2), Code: **[https://github.com/eowjd0512/fisheye-calib-adapter](https://github.com/eowjd0512/fisheye-calib-adapter)**
@@ -2122,7 +2124,7 @@
 
 ## Image Matching
 
-- 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1)
+- 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
 - 2024-07-16, **A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**, Chengsheng Li et.al., Paper: [http://arxiv.org/abs/2407.11287v1](http://arxiv.org/abs/2407.11287v1)
 - 2024-07-14, **Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**, Xiaoyong Lu et.al., Paper: [http://arxiv.org/abs/2407.07789v2](http://arxiv.org/abs/2407.07789v2)
 - 2024-07-10, **Mutual Information calculation on different appearances**, Jiecheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07410v1](http://arxiv.org/abs/2407.07410v1)
@@ -2325,6 +2327,9 @@
 
 ## NeRF
 
+- 2024-07-19, **HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**, Zezeng Li et.al., Paper: [http://arxiv.org/abs/2407.14419v1](http://arxiv.org/abs/2407.14419v1)
+- 2024-07-19, **DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**, Zongyuan Yang et.al., Paper: [http://arxiv.org/abs/2407.14053v1](http://arxiv.org/abs/2407.14053v1)
+- 2024-07-19, **Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**, Guanlin Wu et.al., Paper: [http://arxiv.org/abs/2407.13992v1](http://arxiv.org/abs/2407.13992v1)
 - 2024-07-18, **EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**, Yuchen Weng et.al., Paper: [http://arxiv.org/abs/2407.13520v1](http://arxiv.org/abs/2407.13520v1)
 - 2024-07-18, **GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**, Xiufeng Huang et.al., Paper: [http://arxiv.org/abs/2407.13390v1](http://arxiv.org/abs/2407.13390v1)
 - 2024-07-18, **KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**, Yifan Zhan et.al., Paper: [http://arxiv.org/abs/2407.13185v1](http://arxiv.org/abs/2407.13185v1)
