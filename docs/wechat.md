@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-07-28, **Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**, Azmyin Md. Kamal et.al., Paper: [http://arxiv.org/abs/2407.19518v1](http://arxiv.org/abs/2407.19518v1)
+- 2024-07-26, **Real-time Uncertainty-Aware Motion Planning for Magnetic-based Navigation**, Aditya Penumarti et.al., Paper: [http://arxiv.org/abs/2407.19046v1](http://arxiv.org/abs/2407.19046v1)
 - 2024-07-26, **HERO-SLAM: Hybrid Enhanced Robust Optimization of Neural SLAM**, Zhe Xin et.al., Paper: [http://arxiv.org/abs/2407.18813v1](http://arxiv.org/abs/2407.18813v1)
 - 2024-07-28, **HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2407.17438v2](http://arxiv.org/abs/2407.17438v2), Code: **[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)**
 - 2024-07-22, **Memory Management for Real-Time Appearance-Based Loop Closure Detection**, Mathieu Labbé et.al., Paper: [http://arxiv.org/abs/2407.15890v1](http://arxiv.org/abs/2407.15890v1)
@@ -879,6 +881,8 @@
 
 ## SFM
 
+- 2024-07-29, **Global Structure-from-Motion Revisited**, Linfei Pan et.al., Paper: [http://arxiv.org/abs/2407.20219v1](http://arxiv.org/abs/2407.20219v1), Code: **[https://github.com/colmap/glomap](https://github.com/colmap/glomap)**
+- 2024-07-27, **Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2407.19166v1](http://arxiv.org/abs/2407.19166v1)
 - 2024-07-16, **NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**, Francesco Milano et.al., Paper: [http://arxiv.org/abs/2407.12207v1](http://arxiv.org/abs/2407.12207v1), Code: **[https://github.com/ethz-asl/neusurfemb](https://github.com/ethz-asl/neusurfemb)**
 - 2024-07-15, **LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**, Zhuozhu Jian et.al., Paper: [http://arxiv.org/abs/2407.10782v1](http://arxiv.org/abs/2407.10782v1)
 - 2024-07-15, **Towards Scale-Aware Full Surround Monodepth with Transformers**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10406v1](http://arxiv.org/abs/2407.10406v1)
@@ -2142,6 +2146,7 @@
 
 ## Image Matching
 
+- 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 - 2024-07-26, **PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**, Sohyeong Kim et.al., Paper: [http://arxiv.org/abs/2407.18695v1](http://arxiv.org/abs/2407.18695v1)
 - 2024-07-22, **RADA: Robust and Accurate Feature Learning with Domain Adaptation**, Jingtai He et.al., Paper: [http://arxiv.org/abs/2407.15791v1](http://arxiv.org/abs/2407.15791v1)
 - 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
@@ -2347,6 +2352,9 @@
 
 ## NeRF
 
+- 2024-07-29, **Radiance Fields for Robotic Teleoperation**, Maximum Wilder-Smith et.al., Paper: [http://arxiv.org/abs/2407.20194v1](http://arxiv.org/abs/2407.20194v1)
+- 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
+- 2024-07-27, **Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2407.19166v1](http://arxiv.org/abs/2407.19166v1)
 - 2024-07-26, **IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**, Jingpeng Xie et.al., Paper: [http://arxiv.org/abs/2407.18611v1](http://arxiv.org/abs/2407.18611v1)
 - 2024-07-24, **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2407.17470v1](http://arxiv.org/abs/2407.17470v1)
 - 2024-07-23, **HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**, Shreyas Singh et.al., Paper: [http://arxiv.org/abs/2407.16503v1](http://arxiv.org/abs/2407.16503v1), Code: **[https://github.com/shreyesss/hdrsplat](https://github.com/shreyesss/hdrsplat)**
