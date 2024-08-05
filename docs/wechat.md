@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-08-02, **IG-SLAM: Instant Gaussian SLAM**, Furkan Aykut Sarikamis et.al., Paper: [http://arxiv.org/abs/2408.01126v1](http://arxiv.org/abs/2408.01126v1)
 - 2024-08-01, **Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2408.00545v1](http://arxiv.org/abs/2408.00545v1)
 - 2024-08-01, **High-Quality, ROS Compatible Video Encoding and Decoding for High-Definition Datasets**, Jian Li et.al., Paper: [http://arxiv.org/abs/2408.00538v1](http://arxiv.org/abs/2408.00538v1)
 - 2024-07-31, **SuperVINS: A visual-inertial SLAM framework integrated deep learning features**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v1](http://arxiv.org/abs/2407.21348v1)
@@ -886,6 +887,7 @@
 
 ## SFM
 
+- 2024-08-02, **Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**, Kentaro Uno et.al., Paper: [http://arxiv.org/abs/2408.01035v1](http://arxiv.org/abs/2408.01035v1)
 - 2024-08-01, **LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**, Zhenyu Bao et.al., Paper: [http://arxiv.org/abs/2408.00254v1](http://arxiv.org/abs/2408.00254v1)
 - 2024-07-29, **Global Structure-from-Motion Revisited**, Linfei Pan et.al., Paper: [http://arxiv.org/abs/2407.20219v1](http://arxiv.org/abs/2407.20219v1), Code: **[https://github.com/colmap/glomap](https://github.com/colmap/glomap)**
 - 2024-07-27, **Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**, Shengjie Zhu et.al., Paper: [http://arxiv.org/abs/2407.19166v1](http://arxiv.org/abs/2407.19166v1)
@@ -2363,6 +2365,8 @@
 
 ## NeRF
 
+- 2024-08-02, **NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**, Daoxin Zhong et.al., Paper: [http://arxiv.org/abs/2408.01251v1](http://arxiv.org/abs/2408.01251v1)
+- 2024-08-01, **UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**, Ziwen Guo et.al., Paper: [http://arxiv.org/abs/2408.00860v1](http://arxiv.org/abs/2408.00860v1)
 - 2024-07-31, **StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**, Kaiyuan Tang et.al., Paper: [http://arxiv.org/abs/2408.00150v1](http://arxiv.org/abs/2408.00150v1)
 - 2024-07-22, **PAV: Personalized Head Avatar from Unstructured Video Collection**, Akin Caliskan et.al., Paper: [http://arxiv.org/abs/2407.21047v1](http://arxiv.org/abs/2407.21047v1)
 - 2024-07-30, **Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**, Yanpeng Zhao et.al., Paper: [http://arxiv.org/abs/2407.20908v1](http://arxiv.org/abs/2407.20908v1), Code: **[https://github.com/zyp123494/dynavol](https://github.com/zyp123494/dynavol)**
