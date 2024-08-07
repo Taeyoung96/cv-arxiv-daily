@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-08-06, **BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**, G. Manni et.al., Paper: [http://arxiv.org/abs/2408.03078v1](http://arxiv.org/abs/2408.03078v1)
 - 2024-08-04, **SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**, Vladimir Zeković et.al., Paper: [http://arxiv.org/abs/2408.02084v1](http://arxiv.org/abs/2408.02084v1)
 - 2024-08-03, **Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2408.01716v1](http://arxiv.org/abs/2408.01716v1)
 - 2024-08-03, **Deep Patch Visual SLAM**, Lahav Lipson et.al., Paper: [http://arxiv.org/abs/2408.01654v1](http://arxiv.org/abs/2408.01654v1)
@@ -1097,6 +1098,7 @@
 
 ## Visual Localization
 
+- 2024-08-06, **AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**, Pavel Suma et.al., Paper: [http://arxiv.org/abs/2408.03282v1](http://arxiv.org/abs/2408.03282v1)
 - 2024-08-05, **CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**, Gongxin Yao et.al., Paper: [http://arxiv.org/abs/2408.02394v1](http://arxiv.org/abs/2408.02394v1)
 - 2024-08-03, **BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2408.01841v1](http://arxiv.org/abs/2408.01841v1)
 - 2024-08-02, **On Validation of Search & Retrieval of Tissue Images in Digital Pathology**, H. R. Tizhoosh et.al., Paper: [http://arxiv.org/abs/2408.01570v1](http://arxiv.org/abs/2408.01570v1)
@@ -2168,6 +2170,7 @@
 
 ## Image Matching
 
+- 2024-08-05, **ConDL: Detector-Free Dense Image Matching**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2408.02766v1](http://arxiv.org/abs/2408.02766v1)
 - 2024-08-04, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v1](http://arxiv.org/abs/2408.02079v1)
 - 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 - 2024-07-26, **PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**, Sohyeong Kim et.al., Paper: [http://arxiv.org/abs/2407.18695v1](http://arxiv.org/abs/2407.18695v1)
@@ -2375,6 +2378,8 @@
 
 ## NeRF
 
+- 2024-08-06, **Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**, Juuso Korhonen et.al., Paper: [http://arxiv.org/abs/2408.03193v1](http://arxiv.org/abs/2408.03193v1)
+- 2024-08-06, **MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**, Tengfei Wang et.al., Paper: [http://arxiv.org/abs/2408.03060v1](http://arxiv.org/abs/2408.03060v1)
 - 2024-08-04, **PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**, Xin Yang et.al., Paper: [http://arxiv.org/abs/2408.02053v1](http://arxiv.org/abs/2408.02053v1)
 - 2024-08-03, **FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**, Yifan Wu et.al., Paper: [http://arxiv.org/abs/2408.01878v1](http://arxiv.org/abs/2408.01878v1)
 - 2024-08-03, **E$^3$NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**, Yunshan Qi et.al., Paper: [http://arxiv.org/abs/2408.01840v1](http://arxiv.org/abs/2408.01840v1)
