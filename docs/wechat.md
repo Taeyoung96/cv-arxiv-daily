@@ -22,7 +22,7 @@
 - 2024-08-06, **BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**, G. Manni et.al., Paper: [http://arxiv.org/abs/2408.03078v1](http://arxiv.org/abs/2408.03078v1)
 - 2024-08-04, **SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**, Vladimir Zeković et.al., Paper: [http://arxiv.org/abs/2408.02084v1](http://arxiv.org/abs/2408.02084v1)
 - 2024-08-03, **Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2408.01716v1](http://arxiv.org/abs/2408.01716v1)
-- 2024-08-03, **Deep Patch Visual SLAM**, Lahav Lipson et.al., Paper: [http://arxiv.org/abs/2408.01654v1](http://arxiv.org/abs/2408.01654v1)
+- 2024-08-03, **Deep Patch Visual SLAM**, Lahav Lipson et.al., Paper: [http://arxiv.org/abs/2408.01654v1](http://arxiv.org/abs/2408.01654v1), Code: **[https://github.com/princeton-vl/dpvo](https://github.com/princeton-vl/dpvo)**
 - 2024-08-02, **Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2408.01544v1](http://arxiv.org/abs/2408.01544v1)
 - 2024-08-07, **IG-SLAM: Instant Gaussian SLAM**, F. Aykut Sarikamis et.al., Paper: [http://arxiv.org/abs/2408.01126v2](http://arxiv.org/abs/2408.01126v2)
 - 2024-08-01, **Collecting Larg-Scale Robotic Datasets on a High-Speed Mobile Platform**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2408.00545v1](http://arxiv.org/abs/2408.00545v1)
