@@ -2385,7 +2385,7 @@
 
 - 2024-08-09, **DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**, Hangyu Li et.al., Paper: [http://arxiv.org/abs/2408.05008v1](http://arxiv.org/abs/2408.05008v1)
 - 2024-08-09, **FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**, Piraveen Sivakumar et.al., Paper: [http://arxiv.org/abs/2408.04803v1](http://arxiv.org/abs/2408.04803v1)
-- 2024-08-06, **LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**, Joanna Kaleta et.al., Paper: [http://arxiv.org/abs/2408.04474v1](http://arxiv.org/abs/2408.04474v1)
+- 2024-08-06, **LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**, Joanna Kaleta et.al., Paper: [http://arxiv.org/abs/2408.04474v1](http://arxiv.org/abs/2408.04474v1), Code: **[https://github.com/joaxkal/lumigauss](https://github.com/joaxkal/lumigauss)**
 - 2024-08-08, **A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**, Mengya Xu et.al., Paper: [http://arxiv.org/abs/2408.04426v1](http://arxiv.org/abs/2408.04426v1), Code: **[https://github.com/epsilon404/surgicalnerf](https://github.com/epsilon404/surgicalnerf)**
 - 2024-08-08, **Evaluating Modern Approaches in 3D Scene Reconstruction: NeRF vs Gaussian-Based Methods**, Yiming Zhou et.al., Paper: [http://arxiv.org/abs/2408.04268v1](http://arxiv.org/abs/2408.04268v1)
 - 2024-08-07, **Goal-oriented Semantic Communication for the Metaverse Application**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2408.03646v1](http://arxiv.org/abs/2408.03646v1)
