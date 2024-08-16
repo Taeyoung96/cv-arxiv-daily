@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-08-15, **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2408.07917v1](http://arxiv.org/abs/2408.07917v1), Code: **[https://github.com/yutongwangbit/goreloc](https://github.com/yutongwangbit/goreloc)**
+- 2024-08-14, **Inverse k-visibility for RSSI-based Indoor Geometric Mapping**, Junseo Kim et.al., Paper: [http://arxiv.org/abs/2408.07757v1](http://arxiv.org/abs/2408.07757v1)
 - 2024-08-14, **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**, Hogyun Kim et.al., Paper: [http://arxiv.org/abs/2408.07330v1](http://arxiv.org/abs/2408.07330v1)
 - 2024-08-12, **CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**, Yanpeng Jia et.al., Paper: [http://arxiv.org/abs/2408.05981v1](http://arxiv.org/abs/2408.05981v1)
 - 2024-08-10, **Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**, Zhongche Qu et.al., Paper: [http://arxiv.org/abs/2408.05635v1](http://arxiv.org/abs/2408.05635v1)
@@ -899,6 +901,7 @@
 
 ## SFM
 
+- 2024-08-15, **CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2408.08134v1](http://arxiv.org/abs/2408.08134v1)
 - 2024-08-13, **A Miniature Vision-Based Localization System for Indoor Blimps**, Shicong Ma et.al., Paper: [http://arxiv.org/abs/2408.06648v1](http://arxiv.org/abs/2408.06648v1)
 - 2024-08-07, **Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**, Yan Song Hu et.al., Paper: [http://arxiv.org/abs/2408.03825v1](http://arxiv.org/abs/2408.03825v1)
 - 2024-08-04, **Birational geometry of critical loci in Algebraic Vision**, Marina Bertolini et.al., Paper: [http://arxiv.org/abs/2408.02067v1](http://arxiv.org/abs/2408.02067v1)
@@ -1107,6 +1110,7 @@
 
 ## Visual Localization
 
+- 2024-08-15, **DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**, Ryosuke Korekata et.al., Paper: [http://arxiv.org/abs/2408.07910v1](http://arxiv.org/abs/2408.07910v1)
 - 2024-08-13, **A Miniature Vision-Based Localization System for Indoor Blimps**, Shicong Ma et.al., Paper: [http://arxiv.org/abs/2408.06648v1](http://arxiv.org/abs/2408.06648v1)
 - 2024-08-10, **Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2408.05475v1](http://arxiv.org/abs/2408.05475v1), Code: **[https://github.com/yejy53/ep-bev](https://github.com/yejy53/ep-bev)**
 - 2024-08-09, **Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**, Heeseung Yun et.al., Paper: [http://arxiv.org/abs/2408.05364v1](http://arxiv.org/abs/2408.05364v1)
@@ -1965,6 +1969,7 @@
 
 ## Keypoint Detection
 
+- 2024-08-15, **Towards Practical Human Motion Prediction with LiDAR Point Clouds**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2408.08202v1](http://arxiv.org/abs/2408.08202v1)
 - 2024-07-31, **Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**, Xusheng Luo et.al., Paper: [http://arxiv.org/abs/2408.00117v1](http://arxiv.org/abs/2408.00117v1)
 - 2024-07-26, **SHIC: Shape-Image Correspondences with no Keypoint Supervision**, Aleksandar Shtedritski et.al., Paper: [http://arxiv.org/abs/2407.18907v1](http://arxiv.org/abs/2407.18907v1)
 - 2024-07-25, **LION: Linear Group RNN for 3D Object Detection in Point Clouds**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2407.18232v1](http://arxiv.org/abs/2407.18232v1), Code: **[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)**
@@ -2392,6 +2397,7 @@
 
 ## NeRF
 
+- 2024-08-15, **WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**, Huapeng Li et.al., Paper: [http://arxiv.org/abs/2408.08206v1](http://arxiv.org/abs/2408.08206v1)
 - 2024-08-14, **Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**, Hyunjee Lee et.al., Paper: [http://arxiv.org/abs/2408.07416v1](http://arxiv.org/abs/2408.07416v1)
 - 2024-08-13, **Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**, Yu Feng et.al., Paper: [http://arxiv.org/abs/2408.06608v1](http://arxiv.org/abs/2408.06608v1)
 - 2024-08-13, **ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**, Jianyu Tao et.al., Paper: [http://arxiv.org/abs/2408.06592v1](http://arxiv.org/abs/2408.06592v1), Code: **[https://github.com/hcp16/active_nerf](https://github.com/hcp16/active_nerf)**
