@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-08-19, **LoopSplat: Loop Closure by Registering 3D Gaussian Splats**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2408.10154v1](http://arxiv.org/abs/2408.10154v1)
+- 2024-08-19, **Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**, Sanghyun Hahn et.al., Paper: [http://arxiv.org/abs/2408.09727v1](http://arxiv.org/abs/2408.09727v1)
+- 2024-08-17, **GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2408.09191v1](http://arxiv.org/abs/2408.09191v1)
 - 2024-08-15, **GOReloc: Graph-based Object-Level Relocalization for Visual SLAM**, Yutong Wang et.al., Paper: [http://arxiv.org/abs/2408.07917v1](http://arxiv.org/abs/2408.07917v1), Code: **[https://github.com/yutongwangbit/goreloc](https://github.com/yutongwangbit/goreloc)**
 - 2024-08-14, **Inverse k-visibility for RSSI-based Indoor Geometric Mapping**, Junseo Kim et.al., Paper: [http://arxiv.org/abs/2408.07757v1](http://arxiv.org/abs/2408.07757v1)
 - 2024-08-14, **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**, Hogyun Kim et.al., Paper: [http://arxiv.org/abs/2408.07330v1](http://arxiv.org/abs/2408.07330v1)
@@ -1111,6 +1114,8 @@
 
 ## Visual Localization
 
+- 2024-08-19, **Fashion Image-to-Image Translation for Complementary Item Retrieval**, Matteo Attimonelli et.al., Paper: [http://arxiv.org/abs/2408.09847v1](http://arxiv.org/abs/2408.09847v1)
+- 2024-08-19, **MambaLoc: Efficient Camera Localisation via State Space Model**, Jialu Wang et.al., Paper: [http://arxiv.org/abs/2408.09680v1](http://arxiv.org/abs/2408.09680v1)
 - 2024-08-15, **DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**, Ryosuke Korekata et.al., Paper: [http://arxiv.org/abs/2408.07910v1](http://arxiv.org/abs/2408.07910v1)
 - 2024-08-13, **A Miniature Vision-Based Localization System for Indoor Blimps**, Shicong Ma et.al., Paper: [http://arxiv.org/abs/2408.06648v1](http://arxiv.org/abs/2408.06648v1)
 - 2024-08-10, **Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2408.05475v1](http://arxiv.org/abs/2408.05475v1), Code: **[https://github.com/yejy53/ep-bev](https://github.com/yejy53/ep-bev)**
@@ -2398,6 +2403,12 @@
 
 ## NeRF
 
+- 2024-08-19, **$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**, Haoyang Wang et.al., Paper: [http://arxiv.org/abs/2408.10135v1](http://arxiv.org/abs/2408.10135v1)
+- 2024-08-19, **DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**, Corentin Dumery et.al., Paper: [http://arxiv.org/abs/2408.09928v1](http://arxiv.org/abs/2408.09928v1)
+- 2024-08-19, **CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**, Haoyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.09663v1](http://arxiv.org/abs/2408.09663v1)
+- 2024-08-18, **S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**, Dongze Li et.al., Paper: [http://arxiv.org/abs/2408.09347v1](http://arxiv.org/abs/2408.09347v1)
+- 2024-08-17, **SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**, Xiao Cao et.al., Paper: [http://arxiv.org/abs/2408.09144v1](http://arxiv.org/abs/2408.09144v1)
+- 2024-08-17, **HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**, Xiao Zhao et.al., Paper: [http://arxiv.org/abs/2408.09104v1](http://arxiv.org/abs/2408.09104v1)
 - 2024-08-16, **VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.08766v1](http://arxiv.org/abs/2408.08766v1), Code: **[https://github.com/albertgassol1/vf-nerf](https://github.com/albertgassol1/vf-nerf)**
 - 2024-08-15, **WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**, Huapeng Li et.al., Paper: [http://arxiv.org/abs/2408.08206v1](http://arxiv.org/abs/2408.08206v1)
 - 2024-08-18, **Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**, Hyunjee Lee et.al., Paper: [http://arxiv.org/abs/2408.07416v2](http://arxiv.org/abs/2408.07416v2)
