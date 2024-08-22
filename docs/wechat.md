@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2024-08-21, **Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2408.11809v1](http://arxiv.org/abs/2408.11809v1)
+- 2024-08-21, **LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**, Aymeric Fleith et.al., Paper: [http://arxiv.org/abs/2408.11682v1](http://arxiv.org/abs/2408.11682v1)
+- 2024-08-21, **Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**, Zhihao Lin et.al., Paper: [http://arxiv.org/abs/2408.11582v1](http://arxiv.org/abs/2408.11582v1)
+- 2024-08-21, **RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**, Maximilian Hilger et.al., Paper: [http://arxiv.org/abs/2408.11576v1](http://arxiv.org/abs/2408.11576v1)
+- 2024-08-21, **Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**, Kento Kawaharazuka et.al., Paper: [http://arxiv.org/abs/2408.11380v1](http://arxiv.org/abs/2408.11380v1)
 - 2024-08-20, **LoopSplat: Loop Closure by Registering 3D Gaussian Splats**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2408.10154v2](http://arxiv.org/abs/2408.10154v2)
 - 2024-08-19, **Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**, Sanghyun Hahn et.al., Paper: [http://arxiv.org/abs/2408.09727v1](http://arxiv.org/abs/2408.09727v1)
 - 2024-08-17, **GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2408.09191v1](http://arxiv.org/abs/2408.09191v1)
@@ -1115,6 +1120,8 @@
 
 ## Visual Localization
 
+- 2024-08-21, **UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.11305v1](http://arxiv.org/abs/2408.11305v1), Code: **[https://github.com/xiangyu-mm/unifashion](https://github.com/xiangyu-mm/unifashion)**
+- 2024-08-20, **GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2408.11085v1](http://arxiv.org/abs/2408.11085v1)
 - 2024-08-19, **BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**, Zhenyu Lu et.al., Paper: [http://arxiv.org/abs/2408.10383v1](http://arxiv.org/abs/2408.10383v1)
 - 2024-08-19, **Fashion Image-to-Image Translation for Complementary Item Retrieval**, Matteo Attimonelli et.al., Paper: [http://arxiv.org/abs/2408.09847v1](http://arxiv.org/abs/2408.09847v1)
 - 2024-08-20, **MambaLoc: Efficient Camera Localisation via State Space Model**, Jialu Wang et.al., Paper: [http://arxiv.org/abs/2408.09680v2](http://arxiv.org/abs/2408.09680v2)
@@ -2406,6 +2413,8 @@
 
 ## NeRF
 
+- 2024-08-21, **Irregularity Inspection using Neural Radiance Field**, Tianqi Ding et.al., Paper: [http://arxiv.org/abs/2408.11251v1](http://arxiv.org/abs/2408.11251v1)
+- 2024-08-20, **GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2408.11085v1](http://arxiv.org/abs/2408.11085v1)
 - 2024-08-20, **Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**, Zhirui Gao et.al., Paper: [http://arxiv.org/abs/2408.10789v1](http://arxiv.org/abs/2408.10789v1)
 - 2024-08-20, **TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**, Jinjie Mai et.al., Paper: [http://arxiv.org/abs/2408.10739v1](http://arxiv.org/abs/2408.10739v1)
 - 2024-08-19, **$R^2$-Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**, Haoyang Wang et.al., Paper: [http://arxiv.org/abs/2408.10135v1](http://arxiv.org/abs/2408.10135v1)
