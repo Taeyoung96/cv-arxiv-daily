@@ -909,6 +909,7 @@
 
 ## SFM
 
+- 2024-08-21, **Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2408.11966v1](http://arxiv.org/abs/2408.11966v1)
 - 2024-08-20, **TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**, Jinjie Mai et.al., Paper: [http://arxiv.org/abs/2408.10739v1](http://arxiv.org/abs/2408.10739v1)
 - 2024-08-16, **Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**, Wei Sun et.al., Paper: [http://arxiv.org/abs/2408.08723v1](http://arxiv.org/abs/2408.08723v1)
 - 2024-08-15, **CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2408.08134v1](http://arxiv.org/abs/2408.08134v1), Code: **[https://github.com/TaoWangzj/CorrAdaptor](https://github.com/TaoWangzj/CorrAdaptor)**
@@ -1120,6 +1121,8 @@
 
 ## Visual Localization
 
+- 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1)
+- 2024-08-21, **Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2408.11966v1](http://arxiv.org/abs/2408.11966v1)
 - 2024-08-21, **UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**, Xiangyu Zhao et.al., Paper: [http://arxiv.org/abs/2408.11305v1](http://arxiv.org/abs/2408.11305v1), Code: **[https://github.com/xiangyu-mm/unifashion](https://github.com/xiangyu-mm/unifashion)**
 - 2024-08-20, **GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2408.11085v1](http://arxiv.org/abs/2408.11085v1)
 - 2024-08-19, **BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**, Zhenyu Lu et.al., Paper: [http://arxiv.org/abs/2408.10383v1](http://arxiv.org/abs/2408.10383v1)
@@ -2413,6 +2416,7 @@
 
 ## NeRF
 
+- 2024-08-21, **Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2408.11966v1](http://arxiv.org/abs/2408.11966v1)
 - 2024-08-21, **Irregularity Inspection using Neural Radiance Field**, Tianqi Ding et.al., Paper: [http://arxiv.org/abs/2408.11251v1](http://arxiv.org/abs/2408.11251v1)
 - 2024-08-20, **GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**, Changkun Liu et.al., Paper: [http://arxiv.org/abs/2408.11085v1](http://arxiv.org/abs/2408.11085v1)
 - 2024-08-20, **Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**, Zhirui Gao et.al., Paper: [http://arxiv.org/abs/2408.10789v1](http://arxiv.org/abs/2408.10789v1)
