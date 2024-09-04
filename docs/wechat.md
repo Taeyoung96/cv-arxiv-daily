@@ -19,12 +19,12 @@
 
 ## SLAM
 
-- 2024-08-30, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v1](http://arxiv.org/abs/2408.17373v1)
+- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
 - 2024-08-28, **BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2408.15870v1](http://arxiv.org/abs/2408.15870v1), Code: **[https://github.com/MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF)**
 - 2024-08-30, **Addressing the challenges of loop detection in agricultural environments**, Nicolás Soncini et.al., Paper: [http://arxiv.org/abs/2408.15761v2](http://arxiv.org/abs/2408.15761v2), Code: **[https://github.com/CIFASIS/StereoLoopDetector](https://github.com/CIFASIS/StereoLoopDetector)**
 - 2024-08-28, **ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**, Suman Ghosh et.al., Paper: [http://arxiv.org/abs/2408.15605v1](http://arxiv.org/abs/2408.15605v1), Code: **[https://github.com/tub-rip/es-ptam](https://github.com/tub-rip/es-ptam)**
 - 2024-08-28, **PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**, Kaiqiao Yang et.al., Paper: [http://arxiv.org/abs/2408.15583v1](http://arxiv.org/abs/2408.15583v1)
-- 2024-08-27, **Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**, Rongge Zhang et.al., Paper: [http://arxiv.org/abs/2408.14726v1](http://arxiv.org/abs/2408.14726v1)
+- 2024-09-02, **Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**, Rongge Zhang et.al., Paper: [http://arxiv.org/abs/2408.14726v2](http://arxiv.org/abs/2408.14726v2)
 - 2024-08-26, **A Survey on Reinforcement Learning Applications in SLAM**, Mohammad Dehghani Tezerjani et.al., Paper: [http://arxiv.org/abs/2408.14518v1](http://arxiv.org/abs/2408.14518v1)
 - 2024-08-28, **FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2408.14035v2](http://arxiv.org/abs/2408.14035v2), Code: **[https://github.com/hku-mars/fast-livo2](https://github.com/hku-mars/fast-livo2)**
 - 2024-08-21, **Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**, Turcan Tuna et.al., Paper: [http://arxiv.org/abs/2408.11809v1](http://arxiv.org/abs/2408.11809v1)
@@ -917,7 +917,7 @@
 
 ## SFM
 
-- 2024-08-30, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v1](http://arxiv.org/abs/2408.17373v1)
+- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
 - 2024-08-29, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v1](http://arxiv.org/abs/2408.16445v1), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-21, **Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2408.11966v1](http://arxiv.org/abs/2408.11966v1)
 - 2024-08-20, **TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**, Jinjie Mai et.al., Paper: [http://arxiv.org/abs/2408.10739v1](http://arxiv.org/abs/2408.10739v1)
@@ -1131,8 +1131,8 @@
 
 ## Visual Localization
 
-- 2024-08-30, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v1](http://arxiv.org/abs/2408.17373v1)
-- 2024-08-30, **RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**, Avideep Mukherjee et.al., Paper: [http://arxiv.org/abs/2408.17095v1](http://arxiv.org/abs/2408.17095v1)
+- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
+- 2024-09-02, **RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**, Avideep Mukherjee et.al., Paper: [http://arxiv.org/abs/2408.17095v2](http://arxiv.org/abs/2408.17095v2)
 - 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
 - 2024-08-29, **Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**, Kengo Nakata et.al., Paper: [http://arxiv.org/abs/2408.16296v1](http://arxiv.org/abs/2408.16296v1)
 - 2024-08-28, **Temporal Attention for Cross-View Sequential Image Localization**, Dong Yuan et.al., Paper: [http://arxiv.org/abs/2408.15569v1](http://arxiv.org/abs/2408.15569v1)
@@ -2440,7 +2440,7 @@
 
 - 2024-08-30, **ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**, Xiaoshuai Zhang et.al., Paper: [http://arxiv.org/abs/2408.17027v1](http://arxiv.org/abs/2408.17027v1)
 - 2024-08-29, **GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**, Lebin Zhou et.al., Paper: [http://arxiv.org/abs/2408.16866v1](http://arxiv.org/abs/2408.16866v1)
-- 2024-08-29, **Generic Objects as Pose Probes for Few-Shot View Synthesis**, Zhirui Gao et.al., Paper: [http://arxiv.org/abs/2408.16690v1](http://arxiv.org/abs/2408.16690v1)
+- 2024-09-01, **Generic Objects as Pose Probes for Few-Shot View Synthesis**, Zhirui Gao et.al., Paper: [http://arxiv.org/abs/2408.16690v2](http://arxiv.org/abs/2408.16690v2)
 - 2024-08-29, **Spurfies: Sparse Surface Reconstruction using Local Geometry Priors**, Kevin Raj et.al., Paper: [http://arxiv.org/abs/2408.16544v1](http://arxiv.org/abs/2408.16544v1)
 - 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
 - 2024-08-28, **Towards Realistic Example-based Modeling via 3D Gaussian Stitching**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2408.15708v1](http://arxiv.org/abs/2408.15708v1)
