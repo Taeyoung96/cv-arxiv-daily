@@ -19,7 +19,12 @@
 
 ## SLAM
 
-- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
+- 2024-09-03, **Integration of Augmented Reality and Mobile Robot Indoor SLAM for Enhanced Spatial Awareness**, Michael D. Friske et.al., Paper: [http://arxiv.org/abs/2409.01915v1](http://arxiv.org/abs/2409.01915v1)
+- 2024-09-03, **Explicit Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2409.01856v1](http://arxiv.org/abs/2409.01856v1)
+- 2024-09-02, **Saying goodbyes to rotating your phone: Magnetometer calibration during SLAM**, Ilari Vallivaara et.al., Paper: [http://arxiv.org/abs/2409.01242v1](http://arxiv.org/abs/2409.01242v1)
+- 2024-09-02, **Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**, Manon Kok et.al., Paper: [http://arxiv.org/abs/2409.01091v1](http://arxiv.org/abs/2409.01091v1)
+- 2024-08-31, **UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM**, Mostafa Mansour et.al., Paper: [http://arxiv.org/abs/2409.00362v1](http://arxiv.org/abs/2409.00362v1)
+- 2024-09-04, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v3](http://arxiv.org/abs/2408.17373v3)
 - 2024-08-28, **BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2408.15870v1](http://arxiv.org/abs/2408.15870v1), Code: **[https://github.com/MigVega/SLAM2REF](https://github.com/MigVega/SLAM2REF)**
 - 2024-08-30, **Addressing the challenges of loop detection in agricultural environments**, Nicolás Soncini et.al., Paper: [http://arxiv.org/abs/2408.15761v2](http://arxiv.org/abs/2408.15761v2), Code: **[https://github.com/CIFASIS/StereoLoopDetector](https://github.com/CIFASIS/StereoLoopDetector)**
 - 2024-08-28, **ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**, Suman Ghosh et.al., Paper: [http://arxiv.org/abs/2408.15605v1](http://arxiv.org/abs/2408.15605v1), Code: **[https://github.com/tub-rip/es-ptam](https://github.com/tub-rip/es-ptam)**
@@ -917,7 +922,9 @@
 
 ## SFM
 
-- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
+- 2024-09-04, **Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**, Luqing Luo et.al., Paper: [http://arxiv.org/abs/2409.02581v1](http://arxiv.org/abs/2409.02581v1)
+- 2024-09-03, **Geometry-aware Feature Matching for Large-Scale Structure from Motion**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2409.02310v1](http://arxiv.org/abs/2409.02310v1)
+- 2024-09-04, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v3](http://arxiv.org/abs/2408.17373v3)
 - 2024-08-29, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v1](http://arxiv.org/abs/2408.16445v1), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-21, **Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**, Lintong Zhang et.al., Paper: [http://arxiv.org/abs/2408.11966v1](http://arxiv.org/abs/2408.11966v1)
 - 2024-08-20, **TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**, Jinjie Mai et.al., Paper: [http://arxiv.org/abs/2408.10739v1](http://arxiv.org/abs/2408.10739v1)
@@ -1131,7 +1138,13 @@
 
 ## Visual Localization
 
-- 2024-09-02, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v2](http://arxiv.org/abs/2408.17373v2)
+- 2024-09-04, **NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**, Sepanta Zeighami et.al., Paper: [http://arxiv.org/abs/2409.02343v1](http://arxiv.org/abs/2409.02343v1)
+- 2024-09-03, **Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**, Konstantin Schall et.al., Paper: [http://arxiv.org/abs/2409.01936v1](http://arxiv.org/abs/2409.01936v1)
+- 2024-09-02, **A Review of Image Retrieval Techniques: Data Augmentation and Adversarial Learning Approaches**, Kim Jinwoo et.al., Paper: [http://arxiv.org/abs/2409.01219v1](http://arxiv.org/abs/2409.01219v1)
+- 2024-09-02, **Online One-Dimensional Magnetic Field SLAM with Loop-Closure Detection**, Manon Kok et.al., Paper: [http://arxiv.org/abs/2409.01091v1](http://arxiv.org/abs/2409.01091v1)
+- 2024-09-02, **Evidential Transformers for Improved Image Retrieval**, Danilo Dordevic et.al., Paper: [http://arxiv.org/abs/2409.01082v1](http://arxiv.org/abs/2409.01082v1)
+- 2024-08-31, **EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**, Bonan Liu et.al., Paper: [http://arxiv.org/abs/2409.00343v1](http://arxiv.org/abs/2409.00343v1)
+- 2024-09-04, **Augmented Reality without Borders: Achieving Precise Localization Without Maps**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.17373v3](http://arxiv.org/abs/2408.17373v3)
 - 2024-09-02, **RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**, Avideep Mukherjee et.al., Paper: [http://arxiv.org/abs/2408.17095v2](http://arxiv.org/abs/2408.17095v2)
 - 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
 - 2024-08-29, **Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**, Kengo Nakata et.al., Paper: [http://arxiv.org/abs/2408.16296v1](http://arxiv.org/abs/2408.16296v1)
@@ -2438,6 +2451,9 @@
 
 ## NeRF
 
+- 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
+- 2024-09-03, **GraspSplats: Efficient Manipulation with 3D Feature Splatting**, Mazeyu Ji et.al., Paper: [http://arxiv.org/abs/2409.02084v1](http://arxiv.org/abs/2409.02084v1)
+- 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1)
 - 2024-08-30, **ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**, Xiaoshuai Zhang et.al., Paper: [http://arxiv.org/abs/2408.17027v1](http://arxiv.org/abs/2408.17027v1)
 - 2024-08-29, **GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**, Lebin Zhou et.al., Paper: [http://arxiv.org/abs/2408.16866v1](http://arxiv.org/abs/2408.16866v1)
 - 2024-09-01, **Generic Objects as Pose Probes for Few-Shot View Synthesis**, Zhirui Gao et.al., Paper: [http://arxiv.org/abs/2408.16690v2](http://arxiv.org/abs/2408.16690v2)
