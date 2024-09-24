@@ -26,7 +26,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**Bundle Adjustment in the Eager Mode**|Zitong Zhan et.al.|[2409.12190v1](http://arxiv.org/abs/2409.12190v1)|null|
-|**2024-09-18**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v1](http://arxiv.org/abs/2409.12051v1)|null|
+|**2024-09-23**|**Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**|Jaehyung Jung et.al.|[2409.12051v2](http://arxiv.org/abs/2409.12051v2)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972v1](http://arxiv.org/abs/2409.11972v1)|null|
 |**2024-09-18**|**Physically-Based Photometric Bundle Adjustment in Non-Lambertian Environments**|Lei Cheng et.al.|[2409.11854v1](http://arxiv.org/abs/2409.11854v1)|null|
 |**2024-09-18**|**SLAM assisted 3D tracking system for laparoscopic surgery**|Jingwei Song et.al.|[2409.11688v1](http://arxiv.org/abs/2409.11688v1)|null|
@@ -2614,7 +2614,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156v1](http://arxiv.org/abs/2409.12156v1)|null|
-|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
+|**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v2](http://arxiv.org/abs/2409.12014v2)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327v1](http://arxiv.org/abs/2409.10327v1)|null|
