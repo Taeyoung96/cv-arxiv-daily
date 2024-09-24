@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.23
+> Updated on 2024.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -940,7 +940,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 ## SFM
 
@@ -1159,7 +1159,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1167,7 +1167,7 @@
 - 2024-09-17, **Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**, Kurran Singh et.al., Paper: [http://arxiv.org/abs/2409.11555v1](http://arxiv.org/abs/2409.11555v1)
 - 2024-09-17, **Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**, Kunal Chelani et.al., Paper: [http://arxiv.org/abs/2409.11536v1](http://arxiv.org/abs/2409.11536v1)
 - 2024-09-17, **Improving the Efficiency of Visually Augmented Language Models**, Paula Ontalvilla et.al., Paper: [http://arxiv.org/abs/2409.11148v1](http://arxiv.org/abs/2409.11148v1)
-- 2024-09-17, **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**, Zhongyan Niu et.al., Paper: [http://arxiv.org/abs/2409.10925v1](http://arxiv.org/abs/2409.10925v1)
+- 2024-09-21, **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**, Zhongyan Niu et.al., Paper: [http://arxiv.org/abs/2409.10925v2](http://arxiv.org/abs/2409.10925v2)
 - 2024-09-16, **SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2409.10247v1](http://arxiv.org/abs/2409.10247v1)
 - 2024-09-16, **Garment Attribute Manipulation with Multi-level Attention**, Vittorio Casula et.al., Paper: [http://arxiv.org/abs/2409.10206v1](http://arxiv.org/abs/2409.10206v1)
 - 2024-09-14, **Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**, Amirreza Mahbod et.al., Paper: [http://arxiv.org/abs/2409.09430v1](http://arxiv.org/abs/2409.09430v1), Code: **[https://github.com/masih4/MedImageRetrieval](https://github.com/masih4/MedImageRetrieval)**
@@ -2059,11 +2059,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2024-09-13, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v1](http://arxiv.org/abs/2409.08695v1)
+- 2024-09-13, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v1](http://arxiv.org/abs/2409.08695v1), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-09-06, **D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**, Kentaro Hirahara et.al., Paper: [http://arxiv.org/abs/2409.04060v1](http://arxiv.org/abs/2409.04060v1)
 - 2024-08-15, **Towards Practical Human Motion Prediction with LiDAR Point Clouds**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2408.08202v1](http://arxiv.org/abs/2408.08202v1)
 - 2024-07-31, **Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**, Xusheng Luo et.al., Paper: [http://arxiv.org/abs/2408.00117v1](http://arxiv.org/abs/2408.00117v1)
@@ -2279,7 +2279,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2496,14 +2496,14 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-09-18, **JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**, Sai Tanmay Reddy Chakkera et.al., Paper: [http://arxiv.org/abs/2409.12156v1](http://arxiv.org/abs/2409.12156v1)
 - 2024-09-18, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v1](http://arxiv.org/abs/2409.12014v1), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
-- 2024-09-17, **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**, Zhongyan Niu et.al., Paper: [http://arxiv.org/abs/2409.10925v1](http://arxiv.org/abs/2409.10925v1)
+- 2024-09-21, **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**, Zhongyan Niu et.al., Paper: [http://arxiv.org/abs/2409.10925v2](http://arxiv.org/abs/2409.10925v2)
 - 2024-09-16, **Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**, Euntae Choi et.al., Paper: [http://arxiv.org/abs/2409.10327v1](http://arxiv.org/abs/2409.10327v1)
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
 - 2024-09-15, **NARF24: Estimating Articulated Object Structure for Implicit Rendering**, Stanley Lewis et.al., Paper: [http://arxiv.org/abs/2409.09829v1](http://arxiv.org/abs/2409.09829v1)
@@ -3772,7 +3772,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
