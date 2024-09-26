@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.09.25
+> Updated on 2024.09.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,13 @@
 
 ## SLAM
 
+- 2024-09-24, **SoMaSLAM: 2D Graph SLAM for Sparse Range Sensing with Soft Manhattan World Constraints**, Jeahn Han et.al., Paper: [http://arxiv.org/abs/2409.15736v1](http://arxiv.org/abs/2409.15736v1)
+- 2024-09-23, **Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**, Neelkamal Somisetty et.al., Paper: [http://arxiv.org/abs/2409.15506v1](http://arxiv.org/abs/2409.15506v1)
+- 2024-09-22, **SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**, Niraj Pudasaini et.al., Paper: [http://arxiv.org/abs/2409.14515v1](http://arxiv.org/abs/2409.14515v1)
+- 2024-09-21, **Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**, Donghwi Jung et.al., Paper: [http://arxiv.org/abs/2409.14020v1](http://arxiv.org/abs/2409.14020v1)
+- 2024-09-20, **HMD$^2$: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**, Vladimir Guzov et.al., Paper: [http://arxiv.org/abs/2409.13426v1](http://arxiv.org/abs/2409.13426v1)
+- 2024-09-19, **MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**, Yan Song Hu et.al., Paper: [http://arxiv.org/abs/2409.13055v1](http://arxiv.org/abs/2409.13055v1)
+- 2024-09-19, **Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**, Boying Li et.al., Paper: [http://arxiv.org/abs/2409.12518v1](http://arxiv.org/abs/2409.12518v1)
 - 2024-09-18, **Bundle Adjustment in the Eager Mode**, Zitong Zhan et.al., Paper: [http://arxiv.org/abs/2409.12190v1](http://arxiv.org/abs/2409.12190v1)
 - 2024-09-23, **Uncertainty-Aware Visual-Inertial SLAM with Volumetric Occupancy Mapping**, Jaehyung Jung et.al., Paper: [http://arxiv.org/abs/2409.12051v2](http://arxiv.org/abs/2409.12051v2)
 - 2024-09-18, **Metric-Semantic Factor Graph Generation based on Graph Neural Networks**, Jose Andres Millan-Romera et.al., Paper: [http://arxiv.org/abs/2409.11972v1](http://arxiv.org/abs/2409.11972v1)
@@ -940,10 +947,12 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## SFM
 
+- 2024-09-24, **Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**, Vandita Shukla et.al., Paper: [http://arxiv.org/abs/2409.15914v1](http://arxiv.org/abs/2409.15914v1)
+- 2024-09-23, **Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**, Francisco Roza de Moraes et.al., Paper: [http://arxiv.org/abs/2409.15602v1](http://arxiv.org/abs/2409.15602v1)
 - 2024-09-17, **GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**, Yichen Zhang et.al., Paper: [http://arxiv.org/abs/2409.11307v1](http://arxiv.org/abs/2409.11307v1)
 - 2024-09-13, **Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**, Shan Chen et.al., Paper: [http://arxiv.org/abs/2409.08613v1](http://arxiv.org/abs/2409.08613v1)
 - 2024-09-09, **KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**, Davide Di Nucci et.al., Paper: [http://arxiv.org/abs/2409.05407v1](http://arxiv.org/abs/2409.05407v1)
@@ -1159,10 +1168,14 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Visual Localization
 
+- 2024-09-23, **CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2409.15169v1](http://arxiv.org/abs/2409.15169v1)
+- 2024-09-21, **Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2409.14269v1](http://arxiv.org/abs/2409.14269v1)
+- 2024-09-21, **SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**, Hongjia Zhai et.al., Paper: [http://arxiv.org/abs/2409.14067v1](http://arxiv.org/abs/2409.14067v1)
+- 2024-09-20, **Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**, Morris Florek et.al., Paper: [http://arxiv.org/abs/2409.13513v1](http://arxiv.org/abs/2409.13513v1), Code: **[https://github.com/morrisfl/unifex](https://github.com/morrisfl/unifex)**
 - 2024-09-18, **Towards Global Localization using Multi-Modal Object-Instance Re-Identification**, Aneesh Chavan et.al., Paper: [http://arxiv.org/abs/2409.12002v1](http://arxiv.org/abs/2409.12002v1)
 - 2024-09-17, **Open-Set Semantic Uncertainty Aware Metric-Semantic Graph Matching**, Kurran Singh et.al., Paper: [http://arxiv.org/abs/2409.11555v1](http://arxiv.org/abs/2409.11555v1)
 - 2024-09-17, **Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**, Kunal Chelani et.al., Paper: [http://arxiv.org/abs/2409.11536v1](http://arxiv.org/abs/2409.11536v1)
@@ -2059,11 +2072,12 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2024-09-23, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v2](http://arxiv.org/abs/2409.08695v2), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
+- 2024-09-20, **Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**, Niloufar Amiri et.al., Paper: [http://arxiv.org/abs/2409.13668v1](http://arxiv.org/abs/2409.13668v1)
+- 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v3](http://arxiv.org/abs/2409.08695v3), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-09-06, **D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**, Kentaro Hirahara et.al., Paper: [http://arxiv.org/abs/2409.04060v1](http://arxiv.org/abs/2409.04060v1)
 - 2024-08-15, **Towards Practical Human Motion Prediction with LiDAR Point Clouds**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2408.08202v1](http://arxiv.org/abs/2408.08202v1)
 - 2024-07-31, **Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**, Xusheng Luo et.al., Paper: [http://arxiv.org/abs/2408.00117v1](http://arxiv.org/abs/2408.00117v1)
@@ -2279,13 +2293,14 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Image Matching
 
+- 2024-09-24, **Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**, Marek Wodzinski et.al., Paper: [http://arxiv.org/abs/2409.15931v1](http://arxiv.org/abs/2409.15931v1)
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-09-05, **Enabling Practical and Privacy-Preserving Image Processing**, Chao Wang et.al., Paper: [http://arxiv.org/abs/2409.03568v1](http://arxiv.org/abs/2409.03568v1)
-- 2024-09-20, **A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2409.03032v2](http://arxiv.org/abs/2409.03032v2)
+- 2024-09-20, **A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2409.03032v2](http://arxiv.org/abs/2409.03032v2), Code: **[https://github.com/gdaosu/albedo_aerial_photogrammetry](https://github.com/gdaosu/albedo_aerial_photogrammetry)**
 - 2024-09-15, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v2](http://arxiv.org/abs/2408.16445v2), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-26, **Affine steerers for structured keypoint description**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2408.14186v1](http://arxiv.org/abs/2408.14186v1), Code: **[https://github.com/georg-bn/affine-steerers](https://github.com/georg-bn/affine-steerers)**
 - 2024-09-11, **Coarse-to-fine Alignment Makes Better Speech-image Retrieval**, Lifeng Zhou et.al., Paper: [http://arxiv.org/abs/2408.13119v2](http://arxiv.org/abs/2408.13119v2)
@@ -2496,10 +2511,17 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## NeRF
 
+- 2024-09-23, **Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**, Peizhi Yan et.al., Paper: [http://arxiv.org/abs/2409.16147v1](http://arxiv.org/abs/2409.16147v1)
+- 2024-09-24, **Disentangled Generation and Aggregation for Robust Radiance Fields**, Shihe Shen et.al., Paper: [http://arxiv.org/abs/2409.15715v1](http://arxiv.org/abs/2409.15715v1)
+- 2024-09-24, **Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**, Jae Yong Lee et.al., Paper: [http://arxiv.org/abs/2409.15689v1](http://arxiv.org/abs/2409.15689v1)
+- 2024-09-23, **AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**, Samarth Chopra et.al., Paper: [http://arxiv.org/abs/2409.15487v1](http://arxiv.org/abs/2409.15487v1)
+- 2024-09-22, **MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**, Wangze Xu et.al., Paper: [http://arxiv.org/abs/2409.14316v1](http://arxiv.org/abs/2409.14316v1)
+- 2024-09-21, **MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors**, Zhenhua Du et.al., Paper: [http://arxiv.org/abs/2409.14019v1](http://arxiv.org/abs/2409.14019v1)
+- 2024-09-19, **CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**, Vladimir Frolov et.al., Paper: [http://arxiv.org/abs/2409.12617v1](http://arxiv.org/abs/2409.12617v1)
 - 2024-09-18, **JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**, Sai Tanmay Reddy Chakkera et.al., Paper: [http://arxiv.org/abs/2409.12156v1](http://arxiv.org/abs/2409.12156v1)
 - 2024-09-22, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v2](http://arxiv.org/abs/2409.12014v2), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
@@ -3772,7 +3794,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
