@@ -19,6 +19,12 @@
 
 ## SLAM
 
+- 2024-09-25, **Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**, Sotiris Papatheodorou et.al., Paper: [http://arxiv.org/abs/2409.16972v1](http://arxiv.org/abs/2409.16972v1)
+- 2024-09-25, **Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**, Phu Pham et.al., Paper: [http://arxiv.org/abs/2409.16944v1](http://arxiv.org/abs/2409.16944v1)
+- 2024-09-25, **Inline Photometrically Calibrated Hybrid Visual SLAM**, Nicolas Abboud et.al., Paper: [http://arxiv.org/abs/2409.16810v1](http://arxiv.org/abs/2409.16810v1)
+- 2024-09-25, **Topological SLAM in colonoscopies leveraging deep features and topological priors**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2409.16806v1](http://arxiv.org/abs/2409.16806v1)
+- 2024-09-25, **Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**, Masoud Dayani Najafabadi et.al., Paper: [http://arxiv.org/abs/2409.16595v1](http://arxiv.org/abs/2409.16595v1)
+- 2024-09-25, **Task-driven SLAM Benchmarking**, Yanwei Du et.al., Paper: [http://arxiv.org/abs/2409.16573v1](http://arxiv.org/abs/2409.16573v1)
 - 2024-09-24, **SoMaSLAM: 2D Graph SLAM for Sparse Range Sensing with Soft Manhattan World Constraints**, Jeahn Han et.al., Paper: [http://arxiv.org/abs/2409.15736v1](http://arxiv.org/abs/2409.15736v1)
 - 2024-09-23, **Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**, Neelkamal Somisetty et.al., Paper: [http://arxiv.org/abs/2409.15506v1](http://arxiv.org/abs/2409.15506v1)
 - 2024-09-22, **SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**, Niraj Pudasaini et.al., Paper: [http://arxiv.org/abs/2409.14515v1](http://arxiv.org/abs/2409.14515v1)
@@ -951,6 +957,8 @@
 
 ## SFM
 
+- 2024-09-24, **Frequency-based View Selection in Gaussian Splatting Reconstruction**, Monica M. Q. Li et.al., Paper: [http://arxiv.org/abs/2409.16470v1](http://arxiv.org/abs/2409.16470v1)
+- 2024-09-24, **Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**, Juan-Diego Florez et.al., Paper: [http://arxiv.org/abs/2409.16465v1](http://arxiv.org/abs/2409.16465v1)
 - 2024-09-24, **Exploring the potential of collaborative UAV 3D mapping in Kenyan savanna for wildlife research**, Vandita Shukla et.al., Paper: [http://arxiv.org/abs/2409.15914v1](http://arxiv.org/abs/2409.15914v1)
 - 2024-09-23, **Assessment of Submillimeter Precision via Structure from Motion Technique in Close-Range Capture Environments**, Francisco Roza de Moraes et.al., Paper: [http://arxiv.org/abs/2409.15602v1](http://arxiv.org/abs/2409.15602v1)
 - 2024-09-17, **GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**, Yichen Zhang et.al., Paper: [http://arxiv.org/abs/2409.11307v1](http://arxiv.org/abs/2409.11307v1)
@@ -1172,6 +1180,7 @@
 
 ## Visual Localization
 
+- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1)
 - 2024-09-23, **CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2409.15169v1](http://arxiv.org/abs/2409.15169v1)
 - 2024-09-21, **Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2409.14269v1](http://arxiv.org/abs/2409.14269v1)
 - 2024-09-21, **SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**, Hongjia Zhai et.al., Paper: [http://arxiv.org/abs/2409.14067v1](http://arxiv.org/abs/2409.14067v1)
@@ -2076,6 +2085,7 @@
 
 ## Keypoint Detection
 
+- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1)
 - 2024-09-20, **Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**, Niloufar Amiri et.al., Paper: [http://arxiv.org/abs/2409.13668v1](http://arxiv.org/abs/2409.13668v1)
 - 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v3](http://arxiv.org/abs/2409.08695v3), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-09-06, **D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**, Kentaro Hirahara et.al., Paper: [http://arxiv.org/abs/2409.04060v1](http://arxiv.org/abs/2409.04060v1)
@@ -2297,6 +2307,7 @@
 
 ## Image Matching
 
+- 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v1](http://arxiv.org/abs/2409.16925v1)
 - 2024-09-24, **Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**, Marek Wodzinski et.al., Paper: [http://arxiv.org/abs/2409.15931v1](http://arxiv.org/abs/2409.15931v1)
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-09-05, **Enabling Practical and Privacy-Preserving Image Processing**, Chao Wang et.al., Paper: [http://arxiv.org/abs/2409.03568v1](http://arxiv.org/abs/2409.03568v1)
@@ -2515,6 +2526,7 @@
 
 ## NeRF
 
+- 2024-09-25, **TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2409.16666v1](http://arxiv.org/abs/2409.16666v1)
 - 2024-09-23, **Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**, Peizhi Yan et.al., Paper: [http://arxiv.org/abs/2409.16147v1](http://arxiv.org/abs/2409.16147v1)
 - 2024-09-24, **Disentangled Generation and Aggregation for Robust Radiance Fields**, Shihe Shen et.al., Paper: [http://arxiv.org/abs/2409.15715v1](http://arxiv.org/abs/2409.15715v1)
 - 2024-09-24, **Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**, Jae Yong Lee et.al., Paper: [http://arxiv.org/abs/2409.15689v1](http://arxiv.org/abs/2409.15689v1)
