@@ -2527,7 +2527,7 @@
 ## NeRF
 
 - 2024-09-25, **TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2409.16666v1](http://arxiv.org/abs/2409.16666v1)
-- 2024-09-23, **Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**, Peizhi Yan et.al., Paper: [http://arxiv.org/abs/2409.16147v1](http://arxiv.org/abs/2409.16147v1)
+- 2024-09-26, **Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**, Peizhi Yan et.al., Paper: [http://arxiv.org/abs/2409.16147v2](http://arxiv.org/abs/2409.16147v2), Code: **[https://github.com/peizhiyan/flame-head-tracker](https://github.com/peizhiyan/flame-head-tracker)**
 - 2024-09-24, **Disentangled Generation and Aggregation for Robust Radiance Fields**, Shihe Shen et.al., Paper: [http://arxiv.org/abs/2409.15715v1](http://arxiv.org/abs/2409.15715v1)
 - 2024-09-24, **Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**, Jae Yong Lee et.al., Paper: [http://arxiv.org/abs/2409.15689v1](http://arxiv.org/abs/2409.15689v1)
 - 2024-09-23, **AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**, Samarth Chopra et.al., Paper: [http://arxiv.org/abs/2409.15487v1](http://arxiv.org/abs/2409.15487v1)
