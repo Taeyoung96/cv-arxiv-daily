@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-09-27, **Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2409.18752v1](http://arxiv.org/abs/2409.18752v1)
 - 2024-09-26, **BlinkTrack: Feature Tracking over 100 FPS via Events and Images**, Yichen Shen et.al., Paper: [http://arxiv.org/abs/2409.17981v1](http://arxiv.org/abs/2409.17981v1)
 - 2024-09-26, **Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**, Qi Zhang et.al., Paper: [http://arxiv.org/abs/2409.17729v1](http://arxiv.org/abs/2409.17729v1)
 - 2024-09-26, **Event-based Stereo Depth Estimation: A Survey**, Suman Ghosh et.al., Paper: [http://arxiv.org/abs/2409.17680v1](http://arxiv.org/abs/2409.17680v1)
@@ -960,6 +961,7 @@
 
 ## SFM
 
+- 2024-09-27, **Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**, Yipeng Lu et.al., Paper: [http://arxiv.org/abs/2409.18673v1](http://arxiv.org/abs/2409.18673v1)
 - 2024-09-26, **BlinkTrack: Feature Tracking over 100 FPS via Events and Images**, Yichen Shen et.al., Paper: [http://arxiv.org/abs/2409.17981v1](http://arxiv.org/abs/2409.17981v1)
 - 2024-09-24, **Frequency-based View Selection in Gaussian Splatting Reconstruction**, Monica M. Q. Li et.al., Paper: [http://arxiv.org/abs/2409.16470v1](http://arxiv.org/abs/2409.16470v1)
 - 2024-09-24, **Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**, Juan-Diego Florez et.al., Paper: [http://arxiv.org/abs/2409.16465v1](http://arxiv.org/abs/2409.16465v1)
@@ -1184,6 +1186,7 @@
 
 ## Visual Localization
 
+- 2024-09-26, **Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**, Mankeerat Sidhu et.al., Paper: [http://arxiv.org/abs/2409.18733v1](http://arxiv.org/abs/2409.18733v1)
 - 2024-09-26, **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**, Kartik Garg et.al., Paper: [http://arxiv.org/abs/2409.18049v1](http://arxiv.org/abs/2409.18049v1), Code: **[https://github.com/anyloc/revisit-anything](https://github.com/anyloc/revisit-anything)**
 - 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
 - 2024-09-23, **CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2409.15169v1](http://arxiv.org/abs/2409.15169v1)
@@ -2313,6 +2316,7 @@
 
 ## Image Matching
 
+- 2024-09-27, **Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**, Yipeng Lu et.al., Paper: [http://arxiv.org/abs/2409.18673v1](http://arxiv.org/abs/2409.18673v1)
 - 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v1](http://arxiv.org/abs/2409.16925v1), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
 - 2024-09-24, **Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**, Marek Wodzinski et.al., Paper: [http://arxiv.org/abs/2409.15931v1](http://arxiv.org/abs/2409.15931v1)
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
