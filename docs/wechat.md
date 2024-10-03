@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2024-10-02, **ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**, Hogyun Kim et.al., Paper: [http://arxiv.org/abs/2410.01325v1](http://arxiv.org/abs/2410.01325v1)
+- 2024-10-01, **Under Pressure: Altimeter-Aided ICP for 3D Maps Consistency**, William Dubois et.al., Paper: [http://arxiv.org/abs/2410.00758v1](http://arxiv.org/abs/2410.00758v1)
+- 2024-10-02, **CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**, Dapeng Feng et.al., Paper: [http://arxiv.org/abs/2410.00486v2](http://arxiv.org/abs/2410.00486v2)
+- 2024-09-30, **Additively Manufactured Open-Source Quadruped Robots for Multi-Robot SLAM Applications**, Zachary Fuge et.al., Paper: [http://arxiv.org/abs/2410.00122v1](http://arxiv.org/abs/2410.00122v1)
 - 2024-09-30, **Direct Multipath-Based SLAM**, Mingchao Liang et.al., Paper: [http://arxiv.org/abs/2409.20552v1](http://arxiv.org/abs/2409.20552v1)
 - 2024-09-30, **Robust Gaussian Splatting SLAM by Leveraging Loop Closure**, Zunjie Zhu et.al., Paper: [http://arxiv.org/abs/2409.20111v1](http://arxiv.org/abs/2409.20111v1)
 - 2024-09-30, **DynORecon: Dynamic Object Reconstruction for Navigation**, Yiduo Wang et.al., Paper: [http://arxiv.org/abs/2409.19928v1](http://arxiv.org/abs/2409.19928v1)
@@ -967,6 +971,7 @@
 
 ## SFM
 
+- 2024-10-01, **Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**, Hongchao Shu et.al., Paper: [http://arxiv.org/abs/2410.00386v1](http://arxiv.org/abs/2410.00386v1)
 - 2024-09-29, **Robust Incremental Structure-from-Motion with Hybrid Features**, Shaohui Liu et.al., Paper: [http://arxiv.org/abs/2409.19811v1](http://arxiv.org/abs/2409.19811v1)
 - 2024-09-27, **MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**, Bardienus Duisterhof et.al., Paper: [http://arxiv.org/abs/2409.19152v1](http://arxiv.org/abs/2409.19152v1)
 - 2024-09-27, **Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**, Yipeng Lu et.al., Paper: [http://arxiv.org/abs/2409.18673v1](http://arxiv.org/abs/2409.18673v1)
@@ -1194,6 +1199,10 @@
 
 ## Visual Localization
 
+- 2024-10-02, **Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**, Zaiquan Yang et.al., Paper: [http://arxiv.org/abs/2410.01544v1](http://arxiv.org/abs/2410.01544v1)
+- 2024-10-02, **EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**, Francesc Net et.al., Paper: [http://arxiv.org/abs/2410.01536v1](http://arxiv.org/abs/2410.01536v1)
+- 2024-10-02, **CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**, Safouane El Ghazouali et.al., Paper: [http://arxiv.org/abs/2410.01411v1](http://arxiv.org/abs/2410.01411v1)
+- 2024-09-30, **Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**, Aleyna Kütük et.al., Paper: [http://arxiv.org/abs/2410.00266v1](http://arxiv.org/abs/2410.00266v1)
 - 2024-09-29, **CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**, Yifan Duan et.al., Paper: [http://arxiv.org/abs/2409.19597v1](http://arxiv.org/abs/2409.19597v1)
 - 2024-09-28, **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2409.19293v1](http://arxiv.org/abs/2409.19293v1), Code: **[https://github.com/ahmedest61/vlad-buff](https://github.com/ahmedest61/vlad-buff)**
 - 2024-09-27, **MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**, Bardienus Duisterhof et.al., Paper: [http://arxiv.org/abs/2409.19152v1](http://arxiv.org/abs/2409.19152v1)
@@ -2104,6 +2113,7 @@
 
 ## Keypoint Detection
 
+- 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404v1](http://arxiv.org/abs/2410.01404v1)
 - 2024-09-30, **OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2409.19899v1](http://arxiv.org/abs/2409.19899v1)
 - 2024-09-26, **SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**, Xin Li et.al., Paper: [http://arxiv.org/abs/2409.18082v1](http://arxiv.org/abs/2409.18082v1)
 - 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
@@ -2548,6 +2558,11 @@
 
 ## NeRF
 
+- 2024-10-02, **EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**, Alexander Mai et.al., Paper: [http://arxiv.org/abs/2410.01804v1](http://arxiv.org/abs/2410.01804v1)
+- 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
+- 2024-10-02, **Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.01614v1](http://arxiv.org/abs/2410.01614v1)
+- 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404v1](http://arxiv.org/abs/2410.01404v1)
+- 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-30, **Distributed NeRF Learning for Collaborative Multi-Robot Perception**, Hongrui Zhao et.al., Paper: [http://arxiv.org/abs/2409.20289v1](http://arxiv.org/abs/2409.20289v1)
 - 2024-09-30, **Active Neural Mapping at Scale**, Zijia Kuang et.al., Paper: [http://arxiv.org/abs/2409.20276v1](http://arxiv.org/abs/2409.20276v1)
 - 2024-09-30, **OPONeRF: One-Point-One NeRF for Robust Neural Rendering**, Yu Zheng et.al., Paper: [http://arxiv.org/abs/2409.20043v1](http://arxiv.org/abs/2409.20043v1)
