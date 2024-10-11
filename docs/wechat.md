@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107v1](http://arxiv.org/abs/2410.08107v1), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
 - 2024-10-08, **Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**, Gongxin Yao et.al., Paper: [http://arxiv.org/abs/2410.06285v1](http://arxiv.org/abs/2410.06285v1)
 - 2024-10-08, **Submodular Optimization for Keyframe Selection & Usage in SLAM**, David Thorne et.al., Paper: [http://arxiv.org/abs/2410.05576v1](http://arxiv.org/abs/2410.05576v1)
 - 2024-10-07, **SharpSLAM: 3D Object-Oriented Visual SLAM with Deblurring for Agile Drones**, Denis Davletshin et.al., Paper: [http://arxiv.org/abs/2410.05405v1](http://arxiv.org/abs/2410.05405v1)
@@ -980,6 +981,7 @@
 
 ## SFM
 
+- 2024-10-09, **Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**, Ange Lou et.al., Paper: [http://arxiv.org/abs/2410.07434v1](http://arxiv.org/abs/2410.07434v1)
 - 2024-10-08, **Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**, Charalambos Tzamos et.al., Paper: [http://arxiv.org/abs/2410.05984v1](http://arxiv.org/abs/2410.05984v1), Code: **[https://github.com/kocurvik/rd](https://github.com/kocurvik/rd)**
 - 2024-10-04, **Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2410.03861v1](http://arxiv.org/abs/2410.03861v1)
 - 2024-10-01, **Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**, Hongchao Shu et.al., Paper: [http://arxiv.org/abs/2410.00386v1](http://arxiv.org/abs/2410.00386v1)
@@ -1210,6 +1212,7 @@
 
 ## Visual Localization
 
+- 2024-10-10, **A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**, Hoin Jung et.al., Paper: [http://arxiv.org/abs/2410.07593v1](http://arxiv.org/abs/2410.07593v1)
 - 2024-10-09, **Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**, Mohammad Omama et.al., Paper: [http://arxiv.org/abs/2410.07022v1](http://arxiv.org/abs/2410.07022v1)
 - 2024-10-09, **Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2410.06614v1](http://arxiv.org/abs/2410.06614v1)
 - 2024-10-09, **MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**, Noel C. F. Codella et.al., Paper: [http://arxiv.org/abs/2410.06542v1](http://arxiv.org/abs/2410.06542v1)
@@ -2582,12 +2585,15 @@
 
 ## NeRF
 
+- 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
+- 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107v1](http://arxiv.org/abs/2410.08107v1), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
+- 2024-10-09, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v1](http://arxiv.org/abs/2410.07418v1), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756v1](http://arxiv.org/abs/2410.06756v1)
 - 2024-10-09, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734v1](http://arxiv.org/abs/2410.06734v1)
 - 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475v1](http://arxiv.org/abs/2410.06475v1)
 - 2024-10-08, **Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**, Guoji Tian et.al., Paper: [http://arxiv.org/abs/2410.05772v1](http://arxiv.org/abs/2410.05772v1)
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
-- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v1](http://arxiv.org/abs/2410.05468v1)
+- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v1](http://arxiv.org/abs/2410.05468v1), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
 - 2024-10-07, **LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**, Qifeng Chen et.al., Paper: [http://arxiv.org/abs/2410.05111v1](http://arxiv.org/abs/2410.05111v1)
 - 2024-10-10, **6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**, Zhongpai Gao et.al., Paper: [http://arxiv.org/abs/2410.04974v2](http://arxiv.org/abs/2410.04974v2)
 - 2024-10-07, **TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**, Chonghao Zhong et.al., Paper: [http://arxiv.org/abs/2410.04873v1](http://arxiv.org/abs/2410.04873v1)
