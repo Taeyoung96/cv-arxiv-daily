@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
+- 2024-10-11, **Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**, Yicheng He et.al., Paper: [http://arxiv.org/abs/2410.08780v1](http://arxiv.org/abs/2410.08780v1)
+- 2024-10-10, **ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**, Mason B. Peterson et.al., Paper: [http://arxiv.org/abs/2410.08262v1](http://arxiv.org/abs/2410.08262v1)
 - 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107v1](http://arxiv.org/abs/2410.08107v1), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
 - 2024-10-08, **Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**, Gongxin Yao et.al., Paper: [http://arxiv.org/abs/2410.06285v1](http://arxiv.org/abs/2410.06285v1)
 - 2024-10-08, **Submodular Optimization for Keyframe Selection & Usage in SLAM**, David Thorne et.al., Paper: [http://arxiv.org/abs/2410.05576v1](http://arxiv.org/abs/2410.05576v1)
@@ -1212,6 +1215,9 @@
 
 ## Visual Localization
 
+- 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
+- 2024-10-11, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v1](http://arxiv.org/abs/2410.08469v1)
+- 2024-10-11, **A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**, Eugene P. W. Ang et.al., Paper: [http://arxiv.org/abs/2410.08456v1](http://arxiv.org/abs/2410.08456v1)
 - 2024-10-10, **A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**, Hoin Jung et.al., Paper: [http://arxiv.org/abs/2410.07593v1](http://arxiv.org/abs/2410.07593v1)
 - 2024-10-09, **Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**, Mohammad Omama et.al., Paper: [http://arxiv.org/abs/2410.07022v1](http://arxiv.org/abs/2410.07022v1)
 - 2024-10-09, **Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2410.06614v1](http://arxiv.org/abs/2410.06614v1)
@@ -2585,6 +2591,9 @@
 
 ## NeRF
 
+- 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
+- 2024-10-11, **MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**, Jaehoon Choi et.al., Paper: [http://arxiv.org/abs/2410.08941v1](http://arxiv.org/abs/2410.08941v1)
+- 2024-10-11, **Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**, Yicheng He et.al., Paper: [http://arxiv.org/abs/2410.08780v1](http://arxiv.org/abs/2410.08780v1)
 - 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
 - 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107v1](http://arxiv.org/abs/2410.08107v1), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
 - 2024-10-11, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v2](http://arxiv.org/abs/2410.07418v2), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
