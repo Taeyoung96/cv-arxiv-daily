@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.10.13
+> Updated on 2024.10.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -977,7 +977,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## SFM
 
@@ -1208,7 +1208,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2133,7 +2133,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2361,7 +2361,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2581,13 +2581,13 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 ## NeRF
 
 - 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181v1](http://arxiv.org/abs/2410.08181v1)
 - 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107v1](http://arxiv.org/abs/2410.08107v1), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
-- 2024-10-09, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v1](http://arxiv.org/abs/2410.07418v1), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
+- 2024-10-11, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v2](http://arxiv.org/abs/2410.07418v2), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756v1](http://arxiv.org/abs/2410.06756v1)
 - 2024-10-09, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734v1](http://arxiv.org/abs/2410.06734v1)
 - 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475v1](http://arxiv.org/abs/2410.06475v1)
@@ -3894,7 +3894,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
