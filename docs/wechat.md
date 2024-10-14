@@ -1221,7 +1221,7 @@
 - 2024-10-08, **GSLoc: Visual Localization with 3D Gaussian Splatting**, Kazii Botashev et.al., Paper: [http://arxiv.org/abs/2410.06165v1](http://arxiv.org/abs/2410.06165v1)
 - 2024-10-08, **Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**, Ayush Singh et.al., Paper: [http://arxiv.org/abs/2410.05928v1](http://arxiv.org/abs/2410.05928v1)
 - 2024-10-08, **RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**, Minsoo Kim et.al., Paper: [http://arxiv.org/abs/2410.05621v1](http://arxiv.org/abs/2410.05621v1)
-- 2024-10-09, **LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2410.05249v2](http://arxiv.org/abs/2410.05249v2)
+- 2024-10-11, **LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2410.05249v3](http://arxiv.org/abs/2410.05249v3)
 - 2024-10-06, **LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**, Jianhao Jiao et.al., Paper: [http://arxiv.org/abs/2410.04419v1](http://arxiv.org/abs/2410.04419v1)
 - 2024-10-02, **Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**, Zaiquan Yang et.al., Paper: [http://arxiv.org/abs/2410.01544v1](http://arxiv.org/abs/2410.01544v1)
 - 2024-10-03, **EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**, Francesc Net et.al., Paper: [http://arxiv.org/abs/2410.01536v2](http://arxiv.org/abs/2410.01536v2), Code: **[https://github.com/cesc47/eufcc-cir](https://github.com/cesc47/eufcc-cir)**
