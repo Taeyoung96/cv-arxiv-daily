@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2024-10-14, **MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**, Taozhe Li et.al., Paper: [http://arxiv.org/abs/2410.10669v1](http://arxiv.org/abs/2410.10669v1)
+- 2024-10-13, **Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph**, Benoit Casseau et.al., Paper: [http://arxiv.org/abs/2410.09896v1](http://arxiv.org/abs/2410.09896v1)
+- 2024-10-12, **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**, Wenxi Chen et.al., Paper: [http://arxiv.org/abs/2410.09503v1](http://arxiv.org/abs/2410.09503v1)
+- 2024-10-12, **An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**, Wei Liang et.al., Paper: [http://arxiv.org/abs/2410.09443v1](http://arxiv.org/abs/2410.09443v1)
+- 2024-10-12, **ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**, Junkai Niu et.al., Paper: [http://arxiv.org/abs/2410.09374v1](http://arxiv.org/abs/2410.09374v1), Code: **[https://github.com/nail-hnu/esvo2](https://github.com/nail-hnu/esvo2)**
 - 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
 - 2024-10-11, **Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**, Yicheng He et.al., Paper: [http://arxiv.org/abs/2410.08780v1](http://arxiv.org/abs/2410.08780v1)
 - 2024-10-10, **ROMAN: Open-Set Object Map Alignment for Robust View-Invariant Global Localization**, Mason B. Peterson et.al., Paper: [http://arxiv.org/abs/2410.08262v1](http://arxiv.org/abs/2410.08262v1)
@@ -984,6 +989,7 @@
 
 ## SFM
 
+- 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1)
 - 2024-10-09, **Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**, Ange Lou et.al., Paper: [http://arxiv.org/abs/2410.07434v1](http://arxiv.org/abs/2410.07434v1)
 - 2024-10-08, **Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**, Charalambos Tzamos et.al., Paper: [http://arxiv.org/abs/2410.05984v1](http://arxiv.org/abs/2410.05984v1), Code: **[https://github.com/kocurvik/rd](https://github.com/kocurvik/rd)**
 - 2024-10-04, **Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2410.03861v1](http://arxiv.org/abs/2410.03861v1)
@@ -1215,6 +1221,7 @@
 
 ## Visual Localization
 
+- 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1)
 - 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
 - 2024-10-11, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v1](http://arxiv.org/abs/2410.08469v1)
 - 2024-10-11, **A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**, Eugene P. W. Ang et.al., Paper: [http://arxiv.org/abs/2410.08456v1](http://arxiv.org/abs/2410.08456v1)
@@ -2143,6 +2150,7 @@
 
 ## Keypoint Detection
 
+- 2024-10-11, **Facial Chick Sexing: An Automated Chick Sexing System From Chick Facial Image**, Marta Veganzones Rodriguez et.al., Paper: [http://arxiv.org/abs/2410.09155v1](http://arxiv.org/abs/2410.09155v1)
 - 2024-10-08, **Unsupervised Model Diagnosis**, Yinong Oliver Wang et.al., Paper: [http://arxiv.org/abs/2410.06243v1](http://arxiv.org/abs/2410.06243v1)
 - 2024-10-08, **Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**, Xueyang Kang et.al., Paper: [http://arxiv.org/abs/2410.05729v1](http://arxiv.org/abs/2410.05729v1), Code: **[https://github.com/alexandor91/se3-equi-graph-registration](https://github.com/alexandor91/se3-equi-graph-registration)**
 - 2024-10-03, **Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**, Chengkai Hou et.al., Paper: [http://arxiv.org/abs/2410.02237v1](http://arxiv.org/abs/2410.02237v1)
@@ -2591,6 +2599,10 @@
 
 ## NeRF
 
+- 2024-10-14, **3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**, Eduardo R. Corral-Soto et.al., Paper: [http://arxiv.org/abs/2410.10782v1](http://arxiv.org/abs/2410.10782v1)
+- 2024-10-14, **NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**, Md Farhan Tasnim Oshim et.al., Paper: [http://arxiv.org/abs/2410.10085v1](http://arxiv.org/abs/2410.10085v1)
+- 2024-10-13, **Magnituder Layers for Implicit Neural Representations in 3D**, Sang Min Kim et.al., Paper: [http://arxiv.org/abs/2410.09771v1](http://arxiv.org/abs/2410.09771v1)
+- 2024-10-12, **Improving 3D Finger Traits Recognition via Generalizable Neural Rendering**, Hongbin Xu et.al., Paper: [http://arxiv.org/abs/2410.09582v1](http://arxiv.org/abs/2410.09582v1)
 - 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
 - 2024-10-11, **MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**, Jaehoon Choi et.al., Paper: [http://arxiv.org/abs/2410.08941v1](http://arxiv.org/abs/2410.08941v1)
 - 2024-10-11, **Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**, Yicheng He et.al., Paper: [http://arxiv.org/abs/2410.08780v1](http://arxiv.org/abs/2410.08780v1)
