@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-10-15, **GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**, Wancai Zheng et.al., Paper: [http://arxiv.org/abs/2410.11356v1](http://arxiv.org/abs/2410.11356v1)
+- 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
 - 2024-10-14, **MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**, Taozhe Li et.al., Paper: [http://arxiv.org/abs/2410.10669v1](http://arxiv.org/abs/2410.10669v1)
 - 2024-10-13, **Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph**, Benoit Casseau et.al., Paper: [http://arxiv.org/abs/2410.09896v1](http://arxiv.org/abs/2410.09896v1)
 - 2024-10-12, **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**, Wenxi Chen et.al., Paper: [http://arxiv.org/abs/2410.09503v1](http://arxiv.org/abs/2410.09503v1)
@@ -989,6 +991,7 @@
 
 ## SFM
 
+- 2024-10-15, **LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**, Yuzhou Cheng et.al., Paper: [http://arxiv.org/abs/2410.11505v1](http://arxiv.org/abs/2410.11505v1)
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1)
 - 2024-10-09, **Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**, Ange Lou et.al., Paper: [http://arxiv.org/abs/2410.07434v1](http://arxiv.org/abs/2410.07434v1)
 - 2024-10-08, **Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**, Charalambos Tzamos et.al., Paper: [http://arxiv.org/abs/2410.05984v1](http://arxiv.org/abs/2410.05984v1), Code: **[https://github.com/kocurvik/rd](https://github.com/kocurvik/rd)**
@@ -1221,6 +1224,8 @@
 
 ## Visual Localization
 
+- 2024-10-15, **LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**, Yuzhou Cheng et.al., Paper: [http://arxiv.org/abs/2410.11505v1](http://arxiv.org/abs/2410.11505v1)
+- 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1)
 - 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
 - 2024-10-11, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v1](http://arxiv.org/abs/2410.08469v1)
