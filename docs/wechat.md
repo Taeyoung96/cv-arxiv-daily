@@ -1228,7 +1228,7 @@
 - 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1)
 - 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
-- 2024-10-11, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v1](http://arxiv.org/abs/2410.08469v1)
+- 2024-10-16, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v2](http://arxiv.org/abs/2410.08469v2)
 - 2024-10-11, **A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**, Eugene P. W. Ang et.al., Paper: [http://arxiv.org/abs/2410.08456v1](http://arxiv.org/abs/2410.08456v1)
 - 2024-10-10, **A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**, Hoin Jung et.al., Paper: [http://arxiv.org/abs/2410.07593v1](http://arxiv.org/abs/2410.07593v1)
 - 2024-10-09, **Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**, Mohammad Omama et.al., Paper: [http://arxiv.org/abs/2410.07022v1](http://arxiv.org/abs/2410.07022v1)
