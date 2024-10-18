@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-10-17, **Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**, Dongkun Han et.al., Paper: [http://arxiv.org/abs/2410.13612v1](http://arxiv.org/abs/2410.13612v1)
+- 2024-10-17, **TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**, Yanpeng Jia et.al., Paper: [http://arxiv.org/abs/2410.13240v1](http://arxiv.org/abs/2410.13240v1)
 - 2024-10-16, **QueensCAMP: an RGB-D dataset for robust Visual SLAM**, Hudson M. S. Bruno et.al., Paper: [http://arxiv.org/abs/2410.12520v1](http://arxiv.org/abs/2410.12520v1)
 - 2024-10-16, **PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM**, Guanghao Li et.al., Paper: [http://arxiv.org/abs/2410.12324v1](http://arxiv.org/abs/2410.12324v1)
 - 2024-10-16, **Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**, Yichen Sha et.al., Paper: [http://arxiv.org/abs/2410.12169v1](http://arxiv.org/abs/2410.12169v1)
@@ -2617,6 +2619,10 @@
 
 ## NeRF
 
+- 2024-10-17, **DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**, Jiahao Lu et.al., Paper: [http://arxiv.org/abs/2410.13607v1](http://arxiv.org/abs/2410.13607v1)
+- 2024-10-17, **DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.13571v1](http://arxiv.org/abs/2410.13571v1)
+- 2024-10-17, **Object Pose Estimation Using Implicit Representation For Transparent Objects**, Varun Burde et.al., Paper: [http://arxiv.org/abs/2410.13465v1](http://arxiv.org/abs/2410.13465v1)
+- 2024-10-17, **GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**, Shuichang Lai et.al., Paper: [http://arxiv.org/abs/2410.13349v1](http://arxiv.org/abs/2410.13349v1)
 - 2024-10-16, **3D Gaussian Splatting in Robotics: A Survey**, Siting Zhu et.al., Paper: [http://arxiv.org/abs/2410.12262v1](http://arxiv.org/abs/2410.12262v1)
 - 2024-10-16, **EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**, Zhaorong Wang et.al., Paper: [http://arxiv.org/abs/2410.12242v1](http://arxiv.org/abs/2410.12242v1)
 - 2024-10-14, **3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**, Eduardo R. Corral-Soto et.al., Paper: [http://arxiv.org/abs/2410.10782v1](http://arxiv.org/abs/2410.10782v1)
