@@ -21,10 +21,10 @@
 
 - 2024-10-17, **Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**, Dongkun Han et.al., Paper: [http://arxiv.org/abs/2410.13612v1](http://arxiv.org/abs/2410.13612v1)
 - 2024-10-17, **TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**, Yanpeng Jia et.al., Paper: [http://arxiv.org/abs/2410.13240v1](http://arxiv.org/abs/2410.13240v1)
-- 2024-10-16, **QueensCAMP: an RGB-D dataset for robust Visual SLAM**, Hudson M. S. Bruno et.al., Paper: [http://arxiv.org/abs/2410.12520v1](http://arxiv.org/abs/2410.12520v1)
+- 2024-10-16, **QueensCAMP: an RGB-D dataset for robust Visual SLAM**, Hudson M. S. Bruno et.al., Paper: [http://arxiv.org/abs/2410.12520v1](http://arxiv.org/abs/2410.12520v1), Code: **[https://github.com/larocs/queenscamp-dataset](https://github.com/larocs/queenscamp-dataset)**
 - 2024-10-16, **PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM**, Guanghao Li et.al., Paper: [http://arxiv.org/abs/2410.12324v1](http://arxiv.org/abs/2410.12324v1)
 - 2024-10-16, **Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**, Yichen Sha et.al., Paper: [http://arxiv.org/abs/2410.12169v1](http://arxiv.org/abs/2410.12169v1)
-- 2024-10-15, **V3D-SLAM: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting**, Tuan Dang et.al., Paper: [http://arxiv.org/abs/2410.12068v1](http://arxiv.org/abs/2410.12068v1)
+- 2024-10-15, **V3D-SLAM: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting**, Tuan Dang et.al., Paper: [http://arxiv.org/abs/2410.12068v1](http://arxiv.org/abs/2410.12068v1), Code: **[https://github.com/tuantdang/v3d-slam](https://github.com/tuantdang/v3d-slam)**
 - 2024-10-15, **GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**, Wancai Zheng et.al., Paper: [http://arxiv.org/abs/2410.11356v1](http://arxiv.org/abs/2410.11356v1)
 - 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
 - 2024-10-14, **MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**, Taozhe Li et.al., Paper: [http://arxiv.org/abs/2410.10669v1](http://arxiv.org/abs/2410.10669v1)
@@ -997,7 +997,7 @@
 
 ## SFM
 
-- 2024-10-16, **Gravity-aligned Rotation Averaging with Circular Regression**, Linfei Pan et.al., Paper: [http://arxiv.org/abs/2410.12763v1](http://arxiv.org/abs/2410.12763v1)
+- 2024-10-16, **Gravity-aligned Rotation Averaging with Circular Regression**, Linfei Pan et.al., Paper: [http://arxiv.org/abs/2410.12763v1](http://arxiv.org/abs/2410.12763v1), Code: **[https://github.com/colmap/glomap](https://github.com/colmap/glomap)**
 - 2024-10-15, **SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**, Yizhe Liu et.al., Paper: [http://arxiv.org/abs/2410.12080v1](http://arxiv.org/abs/2410.12080v1)
 - 2024-10-15, **LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**, Yuzhou Cheng et.al., Paper: [http://arxiv.org/abs/2410.11505v1](http://arxiv.org/abs/2410.11505v1)
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1), Code: **[https://github.com/verlab/DescriptorReasoning_ACCV_2024](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**
@@ -1238,7 +1238,7 @@
 - 2024-10-15, **LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**, Yuzhou Cheng et.al., Paper: [http://arxiv.org/abs/2410.11505v1](http://arxiv.org/abs/2410.11505v1)
 - 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1), Code: **[https://github.com/verlab/DescriptorReasoning_ACCV_2024](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**
-- 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1)
+- 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1), Code: **[https://github.com/hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM)**
 - 2024-10-16, **Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**, Eunji Kim et.al., Paper: [http://arxiv.org/abs/2410.08469v2](http://arxiv.org/abs/2410.08469v2)
 - 2024-10-11, **A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**, Eugene P. W. Ang et.al., Paper: [http://arxiv.org/abs/2410.08456v1](http://arxiv.org/abs/2410.08456v1)
 - 2024-10-10, **A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**, Hoin Jung et.al., Paper: [http://arxiv.org/abs/2410.07593v1](http://arxiv.org/abs/2410.07593v1)
