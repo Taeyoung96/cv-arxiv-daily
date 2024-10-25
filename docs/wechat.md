@@ -1000,6 +1000,7 @@
 
 ## SFM
 
+- 2024-10-24, **Large Spatial Model: End-to-end Unposed Images to Semantic 3D**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2410.18956v1](http://arxiv.org/abs/2410.18956v1)
 - 2024-10-23, **PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2410.17505v1](http://arxiv.org/abs/2410.17505v1)
 - 2024-10-20, **Neural Active Structure-from-Motion in Dark and Textureless Environment**, Kazuto Ichimaru et.al., Paper: [http://arxiv.org/abs/2410.15378v1](http://arxiv.org/abs/2410.15378v1)
 - 2024-10-16, **Gravity-aligned Rotation Averaging with Circular Regression**, Linfei Pan et.al., Paper: [http://arxiv.org/abs/2410.12763v1](http://arxiv.org/abs/2410.12763v1), Code: **[https://github.com/colmap/glomap](https://github.com/colmap/glomap)**
@@ -1237,11 +1238,13 @@
 
 ## Visual Localization
 
+- 2024-10-24, **ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**, Zijia Zhao et.al., Paper: [http://arxiv.org/abs/2410.18715v1](http://arxiv.org/abs/2410.18715v1), Code: **[https://github.com/joez17/chatsearch](https://github.com/joez17/chatsearch)**
+- 2024-10-24, **On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**, Tomáš Pivoňka et.al., Paper: [http://arxiv.org/abs/2410.18573v1](http://arxiv.org/abs/2410.18573v1)
 - 2024-10-22, **Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**, Yuanmin Tang et.al., Paper: [http://arxiv.org/abs/2410.17393v1](http://arxiv.org/abs/2410.17393v1)
 - 2024-10-20, **GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**, Haiwen Diao et.al., Paper: [http://arxiv.org/abs/2410.15266v1](http://arxiv.org/abs/2410.15266v1), Code: **[https://github.com/paranioar/gssf](https://github.com/paranioar/gssf)**
 - 2024-10-19, **Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**, Marie Roald et.al., Paper: [http://arxiv.org/abs/2410.14969v1](http://arxiv.org/abs/2410.14969v1), Code: **[https://github.com/Sprakbanken/CHR24-image-retrieval](https://github.com/Sprakbanken/CHR24-image-retrieval)**
 - 2024-10-16, **Development of Image Collection Method Using YOLO and Siamese Network**, Chan Young Shin et.al., Paper: [http://arxiv.org/abs/2410.12561v1](http://arxiv.org/abs/2410.12561v1)
-- 2024-10-16, **LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**, Juelin Zhu et.al., Paper: [http://arxiv.org/abs/2410.12269v1](http://arxiv.org/abs/2410.12269v1)
+- 2024-10-16, **LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**, Juelin Zhu et.al., Paper: [http://arxiv.org/abs/2410.12269v1](http://arxiv.org/abs/2410.12269v1), Code: **[https://github.com/VictorZoo/LoD-Loc](https://github.com/VictorZoo/LoD-Loc)**
 - 2024-10-16, **Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**, Nanda Febri Istighfarin et.al., Paper: [http://arxiv.org/abs/2410.12240v1](http://arxiv.org/abs/2410.12240v1)
 - 2024-10-15, **LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**, Yuzhou Cheng et.al., Paper: [http://arxiv.org/abs/2410.11505v1](http://arxiv.org/abs/2410.11505v1)
 - 2024-10-15, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v1](http://arxiv.org/abs/2410.11187v1)
@@ -2629,13 +2632,16 @@
 
 ## NeRF
 
+- 2024-10-24, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822v1](http://arxiv.org/abs/2410.18822v1)
+- 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355v1](http://arxiv.org/abs/2410.18355v1), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
+- 2024-10-22, **Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**, Shrey Vishen et.al., Paper: [http://arxiv.org/abs/2410.18137v1](http://arxiv.org/abs/2410.18137v1), Code: **[https://github.com/shreyvish5678/SR-NeRF-with-Variational-Diffusion-Strategies](https://github.com/shreyvish5678/SR-NeRF-with-Variational-Diffusion-Strategies)**
 - 2024-10-23, **VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**, Linus Franke et.al., Paper: [http://arxiv.org/abs/2410.17932v1](http://arxiv.org/abs/2410.17932v1)
 - 2024-10-23, **Few-shot NeRF by Adaptive Rendering Loss Regularization**, Qingshan Xu et.al., Paper: [http://arxiv.org/abs/2410.17839v1](http://arxiv.org/abs/2410.17839v1)
-- 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741v1](http://arxiv.org/abs/2410.17741v1)
+- 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741v1](http://arxiv.org/abs/2410.17741v1), Code: **[https://github.com/HZXu-526/Human-Avatar](https://github.com/HZXu-526/Human-Avatar)**
 - 2024-10-23, **PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2410.17505v1](http://arxiv.org/abs/2410.17505v1)
 - 2024-10-22, **LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**, Haian Jin et.al., Paper: [http://arxiv.org/abs/2410.17242v1](http://arxiv.org/abs/2410.17242v1)
 - 2024-10-18, **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2410.17084v1](http://arxiv.org/abs/2410.17084v1)
-- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995v1](http://arxiv.org/abs/2410.16995v1)
+- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995v1](http://arxiv.org/abs/2410.16995v1), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 - 2024-10-21, **Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**, Malte Prinzler et.al., Paper: [http://arxiv.org/abs/2410.16395v1](http://arxiv.org/abs/2410.16395v1)
 - 2024-10-21, **FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**, Chin-Yang Lin et.al., Paper: [http://arxiv.org/abs/2410.16271v1](http://arxiv.org/abs/2410.16271v1)
 - 2024-10-22, **EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**, Bohao Liao et.al., Paper: [http://arxiv.org/abs/2410.15392v2](http://arxiv.org/abs/2410.15392v2)
