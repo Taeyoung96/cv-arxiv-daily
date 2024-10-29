@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-10-28, **coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**, Emiliano Höss et.al., Paper: [http://arxiv.org/abs/2410.21149v1](http://arxiv.org/abs/2410.21149v1)
+- 2024-10-27, **RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**, Mingjiang Liang et.al., Paper: [http://arxiv.org/abs/2410.20358v1](http://arxiv.org/abs/2410.20358v1)
 - 2024-10-25, **Context-Based Visual-Language Place Recognition**, Soojin Woo et.al., Paper: [http://arxiv.org/abs/2410.19341v1](http://arxiv.org/abs/2410.19341v1), Code: **[https://github.com/woo-soojin/context-based-vlpr](https://github.com/woo-soojin/context-based-vlpr)**
 - 2024-10-22, **AG-SLAM: Active Gaussian Splatting SLAM**, Wen Jiang et.al., Paper: [http://arxiv.org/abs/2410.17422v1](http://arxiv.org/abs/2410.17422v1)
 - 2024-10-22, **Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**, J. Jorge et.al., Paper: [http://arxiv.org/abs/2410.17171v1](http://arxiv.org/abs/2410.17171v1)
@@ -2414,6 +2416,7 @@
 
 ## Image Matching
 
+- 2024-10-26, **Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**, Yue Su et.al., Paper: [http://arxiv.org/abs/2410.20097v1](http://arxiv.org/abs/2410.20097v1)
 - 2024-10-01, **A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2410.11848v1](http://arxiv.org/abs/2410.11848v1)
 - 2024-09-27, **Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**, Yipeng Lu et.al., Paper: [http://arxiv.org/abs/2409.18673v1](http://arxiv.org/abs/2409.18673v1)
 - 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v1](http://arxiv.org/abs/2409.16925v1), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
@@ -2635,6 +2638,9 @@
 
 ## NeRF
 
+- 2024-10-28, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981v1](http://arxiv.org/abs/2410.20981v1)
+- 2024-10-28, **ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**, Suyoung Lee et.al., Paper: [http://arxiv.org/abs/2410.20686v1](http://arxiv.org/abs/2410.20686v1)
+- 2024-10-27, **GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**, Yusuke Sekikawa et.al., Paper: [http://arxiv.org/abs/2410.20306v1](http://arxiv.org/abs/2410.20306v1)
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
 - 2024-10-25, **Evaluation of strategies for efficient rate-distortion NeRF streaming**, Pedro Martin et.al., Paper: [http://arxiv.org/abs/2410.19459v1](http://arxiv.org/abs/2410.19459v1)
 - 2024-10-27, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822v2](http://arxiv.org/abs/2410.18822v2)
