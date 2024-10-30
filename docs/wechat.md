@@ -2638,7 +2638,7 @@
 
 ## NeRF
 
-- 2024-10-28, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981v1](http://arxiv.org/abs/2410.20981v1)
+- 2024-10-29, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981v2](http://arxiv.org/abs/2410.20981v2)
 - 2024-10-28, **ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**, Suyoung Lee et.al., Paper: [http://arxiv.org/abs/2410.20686v1](http://arxiv.org/abs/2410.20686v1)
 - 2024-10-27, **GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**, Yusuke Sekikawa et.al., Paper: [http://arxiv.org/abs/2410.20306v1](http://arxiv.org/abs/2410.20306v1)
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
