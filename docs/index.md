@@ -25,6 +25,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
+|**2024-10-30**|**ISAC Prototype System for Multi-Domain Cooperative Communication Networks**|Jie Yang et.al.|[2410.22956v1](http://arxiv.org/abs/2410.22956v1)|null|
+|**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
 |**2024-10-29**|**EnvoDat: A Large-Scale Multisensory Dataset for Robotic Spatial Awareness and Semantic Reasoning in Heterogeneous Environments**|Linus Nwankwo et.al.|[2410.22200v1](http://arxiv.org/abs/2410.22200v1)|null|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|null|
 |**2024-10-28**|**coVoxSLAM: GPU Accelerated Globally Consistent Dense SLAM**|Emiliano Höss et.al.|[2410.21149v1](http://arxiv.org/abs/2410.21149v1)|null|
@@ -1313,6 +1316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107v1](http://arxiv.org/abs/2410.23107v1)|null|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943v1](http://arxiv.org/abs/2410.21943v1)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|null|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341v1](http://arxiv.org/abs/2410.19341v1)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
@@ -2519,6 +2523,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280v1](http://arxiv.org/abs/2410.23280v1)|null|
+|**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710v1](http://arxiv.org/abs/2410.22710v1)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097v1](http://arxiv.org/abs/2410.20097v1)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848v1](http://arxiv.org/abs/2410.11848v1)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|
@@ -2756,6 +2762,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936v1](http://arxiv.org/abs/2410.22936v1)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566v1](http://arxiv.org/abs/2410.21566v1)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v2](http://arxiv.org/abs/2410.20981v2)|null|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686v1](http://arxiv.org/abs/2410.20686v1)|null|
