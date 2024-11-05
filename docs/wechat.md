@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-11-04, **Semantic Masking and Visual Feature Matching for Robust Localization**, Luisa Mao et.al., Paper: [http://arxiv.org/abs/2411.01804v1](http://arxiv.org/abs/2411.01804v1)
 - 2024-10-31, **XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**, Xiaomeng Wang et.al., Paper: [http://arxiv.org/abs/2410.23690v1](http://arxiv.org/abs/2410.23690v1)
 - 2024-10-30, **LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**, Yucheng Huang et.al., Paper: [http://arxiv.org/abs/2410.23231v1](http://arxiv.org/abs/2410.23231v1), Code: **[https://github.com/uestc-nnlab/lgu-slam](https://github.com/uestc-nnlab/lgu-slam)**
 - 2024-10-30, **ISAC Prototype System for Multi-Domain Cooperative Communication Networks**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2410.22956v1](http://arxiv.org/abs/2410.22956v1)
@@ -1249,6 +1250,10 @@
 
 ## Visual Localization
 
+- 2024-11-04, **Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**, Sharat Agarwal et.al., Paper: [http://arxiv.org/abs/2411.01925v1](http://arxiv.org/abs/2411.01925v1)
+- 2024-11-04, **Semantic Masking and Visual Feature Matching for Robust Localization**, Luisa Mao et.al., Paper: [http://arxiv.org/abs/2411.01804v1](http://arxiv.org/abs/2411.01804v1)
+- 2024-11-03, **Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**, MD Shaikh Rahman et.al., Paper: [http://arxiv.org/abs/2411.01473v1](http://arxiv.org/abs/2411.01473v1)
+- 2024-11-01, **Identifying Implicit Social Biases in Vision-Language Models**, Kimia Hamidieh et.al., Paper: [http://arxiv.org/abs/2411.00997v1](http://arxiv.org/abs/2411.00997v1)
 - 2024-10-31, **Nearest Neighbor Normalization Improves Multimodal Retrieval**, Neil Chowdhury et.al., Paper: [http://arxiv.org/abs/2410.24114v1](http://arxiv.org/abs/2410.24114v1), Code: **[https://github.com/multimodal-interpretability/nnn](https://github.com/multimodal-interpretability/nnn)**
 - 2024-10-31, **MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**, Haiwen Li et.al., Paper: [http://arxiv.org/abs/2410.23736v1](http://arxiv.org/abs/2410.23736v1)
 - 2024-10-30, **Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**, Tassilo Wald et.al., Paper: [http://arxiv.org/abs/2410.23107v1](http://arxiv.org/abs/2410.23107v1)
@@ -2194,6 +2199,8 @@
 
 ## Keypoint Detection
 
+- 2024-11-04, **Silver medal Solution for Image Matching Challenge 2024**, Yian Wang et.al., Paper: [http://arxiv.org/abs/2411.01851v1](http://arxiv.org/abs/2411.01851v1)
+- 2024-11-04, **KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2411.01846v1](http://arxiv.org/abs/2411.01846v1)
 - 2024-10-31, **From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**, Vasileios Tzouras et.al., Paper: [http://arxiv.org/abs/2410.23906v1](http://arxiv.org/abs/2410.23906v1)
 - 2024-10-04, **Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**, Aman Anand et.al., Paper: [http://arxiv.org/abs/2410.14700v1](http://arxiv.org/abs/2410.14700v1)
 - 2024-10-18, **Sim2real Cattle Joint Estimation in 3D point clouds**, Okour Mohammad et.al., Paper: [http://arxiv.org/abs/2410.14419v1](http://arxiv.org/abs/2410.14419v1)
@@ -2429,6 +2436,7 @@
 
 ## Image Matching
 
+- 2024-11-04, **Silver medal Solution for Image Matching Challenge 2024**, Yian Wang et.al., Paper: [http://arxiv.org/abs/2411.01851v1](http://arxiv.org/abs/2411.01851v1)
 - 2024-10-30, **Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**, Azadeh Sharafi et.al., Paper: [http://arxiv.org/abs/2410.23329v1](http://arxiv.org/abs/2410.23329v1)
 - 2024-10-30, **RelationBooth: Towards Relation-Aware Customized Object Generation**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2410.23280v1](http://arxiv.org/abs/2410.23280v1)
 - 2024-10-30, **LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**, Naijian Cao et.al., Paper: [http://arxiv.org/abs/2410.22710v1](http://arxiv.org/abs/2410.22710v1)
@@ -2654,6 +2662,10 @@
 
 ## NeRF
 
+- 2024-11-04, **FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**, Ruihong Yin et.al., Paper: [http://arxiv.org/abs/2411.02229v1](http://arxiv.org/abs/2411.02229v1)
+- 2024-11-04, **GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**, Gaochao Song et.al., Paper: [http://arxiv.org/abs/2411.01853v1](http://arxiv.org/abs/2411.01853v1)
+- 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
+- 2024-11-01, **ZIM: Zero-Shot Image Matting for Anything**, Beomyoung Kim et.al., Paper: [http://arxiv.org/abs/2411.00626v1](http://arxiv.org/abs/2411.00626v1), Code: **[https://github.com/naver-ai/zim](https://github.com/naver-ai/zim)**
 - 2024-10-31, **Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**, Karim Kassab et.al., Paper: [http://arxiv.org/abs/2410.23742v1](http://arxiv.org/abs/2410.23742v1)
 - 2024-10-31, **Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer**, Tyler Ga Wei Lum et.al., Paper: [http://arxiv.org/abs/2410.23701v1](http://arxiv.org/abs/2410.23701v1)
 - 2024-10-31, **XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**, Xiaomeng Wang et.al., Paper: [http://arxiv.org/abs/2410.23690v1](http://arxiv.org/abs/2410.23690v1)
