@@ -2670,8 +2670,8 @@
 - 2024-11-05, **Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**, Liv Kåreborn et.al., Paper: [http://arxiv.org/abs/2411.02972v1](http://arxiv.org/abs/2411.02972v1)
 - 2024-11-05, **Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**, Xavier Timoneda et.al., Paper: [http://arxiv.org/abs/2411.02969v1](http://arxiv.org/abs/2411.02969v1)
 - 2024-11-04, **NeRF-Aug: Data Augmentation for Robotics with Neural Radiance Fields**, Eric Zhu et.al., Paper: [http://arxiv.org/abs/2411.02482v1](http://arxiv.org/abs/2411.02482v1)
-- 2024-11-04, **FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**, Ruihong Yin et.al., Paper: [http://arxiv.org/abs/2411.02229v1](http://arxiv.org/abs/2411.02229v1)
-- 2024-11-04, **GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**, Gaochao Song et.al., Paper: [http://arxiv.org/abs/2411.01853v1](http://arxiv.org/abs/2411.01853v1)
+- 2024-11-05, **FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**, Ruihong Yin et.al., Paper: [http://arxiv.org/abs/2411.02229v2](http://arxiv.org/abs/2411.02229v2)
+- 2024-11-06, **GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**, Gaochao Song et.al., Paper: [http://arxiv.org/abs/2411.01853v2](http://arxiv.org/abs/2411.01853v2)
 - 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 - 2024-11-01, **ZIM: Zero-Shot Image Matting for Anything**, Beomyoung Kim et.al., Paper: [http://arxiv.org/abs/2411.00626v1](http://arxiv.org/abs/2411.00626v1), Code: **[https://github.com/naver-ai/zim](https://github.com/naver-ai/zim)**
 - 2024-10-31, **Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**, Karim Kassab et.al., Paper: [http://arxiv.org/abs/2410.23742v1](http://arxiv.org/abs/2410.23742v1)
