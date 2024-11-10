@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2024-11-07, **Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**, Sayat Ibrayev et.al., Paper: [http://arxiv.org/abs/2411.04797v1](http://arxiv.org/abs/2411.04797v1)
-- 2024-11-06, **DEIO: Deep Event Inertial Odometry**, Weipeng Guan et.al., Paper: [http://arxiv.org/abs/2411.03928v1](http://arxiv.org/abs/2411.03928v1)
+- 2024-11-06, **DEIO: Deep Event Inertial Odometry**, Weipeng Guan et.al., Paper: [http://arxiv.org/abs/2411.03928v1](http://arxiv.org/abs/2411.03928v1), Code: **[https://github.com/arclab-hku/deio](https://github.com/arclab-hku/deio)**
 - 2024-11-06, **Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**, Shashi Kumar et.al., Paper: [http://arxiv.org/abs/2411.03866v1](http://arxiv.org/abs/2411.03866v1)
 - 2024-11-06, **LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**, Jiahui Wang et.al., Paper: [http://arxiv.org/abs/2411.03610v1](http://arxiv.org/abs/2411.03610v1), Code: **[https://github.com/laliwang/lcp-fusion](https://github.com/laliwang/lcp-fusion)**
 - 2024-11-05, **LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**, Huibin Zhao et.al., Paper: [http://arxiv.org/abs/2411.02703v1](http://arxiv.org/abs/2411.02703v1)
@@ -2674,7 +2674,7 @@
 - 2024-11-07, **GANESH: Generalizable NeRF for Lensless Imaging**, Rakesh Raj Madavan et.al., Paper: [http://arxiv.org/abs/2411.04810v1](http://arxiv.org/abs/2411.04810v1)
 - 2024-11-07, **SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**, Xun Tu et.al., Paper: [http://arxiv.org/abs/2411.04386v1](http://arxiv.org/abs/2411.04386v1)
 - 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
-- 2024-11-05, **Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**, Yichen Wang et.al., Paper: [http://arxiv.org/abs/2411.03487v1](http://arxiv.org/abs/2411.03487v1)
+- 2024-11-05, **Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**, Yichen Wang et.al., Paper: [http://arxiv.org/abs/2411.03487v1](http://arxiv.org/abs/2411.03487v1), Code: **[https://github.com/IRMVLab/NUE-NeRF-nav](https://github.com/IRMVLab/NUE-NeRF-nav)**
 - 2024-11-05, **CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**, Xin Wen et.al., Paper: [http://arxiv.org/abs/2411.02979v1](http://arxiv.org/abs/2411.02979v1)
 - 2024-11-05, **Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**, Liv Kåreborn et.al., Paper: [http://arxiv.org/abs/2411.02972v1](http://arxiv.org/abs/2411.02972v1)
 - 2024-11-05, **Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**, Xavier Timoneda et.al., Paper: [http://arxiv.org/abs/2411.02969v1](http://arxiv.org/abs/2411.02969v1)
