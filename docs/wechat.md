@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-11-12, **NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**, Sonia Raychaudhuri et.al., Paper: [http://arxiv.org/abs/2411.07848v1](http://arxiv.org/abs/2411.07848v1)
 - 2024-11-11, **Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**, Yasra Chandio et.al., Paper: [http://arxiv.org/abs/2411.07146v1](http://arxiv.org/abs/2411.07146v1)
 - 2024-11-11, **Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**, Jungseok Hong et.al., Paper: [http://arxiv.org/abs/2411.06752v1](http://arxiv.org/abs/2411.06752v1)
 - 2024-11-11, **HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**, Xiaolong Wang et.al., Paper: [http://arxiv.org/abs/2411.06700v1](http://arxiv.org/abs/2411.06700v1)
@@ -2450,6 +2451,7 @@
 
 ## Image Matching
 
+- 2024-11-11, **XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**, Ismail Can Yagmur et.al., Paper: [http://arxiv.org/abs/2411.07430v1](http://arxiv.org/abs/2411.07430v1), Code: **[https://github.com/canyagmur/xpoint](https://github.com/canyagmur/xpoint)**
 - 2024-11-04, **Silver medal Solution for Image Matching Challenge 2024**, Yian Wang et.al., Paper: [http://arxiv.org/abs/2411.01851v1](http://arxiv.org/abs/2411.01851v1)
 - 2024-10-30, **Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**, Azadeh Sharafi et.al., Paper: [http://arxiv.org/abs/2410.23329v1](http://arxiv.org/abs/2410.23329v1)
 - 2024-11-05, **RelationBooth: Towards Relation-Aware Customized Object Generation**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2410.23280v2](http://arxiv.org/abs/2410.23280v2)
@@ -2676,6 +2678,7 @@
 
 ## NeRF
 
+- 2024-11-12, **Material Transforms from Disentangled NeRF Representations**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2411.08037v1](http://arxiv.org/abs/2411.08037v1), Code: **[https://github.com/astra-vision/brdftransform](https://github.com/astra-vision/brdftransform)**
 - 2024-11-11, **LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**, Zefan Qu et.al., Paper: [http://arxiv.org/abs/2411.06757v1](http://arxiv.org/abs/2411.06757v1)
 - 2024-11-10, **Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**, Liuyue Xie et.al., Paper: [http://arxiv.org/abs/2411.06365v1](http://arxiv.org/abs/2411.06365v1)
 - 2024-11-09, **AI-Driven Stylization of 3D Environments**, Yuanbo Chen et.al., Paper: [http://arxiv.org/abs/2411.06067v1](http://arxiv.org/abs/2411.06067v1)
