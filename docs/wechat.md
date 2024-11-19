@@ -19,6 +19,11 @@
 
 ## SLAM
 
+- 2024-11-18, **Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**, Antonios Gasteratos et.al., Paper: [http://arxiv.org/abs/2411.11481v1](http://arxiv.org/abs/2411.11481v1)
+- 2024-11-18, **The Blue Horizontal-Branch Stars From the LAMOST Survey: Atmospheric Parameters**, Jie Ju et.al., Paper: [http://arxiv.org/abs/2411.11250v1](http://arxiv.org/abs/2411.11250v1)
+- 2024-11-17, **A Monocular SLAM-based Multi-User Positioning System with Image Occlusion in Augmented Reality**, Wei-Hsiang Lien et.al., Paper: [http://arxiv.org/abs/2411.10940v1](http://arxiv.org/abs/2411.10940v1)
+- 2024-11-16, **DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**, Mangyu Kong et.al., Paper: [http://arxiv.org/abs/2411.10722v1](http://arxiv.org/abs/2411.10722v1)
+- 2024-11-15, **The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2411.10546v1](http://arxiv.org/abs/2411.10546v1)
 - 2024-11-13, **DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**, Yueming Xu et.al., Paper: [http://arxiv.org/abs/2411.08373v1](http://arxiv.org/abs/2411.08373v1)
 - 2024-11-13, **MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2411.08279v1](http://arxiv.org/abs/2411.08279v1), Code: **[https://github.com/wu-cvgl/mba-slam](https://github.com/wu-cvgl/mba-slam)**
 - 2024-11-12, **NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**, Sonia Raychaudhuri et.al., Paper: [http://arxiv.org/abs/2411.07848v1](http://arxiv.org/abs/2411.07848v1)
@@ -1023,6 +1028,7 @@
 
 ## SFM
 
+- 2024-11-15, **The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2411.10546v1](http://arxiv.org/abs/2411.10546v1)
 - 2024-11-13, **4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**, Mijeong Kim et.al., Paper: [http://arxiv.org/abs/2411.08879v1](http://arxiv.org/abs/2411.08879v1)
 - 2024-11-13, **Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**, Yutao Shen et.al., Paper: [http://arxiv.org/abs/2411.08453v1](http://arxiv.org/abs/2411.08453v1)
 - 2024-11-08, **From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$-NeuS**, Haoran Zhang et.al., Paper: [http://arxiv.org/abs/2411.05362v1](http://arxiv.org/abs/2411.05362v1)
@@ -1266,6 +1272,7 @@
 
 ## Visual Localization
 
+- 2024-11-18, **Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**, Antonios Gasteratos et.al., Paper: [http://arxiv.org/abs/2411.11481v1](http://arxiv.org/abs/2411.11481v1)
 - 2024-11-13, **OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2411.08665v1](http://arxiv.org/abs/2411.08665v1)
 - 2024-11-13, **Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**, Saul Santos et.al., Paper: [http://arxiv.org/abs/2411.08590v1](http://arxiv.org/abs/2411.08590v1), Code: **[https://github.com/deep-spin/HFYN](https://github.com/deep-spin/HFYN)**
 - 2024-11-13, **Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**, Ashkan Nejad et.al., Paper: [http://arxiv.org/abs/2411.08567v1](http://arxiv.org/abs/2411.08567v1), Code: **[https://github.com/arnejad/smikm](https://github.com/arnejad/smikm)**
@@ -2687,6 +2694,10 @@
 
 ## NeRF
 
+- 2024-11-18, **Towards Degradation-Robust Reconstruction in Generalizable NeRF**, Chan Ho Park et.al., Paper: [http://arxiv.org/abs/2411.11691v1](http://arxiv.org/abs/2411.11691v1)
+- 2024-11-18, **LeC$^2$O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2411.11374v1](http://arxiv.org/abs/2411.11374v1)
+- 2024-11-15, **The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2411.10546v1](http://arxiv.org/abs/2411.10546v1)
+- 2024-11-15, **USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2411.10504v1](http://arxiv.org/abs/2411.10504v1), Code: **[https://github.com/chenkang455/usp-gaussian](https://github.com/chenkang455/usp-gaussian)**
 - 2024-11-15, **GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**, Yanhao Sun et.al., Paper: [http://arxiv.org/abs/2411.10033v1](http://arxiv.org/abs/2411.10033v1)
 - 2024-11-13, **BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**, David Svitov et.al., Paper: [http://arxiv.org/abs/2411.08508v1](http://arxiv.org/abs/2411.08508v1)
 - 2024-11-13, **Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**, Yutao Shen et.al., Paper: [http://arxiv.org/abs/2411.08453v1](http://arxiv.org/abs/2411.08453v1)
