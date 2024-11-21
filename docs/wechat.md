@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-11-20, **Moving Horizon Estimation for Simultaneous Localization and Mapping with Robust Estimation Error Bounds**, Jelena Trisovic et.al., Paper: [http://arxiv.org/abs/2411.13310v1](http://arxiv.org/abs/2411.13310v1)
 - 2024-11-19, **3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**, Hanbeom Chang et.al., Paper: [http://arxiv.org/abs/2411.12514v1](http://arxiv.org/abs/2411.12514v1)
 - 2024-11-19, **LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**, Renxiang Xiao et.al., Paper: [http://arxiv.org/abs/2411.12185v1](http://arxiv.org/abs/2411.12185v1)
 - 2024-11-18, **Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**, Antonios Gasteratos et.al., Paper: [http://arxiv.org/abs/2411.11481v1](http://arxiv.org/abs/2411.11481v1)
@@ -1030,6 +1031,7 @@
 
 ## SFM
 
+- 2024-11-20, **DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2411.13291v1](http://arxiv.org/abs/2411.13291v1)
 - 2024-11-15, **SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**, Yutao Tang et.al., Paper: [http://arxiv.org/abs/2411.12592v1](http://arxiv.org/abs/2411.12592v1), Code: **[https://github.com/snldmt/SPARS3R](https://github.com/snldmt/SPARS3R)**
 - 2024-11-15, **The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2411.10546v1](http://arxiv.org/abs/2411.10546v1)
 - 2024-11-13, **4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**, Mijeong Kim et.al., Paper: [http://arxiv.org/abs/2411.08879v1](http://arxiv.org/abs/2411.08879v1)
@@ -1275,6 +1277,7 @@
 
 ## Visual Localization
 
+- 2024-11-20, **Globally Correlation-Aware Hard Negative Generation**, Wenjie Peng et.al., Paper: [http://arxiv.org/abs/2411.13145v1](http://arxiv.org/abs/2411.13145v1), Code: **[https://github.com/pwenjay/gca-hng](https://github.com/pwenjay/gca-hng)**
 - 2024-11-18, **Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**, Antonios Gasteratos et.al., Paper: [http://arxiv.org/abs/2411.11481v1](http://arxiv.org/abs/2411.11481v1)
 - 2024-11-13, **OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2411.08665v1](http://arxiv.org/abs/2411.08665v1)
 - 2024-11-13, **Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**, Saul Santos et.al., Paper: [http://arxiv.org/abs/2411.08590v1](http://arxiv.org/abs/2411.08590v1), Code: **[https://github.com/deep-spin/HFYN](https://github.com/deep-spin/HFYN)**
@@ -2698,6 +2701,7 @@
 
 ## NeRF
 
+- 2024-11-20, **GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**, Xiaobao Wei et.al., Paper: [http://arxiv.org/abs/2411.12981v1](http://arxiv.org/abs/2411.12981v1)
 - 2024-11-19, **SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**, Zixu Wang et.al., Paper: [http://arxiv.org/abs/2411.12471v1](http://arxiv.org/abs/2411.12471v1)
 - 2024-11-19, **GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**, Shaoqing Xu et.al., Paper: [http://arxiv.org/abs/2411.12452v1](http://arxiv.org/abs/2411.12452v1)
 - 2024-11-18, **Towards Degradation-Robust Reconstruction in Generalizable NeRF**, Chan Ho Park et.al., Paper: [http://arxiv.org/abs/2411.11691v1](http://arxiv.org/abs/2411.11691v1)
