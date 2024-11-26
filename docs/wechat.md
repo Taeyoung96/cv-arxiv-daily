@@ -2707,7 +2707,7 @@
 
 - 2024-11-20, **Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**, Yi Gu et.al., Paper: [http://arxiv.org/abs/2411.13620v1](http://arxiv.org/abs/2411.13620v1)
 - 2024-11-20, **GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**, Xiaobao Wei et.al., Paper: [http://arxiv.org/abs/2411.12981v1](http://arxiv.org/abs/2411.12981v1)
-- 2024-11-19, **SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**, Zixu Wang et.al., Paper: [http://arxiv.org/abs/2411.12471v1](http://arxiv.org/abs/2411.12471v1)
+- 2024-11-25, **SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**, Zixu Wang et.al., Paper: [http://arxiv.org/abs/2411.12471v2](http://arxiv.org/abs/2411.12471v2)
 - 2024-11-19, **GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**, Shaoqing Xu et.al., Paper: [http://arxiv.org/abs/2411.12452v1](http://arxiv.org/abs/2411.12452v1), Code: **[https://github.com/public-bots/gaussianpretrain](https://github.com/public-bots/gaussianpretrain)**
 - 2024-11-18, **Towards Degradation-Robust Reconstruction in Generalizable NeRF**, Chan Ho Park et.al., Paper: [http://arxiv.org/abs/2411.11691v1](http://arxiv.org/abs/2411.11691v1)
 - 2024-11-18, **LeC$^2$O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2411.11374v1](http://arxiv.org/abs/2411.11374v1)
