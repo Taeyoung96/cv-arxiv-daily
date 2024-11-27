@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2024-11-26, **DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**, Christian Homeyer et.al., Paper: [http://arxiv.org/abs/2411.17660v1](http://arxiv.org/abs/2411.17660v1), Code: **[https://github.com/chenhoy/droid-splat](https://github.com/chenhoy/droid-splat)**
+- 2024-11-25, **MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**, Vladimir Yugay et.al., Paper: [http://arxiv.org/abs/2411.16785v1](http://arxiv.org/abs/2411.16785v1)
 - 2024-11-24, **Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**, Soumava Paul et.al., Paper: [http://arxiv.org/abs/2411.15966v1](http://arxiv.org/abs/2411.15966v1)
 - 2024-11-24, **Near-Range Environmental Perception for Inland Waterway Vessels: A Comparative Study of LiDAR and Automotive FMCW RADAR Sensors**, R. Herrmann et.al., Paper: [http://arxiv.org/abs/2411.15901v1](http://arxiv.org/abs/2411.15901v1)
 - 2024-11-24, **PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**, Haoang Li et.al., Paper: [http://arxiv.org/abs/2411.15800v1](http://arxiv.org/abs/2411.15800v1)
@@ -1285,9 +1287,12 @@
 
 ## Visual Localization
 
+- 2024-11-26, **Learning Visual Hierarchies with Hyperbolic Embeddings**, Ziwei Wang et.al., Paper: [http://arxiv.org/abs/2411.17490v1](http://arxiv.org/abs/2411.17490v1)
+- 2024-11-24, **Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**, You Li et.al., Paper: [http://arxiv.org/abs/2411.16752v1](http://arxiv.org/abs/2411.16752v1)
+- 2024-11-24, **AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**, You Li et.al., Paper: [http://arxiv.org/abs/2411.16749v1](http://arxiv.org/abs/2411.16749v1)
 - 2024-11-25, **Image Generation Diversity Issues and How to Tame Them**, Mischa Dombrowski et.al., Paper: [http://arxiv.org/abs/2411.16171v1](http://arxiv.org/abs/2411.16171v1), Code: **[https://github.com/mischad/beyondfid](https://github.com/mischad/beyondfid)**
 - 2024-11-24, **PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**, Haoang Li et.al., Paper: [http://arxiv.org/abs/2411.15800v1](http://arxiv.org/abs/2411.15800v1)
-- 2024-11-22, **Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**, Zengbao Sun et.al., Paper: [http://arxiv.org/abs/2411.14704v1](http://arxiv.org/abs/2411.14704v1), Code: **[https://github.com/ZbaoSun/CMPAGL](https://github.com/ZbaoSun/CMPAGL)**
+- 2024-11-22, **Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**, Zengbao Sun et.al., Paper: [http://arxiv.org/abs/2411.14704v1](http://arxiv.org/abs/2411.14704v1)
 - 2024-11-20, **Globally Correlation-Aware Hard Negative Generation**, Wenjie Peng et.al., Paper: [http://arxiv.org/abs/2411.13145v1](http://arxiv.org/abs/2411.13145v1), Code: **[https://github.com/pwenjay/gca-hng](https://github.com/pwenjay/gca-hng)**
 - 2024-11-18, **Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**, Antonios Gasteratos et.al., Paper: [http://arxiv.org/abs/2411.11481v1](http://arxiv.org/abs/2411.11481v1)
 - 2024-11-13, **OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2411.08665v1](http://arxiv.org/abs/2411.08665v1), Code: **[https://github.com/whu-usi3dv/osmloc](https://github.com/whu-usi3dv/osmloc)**
@@ -2713,6 +2718,9 @@
 
 ## NeRF
 
+- 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1)
+- 2024-11-25, **The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**, Georgina Nuthall et.al., Paper: [http://arxiv.org/abs/2411.16940v1](http://arxiv.org/abs/2411.16940v1)
+- 2024-11-25, **SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2411.16816v1](http://arxiv.org/abs/2411.16816v1), Code: **[https://github.com/carlinds/splatad](https://github.com/carlinds/splatad)**
 - 2024-11-25, **Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**, Ziyu Zhang et.al., Paper: [http://arxiv.org/abs/2411.16392v1](http://arxiv.org/abs/2411.16392v1)
 - 2024-11-25, **U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**, Vinayak Gupta et.al., Paper: [http://arxiv.org/abs/2411.16172v1](http://arxiv.org/abs/2411.16172v1)
 - 2024-11-24, **ZeroGS: Training 3D Gaussian Splatting from Unposed Images**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2411.15779v1](http://arxiv.org/abs/2411.15779v1)
