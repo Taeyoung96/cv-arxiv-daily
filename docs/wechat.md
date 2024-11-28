@@ -2257,7 +2257,7 @@
 - 2024-11-04, **KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2411.01846v1](http://arxiv.org/abs/2411.01846v1)
 - 2024-10-31, **From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**, Vasileios Tzouras et.al., Paper: [http://arxiv.org/abs/2410.23906v1](http://arxiv.org/abs/2410.23906v1)
 - 2024-10-04, **Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**, Aman Anand et.al., Paper: [http://arxiv.org/abs/2410.14700v1](http://arxiv.org/abs/2410.14700v1)
-- 2024-10-18, **Sim2real Cattle Joint Estimation in 3D point clouds**, Okour Mohammad et.al., Paper: [http://arxiv.org/abs/2410.14419v1](http://arxiv.org/abs/2410.14419v1)
+- 2024-11-27, **Sim2real Cattle Joint Estimation in 3D point clouds**, Mohammad Okour et.al., Paper: [http://arxiv.org/abs/2410.14419v2](http://arxiv.org/abs/2410.14419v2)
 - 2024-10-16, **PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**, Asish Bera et.al., Paper: [http://arxiv.org/abs/2410.12742v1](http://arxiv.org/abs/2410.12742v1)
 - 2024-10-16, **RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**, Asish Bera et.al., Paper: [http://arxiv.org/abs/2410.12718v1](http://arxiv.org/abs/2410.12718v1)
 - 2024-10-01, **A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2410.11848v1](http://arxiv.org/abs/2410.11848v1)
