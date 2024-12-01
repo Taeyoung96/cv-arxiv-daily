@@ -2721,7 +2721,7 @@
 
 ## NeRF
 
-- 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1)
+- 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1), Code: **[https://github.com/liulisixin/mli-nerf](https://github.com/liulisixin/mli-nerf)**
 - 2024-11-25, **The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**, Georgina Nuthall et.al., Paper: [http://arxiv.org/abs/2411.16940v1](http://arxiv.org/abs/2411.16940v1)
 - 2024-11-25, **SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2411.16816v1](http://arxiv.org/abs/2411.16816v1), Code: **[https://github.com/carlinds/splatad](https://github.com/carlinds/splatad)**
 - 2024-11-25, **Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**, Ziyu Zhang et.al., Paper: [http://arxiv.org/abs/2411.16392v1](http://arxiv.org/abs/2411.16392v1)
