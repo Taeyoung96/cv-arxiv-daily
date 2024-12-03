@@ -1363,8 +1363,8 @@ layout: default
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800v1](http://arxiv.org/abs/2411.18800v1)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490v1](http://arxiv.org/abs/2411.17490v1)|null|
-|**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752v1](http://arxiv.org/abs/2411.16752v1)|null|
-|**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749v1](http://arxiv.org/abs/2411.16749v1)|null|
+|**2024-12-02**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752v2](http://arxiv.org/abs/2411.16752v2)|null|
+|**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749v2](http://arxiv.org/abs/2411.16749v2)|null|
 |**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171v1](http://arxiv.org/abs/2411.16171v1)|**[link](https://github.com/mischad/beyondfid)**|
 |**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800v1](http://arxiv.org/abs/2411.15800v1)|null|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704v1](http://arxiv.org/abs/2411.14704v1)|null|
