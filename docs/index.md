@@ -25,6 +25,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
+|**2024-12-02**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217v1](http://arxiv.org/abs/2412.01217v1)|**[link](https://github.com/zhenzhongcao/rgbds-slam)**|
+|**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116v1](http://arxiv.org/abs/2412.01116v1)|null|
+|**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang et.al.|[2412.01041v1](http://arxiv.org/abs/2412.01041v1)|null|
+|**2024-12-01**|**FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting**|Phu Pham et.al.|[2412.00682v1](http://arxiv.org/abs/2412.00682v1)|null|
+|**2024-11-29**|**Uni-SLAM: Uncertainty-Aware Neural Implicit SLAM for Real-Time Dense Indoor Scene Reconstruction**|Shaoxiang Wang et.al.|[2412.00242v1](http://arxiv.org/abs/2412.00242v1)|null|
 |**2024-11-28**|**Visual SLAMMOT Considering Multiple Motion Models**|Peilin Tian et.al.|[2411.19134v1](http://arxiv.org/abs/2411.19134v1)|null|
 |**2024-11-27**|**ORB-SLAM3AB: Augmenting ORB-SLAM3 to Counteract Bumps with Optical Flow Inter-frame Matching**|Yangrui Dong et.al.|[2411.18174v1](http://arxiv.org/abs/2411.18174v1)|null|
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982v1](http://arxiv.org/abs/2411.17982v1)|null|
@@ -1098,6 +1104,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553v1](http://arxiv.org/abs/2412.01553v1)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
+|**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430v1](http://arxiv.org/abs/2412.01430v1)|null|
+|**2024-12-02**|**Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**|Alejandro Fontan et.al.|[2412.01116v1](http://arxiv.org/abs/2412.01116v1)|null|
 |**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650v1](http://arxiv.org/abs/2411.18650v1)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779v1](http://arxiv.org/abs/2411.15779v1)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291v1](http://arxiv.org/abs/2411.13291v1)|null|
@@ -1360,6 +1369,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310v1](http://arxiv.org/abs/2412.02310v1)|**[link](https://github.com/barleah/greedyal)**|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039v1](http://arxiv.org/abs/2412.02039v1)|null|
+|**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555v1](http://arxiv.org/abs/2412.01555v1)|null|
+|**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202v1](http://arxiv.org/abs/2412.01202v1)|null|
+|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784v1](http://arxiv.org/abs/2412.00784v1)|null|
+|**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139v1](http://arxiv.org/abs/2412.00139v1)|null|
+|**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138v1](http://arxiv.org/abs/2412.00138v1)|null|
+|**2024-11-28**|**Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval**|Yang Liu et.al.|[2412.00120v1](http://arxiv.org/abs/2412.00120v1)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800v1](http://arxiv.org/abs/2411.18800v1)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490v1](http://arxiv.org/abs/2411.17490v1)|null|
@@ -2332,6 +2349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422v1](http://arxiv.org/abs/2412.01422v1)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653v1](http://arxiv.org/abs/2411.15653v1)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676v1](http://arxiv.org/abs/2411.12676v1)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851v1](http://arxiv.org/abs/2411.01851v1)|null|
@@ -2838,6 +2856,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845v1](http://arxiv.org/abs/2412.00845v1)|null|
+|**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754v1](http://arxiv.org/abs/2412.00754v1)|null|
+|**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578v1](http://arxiv.org/abs/2412.00578v1)|null|
+|**2024-11-30**|**Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects**|Amir Barda et.al.|[2412.00518v1](http://arxiv.org/abs/2412.00518v1)|null|
 |**2024-11-29**|**$C^{3}$-NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903v1](http://arxiv.org/abs/2411.19903v1)|null|
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
 |**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548v1](http://arxiv.org/abs/2411.19548v1)|null|
