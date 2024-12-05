@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2024-12-03, **ROVER: A Multi-Season Dataset for Visual SLAM**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.02506v1](http://arxiv.org/abs/2412.02506v1), Code: **[https://github.com/iis-esslingen/rover_benchmark](https://github.com/iis-esslingen/rover_benchmark)**
-- 2024-12-02, **RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2412.01217v1](http://arxiv.org/abs/2412.01217v1), Code: **[https://github.com/zhenzhongcao/rgbds-slam](https://github.com/zhenzhongcao/rgbds-slam)**
+- 2024-12-04, **RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2412.01217v2](http://arxiv.org/abs/2412.01217v2), Code: **[https://github.com/zhenzhongcao/rgbds-slam](https://github.com/zhenzhongcao/rgbds-slam)**
 - 2024-12-02, **Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**, Alejandro Fontan et.al., Paper: [http://arxiv.org/abs/2412.01116v1](http://arxiv.org/abs/2412.01116v1)
 - 2024-12-02, **LiDAR SLAMMOT based on Confidence-guided Data Association**, Susu Fang et.al., Paper: [http://arxiv.org/abs/2412.01041v1](http://arxiv.org/abs/2412.01041v1)
 - 2024-12-01, **FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting**, Phu Pham et.al., Paper: [http://arxiv.org/abs/2412.00682v1](http://arxiv.org/abs/2412.00682v1)
