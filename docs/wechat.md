@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2024-12-05, **MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**, Zhengqi Li et.al., Paper: [http://arxiv.org/abs/2412.04463v1](http://arxiv.org/abs/2412.04463v1)
+- 2024-12-05, **Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**, Fuzhang Han et.al., Paper: [http://arxiv.org/abs/2412.04287v1](http://arxiv.org/abs/2412.04287v1)
+- 2024-12-05, **MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**, Hyesu Jang et.al., Paper: [http://arxiv.org/abs/2412.03887v1](http://arxiv.org/abs/2412.03887v1)
+- 2024-12-04, **Large-Scale Dense 3D Mapping Using Submaps Derived From Orthogonal Imaging Sonars**, John McConnell et.al., Paper: [http://arxiv.org/abs/2412.03760v1](http://arxiv.org/abs/2412.03760v1)
 - 2024-12-04, **BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2412.03434v1](http://arxiv.org/abs/2412.03434v1), Code: **[https://github.com/migvega/bimcap](https://github.com/migvega/bimcap)**
 - 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1)
 - 2024-12-04, **MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2412.03146v1](http://arxiv.org/abs/2412.03146v1)
@@ -1053,6 +1057,7 @@
 
 ## SFM
 
+- 2024-12-05, **MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**, Zhengqi Li et.al., Paper: [http://arxiv.org/abs/2412.04463v1](http://arxiv.org/abs/2412.04463v1)
 - 2024-12-02, **SfM-Free 3D Gaussian Splatting via Hierarchical Training**, Bo Ji et.al., Paper: [http://arxiv.org/abs/2412.01553v1](http://arxiv.org/abs/2412.01553v1), Code: **[https://github.com/jibo27/3dgs_hierarchical_training](https://github.com/jibo27/3dgs_hierarchical_training)**
 - 2024-12-02, **MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**, Xiaoguang Han et.al., Paper: [http://arxiv.org/abs/2412.01430v1](http://arxiv.org/abs/2412.01430v1)
 - 2024-12-02, **Look Ma, No Ground Truth! Ground-Truth-Free Tuning of Structure from Motion and Visual SLAM**, Alejandro Fontan et.al., Paper: [http://arxiv.org/abs/2412.01116v1](http://arxiv.org/abs/2412.01116v1)
