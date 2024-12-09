@@ -1309,6 +1309,7 @@
 
 ## Visual Localization
 
+- 2024-12-06, **DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**, Ying Jin et.al., Paper: [http://arxiv.org/abs/2412.04828v1](http://arxiv.org/abs/2412.04828v1)
 - 2024-12-04, **Distillation of Diffusion Features for Semantic Correspondence**, Frank Fundel et.al., Paper: [http://arxiv.org/abs/2412.03512v1](http://arxiv.org/abs/2412.03512v1)
 - 2024-12-04, **Composed Image Retrieval for Training-Free Domain Conversion**, Nikos Efthymiadis et.al., Paper: [http://arxiv.org/abs/2412.03297v1](http://arxiv.org/abs/2412.03297v1), Code: **[https://github.com/nikosefth/freedom](https://github.com/nikosefth/freedom)**
 - 2024-12-03, **A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**, Thulio Amorim et.al., Paper: [http://arxiv.org/abs/2412.02881v1](http://arxiv.org/abs/2412.02881v1)
@@ -2756,6 +2757,8 @@
 
 ## NeRF
 
+- 2024-12-06, **Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2412.05279v1](http://arxiv.org/abs/2412.05279v1)
+- 2024-12-06, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v1](http://arxiv.org/abs/2412.04955v1), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
 - 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1)
 - 2024-12-01, **SAGA: Surface-Aligned Gaussian Avatar**, Ronghan Chen et.al., Paper: [http://arxiv.org/abs/2412.00845v1](http://arxiv.org/abs/2412.00845v1)
 - 2024-12-01, **CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2412.00754v1](http://arxiv.org/abs/2412.00754v1)
