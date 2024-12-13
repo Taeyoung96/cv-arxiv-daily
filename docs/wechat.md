@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2024.12.12
+> Updated on 2024.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 - 2024-12-10, **MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**, Hyesu Jang et.al., Paper: [http://arxiv.org/abs/2412.03887v2](http://arxiv.org/abs/2412.03887v2)
 - 2024-12-04, **Large-Scale Dense 3D Mapping Using Submaps Derived From Orthogonal Imaging Sonars**, John McConnell et.al., Paper: [http://arxiv.org/abs/2412.03760v1](http://arxiv.org/abs/2412.03760v1)
 - 2024-12-04, **BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2412.03434v1](http://arxiv.org/abs/2412.03434v1), Code: **[https://github.com/migvega/bimcap](https://github.com/migvega/bimcap)**
-- 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1)
+- 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1), Code: **[https://github.com/iis-esslingen/nerf-3dgs-benchmark](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**
 - 2024-12-04, **MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2412.03146v1](http://arxiv.org/abs/2412.03146v1), Code: **[https://github.com/junhaowang615/mcvo](https://github.com/junhaowang615/mcvo)**
 - 2024-12-03, **ROVER: A Multi-Season Dataset for Visual SLAM**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.02506v1](http://arxiv.org/abs/2412.02506v1), Code: **[https://github.com/iis-esslingen/rover_benchmark](https://github.com/iis-esslingen/rover_benchmark)**
 - 2024-12-04, **RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**, Zhenzhong Cao et.al., Paper: [http://arxiv.org/abs/2412.01217v2](http://arxiv.org/abs/2412.01217v2), Code: **[https://github.com/zhenzhongcao/rgbds-slam](https://github.com/zhenzhongcao/rgbds-slam)**
@@ -1056,7 +1056,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 ## SFM
 
@@ -1310,7 +1310,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1319,7 +1319,7 @@
 - 2024-12-11, **Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin**, Benjamin D. Killeen et.al., Paper: [http://arxiv.org/abs/2412.08020v1](http://arxiv.org/abs/2412.08020v1)
 - 2024-12-10, **On Motion Blur and Deblurring in Visual Place Recognition**, Timur Ismagilov et.al., Paper: [http://arxiv.org/abs/2412.07751v1](http://arxiv.org/abs/2412.07751v1)
 - 2024-12-10, **Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**, Wanwen Chen et.al., Paper: [http://arxiv.org/abs/2412.07741v1](http://arxiv.org/abs/2412.07741v1)
-- 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1)
+- 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
 - 2024-12-09, **A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2412.06153v1](http://arxiv.org/abs/2412.06153v1)
 - 2024-12-07, **Compositional Image Retrieval via Instruction-Aware Contrastive Learning**, Wenliang Zhong et.al., Paper: [http://arxiv.org/abs/2412.05756v1](http://arxiv.org/abs/2412.05756v1)
 - 2024-12-06, **DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**, Ying Jin et.al., Paper: [http://arxiv.org/abs/2412.04828v1](http://arxiv.org/abs/2412.04828v1)
@@ -2296,11 +2296,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1)
+- 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
 - 2024-12-09, **ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**, Bingchen Gong et.al., Paper: [http://arxiv.org/abs/2412.06292v1](http://arxiv.org/abs/2412.06292v1)
 - 2024-12-07, **Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**, Muhammad Umar Farooq et.al., Paper: [http://arxiv.org/abs/2412.05487v1](http://arxiv.org/abs/2412.05487v1)
 - 2024-12-04, **Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**, Yongkyu Lee et.al., Paper: [http://arxiv.org/abs/2412.03472v1](http://arxiv.org/abs/2412.03472v1)
@@ -2540,7 +2540,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2769,7 +2769,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 ## NeRF
 
@@ -2778,7 +2778,7 @@
 - 2024-12-10, **EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**, Toshiya Yura et.al., Paper: [http://arxiv.org/abs/2412.07293v1](http://arxiv.org/abs/2412.07293v1)
 - 2024-12-09, **Diffusing Differentiable Representations**, Yash Savani et.al., Paper: [http://arxiv.org/abs/2412.06981v1](http://arxiv.org/abs/2412.06981v1)
 - 2024-12-09, **Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**, Viktor Rudnev et.al., Paper: [http://arxiv.org/abs/2412.06770v1](http://arxiv.org/abs/2412.06770v1)
-- 2024-12-09, **Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**, Renlong Wu et.al., Paper: [http://arxiv.org/abs/2412.06424v1](http://arxiv.org/abs/2412.06424v1)
+- 2024-12-09, **Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**, Renlong Wu et.al., Paper: [http://arxiv.org/abs/2412.06424v1](http://arxiv.org/abs/2412.06424v1), Code: **[https://github.com/zcsrenlongz/deblur4dgs](https://github.com/zcsrenlongz/deblur4dgs)**
 - 2024-12-09, **Splatter-360: Generalizable 360$^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**, Zheng Chen et.al., Paper: [http://arxiv.org/abs/2412.06250v1](http://arxiv.org/abs/2412.06250v1), Code: **[https://github.com/thucz/splatter360](https://github.com/thucz/splatter360)**
 - 2024-12-07, **WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**, Yuqi Tan et.al., Paper: [http://arxiv.org/abs/2412.05695v1](http://arxiv.org/abs/2412.05695v1)
 - 2024-12-06, **Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2412.05279v1](http://arxiv.org/abs/2412.05279v1)
@@ -4184,7 +4184,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
