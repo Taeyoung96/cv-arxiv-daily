@@ -1328,6 +1328,7 @@
 
 ## Visual Localization
 
+- 2024-12-19, **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2412.14475v1](http://arxiv.org/abs/2412.14475v1)
 - 2024-12-18, **Adversarial Hubness in Multi-Modal Retrieval**, Tingwei Zhang et.al., Paper: [http://arxiv.org/abs/2412.14113v1](http://arxiv.org/abs/2412.14113v1), Code: **[https://github.com/tingwei-zhang/adv_hub](https://github.com/tingwei-zhang/adv_hub)**
 - 2024-12-18, **Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**, Giacomo Pacini et.al., Paper: [http://arxiv.org/abs/2412.13834v1](http://arxiv.org/abs/2412.13834v1)
 - 2024-12-18, **ConDo: Continual Domain Expansion for Absolute Pose Regression**, Zijun Li et.al., Paper: [http://arxiv.org/abs/2412.13452v1](http://arxiv.org/abs/2412.13452v1)
@@ -2322,6 +2323,7 @@
 
 ## Keypoint Detection
 
+- 2024-12-19, **Corn Ear Detection and Orientation Estimation Using Deep Learning**, Nathan Sprague et.al., Paper: [http://arxiv.org/abs/2412.14954v1](http://arxiv.org/abs/2412.14954v1)
 - 2024-12-12, **Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**, Faith Johnson et.al., Paper: [http://arxiv.org/abs/2412.09739v1](http://arxiv.org/abs/2412.09739v1)
 - 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
 - 2024-12-09, **ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**, Bingchen Gong et.al., Paper: [http://arxiv.org/abs/2412.06292v1](http://arxiv.org/abs/2412.06292v1)
@@ -2797,6 +2799,8 @@
 
 ## NeRF
 
+- 2024-12-19, **GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**, Qianpu Sun et.al., Paper: [http://arxiv.org/abs/2412.14579v1](http://arxiv.org/abs/2412.14579v1)
+- 2024-12-19, **Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**, Min Wang et.al., Paper: [http://arxiv.org/abs/2412.14547v1](http://arxiv.org/abs/2412.14547v1)
 - 2024-12-18, **GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**, Xiaobao Wei et.al., Paper: [http://arxiv.org/abs/2412.13983v1](http://arxiv.org/abs/2412.13983v1), Code: **[https://github.com/ucwxb/graphavatar](https://github.com/ucwxb/graphavatar)**
 - 2024-12-17, **EOGS: Gaussian Splatting for Earth Observation**, Luca Savant Aira et.al., Paper: [http://arxiv.org/abs/2412.13047v1](http://arxiv.org/abs/2412.13047v1)
 - 2024-12-18, **Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**, Leo Segre et.al., Paper: [http://arxiv.org/abs/2412.12772v2](http://arxiv.org/abs/2412.12772v2)
