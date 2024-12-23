@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-12-20, **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**, Wenxi Chen et.al., Paper: [http://arxiv.org/abs/2412.15649v1](http://arxiv.org/abs/2412.15649v1)
 - 2024-12-18, **Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**, Zidong Han et.al., Paper: [http://arxiv.org/abs/2412.13912v1](http://arxiv.org/abs/2412.13912v1)
 - 2024-12-18, **Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**, Sait Akturk et.al., Paper: [http://arxiv.org/abs/2412.13752v1](http://arxiv.org/abs/2412.13752v1)
 - 2024-12-18, **4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**, Fernando Amodeo et.al., Paper: [http://arxiv.org/abs/2412.13639v1](http://arxiv.org/abs/2412.13639v1), Code: **[https://github.com/robotics-upo/gaussian-rio](https://github.com/robotics-upo/gaussian-rio)**
@@ -1328,6 +1329,9 @@
 
 ## Visual Localization
 
+- 2024-12-20, **A New Method to Capturing Compositional Knowledge in Linguistic Space**, Jiahe Wan et.al., Paper: [http://arxiv.org/abs/2412.15632v1](http://arxiv.org/abs/2412.15632v1)
+- 2024-12-20, **Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**, Samantha J Alloo et.al., Paper: [http://arxiv.org/abs/2412.15513v1](http://arxiv.org/abs/2412.15513v1)
+- 2024-12-19, **Learning Visual Composition through Improved Semantic Guidance**, Austin Stone et.al., Paper: [http://arxiv.org/abs/2412.15396v1](http://arxiv.org/abs/2412.15396v1)
 - 2024-12-19, **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2412.14475v1](http://arxiv.org/abs/2412.14475v1)
 - 2024-12-18, **Adversarial Hubness in Multi-Modal Retrieval**, Tingwei Zhang et.al., Paper: [http://arxiv.org/abs/2412.14113v1](http://arxiv.org/abs/2412.14113v1), Code: **[https://github.com/tingwei-zhang/adv_hub](https://github.com/tingwei-zhang/adv_hub)**
 - 2024-12-18, **Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**, Giacomo Pacini et.al., Paper: [http://arxiv.org/abs/2412.13834v1](http://arxiv.org/abs/2412.13834v1)
@@ -2799,6 +2803,10 @@
 
 ## NeRF
 
+- 2024-12-20, **NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**, Laura Weihl et.al., Paper: [http://arxiv.org/abs/2412.16141v1](http://arxiv.org/abs/2412.16141v1)
+- 2024-12-20, **NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**, Yue Guo et.al., Paper: [http://arxiv.org/abs/2412.15890v1](http://arxiv.org/abs/2412.15890v1)
+- 2024-12-19, **LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**, Pou-Chun Kung et.al., Paper: [http://arxiv.org/abs/2412.15447v1](http://arxiv.org/abs/2412.15447v1)
+- 2024-12-18, **DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**, Xingyu Zhu et.al., Paper: [http://arxiv.org/abs/2412.15278v1](http://arxiv.org/abs/2412.15278v1)
 - 2024-12-19, **GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**, Qianpu Sun et.al., Paper: [http://arxiv.org/abs/2412.14579v1](http://arxiv.org/abs/2412.14579v1)
 - 2024-12-19, **Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**, Min Wang et.al., Paper: [http://arxiv.org/abs/2412.14547v1](http://arxiv.org/abs/2412.14547v1)
 - 2024-12-18, **GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**, Xiaobao Wei et.al., Paper: [http://arxiv.org/abs/2412.13983v1](http://arxiv.org/abs/2412.13983v1), Code: **[https://github.com/ucwxb/graphavatar](https://github.com/ucwxb/graphavatar)**
