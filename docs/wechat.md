@@ -1336,7 +1336,7 @@
 
 - 2024-12-22, **Where am I? Cross-View Geo-localization with Natural Language Descriptions**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2412.17007v1](http://arxiv.org/abs/2412.17007v1)
 - 2024-12-22, **Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**, Shenghai Yuan et.al., Paper: [http://arxiv.org/abs/2412.16880v1](http://arxiv.org/abs/2412.16880v1)
-- 2024-12-21, **Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**, Daichi Yashima et.al., Paper: [http://arxiv.org/abs/2412.16576v1](http://arxiv.org/abs/2412.16576v1), Code: **[https://github.com/keio-smilab24/relax-former](https://github.com/keio-smilab24/relax-former)**
+- 2024-12-24, **Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**, Daichi Yashima et.al., Paper: [http://arxiv.org/abs/2412.16576v2](http://arxiv.org/abs/2412.16576v2), Code: **[https://github.com/keio-smilab24/relax-former](https://github.com/keio-smilab24/relax-former)**
 - 2024-12-20, **A New Method to Capturing Compositional Knowledge in Linguistic Space**, Jiahe Wan et.al., Paper: [http://arxiv.org/abs/2412.15632v1](http://arxiv.org/abs/2412.15632v1)
 - 2024-12-20, **Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**, Samantha J Alloo et.al., Paper: [http://arxiv.org/abs/2412.15513v1](http://arxiv.org/abs/2412.15513v1)
 - 2024-12-19, **Learning Visual Composition through Improved Semantic Guidance**, Austin Stone et.al., Paper: [http://arxiv.org/abs/2412.15396v1](http://arxiv.org/abs/2412.15396v1)
