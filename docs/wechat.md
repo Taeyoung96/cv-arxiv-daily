@@ -1334,6 +1334,7 @@
 
 ## Visual Localization
 
+- 2024-12-24, **ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**, Le Dong et.al., Paper: [http://arxiv.org/abs/2412.18136v1](http://arxiv.org/abs/2412.18136v1), Code: **[https://github.com/milkyfun0/ERVD](https://github.com/milkyfun0/ERVD)**
 - 2024-12-22, **Where am I? Cross-View Geo-localization with Natural Language Descriptions**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2412.17007v1](http://arxiv.org/abs/2412.17007v1)
 - 2024-12-22, **Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**, Shenghai Yuan et.al., Paper: [http://arxiv.org/abs/2412.16880v1](http://arxiv.org/abs/2412.16880v1)
 - 2024-12-24, **Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**, Daichi Yashima et.al., Paper: [http://arxiv.org/abs/2412.16576v2](http://arxiv.org/abs/2412.16576v2), Code: **[https://github.com/keio-smilab24/relax-former](https://github.com/keio-smilab24/relax-former)**
@@ -2335,6 +2336,7 @@
 
 ## Keypoint Detection
 
+- 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-21, **A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**, Shahid Ansari et.al., Paper: [http://arxiv.org/abs/2412.16755v1](http://arxiv.org/abs/2412.16755v1)
 - 2024-12-19, **Corn Ear Detection and Orientation Estimation Using Deep Learning**, Nathan Sprague et.al., Paper: [http://arxiv.org/abs/2412.14954v1](http://arxiv.org/abs/2412.14954v1)
 - 2024-12-12, **Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**, Faith Johnson et.al., Paper: [http://arxiv.org/abs/2412.09739v1](http://arxiv.org/abs/2412.09739v1)
@@ -2582,6 +2584,7 @@
 
 ## Image Matching
 
+- 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-17, **Bringing Multimodality to Amazon Visual Search System**, Xinliang Zhu et.al., Paper: [http://arxiv.org/abs/2412.13364v1](http://arxiv.org/abs/2412.13364v1)
 - 2024-12-04, **Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**, Siyoon Jin et.al., Paper: [http://arxiv.org/abs/2412.03150v1](http://arxiv.org/abs/2412.03150v1)
 - 2024-11-15, **Image Matching Filtering and Refinement by Planes and Beyond**, Fabio Bellavia et.al., Paper: [http://arxiv.org/abs/2411.09484v2](http://arxiv.org/abs/2411.09484v2), Code: **[https://github.com/fb82/miho](https://github.com/fb82/miho)**
