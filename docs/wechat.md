@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2024-12-30, **Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**, Evgenii Kruzhkov et.al., Paper: [http://arxiv.org/abs/2412.20976v1](http://arxiv.org/abs/2412.20976v1)
 - 2024-12-27, **DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**, Kai Xu et.al., Paper: [http://arxiv.org/abs/2412.19584v1](http://arxiv.org/abs/2412.19584v1)
 - 2024-12-26, **MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**, Byeonggwon Lee et.al., Paper: [http://arxiv.org/abs/2412.19130v1](http://arxiv.org/abs/2412.19130v1)
 - 2024-12-23, **End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**, Fuhua Jia et.al., Paper: [http://arxiv.org/abs/2412.17343v1](http://arxiv.org/abs/2412.17343v1)
@@ -1079,6 +1080,7 @@
 
 ## SFM
 
+- 2024-12-30, **KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**, Keng-Wei Chang et.al., Paper: [http://arxiv.org/abs/2412.20767v1](http://arxiv.org/abs/2412.20767v1)
 - 2024-12-23, **Reconstructing People, Places, and Cameras**, Lea Müller et.al., Paper: [http://arxiv.org/abs/2412.17806v1](http://arxiv.org/abs/2412.17806v1)
 - 2024-12-18, **Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**, Rémi Marsal et.al., Paper: [http://arxiv.org/abs/2412.14103v1](http://arxiv.org/abs/2412.14103v1)
 - 2024-12-18, **SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**, Jongmin Park et.al., Paper: [http://arxiv.org/abs/2412.09982v2](http://arxiv.org/abs/2412.09982v2)
@@ -1336,6 +1338,7 @@
 
 ## Visual Localization
 
+- 2024-12-28, **GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**, Atticus J. Zeller et.al., Paper: [http://arxiv.org/abs/2412.20056v1](http://arxiv.org/abs/2412.20056v1), Code: **[https://github.com/atticuszeller/gsplatloc](https://github.com/atticuszeller/gsplatloc)**
 - 2024-12-25, **FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**, Hila Levi et.al., Paper: [http://arxiv.org/abs/2412.18806v1](http://arxiv.org/abs/2412.18806v1)
 - 2024-12-24, **ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**, Le Dong et.al., Paper: [http://arxiv.org/abs/2412.18136v1](http://arxiv.org/abs/2412.18136v1), Code: **[https://github.com/milkyfun0/ERVD](https://github.com/milkyfun0/ERVD)**
 - 2024-12-22, **Where am I? Cross-View Geo-localization with Natural Language Descriptions**, Junyan Ye et.al., Paper: [http://arxiv.org/abs/2412.17007v1](http://arxiv.org/abs/2412.17007v1)
@@ -2587,6 +2590,7 @@
 
 ## Image Matching
 
+- 2024-12-28, **Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**, Bharath Kumar Agnur et.al., Paper: [http://arxiv.org/abs/2412.20210v1](http://arxiv.org/abs/2412.20210v1)
 - 2024-12-27, **MINIMA: Modality Invariant Image Matching**, Xingyu Jiang et.al., Paper: [http://arxiv.org/abs/2412.19412v1](http://arxiv.org/abs/2412.19412v1), Code: **[https://github.com/LSXI7/MINIMA](https://github.com/LSXI7/MINIMA)**
 - 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-17, **Bringing Multimodality to Amazon Visual Search System**, Xinliang Zhu et.al., Paper: [http://arxiv.org/abs/2412.13364v1](http://arxiv.org/abs/2412.13364v1)
@@ -2819,6 +2823,7 @@
 
 ## NeRF
 
+- 2024-12-29, **Bringing Objects to Life: 4D generation from 3D objects**, Ohad Rahamim et.al., Paper: [http://arxiv.org/abs/2412.20422v1](http://arxiv.org/abs/2412.20422v1)
 - 2024-12-27, **Learning Radiance Fields from a Single Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2412.19483v1](http://arxiv.org/abs/2412.19483v1)
 - 2024-12-26, **BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**, Gopi Raju Matta et.al., Paper: [http://arxiv.org/abs/2412.19370v1](http://arxiv.org/abs/2412.19370v1)
 - 2024-12-26, **Generating Editable Head Avatars with 3D Gaussian GANs**, Guohao Li et.al., Paper: [http://arxiv.org/abs/2412.19149v1](http://arxiv.org/abs/2412.19149v1), Code: **[https://github.com/liguohao96/egg3d](https://github.com/liguohao96/egg3d)**
