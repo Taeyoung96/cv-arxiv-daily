@@ -2950,7 +2950,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v1](http://arxiv.org/abs/2501.02807v1)|null|
+|**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807v2](http://arxiv.org/abs/2501.02807v2)|null|
 |**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
