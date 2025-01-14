@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
+- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
+- 2025-01-11, **SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors**, Zhen Hong et.al., Paper: [http://arxiv.org/abs/2501.06469v1](http://arxiv.org/abs/2501.06469v1)
 - 2025-01-09, **Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**, Wen Tianci et.al., Paper: [http://arxiv.org/abs/2501.05242v1](http://arxiv.org/abs/2501.05242v1)
 - 2025-01-07, **SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**, Yuchun Fan et.al., Paper: [http://arxiv.org/abs/2501.03681v1](http://arxiv.org/abs/2501.03681v1), Code: **[https://github.com/fmm170/slam](https://github.com/fmm170/slam)**
 - 2025-01-06, **HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**, Jinglei Zhang et.al., Paper: [http://arxiv.org/abs/2501.02973v1](http://arxiv.org/abs/2501.02973v1)
@@ -1086,6 +1090,9 @@
 
 ## SFM
 
+- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
+- 2025-01-11, **Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**, Aditya Rauniyar et.al., Paper: [http://arxiv.org/abs/2501.06431v1](http://arxiv.org/abs/2501.06431v1)
 - 2025-01-06, **Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**, Yuezhang Lv et.al., Paper: [http://arxiv.org/abs/2501.02821v1](http://arxiv.org/abs/2501.02821v1)
 - 2025-01-02, **On Unifying Video Generation and Camera Pose Estimation**, Chun-Hao Paul Huang et.al., Paper: [http://arxiv.org/abs/2501.01409v1](http://arxiv.org/abs/2501.01409v1)
 - 2025-01-02, **EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**, Ao Gao et.al., Paper: [http://arxiv.org/abs/2501.01003v1](http://arxiv.org/abs/2501.01003v1)
@@ -1347,6 +1354,8 @@
 
 ## Visual Localization
 
+- 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
+- 2025-01-12, **Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**, Zhenyang Feng et.al., Paper: [http://arxiv.org/abs/2501.06749v1](http://arxiv.org/abs/2501.06749v1)
 - 2025-01-06, **Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**, Xujin Li et.al., Paper: [http://arxiv.org/abs/2501.02841v1](http://arxiv.org/abs/2501.02841v1)
 - 2025-01-03, **A Minimal Subset Approach for Efficient and Scalable Loop Closure**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2501.01791v1](http://arxiv.org/abs/2501.01791v1), Code: **[https://github.com/ltu-rai/opt-key](https://github.com/ltu-rai/opt-key)**
 - 2025-01-03, **iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**, Shuhei Tomoshige et.al., Paper: [http://arxiv.org/abs/2501.01642v1](http://arxiv.org/abs/2501.01642v1)
@@ -2357,6 +2366,8 @@
 
 ## Keypoint Detection
 
+- 2025-01-13, **Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**, Lukas Rustler et.al., Paper: [http://arxiv.org/abs/2501.07421v1](http://arxiv.org/abs/2501.07421v1)
+- 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
 - 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-21, **A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**, Shahid Ansari et.al., Paper: [http://arxiv.org/abs/2412.16755v1](http://arxiv.org/abs/2412.16755v1)
 - 2024-12-19, **Corn Ear Detection and Orientation Estimation Using Deep Learning**, Nathan Sprague et.al., Paper: [http://arxiv.org/abs/2412.14954v1](http://arxiv.org/abs/2412.14954v1)
@@ -2605,6 +2616,8 @@
 
 ## Image Matching
 
+- 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
+- 2025-01-13, **Matching Free Depth Recovery from Structured Light**, Zhuohang Yu et.al., Paper: [http://arxiv.org/abs/2501.07113v1](http://arxiv.org/abs/2501.07113v1)
 - 2025-01-02, **Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**, Yulun Wu et.al., Paper: [http://arxiv.org/abs/2501.01196v1](http://arxiv.org/abs/2501.01196v1)
 - 2024-12-31, **Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**, Bharath Kumar Agnur et.al., Paper: [http://arxiv.org/abs/2412.20210v2](http://arxiv.org/abs/2412.20210v2)
 - 2024-12-27, **MINIMA: Modality Invariant Image Matching**, Xingyu Jiang et.al., Paper: [http://arxiv.org/abs/2412.19412v1](http://arxiv.org/abs/2412.19412v1), Code: **[https://github.com/LSXI7/MINIMA](https://github.com/LSXI7/MINIMA)**
@@ -2839,8 +2852,13 @@
 
 ## NeRF
 
+- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
+- 2025-01-12, **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**, Liyan Chen et.al., Paper: [http://arxiv.org/abs/2501.06897v1](http://arxiv.org/abs/2501.06897v1)
+- 2025-01-12, **SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**, Peng Zheng et.al., Paper: [http://arxiv.org/abs/2501.06770v1](http://arxiv.org/abs/2501.06770v1)
+- 2025-01-11, **NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**, Qiang Qu et.al., Paper: [http://arxiv.org/abs/2501.06488v1](http://arxiv.org/abs/2501.06488v1), Code: **[https://github.com/vincentqqu/nvs-sqa](https://github.com/vincentqqu/nvs-sqa)**
 - 2025-01-10, **UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**, Yanjie Li et.al., Paper: [http://arxiv.org/abs/2501.05783v1](http://arxiv.org/abs/2501.05783v1)
-- 2025-01-09, **Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**, Ludwic Leonard et.al., Paper: [http://arxiv.org/abs/2501.05226v1](http://arxiv.org/abs/2501.05226v1)
+- 2025-01-13, **Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**, Ludwic Leonard et.al., Paper: [http://arxiv.org/abs/2501.05226v2](http://arxiv.org/abs/2501.05226v2)
 - 2025-01-07, **NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2501.04074v1](http://arxiv.org/abs/2501.04074v1)
 - 2025-01-07, **NeuralSVG: An Implicit Representation for Text-to-Vector Generation**, Sagi Polaczek et.al., Paper: [http://arxiv.org/abs/2501.03992v1](http://arxiv.org/abs/2501.03992v1)
 - 2025-01-07, **DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2501.03659v1](http://arxiv.org/abs/2501.03659v1)
