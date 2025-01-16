@@ -21,7 +21,7 @@
 
 - 2025-01-14, **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Ke Wu et.al., Paper: [http://arxiv.org/abs/2501.08286v1](http://arxiv.org/abs/2501.08286v1)
 - 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
-- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
 - 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
 - 2025-01-11, **SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors**, Zhen Hong et.al., Paper: [http://arxiv.org/abs/2501.06469v1](http://arxiv.org/abs/2501.06469v1)
 - 2025-01-09, **Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**, Wen Tianci et.al., Paper: [http://arxiv.org/abs/2501.05242v1](http://arxiv.org/abs/2501.05242v1)
@@ -1091,7 +1091,7 @@
 
 ## SFM
 
-- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
 - 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
 - 2025-01-11, **Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**, Aditya Rauniyar et.al., Paper: [http://arxiv.org/abs/2501.06431v1](http://arxiv.org/abs/2501.06431v1)
 - 2025-01-06, **Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**, Yuezhang Lv et.al., Paper: [http://arxiv.org/abs/2501.02821v1](http://arxiv.org/abs/2501.02821v1)
@@ -2856,7 +2856,7 @@
 
 - 2025-01-14, **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Ke Wu et.al., Paper: [http://arxiv.org/abs/2501.08286v1](http://arxiv.org/abs/2501.08286v1)
 - 2025-01-13, **Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2501.08072v1](http://arxiv.org/abs/2501.08072v1)
-- 2025-01-13, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v1](http://arxiv.org/abs/2501.07015v1)
+- 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
 - 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
 - 2025-01-12, **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**, Liyan Chen et.al., Paper: [http://arxiv.org/abs/2501.06897v1](http://arxiv.org/abs/2501.06897v1)
 - 2025-01-12, **SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**, Peng Zheng et.al., Paper: [http://arxiv.org/abs/2501.06770v1](http://arxiv.org/abs/2501.06770v1)
