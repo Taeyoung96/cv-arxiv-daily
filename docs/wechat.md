@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-01-15, **SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2501.08880v1](http://arxiv.org/abs/2501.08880v1)
+- 2025-01-15, **GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**, Sheng Hong et.al., Paper: [http://arxiv.org/abs/2501.08672v1](http://arxiv.org/abs/2501.08672v1)
+- 2025-01-15, **Self-Organizing Edge Computing Distribution Framework for Visual SLAM**, Jussi Kalliola et.al., Paper: [http://arxiv.org/abs/2501.08629v1](http://arxiv.org/abs/2501.08629v1)
 - 2025-01-14, **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Ke Wu et.al., Paper: [http://arxiv.org/abs/2501.08286v1](http://arxiv.org/abs/2501.08286v1)
 - 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
 - 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
@@ -1355,6 +1358,8 @@
 
 ## Visual Localization
 
+- 2025-01-15, **Vision Foundation Models for Computed Tomography**, Suraj Pai et.al., Paper: [http://arxiv.org/abs/2501.09001v1](http://arxiv.org/abs/2501.09001v1)
+- 2025-01-12, **SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**, Bhavin Jawade et.al., Paper: [http://arxiv.org/abs/2501.08347v1](http://arxiv.org/abs/2501.08347v1)
 - 2025-01-14, **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Ke Wu et.al., Paper: [http://arxiv.org/abs/2501.08286v1](http://arxiv.org/abs/2501.08286v1)
 - 2025-01-13, **Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**, Saurabh Gupta et.al., Paper: [http://arxiv.org/abs/2501.07399v1](http://arxiv.org/abs/2501.07399v1)
 - 2025-01-12, **Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**, Zhenyang Feng et.al., Paper: [http://arxiv.org/abs/2501.06749v1](http://arxiv.org/abs/2501.06749v1)
@@ -2854,6 +2859,7 @@
 
 ## NeRF
 
+- 2025-01-15, **SLC$^2$-SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2501.08880v1](http://arxiv.org/abs/2501.08880v1)
 - 2025-01-14, **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Ke Wu et.al., Paper: [http://arxiv.org/abs/2501.08286v1](http://arxiv.org/abs/2501.08286v1)
 - 2025-01-13, **Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2501.08072v1](http://arxiv.org/abs/2501.08072v1)
 - 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
