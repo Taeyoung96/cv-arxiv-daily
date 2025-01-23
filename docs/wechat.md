@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-01-22, **Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2501.12764v1](http://arxiv.org/abs/2501.12764v1)
 - 2025-01-21, **DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**, Jesse Morris et.al., Paper: [http://arxiv.org/abs/2501.11893v1](http://arxiv.org/abs/2501.11893v1)
 - 2025-01-21, **Survey on Monocular Metric Depth Estimation**, Jiuling Zhang et.al., Paper: [http://arxiv.org/abs/2501.11841v1](http://arxiv.org/abs/2501.11841v1)
 - 2025-01-19, **OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**, Dominik Kulmer et.al., Paper: [http://arxiv.org/abs/2501.11111v1](http://arxiv.org/abs/2501.11111v1)
@@ -2874,6 +2875,8 @@
 
 ## NeRF
 
+- 2025-01-22, **Neural Radiance Fields for the Real World: A Survey**, Wenhui Xiao et.al., Paper: [http://arxiv.org/abs/2501.13104v1](http://arxiv.org/abs/2501.13104v1)
+- 2025-01-22, **DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2501.12637v1](http://arxiv.org/abs/2501.12637v1)
 - 2025-01-21, **DNRSelect: Active Best View Selection for Deferred Neural Rendering**, Dongli Wu et.al., Paper: [http://arxiv.org/abs/2501.12150v1](http://arxiv.org/abs/2501.12150v1)
 - 2025-01-21, **Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**, Shuyi Hu et.al., Paper: [http://arxiv.org/abs/2501.11884v1](http://arxiv.org/abs/2501.11884v1)
 - 2025-01-16, **Poxel: Voxel Reconstruction for 3D Printing**, Ruixiang Cao et.al., Paper: [http://arxiv.org/abs/2501.10474v1](http://arxiv.org/abs/2501.10474v1)
