@@ -24,7 +24,7 @@
 - 2025-01-21, **Survey on Monocular Metric Depth Estimation**, Jiuling Zhang et.al., Paper: [http://arxiv.org/abs/2501.11841v1](http://arxiv.org/abs/2501.11841v1)
 - 2025-01-19, **OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**, Dominik Kulmer et.al., Paper: [http://arxiv.org/abs/2501.11111v1](http://arxiv.org/abs/2501.11111v1)
 - 2025-01-19, **Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**, Lorenzo Ticozzi et.al., Paper: [http://arxiv.org/abs/2501.10950v1](http://arxiv.org/abs/2501.10950v1)
-- 2025-01-20, **Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**, Carlos Augusto Pinheiro de Sousa et.al., Paper: [http://arxiv.org/abs/2501.09600v3](http://arxiv.org/abs/2501.09600v3)
+- 2025-01-23, **Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**, Carlos Augusto Pinheiro de Sousa et.al., Paper: [http://arxiv.org/abs/2501.09600v4](http://arxiv.org/abs/2501.09600v4)
 - 2025-01-16, **Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**, Maksim Filipenko et.al., Paper: [http://arxiv.org/abs/2501.09490v1](http://arxiv.org/abs/2501.09490v1)
 - 2025-01-15, **Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**, Pengru Deng et.al., Paper: [http://arxiv.org/abs/2501.09203v1](http://arxiv.org/abs/2501.09203v1)
 - 2025-01-15, **AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**, Assaf Lahiany et.al., Paper: [http://arxiv.org/abs/2501.09160v1](http://arxiv.org/abs/2501.09160v1)
