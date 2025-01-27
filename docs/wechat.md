@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-01-24, **Visual-Lidar Map Alignment for Infrastructure Inspections**, Jake McLaughlin et.al., Paper: [http://arxiv.org/abs/2501.14486v1](http://arxiv.org/abs/2501.14486v1)
+- 2025-01-24, **Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2501.14319v1](http://arxiv.org/abs/2501.14319v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
+- 2025-01-24, **HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2501.14147v1](http://arxiv.org/abs/2501.14147v1)
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
 - 2025-01-22, **Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2501.12764v1](http://arxiv.org/abs/2501.12764v1)
 - 2025-01-21, **DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**, Jesse Morris et.al., Paper: [http://arxiv.org/abs/2501.11893v1](http://arxiv.org/abs/2501.11893v1)
@@ -1104,6 +1107,7 @@
 
 ## SFM
 
+- 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
 - 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
 - 2025-01-11, **Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**, Aditya Rauniyar et.al., Paper: [http://arxiv.org/abs/2501.06431v1](http://arxiv.org/abs/2501.06431v1)
@@ -1368,6 +1372,9 @@
 
 ## Visual Localization
 
+- 2025-01-24, **Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**, Viktor Kozák et.al., Paper: [http://arxiv.org/abs/2501.14587v1](http://arxiv.org/abs/2501.14587v1)
+- 2025-01-23, **Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**, Jakob Krogh Petersen et.al., Paper: [http://arxiv.org/abs/2501.14051v1](http://arxiv.org/abs/2501.14051v1), Code: **[https://github.com/jakekrogh/3d-clip-for-brain-mri](https://github.com/jakekrogh/3d-clip-for-brain-mri)**
+- 2025-01-22, **Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**, Kenta Uesugi et.al., Paper: [http://arxiv.org/abs/2501.13968v1](http://arxiv.org/abs/2501.13968v1)
 - 2025-01-19, **Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**, Zhipeng Yu et.al., Paper: [http://arxiv.org/abs/2501.11063v1](http://arxiv.org/abs/2501.11063v1), Code: **[https://github.com/smuelpeng/sgps-noisefreedml](https://github.com/smuelpeng/sgps-noisefreedml)**
 - 2025-01-18, **A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**, Weihang Zhang et.al., Paper: [http://arxiv.org/abs/2501.10638v1](http://arxiv.org/abs/2501.10638v1)
 - 2025-01-17, **FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**, Zhe Chen et.al., Paper: [http://arxiv.org/abs/2501.09887v1](http://arxiv.org/abs/2501.09887v1)
@@ -2639,6 +2646,7 @@
 
 ## Image Matching
 
+- 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-20, **MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2501.11299v1](http://arxiv.org/abs/2501.11299v1)
 - 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
 - 2025-01-13, **Matching Free Depth Recovery from Structured Light**, Zhuohang Yu et.al., Paper: [http://arxiv.org/abs/2501.07113v1](http://arxiv.org/abs/2501.07113v1)
@@ -2876,6 +2884,8 @@
 
 ## NeRF
 
+- 2025-01-24, **SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2501.14646v1](http://arxiv.org/abs/2501.14646v1)
+- 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
 - 2025-01-22, **Neural Radiance Fields for the Real World: A Survey**, Wenhui Xiao et.al., Paper: [http://arxiv.org/abs/2501.13104v1](http://arxiv.org/abs/2501.13104v1)
 - 2025-01-22, **DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2501.12637v1](http://arxiv.org/abs/2501.12637v1)
