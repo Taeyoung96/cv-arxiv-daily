@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2025-01-24, **Visual-Lidar Map Alignment for Infrastructure Inspections**, Jake McLaughlin et.al., Paper: [http://arxiv.org/abs/2501.14486v1](http://arxiv.org/abs/2501.14486v1)
+- 2025-01-27, **Visual-Lidar Map Alignment for Infrastructure Inspections**, Jake McLaughlin et.al., Paper: [http://arxiv.org/abs/2501.14486v2](http://arxiv.org/abs/2501.14486v2)
 - 2025-01-24, **Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2501.14319v1](http://arxiv.org/abs/2501.14319v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
 - 2025-01-24, **HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2501.14147v1](http://arxiv.org/abs/2501.14147v1)
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
@@ -1107,6 +1107,10 @@
 
 ## SFM
 
+- 2025-01-27, **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**, Tim Flückiger et.al., Paper: [http://arxiv.org/abs/2501.16221v1](http://arxiv.org/abs/2501.16221v1)
+- 2025-01-25, **Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**, Zhen-Hui Dong et.al., Paper: [http://arxiv.org/abs/2501.15096v1](http://arxiv.org/abs/2501.15096v1)
+- 2025-01-24, **MATCHA:Towards Matching Anything**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2501.14945v1](http://arxiv.org/abs/2501.14945v1)
+- 2025-01-24, **Light3R-SfM: Towards Feed-forward Structure-from-Motion**, Sven Elflein et.al., Paper: [http://arxiv.org/abs/2501.14914v1](http://arxiv.org/abs/2501.14914v1)
 - 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
 - 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
@@ -1372,6 +1376,8 @@
 
 ## Visual Localization
 
+- 2025-01-27, **Freestyle Sketch-in-the-Loop Image Segmentation**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2501.16022v1](http://arxiv.org/abs/2501.16022v1)
+- 2025-01-26, **Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**, Zijun Long et.al., Paper: [http://arxiv.org/abs/2501.15379v1](http://arxiv.org/abs/2501.15379v1)
 - 2025-01-24, **Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**, Viktor Kozák et.al., Paper: [http://arxiv.org/abs/2501.14587v1](http://arxiv.org/abs/2501.14587v1)
 - 2025-01-23, **Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**, Jakob Krogh Petersen et.al., Paper: [http://arxiv.org/abs/2501.14051v1](http://arxiv.org/abs/2501.14051v1), Code: **[https://github.com/jakekrogh/3d-clip-for-brain-mri](https://github.com/jakekrogh/3d-clip-for-brain-mri)**
 - 2025-01-22, **Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**, Kenta Uesugi et.al., Paper: [http://arxiv.org/abs/2501.13968v1](http://arxiv.org/abs/2501.13968v1)
@@ -2884,6 +2890,7 @@
 
 ## NeRF
 
+- 2025-01-27, **LinPrim: Linear Primitives for Differentiable Volumetric Rendering**, Nicolas von Lützow et.al., Paper: [http://arxiv.org/abs/2501.16312v1](http://arxiv.org/abs/2501.16312v1)
 - 2025-01-24, **SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2501.14646v1](http://arxiv.org/abs/2501.14646v1)
 - 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
