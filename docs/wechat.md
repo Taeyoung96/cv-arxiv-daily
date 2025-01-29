@@ -2890,7 +2890,7 @@
 
 ## NeRF
 
-- 2025-01-27, **LinPrim: Linear Primitives for Differentiable Volumetric Rendering**, Nicolas von Lützow et.al., Paper: [http://arxiv.org/abs/2501.16312v1](http://arxiv.org/abs/2501.16312v1)
+- 2025-01-28, **LinPrim: Linear Primitives for Differentiable Volumetric Rendering**, Nicolas von Lützow et.al., Paper: [http://arxiv.org/abs/2501.16312v2](http://arxiv.org/abs/2501.16312v2)
 - 2025-01-24, **SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2501.14646v1](http://arxiv.org/abs/2501.14646v1)
 - 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
