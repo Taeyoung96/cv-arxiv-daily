@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-01-28, **SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**, Yinqi Chen et.al., Paper: [http://arxiv.org/abs/2501.16754v1](http://arxiv.org/abs/2501.16754v1)
 - 2025-01-27, **Visual-Lidar Map Alignment for Infrastructure Inspections**, Jake McLaughlin et.al., Paper: [http://arxiv.org/abs/2501.14486v2](http://arxiv.org/abs/2501.14486v2)
 - 2025-01-24, **Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2501.14319v1](http://arxiv.org/abs/2501.14319v1), Code: **[https://github.com/xiaohao-xu/slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)**
 - 2025-01-24, **HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2501.14147v1](http://arxiv.org/abs/2501.14147v1)
