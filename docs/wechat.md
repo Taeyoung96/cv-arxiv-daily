@@ -1108,7 +1108,7 @@
 
 ## SFM
 
-- 2025-01-27, **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**, Tim Flückiger et.al., Paper: [http://arxiv.org/abs/2501.16221v1](http://arxiv.org/abs/2501.16221v1)
+- 2025-01-28, **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**, Tim Flückiger et.al., Paper: [http://arxiv.org/abs/2501.16221v2](http://arxiv.org/abs/2501.16221v2)
 - 2025-01-25, **Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**, Zhen-Hui Dong et.al., Paper: [http://arxiv.org/abs/2501.15096v1](http://arxiv.org/abs/2501.15096v1)
 - 2025-01-24, **MATCHA:Towards Matching Anything**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2501.14945v1](http://arxiv.org/abs/2501.14945v1)
 - 2025-01-24, **Light3R-SfM: Towards Feed-forward Structure-from-Motion**, Sven Elflein et.al., Paper: [http://arxiv.org/abs/2501.14914v1](http://arxiv.org/abs/2501.14914v1)
