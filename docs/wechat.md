@@ -1118,7 +1118,7 @@
 - 2025-01-24, **Light3R-SfM: Towards Feed-forward Structure-from-Motion**, Sven Elflein et.al., Paper: [http://arxiv.org/abs/2501.14914v1](http://arxiv.org/abs/2501.14914v1)
 - 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-14, **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Yue Hu et.al., Paper: [http://arxiv.org/abs/2501.07015v2](http://arxiv.org/abs/2501.07015v2)
-- 2025-01-12, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v1](http://arxiv.org/abs/2501.06927v1)
+- 2025-02-02, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v2](http://arxiv.org/abs/2501.06927v2)
 - 2025-01-11, **Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**, Aditya Rauniyar et.al., Paper: [http://arxiv.org/abs/2501.06431v1](http://arxiv.org/abs/2501.06431v1)
 - 2025-01-06, **Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**, Yuezhang Lv et.al., Paper: [http://arxiv.org/abs/2501.02821v1](http://arxiv.org/abs/2501.02821v1)
 - 2025-01-02, **On Unifying Video Generation and Camera Pose Estimation**, Chun-Hao Paul Huang et.al., Paper: [http://arxiv.org/abs/2501.01409v1](http://arxiv.org/abs/2501.01409v1)
@@ -2905,7 +2905,7 @@
 - 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
 - 2025-01-22, **Neural Radiance Fields for the Real World: A Survey**, Wenhui Xiao et.al., Paper: [http://arxiv.org/abs/2501.13104v1](http://arxiv.org/abs/2501.13104v1)
-- 2025-01-22, **DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2501.12637v1](http://arxiv.org/abs/2501.12637v1)
+- 2025-02-02, **DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2501.12637v2](http://arxiv.org/abs/2501.12637v2)
 - 2025-01-21, **DNRSelect: Active Best View Selection for Deferred Neural Rendering**, Dongli Wu et.al., Paper: [http://arxiv.org/abs/2501.12150v1](http://arxiv.org/abs/2501.12150v1)
 - 2025-01-21, **Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**, Shuyi Hu et.al., Paper: [http://arxiv.org/abs/2501.11884v1](http://arxiv.org/abs/2501.11884v1)
 - 2025-01-16, **Poxel: Voxel Reconstruction for 3D Printing**, Ruixiang Cao et.al., Paper: [http://arxiv.org/abs/2501.10474v1](http://arxiv.org/abs/2501.10474v1)
