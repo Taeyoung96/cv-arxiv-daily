@@ -1116,7 +1116,7 @@
 
 ## SFM
 
-- 2025-02-04, **GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**, Zhihao Guo et.al., Paper: [http://arxiv.org/abs/2502.02283v1](http://arxiv.org/abs/2502.02283v1)
+- 2025-02-05, **GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**, Zhihao Guo et.al., Paper: [http://arxiv.org/abs/2502.02283v2](http://arxiv.org/abs/2502.02283v2)
 - 2025-02-03, **XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**, Shangjin Zhai et.al., Paper: [http://arxiv.org/abs/2502.01297v1](http://arxiv.org/abs/2502.01297v1)
 - 2025-01-28, **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**, Tim Flückiger et.al., Paper: [http://arxiv.org/abs/2501.16221v2](http://arxiv.org/abs/2501.16221v2)
 - 2025-01-25, **Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**, Zhen-Hui Dong et.al., Paper: [http://arxiv.org/abs/2501.15096v1](http://arxiv.org/abs/2501.15096v1)
@@ -2911,7 +2911,7 @@
 - 2025-01-31, **VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**, Mateusz Nowak et.al., Paper: [http://arxiv.org/abs/2501.17978v2](http://arxiv.org/abs/2501.17978v2)
 - 2025-01-28, **LinPrim: Linear Primitives for Differentiable Volumetric Rendering**, Nicolas von Lützow et.al., Paper: [http://arxiv.org/abs/2501.16312v2](http://arxiv.org/abs/2501.16312v2)
 - 2025-01-24, **SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2501.14646v1](http://arxiv.org/abs/2501.14646v1)
-- 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
+- 2025-02-05, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v2](http://arxiv.org/abs/2501.13971v2), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-23, **VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**, Gyuhyeon Pak et.al., Paper: [http://arxiv.org/abs/2501.13402v1](http://arxiv.org/abs/2501.13402v1)
 - 2025-01-22, **Neural Radiance Fields for the Real World: A Survey**, Wenhui Xiao et.al., Paper: [http://arxiv.org/abs/2501.13104v1](http://arxiv.org/abs/2501.13104v1)
 - 2025-02-02, **DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2501.12637v2](http://arxiv.org/abs/2501.12637v2)
