@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-02-05, **GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.03228v1](http://arxiv.org/abs/2502.03228v1)
+- 2025-02-04, **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2502.02657v1](http://arxiv.org/abs/2502.02657v1)
 - 2025-02-04, **HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**, Hanjun Kim et.al., Paper: [http://arxiv.org/abs/2502.01946v1](http://arxiv.org/abs/2502.01946v1)
 - 2025-02-03, **Statistical enhance learning for modeling and prediction tennis matches at Grand Slam tournaments**, Nourah Buhamra et.al., Paper: [http://arxiv.org/abs/2502.01613v1](http://arxiv.org/abs/2502.01613v1)
 - 2025-02-03, **Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**, Dabin Kim et.al., Paper: [http://arxiv.org/abs/2502.01092v1](http://arxiv.org/abs/2502.01092v1)
@@ -1116,6 +1118,7 @@
 
 ## SFM
 
+- 2025-02-04, **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2502.02657v1](http://arxiv.org/abs/2502.02657v1)
 - 2025-02-05, **GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**, Zhihao Guo et.al., Paper: [http://arxiv.org/abs/2502.02283v2](http://arxiv.org/abs/2502.02283v2)
 - 2025-02-03, **XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**, Shangjin Zhai et.al., Paper: [http://arxiv.org/abs/2502.01297v1](http://arxiv.org/abs/2502.01297v1)
 - 2025-01-28, **Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**, Tim Flückiger et.al., Paper: [http://arxiv.org/abs/2501.16221v2](http://arxiv.org/abs/2501.16221v2)
@@ -1387,6 +1390,7 @@
 
 ## Visual Localization
 
+- 2025-02-05, **Human-Aligned Image Models Improve Visual Decoding from the Brain**, Nona Rajabi et.al., Paper: [http://arxiv.org/abs/2502.03081v1](http://arxiv.org/abs/2502.03081v1)
 - 2025-02-03, **ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**, Costin F. Ciusdel et.al., Paper: [http://arxiv.org/abs/2502.01335v1](http://arxiv.org/abs/2502.01335v1)
 - 2025-01-31, **LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.19382v1](http://arxiv.org/abs/2501.19382v1), Code: **[https://github.com/crepuscularlight/semanticloopclosure](https://github.com/crepuscularlight/semanticloopclosure)**
 - 2025-01-27, **Freestyle Sketch-in-the-Loop Image Segmentation**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2501.16022v1](http://arxiv.org/abs/2501.16022v1)
@@ -2668,6 +2672,7 @@
 
 ## Image Matching
 
+- 2025-02-04, **Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**, William O'Donnell et.al., Paper: [http://arxiv.org/abs/2502.02624v1](http://arxiv.org/abs/2502.02624v1)
 - 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-20, **MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2501.11299v1](http://arxiv.org/abs/2501.11299v1)
 - 2025-01-13, **MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2501.07556v1](http://arxiv.org/abs/2501.07556v1)
@@ -2906,6 +2911,7 @@
 
 ## NeRF
 
+- 2025-02-04, **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2502.02657v1](http://arxiv.org/abs/2502.02657v1)
 - 2025-02-04, **MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**, Shengbo Gu et.al., Paper: [http://arxiv.org/abs/2502.02372v1](http://arxiv.org/abs/2502.02372v1)
 - 2025-02-03, **FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**, Diego Gomez et.al., Paper: [http://arxiv.org/abs/2502.01405v1](http://arxiv.org/abs/2502.01405v1)
 - 2025-01-31, **VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**, Mateusz Nowak et.al., Paper: [http://arxiv.org/abs/2501.17978v2](http://arxiv.org/abs/2501.17978v2)
