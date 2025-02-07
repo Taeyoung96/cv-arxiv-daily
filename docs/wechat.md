@@ -1390,6 +1390,7 @@
 
 ## Visual Localization
 
+- 2025-02-06, **Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**, Marco Mistretta et.al., Paper: [http://arxiv.org/abs/2502.04263v1](http://arxiv.org/abs/2502.04263v1)
 - 2025-02-05, **Human-Aligned Image Models Improve Visual Decoding from the Brain**, Nona Rajabi et.al., Paper: [http://arxiv.org/abs/2502.03081v1](http://arxiv.org/abs/2502.03081v1)
 - 2025-02-03, **ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**, Costin F. Ciusdel et.al., Paper: [http://arxiv.org/abs/2502.01335v1](http://arxiv.org/abs/2502.01335v1)
 - 2025-01-31, **LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.19382v1](http://arxiv.org/abs/2501.19382v1), Code: **[https://github.com/crepuscularlight/semanticloopclosure](https://github.com/crepuscularlight/semanticloopclosure)**
