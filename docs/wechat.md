@@ -2680,7 +2680,7 @@
 
 ## Image Matching
 
-- 2025-02-10, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Matteo Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v1](http://arxiv.org/abs/2502.06288v1)
+- 2025-02-11, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Emanuele Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v2](http://arxiv.org/abs/2502.06288v2)
 - 2025-02-04, **Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**, William O'Donnell et.al., Paper: [http://arxiv.org/abs/2502.02624v1](http://arxiv.org/abs/2502.02624v1)
 - 2025-01-24, **Dense-SfM: Structure from Motion with Dense Consistent Matching**, JongMin Lee et.al., Paper: [http://arxiv.org/abs/2501.14277v1](http://arxiv.org/abs/2501.14277v1)
 - 2025-01-20, **MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2501.11299v1](http://arxiv.org/abs/2501.11299v1)
@@ -2922,7 +2922,7 @@
 
 - 2025-02-08, **GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**, Kang Yang et.al., Paper: [http://arxiv.org/abs/2502.05708v1](http://arxiv.org/abs/2502.05708v1)
 - 2025-02-05, **VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**, Jayram Palamadai et.al., Paper: [http://arxiv.org/abs/2502.05222v1](http://arxiv.org/abs/2502.05222v1)
-- 2025-02-07, **PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**, Feifei Li et.al., Paper: [http://arxiv.org/abs/2502.04843v1](http://arxiv.org/abs/2502.04843v1)
+- 2025-02-11, **PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**, Feifei Li et.al., Paper: [http://arxiv.org/abs/2502.04843v2](http://arxiv.org/abs/2502.04843v2)
 - 2025-02-04, **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2502.02657v1](http://arxiv.org/abs/2502.02657v1)
 - 2025-02-04, **MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**, Shengbo Gu et.al., Paper: [http://arxiv.org/abs/2502.02372v1](http://arxiv.org/abs/2502.02372v1)
 - 2025-02-03, **FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**, Diego Gomez et.al., Paper: [http://arxiv.org/abs/2502.01405v1](http://arxiv.org/abs/2502.01405v1)
