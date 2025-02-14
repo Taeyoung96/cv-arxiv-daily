@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-02-13, **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.09111v1](http://arxiv.org/abs/2502.09111v1)
 - 2025-02-10, **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2502.06292v1](http://arxiv.org/abs/2502.06292v1)
 - 2025-02-09, **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Yue Pan et.al., Paper: [http://arxiv.org/abs/2502.05752v1](http://arxiv.org/abs/2502.05752v1)
 - 2025-02-07, **Joint State and Noise Covariance Estimation**, Kasra Khosoussi et.al., Paper: [http://arxiv.org/abs/2502.04584v1](http://arxiv.org/abs/2502.04584v1)
@@ -1395,6 +1396,8 @@
 
 ## Visual Localization
 
+- 2025-02-13, **ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**, Rotem Shalev-Arkushin et.al., Paper: [http://arxiv.org/abs/2502.09411v1](http://arxiv.org/abs/2502.09411v1)
+- 2025-02-12, **SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**, Artem Dementyev et.al., Paper: [http://arxiv.org/abs/2502.08848v1](http://arxiv.org/abs/2502.08848v1)
 - 2025-02-12, **Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**, Prajwal Gatti et.al., Paper: [http://arxiv.org/abs/2502.08438v1](http://arxiv.org/abs/2502.08438v1)
 - 2025-02-11, **Captured by Captions: On Memorization and its Mitigation in CLIP Models**, Wenhao Wang et.al., Paper: [http://arxiv.org/abs/2502.07830v1](http://arxiv.org/abs/2502.07830v1)
 - 2025-02-11, **Ultrafast 4D scanning transmission electron microscopy for imaging of localized optical fields**, Petr Koutenský et.al., Paper: [http://arxiv.org/abs/2502.07338v1](http://arxiv.org/abs/2502.07338v1)
@@ -2926,6 +2929,8 @@
 
 ## NeRF
 
+- 2025-02-13, **Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**, Francesco Ballerini et.al., Paper: [http://arxiv.org/abs/2502.09623v1](http://arxiv.org/abs/2502.09623v1)
+- 2025-02-13, **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.09111v1](http://arxiv.org/abs/2502.09111v1)
 - 2025-02-12, **Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**, Tianle Liu et.al., Paper: [http://arxiv.org/abs/2502.08352v1](http://arxiv.org/abs/2502.08352v1)
 - 2025-02-10, **PrismAvatar: Real-time animated 3D neural head avatars on edge devices**, Prashant Raina et.al., Paper: [http://arxiv.org/abs/2502.07030v1](http://arxiv.org/abs/2502.07030v1)
 - 2025-02-10, **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**, Siwei Meng et.al., Paper: [http://arxiv.org/abs/2502.07007v1](http://arxiv.org/abs/2502.07007v1)
