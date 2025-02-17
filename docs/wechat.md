@@ -20,7 +20,7 @@
 ## SLAM
 
 - 2025-02-13, **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.09111v1](http://arxiv.org/abs/2502.09111v1)
-- 2025-02-10, **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2502.06292v1](http://arxiv.org/abs/2502.06292v1)
+- 2025-02-14, **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2502.06292v2](http://arxiv.org/abs/2502.06292v2)
 - 2025-02-09, **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Yue Pan et.al., Paper: [http://arxiv.org/abs/2502.05752v1](http://arxiv.org/abs/2502.05752v1), Code: **[https://github.com/PRBonn/PINGS](https://github.com/PRBonn/PINGS)**
 - 2025-02-07, **Joint State and Noise Covariance Estimation**, Kasra Khosoussi et.al., Paper: [http://arxiv.org/abs/2502.04584v1](http://arxiv.org/abs/2502.04584v1)
 - 2025-02-05, **GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.03228v1](http://arxiv.org/abs/2502.03228v1)
