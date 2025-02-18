@@ -2514,7 +2514,7 @@ layout: default
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
 |**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844v1](http://arxiv.org/abs/2501.11844v1)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
-|**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069v1](http://arxiv.org/abs/2501.11069v1)|null|
+|**2025-02-16**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069v2](http://arxiv.org/abs/2501.11069v2)|null|
 |**2025-01-13**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421v1](http://arxiv.org/abs/2501.07421v1)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399v1](http://arxiv.org/abs/2501.07399v1)|null|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
