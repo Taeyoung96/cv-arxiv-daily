@@ -20,10 +20,10 @@
 ## SLAM
 
 - 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
-- 2025-02-17, **pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**, Luigi Freda et.al., Paper: [http://arxiv.org/abs/2502.11955v1](http://arxiv.org/abs/2502.11955v1)
+- 2025-02-19, **pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**, Luigi Freda et.al., Paper: [http://arxiv.org/abs/2502.11955v2](http://arxiv.org/abs/2502.11955v2)
 - 2025-02-17, **Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**, Yanbin Li et.al., Paper: [http://arxiv.org/abs/2502.11486v1](http://arxiv.org/abs/2502.11486v1)
 - 2025-02-16, **GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**, Zelin Zhou et.al., Paper: [http://arxiv.org/abs/2502.10975v1](http://arxiv.org/abs/2502.10975v1)
-- 2025-02-14, **MonoForce: Learnable Image-conditioned Physics Engine**, Ruslan Agishev et.al., Paper: [http://arxiv.org/abs/2502.10156v1](http://arxiv.org/abs/2502.10156v1), Code: **[https://github.com/ctu-vras/monoforce](https://github.com/ctu-vras/monoforce)**
+- 2025-02-19, **MonoForce: Learnable Image-conditioned Physics Engine**, Ruslan Agishev et.al., Paper: [http://arxiv.org/abs/2502.10156v2](http://arxiv.org/abs/2502.10156v2), Code: **[https://github.com/ctu-vras/monoforce](https://github.com/ctu-vras/monoforce)**
 - 2025-02-13, **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2502.09111v1](http://arxiv.org/abs/2502.09111v1)
 - 2025-02-14, **Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**, Yingyu Wang et.al., Paper: [http://arxiv.org/abs/2502.06292v2](http://arxiv.org/abs/2502.06292v2)
 - 2025-02-09, **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Yue Pan et.al., Paper: [http://arxiv.org/abs/2502.05752v1](http://arxiv.org/abs/2502.05752v1), Code: **[https://github.com/PRBonn/PINGS](https://github.com/PRBonn/PINGS)**
@@ -1127,7 +1127,7 @@
 
 ## SFM
 
-- 2025-02-18, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v1](http://arxiv.org/abs/2502.12545v1)
+- 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
 - 2025-02-10, **FOCUS -- Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**, Oliver Boyne et.al., Paper: [http://arxiv.org/abs/2502.06367v1](http://arxiv.org/abs/2502.06367v1), Code: **[https://github.com/OllieBoyne/FOCUS](https://github.com/OllieBoyne/FOCUS)**
 - 2025-02-10, **Building Rome with Convex Optimization**, Haoyu Han et.al., Paper: [http://arxiv.org/abs/2502.04640v2](http://arxiv.org/abs/2502.04640v2)
 - 2025-02-04, **SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**, Yifu Tao et.al., Paper: [http://arxiv.org/abs/2502.02657v1](http://arxiv.org/abs/2502.02657v1)
@@ -1403,7 +1403,7 @@
 ## Visual Localization
 
 - 2025-02-18, **Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2502.13146v1](http://arxiv.org/abs/2502.13146v1)
-- 2025-02-18, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v1](http://arxiv.org/abs/2502.12545v1)
+- 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
 - 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
 - 2025-02-17, **Descriminative-Generative Custom Tokens for Vision-Language Models**, Pramuditha Perera et.al., Paper: [http://arxiv.org/abs/2502.12095v1](http://arxiv.org/abs/2502.12095v1)
 - 2025-02-17, **ILIAS: Instance-Level Image retrieval At Scale**, Giorgos Kordopatis-Zilos et.al., Paper: [http://arxiv.org/abs/2502.11748v1](http://arxiv.org/abs/2502.11748v1)
