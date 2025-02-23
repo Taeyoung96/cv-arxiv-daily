@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.02.22
+> Updated on 2025.02.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -1125,7 +1125,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## SFM
 
@@ -1402,13 +1402,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2025-02-20, **Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**, Tianyi Shang et.al., Paper: [http://arxiv.org/abs/2502.14195v1](http://arxiv.org/abs/2502.14195v1), Code: **[https://github.com/nuozimiaowu/Text4VPR](https://github.com/nuozimiaowu/Text4VPR)**
 - 2025-02-19, **3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2502.13803v1](http://arxiv.org/abs/2502.13803v1)
-- 2025-02-18, **Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2502.13146v1](http://arxiv.org/abs/2502.13146v1)
+- 2025-02-18, **Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2502.13146v1](http://arxiv.org/abs/2502.13146v1), Code: **[https://github.com/taco-group/re-align](https://github.com/taco-group/re-align)**
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
 - 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
 - 2025-02-17, **Descriminative-Generative Custom Tokens for Vision-Language Models**, Pramuditha Perera et.al., Paper: [http://arxiv.org/abs/2502.12095v1](http://arxiv.org/abs/2502.12095v1)
@@ -2451,11 +2451,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1)
+- 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/tattaka/czii-cryo-et-object-identification-public](https://github.com/tattaka/czii-cryo-et-object-identification-public)**
 - 2025-01-30, **Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**, Wei-Lun Chen et.al., Paper: [http://arxiv.org/abs/2501.18453v1](http://arxiv.org/abs/2501.18453v1)
 - 2025-01-30, **Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**, Bhargav Ghanekar et.al., Paper: [http://arxiv.org/abs/2501.18361v1](http://arxiv.org/abs/2501.18361v1)
 - 2025-01-30, **Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.18110v1](http://arxiv.org/abs/2501.18110v1)
@@ -2708,7 +2708,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2949,7 +2949,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## NeRF
 
@@ -4434,7 +4434,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
