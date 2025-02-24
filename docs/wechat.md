@@ -19,9 +19,11 @@
 
 ## SLAM
 
+- 2025-02-21, **RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**, Sicheng Yu et.al., Paper: [http://arxiv.org/abs/2502.15633v1](http://arxiv.org/abs/2502.15633v1)
+- 2025-02-20, **Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**, Boying Li et.al., Paper: [http://arxiv.org/abs/2502.14931v1](http://arxiv.org/abs/2502.14931v1)
 - 2025-02-19, **3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2502.13803v1](http://arxiv.org/abs/2502.13803v1)
 - 2025-02-19, **Active Illumination for Visual Ego-Motion Estimation in the Dark**, Francesco Crocetti et.al., Paper: [http://arxiv.org/abs/2502.13708v1](http://arxiv.org/abs/2502.13708v1)
-- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
+- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1), Code: **[https://github.com/scumatteo/GTA-rn](https://github.com/scumatteo/GTA-rn)**
 - 2025-02-19, **pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**, Luigi Freda et.al., Paper: [http://arxiv.org/abs/2502.11955v2](http://arxiv.org/abs/2502.11955v2), Code: **[https://github.com/luigifreda/pyslam](https://github.com/luigifreda/pyslam)**
 - 2025-02-17, **Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**, Yanbin Li et.al., Paper: [http://arxiv.org/abs/2502.11486v1](http://arxiv.org/abs/2502.11486v1)
 - 2025-02-16, **GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**, Zelin Zhou et.al., Paper: [http://arxiv.org/abs/2502.10975v1](http://arxiv.org/abs/2502.10975v1)
@@ -1129,7 +1131,7 @@
 
 ## SFM
 
-- 2025-02-20, **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**, Qilin Zhang et.al., Paper: [http://arxiv.org/abs/2502.14684v1](http://arxiv.org/abs/2502.14684v1)
+- 2025-02-20, **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**, Qilin Zhang et.al., Paper: [http://arxiv.org/abs/2502.14684v1](http://arxiv.org/abs/2502.14684v1), Code: **[https://github.com/zqlin0521/cdgs-release](https://github.com/zqlin0521/cdgs-release)**
 - 2025-02-19, **Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**, Seong Jong Yoo et.al., Paper: [http://arxiv.org/abs/2502.13986v1](http://arxiv.org/abs/2502.13986v1)
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
 - 2025-02-10, **FOCUS -- Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**, Oliver Boyne et.al., Paper: [http://arxiv.org/abs/2502.06367v1](http://arxiv.org/abs/2502.06367v1), Code: **[https://github.com/OllieBoyne/FOCUS](https://github.com/OllieBoyne/FOCUS)**
@@ -1406,11 +1408,12 @@
 
 ## Visual Localization
 
+- 2025-02-21, **ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2502.15682v1](http://arxiv.org/abs/2502.15682v1)
 - 2025-02-20, **Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**, Tianyi Shang et.al., Paper: [http://arxiv.org/abs/2502.14195v1](http://arxiv.org/abs/2502.14195v1), Code: **[https://github.com/nuozimiaowu/Text4VPR](https://github.com/nuozimiaowu/Text4VPR)**
 - 2025-02-19, **3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2502.13803v1](http://arxiv.org/abs/2502.13803v1)
 - 2025-02-18, **Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2502.13146v1](http://arxiv.org/abs/2502.13146v1), Code: **[https://github.com/taco-group/re-align](https://github.com/taco-group/re-align)**
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
-- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
+- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1), Code: **[https://github.com/scumatteo/GTA-rn](https://github.com/scumatteo/GTA-rn)**
 - 2025-02-17, **Descriminative-Generative Custom Tokens for Vision-Language Models**, Pramuditha Perera et.al., Paper: [http://arxiv.org/abs/2502.12095v1](http://arxiv.org/abs/2502.12095v1)
 - 2025-02-17, **ILIAS: Instance-Level Image retrieval At Scale**, Giorgos Kordopatis-Zilos et.al., Paper: [http://arxiv.org/abs/2502.11748v1](http://arxiv.org/abs/2502.11748v1)
 - 2025-02-17, **Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**, Jianyi Peng et.al., Paper: [http://arxiv.org/abs/2502.11742v1](http://arxiv.org/abs/2502.11742v1)
@@ -2953,6 +2956,8 @@
 
 ## NeRF
 
+- 2025-02-21, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v1](http://arxiv.org/abs/2502.15635v1)
+- 2025-02-20, **Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**, Boying Li et.al., Paper: [http://arxiv.org/abs/2502.14931v1](http://arxiv.org/abs/2502.14931v1)
 - 2025-02-20, **NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**, Xiaoxing Liu et.al., Paper: [http://arxiv.org/abs/2502.14178v1](http://arxiv.org/abs/2502.14178v1)
 - 2025-02-19, **GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**, Bang Du et.al., Paper: [http://arxiv.org/abs/2502.14129v1](http://arxiv.org/abs/2502.14129v1)
 - 2025-02-18, **Geometry-Aware Diffusion Models for Multiview Scene Inpainting**, Ahmad Salimi et.al., Paper: [http://arxiv.org/abs/2502.13335v1](http://arxiv.org/abs/2502.13335v1)
