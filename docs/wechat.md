@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
+- 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-24, **SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**, Haoming Huang et.al., Paper: [http://arxiv.org/abs/2502.16856v1](http://arxiv.org/abs/2502.16856v1)
 - 2025-02-23, **Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2502.16495v1](http://arxiv.org/abs/2502.16495v1)
 - 2025-02-19, **Slamming: Training a Speech Language Model on One GPU in a Day**, Gallil Maimon et.al., Paper: [http://arxiv.org/abs/2502.15814v1](http://arxiv.org/abs/2502.15814v1), Code: **[https://github.com/slp-rl/slamkit](https://github.com/slp-rl/slamkit)**
@@ -1413,7 +1413,7 @@
 
 ## Visual Localization
 
-- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
+- 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-23, **Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**, Yin Wu et.al., Paper: [http://arxiv.org/abs/2502.16636v1](http://arxiv.org/abs/2502.16636v1)
 - 2025-02-23, **SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2502.16601v1](http://arxiv.org/abs/2502.16601v1)
 - 2025-02-21, **ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2502.15682v1](http://arxiv.org/abs/2502.15682v1)
