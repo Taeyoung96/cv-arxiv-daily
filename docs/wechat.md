@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-02-25, **S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**, Hriday Bavle et.al., Paper: [http://arxiv.org/abs/2502.18044v1](http://arxiv.org/abs/2502.18044v1)
 - 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-24, **SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**, Haoming Huang et.al., Paper: [http://arxiv.org/abs/2502.16856v1](http://arxiv.org/abs/2502.16856v1)
 - 2025-02-23, **Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2502.16495v1](http://arxiv.org/abs/2502.16495v1)
@@ -2723,6 +2724,7 @@
 
 ## Image Matching
 
+- 2025-02-25, **PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2502.18104v1](http://arxiv.org/abs/2502.18104v1)
 - 2025-02-24, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v1](http://arxiv.org/abs/2502.16779v1)
 - 2025-02-16, **FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**, Jiuwu Hao et.al., Paper: [http://arxiv.org/abs/2502.11003v1](http://arxiv.org/abs/2502.11003v1), Code: **[https://github.com/uestchjw/feakm](https://github.com/uestchjw/feakm)**
 - 2025-02-24, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Emanuele Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v3](http://arxiv.org/abs/2502.06288v3), Code: **[https://github.com/MatteoPannacci/SemanticAlignNet-QUAD](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**
