@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.02.25
+> Updated on 2025.02.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1)
+- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-24, **SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**, Haoming Huang et.al., Paper: [http://arxiv.org/abs/2502.16856v1](http://arxiv.org/abs/2502.16856v1)
 - 2025-02-23, **Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2502.16495v1](http://arxiv.org/abs/2502.16495v1)
 - 2025-02-19, **Slamming: Training a Speech Language Model on One GPU in a Day**, Gallil Maimon et.al., Paper: [http://arxiv.org/abs/2502.15814v1](http://arxiv.org/abs/2502.15814v1), Code: **[https://github.com/slp-rl/slamkit](https://github.com/slp-rl/slamkit)**
@@ -27,7 +27,7 @@
 - 2025-02-20, **Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**, Boying Li et.al., Paper: [http://arxiv.org/abs/2502.14931v1](http://arxiv.org/abs/2502.14931v1)
 - 2025-02-19, **3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2502.13803v1](http://arxiv.org/abs/2502.13803v1)
 - 2025-02-19, **Active Illumination for Visual Ego-Motion Estimation in the Dark**, Francesco Crocetti et.al., Paper: [http://arxiv.org/abs/2502.13708v1](http://arxiv.org/abs/2502.13708v1)
-- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1), Code: **[https://github.com/scumatteo/GTA-rn](https://github.com/scumatteo/GTA-rn)**
+- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
 - 2025-02-19, **pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**, Luigi Freda et.al., Paper: [http://arxiv.org/abs/2502.11955v2](http://arxiv.org/abs/2502.11955v2), Code: **[https://github.com/luigifreda/pyslam](https://github.com/luigifreda/pyslam)**
 - 2025-02-17, **Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**, Yanbin Li et.al., Paper: [http://arxiv.org/abs/2502.11486v1](http://arxiv.org/abs/2502.11486v1)
 - 2025-02-16, **GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**, Zelin Zhou et.al., Paper: [http://arxiv.org/abs/2502.10975v1](http://arxiv.org/abs/2502.10975v1)
@@ -1131,7 +1131,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## SFM
 
@@ -1409,11 +1409,11 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1)
+- 2025-02-24, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v1](http://arxiv.org/abs/2502.17237v1), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-23, **Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**, Yin Wu et.al., Paper: [http://arxiv.org/abs/2502.16636v1](http://arxiv.org/abs/2502.16636v1)
 - 2025-02-23, **SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2502.16601v1](http://arxiv.org/abs/2502.16601v1)
 - 2025-02-21, **ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**, Guanqi Zhan et.al., Paper: [http://arxiv.org/abs/2502.15682v1](http://arxiv.org/abs/2502.15682v1)
@@ -1421,7 +1421,7 @@
 - 2025-02-19, **3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**, Vincent Ress et.al., Paper: [http://arxiv.org/abs/2502.13803v1](http://arxiv.org/abs/2502.13803v1)
 - 2025-02-18, **Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2502.13146v1](http://arxiv.org/abs/2502.13146v1), Code: **[https://github.com/taco-group/re-align](https://github.com/taco-group/re-align)**
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
-- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1), Code: **[https://github.com/scumatteo/GTA-rn](https://github.com/scumatteo/GTA-rn)**
+- 2025-02-17, **From Gaming to Research: GTA V for Synthetic Data Generation for Robotics and Navigations**, Matteo Scucchia et.al., Paper: [http://arxiv.org/abs/2502.12303v1](http://arxiv.org/abs/2502.12303v1)
 - 2025-02-17, **Descriminative-Generative Custom Tokens for Vision-Language Models**, Pramuditha Perera et.al., Paper: [http://arxiv.org/abs/2502.12095v1](http://arxiv.org/abs/2502.12095v1)
 - 2025-02-17, **ILIAS: Instance-Level Image retrieval At Scale**, Giorgos Kordopatis-Zilos et.al., Paper: [http://arxiv.org/abs/2502.11748v1](http://arxiv.org/abs/2502.11748v1)
 - 2025-02-17, **Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**, Jianyi Peng et.al., Paper: [http://arxiv.org/abs/2502.11742v1](http://arxiv.org/abs/2502.11742v1)
@@ -2462,7 +2462,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2719,7 +2719,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2961,11 +2961,11 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## NeRF
 
-- 2025-02-24, **Semantic Neural Radiance Fields for Multi-Date Satellite Data**, Valentin Wagner et.al., Paper: [http://arxiv.org/abs/2502.16992v1](http://arxiv.org/abs/2502.16992v1)
+- 2025-02-24, **Semantic Neural Radiance Fields for Multi-Date Satellite Data**, Valentin Wagner et.al., Paper: [http://arxiv.org/abs/2502.16992v1](http://arxiv.org/abs/2502.16992v1), Code: **[https://github.com/wagnva/semantic-nerf-for-satellite-data](https://github.com/wagnva/semantic-nerf-for-satellite-data)**
 - 2025-02-22, **AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**, Luca Gough et.al., Paper: [http://arxiv.org/abs/2502.16351v1](http://arxiv.org/abs/2502.16351v1)
 - 2025-02-22, **DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**, Yuxuan Xiong et.al., Paper: [http://arxiv.org/abs/2502.16302v1](http://arxiv.org/abs/2502.16302v1)
 - 2025-02-24, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v2](http://arxiv.org/abs/2502.15635v2)
@@ -4451,7 +4451,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
