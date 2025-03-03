@@ -21,7 +21,7 @@
 
 - 2025-02-26, **Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**, Petri Mäkinen et.al., Paper: [http://arxiv.org/abs/2502.19169v1](http://arxiv.org/abs/2502.19169v1)
 - 2025-02-26, **SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**, Yangfan Xu et.al., Paper: [http://arxiv.org/abs/2502.18932v1](http://arxiv.org/abs/2502.18932v1)
-- 2025-02-25, **S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**, Hriday Bavle et.al., Paper: [http://arxiv.org/abs/2502.18044v1](http://arxiv.org/abs/2502.18044v1), Code: **[https://github.com/snt-arg/lidar_situational_graphs](https://github.com/snt-arg/lidar_situational_graphs)**
+- 2025-02-28, **S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**, Hriday Bavle et.al., Paper: [http://arxiv.org/abs/2502.18044v2](http://arxiv.org/abs/2502.18044v2), Code: **[https://github.com/snt-arg/lidar_situational_graphs](https://github.com/snt-arg/lidar_situational_graphs)**
 - 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-24, **SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**, Haoming Huang et.al., Paper: [http://arxiv.org/abs/2502.16856v1](http://arxiv.org/abs/2502.16856v1), Code: **[https://github.com/hkust-aerial-robotics/slabim](https://github.com/hkust-aerial-robotics/slabim)**
 - 2025-02-27, **Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**, Yao Zhang et.al., Paper: [http://arxiv.org/abs/2502.16495v2](http://arxiv.org/abs/2502.16495v2)
@@ -1138,7 +1138,7 @@
 
 ## SFM
 
-- 2025-02-24, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v1](http://arxiv.org/abs/2502.16779v1)
+- 2025-02-28, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v2](http://arxiv.org/abs/2502.16779v2)
 - 2025-02-20, **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**, Qilin Zhang et.al., Paper: [http://arxiv.org/abs/2502.14684v1](http://arxiv.org/abs/2502.14684v1), Code: **[https://github.com/zqlin0521/cdgs-release](https://github.com/zqlin0521/cdgs-release)**
 - 2025-02-19, **Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**, Seong Jong Yoo et.al., Paper: [http://arxiv.org/abs/2502.13986v1](http://arxiv.org/abs/2502.13986v1)
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
@@ -2737,7 +2737,7 @@
 - 2025-02-27, **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**, Thibaut Loiseau et.al., Paper: [http://arxiv.org/abs/2502.19955v1](http://arxiv.org/abs/2502.19955v1)
 - 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1)
 - 2025-02-25, **PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2502.18104v1](http://arxiv.org/abs/2502.18104v1), Code: **[https://github.com/hanniewhu/promptmid](https://github.com/hanniewhu/promptmid)**
-- 2025-02-24, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v1](http://arxiv.org/abs/2502.16779v1)
+- 2025-02-28, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v2](http://arxiv.org/abs/2502.16779v2)
 - 2025-02-16, **FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**, Jiuwu Hao et.al., Paper: [http://arxiv.org/abs/2502.11003v1](http://arxiv.org/abs/2502.11003v1), Code: **[https://github.com/uestchjw/feakm](https://github.com/uestchjw/feakm)**
 - 2025-02-24, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Emanuele Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v3](http://arxiv.org/abs/2502.06288v3), Code: **[https://github.com/MatteoPannacci/SemanticAlignNet-QUAD](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**
 - 2025-02-04, **Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**, William O'Donnell et.al., Paper: [http://arxiv.org/abs/2502.02624v1](http://arxiv.org/abs/2502.02624v1)
