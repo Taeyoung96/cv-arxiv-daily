@@ -1140,7 +1140,7 @@
 ## SFM
 
 - 2025-02-27, **Best Foot Forward: Robust Foot Reconstruction in-the-wild**, Kyle Fogarty et.al., Paper: [http://arxiv.org/abs/2502.20511v1](http://arxiv.org/abs/2502.20511v1)
-- 2025-02-28, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v2](http://arxiv.org/abs/2502.16779v2)
+- 2025-03-04, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v3](http://arxiv.org/abs/2502.16779v3)
 - 2025-02-20, **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**, Qilin Zhang et.al., Paper: [http://arxiv.org/abs/2502.14684v1](http://arxiv.org/abs/2502.14684v1), Code: **[https://github.com/zqlin0521/cdgs-release](https://github.com/zqlin0521/cdgs-release)**
 - 2025-02-19, **Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**, Seong Jong Yoo et.al., Paper: [http://arxiv.org/abs/2502.13986v1](http://arxiv.org/abs/2502.13986v1)
 - 2025-02-19, **IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360$^\circ$ Cameras**, Dongki Jung et.al., Paper: [http://arxiv.org/abs/2502.12545v2](http://arxiv.org/abs/2502.12545v2)
@@ -2741,7 +2741,7 @@
 - 2025-02-27, **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**, Thibaut Loiseau et.al., Paper: [http://arxiv.org/abs/2502.19955v1](http://arxiv.org/abs/2502.19955v1)
 - 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1)
 - 2025-02-25, **PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2502.18104v1](http://arxiv.org/abs/2502.18104v1), Code: **[https://github.com/hanniewhu/promptmid](https://github.com/hanniewhu/promptmid)**
-- 2025-02-28, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v2](http://arxiv.org/abs/2502.16779v2)
+- 2025-03-04, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v3](http://arxiv.org/abs/2502.16779v3)
 - 2025-02-16, **FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**, Jiuwu Hao et.al., Paper: [http://arxiv.org/abs/2502.11003v1](http://arxiv.org/abs/2502.11003v1), Code: **[https://github.com/uestchjw/feakm](https://github.com/uestchjw/feakm)**
 - 2025-02-24, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Emanuele Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v3](http://arxiv.org/abs/2502.06288v3), Code: **[https://github.com/MatteoPannacci/SemanticAlignNet-QUAD](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**
 - 2025-02-04, **Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**, William O'Donnell et.al., Paper: [http://arxiv.org/abs/2502.02624v1](http://arxiv.org/abs/2502.02624v1)
