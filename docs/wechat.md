@@ -19,6 +19,16 @@
 
 ## SLAM
 
+- 2025-03-04, **Introspective Loop Closure for SLAM with 4D Imaging Radar**, Maximilian Hilger et.al., Paper: [http://arxiv.org/abs/2503.02383v1](http://arxiv.org/abs/2503.02383v1)
+- 2025-03-04, **DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**, Haoyuan Li et.al., Paper: [http://arxiv.org/abs/2503.02223v1](http://arxiv.org/abs/2503.02223v1)
+- 2025-03-03, **Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**, Marco Giberna et.al., Paper: [http://arxiv.org/abs/2503.02050v1](http://arxiv.org/abs/2503.02050v1)
+- 2025-03-03, **vS-Graphs: Integrating Visual SLAM and Situational Graphs through Multi-level Scene Understanding**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2503.01783v1](http://arxiv.org/abs/2503.01783v1)
+- 2025-03-03, **MUSt3R: Multi-view Network for Stereo 3D Reconstruction**, Yohann Cabon et.al., Paper: [http://arxiv.org/abs/2503.01661v1](http://arxiv.org/abs/2503.01661v1)
+- 2025-03-03, **OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**, Dianyi Yang et.al., Paper: [http://arxiv.org/abs/2503.01646v1](http://arxiv.org/abs/2503.01646v1)
+- 2025-03-03, **MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**, Chao Ye et.al., Paper: [http://arxiv.org/abs/2503.01571v1](http://arxiv.org/abs/2503.01571v1)
+- 2025-03-03, **AI-Driven Relocation Tracking in Dynamic Kitchen Environments**, Arash Nasr Esfahani et.al., Paper: [http://arxiv.org/abs/2503.01547v1](http://arxiv.org/abs/2503.01547v1), Code: **[https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**
+- 2025-03-03, **Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**, Xintao Chao et.al., Paper: [http://arxiv.org/abs/2503.01543v1](http://arxiv.org/abs/2503.01543v1)
+- 2025-03-03, **RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**, Shu Pan et.al., Paper: [http://arxiv.org/abs/2503.01434v1](http://arxiv.org/abs/2503.01434v1)
 - 2025-02-28, **A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**, Hui Lai et.al., Paper: [http://arxiv.org/abs/2502.20767v1](http://arxiv.org/abs/2502.20767v1)
 - 2025-02-26, **Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**, Petri Mäkinen et.al., Paper: [http://arxiv.org/abs/2502.19169v1](http://arxiv.org/abs/2502.19169v1)
 - 2025-02-26, **SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**, Yangfan Xu et.al., Paper: [http://arxiv.org/abs/2502.18932v1](http://arxiv.org/abs/2502.18932v1)
@@ -1139,6 +1149,11 @@
 
 ## SFM
 
+- 2025-03-03, **ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**, Anas Abdelkarim et.al., Paper: [http://arxiv.org/abs/2503.01311v1](http://arxiv.org/abs/2503.01311v1)
+- 2025-03-04, **A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**, Jialei He et.al., Paper: [http://arxiv.org/abs/2503.01202v2](http://arxiv.org/abs/2503.01202v2)
+- 2025-03-02, **MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**, Rui Yi Yong et.al., Paper: [http://arxiv.org/abs/2503.00853v1](http://arxiv.org/abs/2503.00853v1)
+- 2025-03-02, **PSRGS:Progressive Spectral Residual of 3D Gaussian for High-Frequency Recovery**, BoCheng Li et.al., Paper: [http://arxiv.org/abs/2503.00848v1](http://arxiv.org/abs/2503.00848v1)
+- 2025-03-02, **Multi-Cali Anything: Dense Feature Multi-Frame Structure-from-Motion for Large-Scale Camera Array Calibration**, Jinjiang You et.al., Paper: [http://arxiv.org/abs/2503.00737v1](http://arxiv.org/abs/2503.00737v1), Code: **[https://github.com/yjjfish/multi-cali-anything](https://github.com/yjjfish/multi-cali-anything)**
 - 2025-02-27, **Best Foot Forward: Robust Foot Reconstruction in-the-wild**, Kyle Fogarty et.al., Paper: [http://arxiv.org/abs/2502.20511v1](http://arxiv.org/abs/2502.20511v1)
 - 2025-03-04, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v3](http://arxiv.org/abs/2502.16779v3)
 - 2025-02-20, **CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**, Qilin Zhang et.al., Paper: [http://arxiv.org/abs/2502.14684v1](http://arxiv.org/abs/2502.14684v1), Code: **[https://github.com/zqlin0521/cdgs-release](https://github.com/zqlin0521/cdgs-release)**
@@ -1418,6 +1433,14 @@
 
 ## Visual Localization
 
+- 2025-03-04, **TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2503.02511v1](http://arxiv.org/abs/2503.02511v1)
+- 2025-03-04, **Introspective Loop Closure for SLAM with 4D Imaging Radar**, Maximilian Hilger et.al., Paper: [http://arxiv.org/abs/2503.02383v1](http://arxiv.org/abs/2503.02383v1)
+- 2025-03-04, **Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**, Kenta Tsukahara et.al., Paper: [http://arxiv.org/abs/2503.02256v1](http://arxiv.org/abs/2503.02256v1)
+- 2025-03-03, **Composed Multi-modal Retrieval: A Survey of Approaches and Applications**, Kun Zhang et.al., Paper: [http://arxiv.org/abs/2503.01334v1](http://arxiv.org/abs/2503.01334v1), Code: **[https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**
+- 2025-03-03, **AirRoom: Objects Matter in Room Reidentification**, Runmao Yao et.al., Paper: [http://arxiv.org/abs/2503.01130v1](http://arxiv.org/abs/2503.01130v1)
+- 2025-03-02, **Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**, Jinyu Miao et.al., Paper: [http://arxiv.org/abs/2503.00862v1](http://arxiv.org/abs/2503.00862v1)
+- 2025-03-01, **Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**, Songlin Dong et.al., Paper: [http://arxiv.org/abs/2503.00515v1](http://arxiv.org/abs/2503.00515v1)
+- 2025-02-28, **EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**, Kuangyi Chen et.al., Paper: [http://arxiv.org/abs/2503.00167v1](http://arxiv.org/abs/2503.00167v1)
 - 2025-02-28, **CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**, Zelong Sun et.al., Paper: [http://arxiv.org/abs/2502.20826v1](http://arxiv.org/abs/2502.20826v1)
 - 2025-02-28, **SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**, Shanshan Wan et.al., Paper: [http://arxiv.org/abs/2502.20676v1](http://arxiv.org/abs/2502.20676v1)
 - 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
@@ -2478,6 +2501,9 @@
 
 ## Keypoint Detection
 
+- 2025-03-04, **A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**, Junyi Wang et.al., Paper: [http://arxiv.org/abs/2503.02481v1](http://arxiv.org/abs/2503.02481v1)
+- 2025-03-01, **Autonomous Dissection in Robotic Cholecystectomy**, Ki-Hwan Oh et.al., Paper: [http://arxiv.org/abs/2503.00666v1](http://arxiv.org/abs/2503.00666v1)
+- 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
 - 2025-02-27, **Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**, Jisoo Lee et.al., Paper: [http://arxiv.org/abs/2502.19766v1](http://arxiv.org/abs/2502.19766v1)
 - 2025-02-23, **Rewards-based image analysis in microscopy**, Kamyar Barakati et.al., Paper: [http://arxiv.org/abs/2502.18522v1](http://arxiv.org/abs/2502.18522v1)
 - 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/tattaka/czii-cryo-et-object-identification-public](https://github.com/tattaka/czii-cryo-et-object-identification-public)**
@@ -2737,9 +2763,10 @@
 
 ## Image Matching
 
+- 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
 - 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 - 2025-02-27, **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**, Thibaut Loiseau et.al., Paper: [http://arxiv.org/abs/2502.19955v1](http://arxiv.org/abs/2502.19955v1)
-- 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1)
+- 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
 - 2025-02-25, **PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2502.18104v1](http://arxiv.org/abs/2502.18104v1), Code: **[https://github.com/hanniewhu/promptmid](https://github.com/hanniewhu/promptmid)**
 - 2025-03-04, **Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**, Yaxuan Huang et.al., Paper: [http://arxiv.org/abs/2502.16779v3](http://arxiv.org/abs/2502.16779v3)
 - 2025-02-16, **FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**, Jiuwu Hao et.al., Paper: [http://arxiv.org/abs/2502.11003v1](http://arxiv.org/abs/2502.11003v1), Code: **[https://github.com/uestchjw/feakm](https://github.com/uestchjw/feakm)**
@@ -2983,6 +3010,16 @@
 
 ## NeRF
 
+- 2025-03-04, **Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**, Zeqing Wang et.al., Paper: [http://arxiv.org/abs/2503.02558v1](http://arxiv.org/abs/2503.02558v1)
+- 2025-03-04, **2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**, Qipeng Yan et.al., Paper: [http://arxiv.org/abs/2503.02452v1](http://arxiv.org/abs/2503.02452v1)
+- 2025-03-04, **Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**, Yingji Zhong et.al., Paper: [http://arxiv.org/abs/2503.02230v1](http://arxiv.org/abs/2503.02230v1)
+- 2025-03-04, **Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**, Yan Miao et.al., Paper: [http://arxiv.org/abs/2503.02198v1](http://arxiv.org/abs/2503.02198v1)
+- 2025-03-03, **Data Augmentation for NeRFs in the Low Data Limit**, Ayush Gaggar et.al., Paper: [http://arxiv.org/abs/2503.02092v1](http://arxiv.org/abs/2503.02092v1)
+- 2025-03-03, **Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**, Jay Zhangjie Wu et.al., Paper: [http://arxiv.org/abs/2503.01774v1](http://arxiv.org/abs/2503.01774v1)
+- 2025-03-03, **Category-level Meta-learned NeRF Priors for Efficient Object Mapping**, Saad Ejaz et.al., Paper: [http://arxiv.org/abs/2503.01582v1](http://arxiv.org/abs/2503.01582v1)
+- 2025-03-03, **LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**, Kaimin Liao et.al., Paper: [http://arxiv.org/abs/2503.01199v1](http://arxiv.org/abs/2503.01199v1)
+- 2025-03-02, **DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**, Youjia Wang et.al., Paper: [http://arxiv.org/abs/2503.00887v1](http://arxiv.org/abs/2503.00887v1)
+- 2025-03-01, **Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**, Nicholas Pfaff et.al., Paper: [http://arxiv.org/abs/2503.00370v1](http://arxiv.org/abs/2503.00370v1)
 - 2025-02-27, **Identity-preserving Distillation Sampling by Fixed-Point Iterator**, SeonHwa Kim et.al., Paper: [http://arxiv.org/abs/2502.19930v1](http://arxiv.org/abs/2502.19930v1)
 - 2025-02-27, **NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**, Weijie Yue et.al., Paper: [http://arxiv.org/abs/2502.19873v1](http://arxiv.org/abs/2502.19873v1)
 - 2025-02-26, **Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**, Muhammad Salman Ali et.al., Paper: [http://arxiv.org/abs/2502.19457v1](http://arxiv.org/abs/2502.19457v1)
