@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**|Kun Huang et.al.|[2503.03230v1](http://arxiv.org/abs/2503.03230v1)|null|
+|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192v1](http://arxiv.org/abs/2503.03192v1)|null|
+|**2025-03-04**|**Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**|Olaya Alvarez-Tunon et.al.|[2503.02955v1](http://arxiv.org/abs/2503.02955v1)|null|
 |**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383v1](http://arxiv.org/abs/2503.02383v1)|null|
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223v1](http://arxiv.org/abs/2503.02223v1)|null|
 |**2025-03-03**|**Constraint-Based Modeling of Dynamic Entities in 3D Scene Graphs for Robust SLAM**|Marco Giberna et.al.|[2503.02050v1](http://arxiv.org/abs/2503.02050v1)|null|
