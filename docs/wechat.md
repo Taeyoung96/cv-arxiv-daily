@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-03-06, **On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**, Isaac Skog et.al., Paper: [http://arxiv.org/abs/2503.04286v1](http://arxiv.org/abs/2503.04286v1)
+- 2025-03-06, **DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**, Joshua Bird et.al., Paper: [http://arxiv.org/abs/2503.04126v1](http://arxiv.org/abs/2503.04126v1)
+- 2025-03-05, **Equivariant Filter Design for Range-only SLAM**, Yixiao Ge et.al., Paper: [http://arxiv.org/abs/2503.03973v1](http://arxiv.org/abs/2503.03973v1)
 - 2025-03-05, **OpenGV 2.0: Motion prior-assisted calibration and SLAM with vehicle-mounted surround-view systems**, Kun Huang et.al., Paper: [http://arxiv.org/abs/2503.03230v1](http://arxiv.org/abs/2503.03230v1)
 - 2025-03-05, **Distributed Certifiably Correct Range-Aided SLAM**, Alexander Thoms et.al., Paper: [http://arxiv.org/abs/2503.03192v1](http://arxiv.org/abs/2503.03192v1)
 - 2025-03-04, **Monocular visual simultaneous localization and mapping: (r)evolution from geometry to deep learning-based pipelines**, Olaya Alvarez-Tunon et.al., Paper: [http://arxiv.org/abs/2503.02955v1](http://arxiv.org/abs/2503.02955v1)
@@ -1152,6 +1155,7 @@
 
 ## SFM
 
+- 2025-03-06, **PLMP -- Point-Line Minimal Problems for Projective SfM**, Kim Kiehn et.al., Paper: [http://arxiv.org/abs/2503.04351v1](http://arxiv.org/abs/2503.04351v1)
 - 2025-03-03, **ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**, Anas Abdelkarim et.al., Paper: [http://arxiv.org/abs/2503.01311v1](http://arxiv.org/abs/2503.01311v1)
 - 2025-03-05, **A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**, Jialei He et.al., Paper: [http://arxiv.org/abs/2503.01202v3](http://arxiv.org/abs/2503.01202v3)
 - 2025-03-02, **MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**, Rui Yi Yong et.al., Paper: [http://arxiv.org/abs/2503.00853v1](http://arxiv.org/abs/2503.00853v1)
@@ -1436,6 +1440,11 @@
 
 ## Visual Localization
 
+- 2025-03-06, **RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**, Tengfei Zhang et.al., Paper: [http://arxiv.org/abs/2503.04653v1](http://arxiv.org/abs/2503.04653v1)
+- 2025-03-06, **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.04475v1](http://arxiv.org/abs/2503.04475v1)
+- 2025-03-06, **Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**, Hui Zhang et.al., Paper: [http://arxiv.org/abs/2503.04235v1](http://arxiv.org/abs/2503.04235v1)
+- 2025-03-06, **Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**, Haitao Wu et.al., Paper: [http://arxiv.org/abs/2503.04207v1](http://arxiv.org/abs/2503.04207v1)
+- 2025-03-06, **Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**, Beverley Gorry et.al., Paper: [http://arxiv.org/abs/2503.04096v1](http://arxiv.org/abs/2503.04096v1)
 - 2025-03-04, **TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2503.02511v1](http://arxiv.org/abs/2503.02511v1)
 - 2025-03-04, **Introspective Loop Closure for SLAM with 4D Imaging Radar**, Maximilian Hilger et.al., Paper: [http://arxiv.org/abs/2503.02383v1](http://arxiv.org/abs/2503.02383v1)
 - 2025-03-04, **Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**, Kenta Tsukahara et.al., Paper: [http://arxiv.org/abs/2503.02256v1](http://arxiv.org/abs/2503.02256v1)
@@ -2504,6 +2513,7 @@
 
 ## Keypoint Detection
 
+- 2025-03-06, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v1](http://arxiv.org/abs/2503.04499v1)
 - 2025-03-04, **A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**, Junyi Wang et.al., Paper: [http://arxiv.org/abs/2503.02481v1](http://arxiv.org/abs/2503.02481v1)
 - 2025-03-01, **Autonomous Dissection in Robotic Cholecystectomy**, Ki-Hwan Oh et.al., Paper: [http://arxiv.org/abs/2503.00666v1](http://arxiv.org/abs/2503.00666v1)
 - 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
@@ -2766,6 +2776,8 @@
 
 ## Image Matching
 
+- 2025-03-06, **Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**, Xingcan Hu et.al., Paper: [http://arxiv.org/abs/2503.04205v1](http://arxiv.org/abs/2503.04205v1)
+- 2025-03-06, **Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**, Qianliang Wu et.al., Paper: [http://arxiv.org/abs/2503.04127v1](http://arxiv.org/abs/2503.04127v1)
 - 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
 - 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 - 2025-02-27, **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**, Thibaut Loiseau et.al., Paper: [http://arxiv.org/abs/2502.19955v1](http://arxiv.org/abs/2502.19955v1)
@@ -3013,6 +3025,8 @@
 
 ## NeRF
 
+- 2025-03-06, **Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**, Idris O. Sunmola et.al., Paper: [http://arxiv.org/abs/2503.04079v1](http://arxiv.org/abs/2503.04079v1)
+- 2025-03-05, **LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**, Qian Feng et.al., Paper: [http://arxiv.org/abs/2503.03890v1](http://arxiv.org/abs/2503.03890v1)
 - 2025-03-04, **Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**, Zeqing Wang et.al., Paper: [http://arxiv.org/abs/2503.02558v1](http://arxiv.org/abs/2503.02558v1)
 - 2025-03-04, **2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**, Qipeng Yan et.al., Paper: [http://arxiv.org/abs/2503.02452v1](http://arxiv.org/abs/2503.02452v1)
 - 2025-03-04, **Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**, Yingji Zhong et.al., Paper: [http://arxiv.org/abs/2503.02230v1](http://arxiv.org/abs/2503.02230v1)
