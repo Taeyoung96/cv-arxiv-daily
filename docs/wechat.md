@@ -2513,7 +2513,7 @@
 
 ## Keypoint Detection
 
-- 2025-03-06, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v1](http://arxiv.org/abs/2503.04499v1)
+- 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2)
 - 2025-03-04, **A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**, Junyi Wang et.al., Paper: [http://arxiv.org/abs/2503.02481v1](http://arxiv.org/abs/2503.02481v1)
 - 2025-03-01, **Autonomous Dissection in Robotic Cholecystectomy**, Ki-Hwan Oh et.al., Paper: [http://arxiv.org/abs/2503.00666v1](http://arxiv.org/abs/2503.00666v1)
 - 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
