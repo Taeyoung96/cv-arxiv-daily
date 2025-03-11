@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890v1](http://arxiv.org/abs/2503.06890v1)|null|
+|**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010v1](http://arxiv.org/abs/2503.06010v1)|null|
 |**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
 |**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126v1](http://arxiv.org/abs/2503.04126v1)|null|
@@ -1210,6 +1212,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204v1](http://arxiv.org/abs/2503.07204v1)|null|
+|**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135v1](http://arxiv.org/abs/2503.07135v1)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351v1](http://arxiv.org/abs/2503.04351v1)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v3](http://arxiv.org/abs/2503.01202v3)|null|
@@ -1509,6 +1514,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038v1](http://arxiv.org/abs/2503.07038v1)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037v1](http://arxiv.org/abs/2503.07037v1)|null|
+|**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840v1](http://arxiv.org/abs/2503.06840v1)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796v1](http://arxiv.org/abs/2503.06796v1)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601v1](http://arxiv.org/abs/2503.06601v1)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501v1](http://arxiv.org/abs/2503.06501v1)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117v1](http://arxiv.org/abs/2503.06117v1)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204v1](http://arxiv.org/abs/2503.05204v1)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653v1](http://arxiv.org/abs/2503.04653v1)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475v1](http://arxiv.org/abs/2503.04475v1)|null|
@@ -2589,6 +2601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472v1](http://arxiv.org/abs/2503.05472v1)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481v1](http://arxiv.org/abs/2503.02481v1)|null|
@@ -3141,6 +3155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425v1](http://arxiv.org/abs/2503.07425v1)|null|
+|**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161v1](http://arxiv.org/abs/2503.06161v1)|null|
+|**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118v1](http://arxiv.org/abs/2503.06118v1)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117v1](http://arxiv.org/abs/2503.06117v1)|null|
 |**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079v1](http://arxiv.org/abs/2503.04079v1)|null|
 |**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890v1](http://arxiv.org/abs/2503.03890v1)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558v1](http://arxiv.org/abs/2503.02558v1)|null|
