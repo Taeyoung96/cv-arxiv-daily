@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.10
+> Updated on 2025.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -1152,12 +1152,12 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## SFM
 
 - 2025-03-06, **PLMP -- Point-Line Minimal Problems for Projective SfM**, Kim Kiehn et.al., Paper: [http://arxiv.org/abs/2503.04351v1](http://arxiv.org/abs/2503.04351v1)
-- 2025-03-03, **ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**, Anas Abdelkarim et.al., Paper: [http://arxiv.org/abs/2503.01311v1](http://arxiv.org/abs/2503.01311v1)
+- 2025-03-03, **ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**, Anas Abdelkarim et.al., Paper: [http://arxiv.org/abs/2503.01311v1](http://arxiv.org/abs/2503.01311v1), Code: **[https://github.com/snt-arg/ecg2o](https://github.com/snt-arg/ecg2o)**
 - 2025-03-05, **A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**, Jialei He et.al., Paper: [http://arxiv.org/abs/2503.01202v3](http://arxiv.org/abs/2503.01202v3)
 - 2025-03-02, **MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**, Rui Yi Yong et.al., Paper: [http://arxiv.org/abs/2503.00853v1](http://arxiv.org/abs/2503.00853v1)
 - 2025-03-02, **PSRGS:Progressive Spectral Residual of 3D Gaussian for High-Frequency Recovery**, BoCheng Li et.al., Paper: [http://arxiv.org/abs/2503.00848v1](http://arxiv.org/abs/2503.00848v1)
@@ -1437,7 +1437,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2511,7 +2511,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2522,7 +2522,7 @@
 - 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
 - 2025-02-27, **Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**, Jisoo Lee et.al., Paper: [http://arxiv.org/abs/2502.19766v1](http://arxiv.org/abs/2502.19766v1)
 - 2025-02-23, **Rewards-based image analysis in microscopy**, Kamyar Barakati et.al., Paper: [http://arxiv.org/abs/2502.18522v1](http://arxiv.org/abs/2502.18522v1)
-- 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/tattaka/czii-cryo-et-object-identification-public](https://github.com/tattaka/czii-cryo-et-object-identification-public)**
+- 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/yu4u/kaggle-czii-4th](https://github.com/yu4u/kaggle-czii-4th)**
 - 2025-01-30, **Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**, Wei-Lun Chen et.al., Paper: [http://arxiv.org/abs/2501.18453v1](http://arxiv.org/abs/2501.18453v1)
 - 2025-01-30, **Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**, Bhargav Ghanekar et.al., Paper: [http://arxiv.org/abs/2501.18361v1](http://arxiv.org/abs/2501.18361v1)
 - 2025-01-30, **Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.18110v1](http://arxiv.org/abs/2501.18110v1)
@@ -2775,7 +2775,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3024,7 +3024,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## NeRF
 
@@ -3037,7 +3037,7 @@
 - 2025-03-03, **Data Augmentation for NeRFs in the Low Data Limit**, Ayush Gaggar et.al., Paper: [http://arxiv.org/abs/2503.02092v1](http://arxiv.org/abs/2503.02092v1)
 - 2025-03-03, **Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**, Jay Zhangjie Wu et.al., Paper: [http://arxiv.org/abs/2503.01774v1](http://arxiv.org/abs/2503.01774v1)
 - 2025-03-05, **Category-level Meta-learned NeRF Priors for Efficient Object Mapping**, Saad Ejaz et.al., Paper: [http://arxiv.org/abs/2503.01582v2](http://arxiv.org/abs/2503.01582v2)
-- 2025-03-03, **LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**, Kaimin Liao et.al., Paper: [http://arxiv.org/abs/2503.01199v1](http://arxiv.org/abs/2503.01199v1)
+- 2025-03-03, **LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**, Kaimin Liao et.al., Paper: [http://arxiv.org/abs/2503.01199v1](http://arxiv.org/abs/2503.01199v1), Code: **[https://github.com/moorethreads/litegs](https://github.com/moorethreads/litegs)**
 - 2025-03-02, **DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**, Youjia Wang et.al., Paper: [http://arxiv.org/abs/2503.00887v1](http://arxiv.org/abs/2503.00887v1)
 - 2025-03-01, **Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**, Nicholas Pfaff et.al., Paper: [http://arxiv.org/abs/2503.00370v1](http://arxiv.org/abs/2503.00370v1)
 - 2025-02-27, **Identity-preserving Distillation Sampling by Fixed-Point Iterator**, SeonHwa Kim et.al., Paper: [http://arxiv.org/abs/2502.19930v1](http://arxiv.org/abs/2502.19930v1)
@@ -4531,7 +4531,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
