@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2025-03-11, **Keypoint Detection and Description for Raw Bayer Images**, Jiakai Lin et.al., Paper: [http://arxiv.org/abs/2503.08673v1](http://arxiv.org/abs/2503.08673v1)
+- 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1)
+- 2025-03-10, **POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**, Joey Wilson et.al., Paper: [http://arxiv.org/abs/2503.07819v1](http://arxiv.org/abs/2503.07819v1)
+- 2025-03-08, **HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**, Lavanya Ratnabala et.al., Paper: [http://arxiv.org/abs/2503.07662v1](http://arxiv.org/abs/2503.07662v1)
 - 2025-03-10, **AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**, Xiaowei Li et.al., Paper: [http://arxiv.org/abs/2503.06890v1](http://arxiv.org/abs/2503.06890v1)
 - 2025-03-08, **InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**, Seongjun Choi et.al., Paper: [http://arxiv.org/abs/2503.06010v1](http://arxiv.org/abs/2503.06010v1)
 - 2025-03-07, **Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**, Chengwei Zhao et.al., Paper: [http://arxiv.org/abs/2503.05077v1](http://arxiv.org/abs/2503.05077v1)
@@ -1158,6 +1162,7 @@
 
 ## SFM
 
+- 2025-03-11, **A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**, Felix Rydell et.al., Paper: [http://arxiv.org/abs/2503.08142v1](http://arxiv.org/abs/2503.08142v1)
 - 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2)
 - 2025-03-10, **Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**, Mona Sheikh Zeinoddin et.al., Paper: [http://arxiv.org/abs/2503.07204v1](http://arxiv.org/abs/2503.07204v1)
 - 2025-03-10, **VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**, Hanzhi Chen et.al., Paper: [http://arxiv.org/abs/2503.07135v1](http://arxiv.org/abs/2503.07135v1)
@@ -1446,6 +1451,7 @@
 
 ## Visual Localization
 
+- 2025-03-11, **CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**, Dongyue Li et.al., Paper: [http://arxiv.org/abs/2503.08170v1](http://arxiv.org/abs/2503.08170v1)
 - 2025-03-10, **Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**, Michael Green et.al., Paper: [http://arxiv.org/abs/2503.07038v1](http://arxiv.org/abs/2503.07038v1)
 - 2025-03-10, **Zero-Shot Hashing Based on Reconstruction With Part Alignment**, Yan Jiang et.al., Paper: [http://arxiv.org/abs/2503.07037v1](http://arxiv.org/abs/2503.07037v1)
 - 2025-03-10, **Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2503.06840v1](http://arxiv.org/abs/2503.06840v1)
@@ -2527,6 +2533,7 @@
 
 ## Keypoint Detection
 
+- 2025-03-11, **Keypoint Detection and Description for Raw Bayer Images**, Jiakai Lin et.al., Paper: [http://arxiv.org/abs/2503.08673v1](http://arxiv.org/abs/2503.08673v1)
 - 2025-03-10, **REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**, Yan Tai et.al., Paper: [http://arxiv.org/abs/2503.07413v1](http://arxiv.org/abs/2503.07413v1), Code: **[https://github.com/MacavityT/REF-VLM](https://github.com/MacavityT/REF-VLM)**
 - 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2)
 - 2025-03-07, **Automatic determination of quasicrystalline patterns from microscopy images**, Tano Kim Kender et.al., Paper: [http://arxiv.org/abs/2503.05472v1](http://arxiv.org/abs/2503.05472v1)
@@ -3042,6 +3049,11 @@
 
 ## NeRF
 
+- 2025-03-11, **GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**, Nhat Phuong Anh Vu et.al., Paper: [http://arxiv.org/abs/2503.08483v1](http://arxiv.org/abs/2503.08483v1)
+- 2025-03-11, **Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**, Zikang Yuan et.al., Paper: [http://arxiv.org/abs/2503.08317v1](http://arxiv.org/abs/2503.08317v1)
+- 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1)
+- 2025-03-11, **NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**, Yanyu Zhang et.al., Paper: [http://arxiv.org/abs/2503.07952v1](http://arxiv.org/abs/2503.07952v1)
+- 2025-03-10, **Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**, Andrei Chubarau et.al., Paper: [http://arxiv.org/abs/2503.07828v1](http://arxiv.org/abs/2503.07828v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
 - 2025-03-08, **Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**, Kai Li et.al., Paper: [http://arxiv.org/abs/2503.06161v1](http://arxiv.org/abs/2503.06161v1)
 - 2025-03-08, **SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**, Xuanyu Zhang et.al., Paper: [http://arxiv.org/abs/2503.06118v1](http://arxiv.org/abs/2503.06118v1)
