@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-03-12, **Online Language Splatting**, Saimouli Katragadda et.al., Paper: [http://arxiv.org/abs/2503.09447v1](http://arxiv.org/abs/2503.09447v1)
+- 2025-03-12, **MonoSLAM: Robust Monocular SLAM with Global Structure Optimization**, Bingzheng Jiang et.al., Paper: [http://arxiv.org/abs/2503.09296v1](http://arxiv.org/abs/2503.09296v1)
 - 2025-03-11, **Keypoint Detection and Description for Raw Bayer Images**, Jiakai Lin et.al., Paper: [http://arxiv.org/abs/2503.08673v1](http://arxiv.org/abs/2503.08673v1)
 - 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1)
 - 2025-03-10, **POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**, Joey Wilson et.al., Paper: [http://arxiv.org/abs/2503.07819v1](http://arxiv.org/abs/2503.07819v1)
@@ -1451,6 +1453,7 @@
 
 ## Visual Localization
 
+- 2025-03-12, **Revisiting Medical Image Retrieval via Knowledge Consolidation**, Yang Nan et.al., Paper: [http://arxiv.org/abs/2503.09370v1](http://arxiv.org/abs/2503.09370v1)
 - 2025-03-11, **CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**, Dongyue Li et.al., Paper: [http://arxiv.org/abs/2503.08170v1](http://arxiv.org/abs/2503.08170v1)
 - 2025-03-10, **Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**, Michael Green et.al., Paper: [http://arxiv.org/abs/2503.07038v1](http://arxiv.org/abs/2503.07038v1)
 - 2025-03-10, **Zero-Shot Hashing Based on Reconstruction With Part Alignment**, Yan Jiang et.al., Paper: [http://arxiv.org/abs/2503.07037v1](http://arxiv.org/abs/2503.07037v1)
@@ -3049,6 +3052,7 @@
 
 ## NeRF
 
+- 2025-03-12, **Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**, Máté Tóth et.al., Paper: [http://arxiv.org/abs/2503.09464v1](http://arxiv.org/abs/2503.09464v1)
 - 2025-03-11, **GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**, Nhat Phuong Anh Vu et.al., Paper: [http://arxiv.org/abs/2503.08483v1](http://arxiv.org/abs/2503.08483v1)
 - 2025-03-11, **Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**, Zikang Yuan et.al., Paper: [http://arxiv.org/abs/2503.08317v1](http://arxiv.org/abs/2503.08317v1)
 - 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1)
