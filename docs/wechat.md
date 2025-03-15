@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.03.14
+> Updated on 2025.03.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,9 +26,9 @@
 - 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1)
 - 2025-03-10, **POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**, Joey Wilson et.al., Paper: [http://arxiv.org/abs/2503.07819v1](http://arxiv.org/abs/2503.07819v1)
 - 2025-03-08, **HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**, Lavanya Ratnabala et.al., Paper: [http://arxiv.org/abs/2503.07662v1](http://arxiv.org/abs/2503.07662v1)
-- 2025-03-10, **AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**, Xiaowei Li et.al., Paper: [http://arxiv.org/abs/2503.06890v1](http://arxiv.org/abs/2503.06890v1)
-- 2025-03-08, **InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**, Seongjun Choi et.al., Paper: [http://arxiv.org/abs/2503.06010v1](http://arxiv.org/abs/2503.06010v1)
-- 2025-03-07, **Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**, Chengwei Zhao et.al., Paper: [http://arxiv.org/abs/2503.05077v1](http://arxiv.org/abs/2503.05077v1)
+- 2025-03-10, **AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**, Xiaowei Li et.al., Paper: [http://arxiv.org/abs/2503.06890v1](http://arxiv.org/abs/2503.06890v1), Code: **[https://github.com/vvEverett/tello_ros](https://github.com/vvEverett/tello_ros)**
+- 2025-03-08, **InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**, Seongjun Choi et.al., Paper: [http://arxiv.org/abs/2503.06010v1](http://arxiv.org/abs/2503.06010v1), Code: **[https://github.com/drawingprocess/infofusioncontroller](https://github.com/drawingprocess/infofusioncontroller)**
+- 2025-03-07, **Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**, Chengwei Zhao et.al., Paper: [http://arxiv.org/abs/2503.05077v1](http://arxiv.org/abs/2503.05077v1), Code: **[https://github.com/chengwei0427/adaptive_lio](https://github.com/chengwei0427/adaptive_lio)**
 - 2025-03-06, **On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**, Isaac Skog et.al., Paper: [http://arxiv.org/abs/2503.04286v1](http://arxiv.org/abs/2503.04286v1)
 - 2025-03-06, **DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**, Joshua Bird et.al., Paper: [http://arxiv.org/abs/2503.04126v1](http://arxiv.org/abs/2503.04126v1)
 - 2025-03-05, **Equivariant Filter Design for Range-only SLAM**, Yixiao Ge et.al., Paper: [http://arxiv.org/abs/2503.03973v1](http://arxiv.org/abs/2503.03973v1)
@@ -1161,12 +1161,12 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 ## SFM
 
 - 2025-03-11, **A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**, Felix Rydell et.al., Paper: [http://arxiv.org/abs/2503.08142v1](http://arxiv.org/abs/2503.08142v1)
-- 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2)
+- 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2), Code: **[https://github.com/parskatt/dad](https://github.com/parskatt/dad)**
 - 2025-03-12, **Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**, Mona Sheikh Zeinoddin et.al., Paper: [http://arxiv.org/abs/2503.07204v2](http://arxiv.org/abs/2503.07204v2)
 - 2025-03-10, **VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**, Hanzhi Chen et.al., Paper: [http://arxiv.org/abs/2503.07135v1](http://arxiv.org/abs/2503.07135v1)
 - 2025-03-06, **PLMP -- Point-Line Minimal Problems for Projective SfM**, Kim Kiehn et.al., Paper: [http://arxiv.org/abs/2503.04351v1](http://arxiv.org/abs/2503.04351v1)
@@ -1450,7 +1450,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1461,7 +1461,7 @@
 - 2025-03-10, **Zero-Shot Hashing Based on Reconstruction With Part Alignment**, Yan Jiang et.al., Paper: [http://arxiv.org/abs/2503.07037v1](http://arxiv.org/abs/2503.07037v1)
 - 2025-03-10, **Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2503.06840v1](http://arxiv.org/abs/2503.06840v1)
 - 2025-03-09, **RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**, Tri Le et.al., Paper: [http://arxiv.org/abs/2503.06796v1](http://arxiv.org/abs/2503.06796v1)
-- 2025-03-09, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v1](http://arxiv.org/abs/2503.06601v1)
+- 2025-03-09, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v1](http://arxiv.org/abs/2503.06601v1), Code: **[https://github.com/syqlyx/StructVPR](https://github.com/syqlyx/StructVPR)**
 - 2025-03-09, **TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**, Huaqi Tao et.al., Paper: [http://arxiv.org/abs/2503.06501v1](http://arxiv.org/abs/2503.06501v1)
 - 2025-03-08, **NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**, Hongjia Zhai et.al., Paper: [http://arxiv.org/abs/2503.06117v1](http://arxiv.org/abs/2503.06117v1)
 - 2025-03-07, **Data-Efficient Generalization for Zero-shot Composed Image Retrieval**, Zining Chen et.al., Paper: [http://arxiv.org/abs/2503.05204v1](http://arxiv.org/abs/2503.05204v1)
@@ -2534,15 +2534,15 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 ## Keypoint Detection
 
 - 2025-03-11, **Keypoint Detection and Description for Raw Bayer Images**, Jiakai Lin et.al., Paper: [http://arxiv.org/abs/2503.08673v1](http://arxiv.org/abs/2503.08673v1)
 - 2025-03-10, **REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**, Yan Tai et.al., Paper: [http://arxiv.org/abs/2503.07413v1](http://arxiv.org/abs/2503.07413v1), Code: **[https://github.com/MacavityT/REF-VLM](https://github.com/MacavityT/REF-VLM)**
-- 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2)
+- 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2), Code: **[https://github.com/parskatt/dad](https://github.com/parskatt/dad)**
 - 2025-03-07, **Automatic determination of quasicrystalline patterns from microscopy images**, Tano Kim Kender et.al., Paper: [http://arxiv.org/abs/2503.05472v1](http://arxiv.org/abs/2503.05472v1)
-- 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2)
+- 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2), Code: **[https://github.com/benbillot/spatial_regularisation](https://github.com/benbillot/spatial_regularisation)**
 - 2025-03-04, **A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**, Junyi Wang et.al., Paper: [http://arxiv.org/abs/2503.02481v1](http://arxiv.org/abs/2503.02481v1)
 - 2025-03-01, **Autonomous Dissection in Robotic Cholecystectomy**, Ki-Hwan Oh et.al., Paper: [http://arxiv.org/abs/2503.00666v1](http://arxiv.org/abs/2503.00666v1)
 - 2025-02-28, **CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**, Anzhe Chen et.al., Paper: [http://arxiv.org/abs/2503.00132v1](http://arxiv.org/abs/2503.00132v1)
@@ -2801,7 +2801,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3051,7 +3051,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 ## NeRF
 
@@ -4570,7 +4570,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
