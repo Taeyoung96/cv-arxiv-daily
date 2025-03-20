@@ -19,9 +19,11 @@
 
 ## SLAM
 
+- 2025-03-19, **A Sigma Point-based Low Complexity Algorithm for Multipath-based SLAM in MIMO Systems**, Anna Masiero et.al., Paper: [http://arxiv.org/abs/2503.15286v1](http://arxiv.org/abs/2503.15286v1)
+- 2025-03-19, **ChatStitch: Visualizing Through Structures via Surround-View Unsupervised Deep Image Stitching with Collaborative LLM-Agents**, Hao Liang et.al., Paper: [http://arxiv.org/abs/2503.14948v1](http://arxiv.org/abs/2503.14948v1)
 - 2025-03-18, **3D Densification for Multi-Map Monocular VSLAM in Endoscopy**, X. Anadón et.al., Paper: [http://arxiv.org/abs/2503.14346v1](http://arxiv.org/abs/2503.14346v1)
-- 2025-03-18, **GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**, Tingyang Xiao et.al., Paper: [http://arxiv.org/abs/2503.14247v1](http://arxiv.org/abs/2503.14247v1)
-- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1)
+- 2025-03-18, **GeoFlow-SLAM: A Robust Tightly-Coupled RGBD-Inertial Fusion SLAM for Dynamic Legged Robotics**, Tingyang Xiao et.al., Paper: [http://arxiv.org/abs/2503.14247v1](http://arxiv.org/abs/2503.14247v1), Code: **[https://github.com/nsn-hello/geoflow-slam](https://github.com/nsn-hello/geoflow-slam)**
+- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-17, **Digital Beamforming Enhanced Radar Odometry**, Jingqi Jiang et.al., Paper: [http://arxiv.org/abs/2503.13252v1](http://arxiv.org/abs/2503.13252v1)
 - 2025-03-17, **Dynamic-Dark SLAM: RGB-Thermal Cooperative Robot Vision Strategy for Multi-Person Tracking in Both Well-Lit and Low-Light Scenes**, Tatsuro Sakai et.al., Paper: [http://arxiv.org/abs/2503.12768v1](http://arxiv.org/abs/2503.12768v1)
 - 2025-03-16, **KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**, Tiziano Guadagnino et.al., Paper: [http://arxiv.org/abs/2503.12660v1](http://arxiv.org/abs/2503.12660v1)
@@ -1178,7 +1180,7 @@
 
 ## SFM
 
-- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1)
+- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-17, **Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**, Iryna Repinetska et.al., Paper: [http://arxiv.org/abs/2503.13710v1](http://arxiv.org/abs/2503.13710v1)
 - 2025-03-17, **Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**, Yiwei Xu et.al., Paper: [http://arxiv.org/abs/2503.13086v1](http://arxiv.org/abs/2503.13086v1)
 - 2025-03-11, **A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**, Felix Rydell et.al., Paper: [http://arxiv.org/abs/2503.08142v1](http://arxiv.org/abs/2503.08142v1)
@@ -1471,11 +1473,11 @@
 ## Visual Localization
 
 - 2025-03-18, **3D Densification for Multi-Map Monocular VSLAM in Endoscopy**, X. Anadón et.al., Paper: [http://arxiv.org/abs/2503.14346v1](http://arxiv.org/abs/2503.14346v1)
-- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1)
+- 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-17, **Scale Efficient Training for Large Datasets**, Qing Zhou et.al., Paper: [http://arxiv.org/abs/2503.13385v1](http://arxiv.org/abs/2503.13385v1)
 - 2025-03-17, **Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**, Václav Truhlařík et.al., Paper: [http://arxiv.org/abs/2503.13090v1](http://arxiv.org/abs/2503.13090v1)
 - 2025-03-17, **All You Need to Know About Training Image Retrieval Models**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2503.13045v1](http://arxiv.org/abs/2503.13045v1)
-- 2025-03-12, **Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**, Yibin Ye et.al., Paper: [http://arxiv.org/abs/2503.10692v1](http://arxiv.org/abs/2503.10692v1)
+- 2025-03-12, **Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**, Yibin Ye et.al., Paper: [http://arxiv.org/abs/2503.10692v1](http://arxiv.org/abs/2503.10692v1), Code: **[https://github.com/uav-avl/benchmark](https://github.com/uav-avl/benchmark)**
 - 2025-03-13, **ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**, Pengfei Luo et.al., Paper: [http://arxiv.org/abs/2503.10166v1](http://arxiv.org/abs/2503.10166v1), Code: **[https://github.com/pengfei-luo/ImageScope](https://github.com/pengfei-luo/ImageScope)**
 - 2025-03-12, **Revisiting Medical Image Retrieval via Knowledge Consolidation**, Yang Nan et.al., Paper: [http://arxiv.org/abs/2503.09370v1](http://arxiv.org/abs/2503.09370v1)
 - 2025-03-11, **CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**, Dongyue Li et.al., Paper: [http://arxiv.org/abs/2503.08170v1](http://arxiv.org/abs/2503.08170v1)
@@ -2829,6 +2831,7 @@
 
 ## Image Matching
 
+- 2025-03-19, **PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**, Yuanchao Yue et.al., Paper: [http://arxiv.org/abs/2503.15285v1](http://arxiv.org/abs/2503.15285v1)
 - 2025-03-17, **Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.13433v1](http://arxiv.org/abs/2503.13433v1)
 - 2025-03-17, **SatDepth: A Novel Dataset for Satellite Image Matching**, Rahul Deshmukh et.al., Paper: [http://arxiv.org/abs/2503.12706v1](http://arxiv.org/abs/2503.12706v1)
 - 2025-03-14, **Refining Image Edge Detection via Linear Canonical Riesz Transforms**, Shuhui Yang et.al., Paper: [http://arxiv.org/abs/2503.11148v1](http://arxiv.org/abs/2503.11148v1)
@@ -3082,6 +3085,10 @@
 
 ## NeRF
 
+- 2025-03-19, **GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**, Zechuan Li et.al., Paper: [http://arxiv.org/abs/2503.15211v1](http://arxiv.org/abs/2503.15211v1)
+- 2025-03-19, **MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**, Kana Kurata et.al., Paper: [http://arxiv.org/abs/2503.15070v1](http://arxiv.org/abs/2503.15070v1)
+- 2025-03-19, **3D Engine-ready Photorealistic Avatars via Dynamic Textures**, Yifan Wang et.al., Paper: [http://arxiv.org/abs/2503.14943v1](http://arxiv.org/abs/2503.14943v1)
+- 2025-03-19, **ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer**, Yuezhen Xie et.al., Paper: [http://arxiv.org/abs/2503.14845v1](http://arxiv.org/abs/2503.14845v1)
 - 2025-03-18, **Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**, Yizhou Li et.al., Paper: [http://arxiv.org/abs/2503.14219v1](http://arxiv.org/abs/2503.14219v1)
 - 2025-03-17, **Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**, Iryna Repinetska et.al., Paper: [http://arxiv.org/abs/2503.13710v1](http://arxiv.org/abs/2503.13710v1)
 - 2025-03-17, **TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**, Jiaming Kang et.al., Paper: [http://arxiv.org/abs/2503.13347v1](http://arxiv.org/abs/2503.13347v1)
