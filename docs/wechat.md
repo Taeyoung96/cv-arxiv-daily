@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-03-24, **GI-SLAM: Gaussian-Inertial SLAM**, Xulang Liu et.al., Paper: [http://arxiv.org/abs/2503.18275v1](http://arxiv.org/abs/2503.18275v1)
+- 2025-03-22, **LightLoc: Learning Outdoor LiDAR Localization at Light Speed**, Wen Li et.al., Paper: [http://arxiv.org/abs/2503.17814v1](http://arxiv.org/abs/2503.17814v1)
 - 2025-03-21, **Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**, Muhua Zhang et.al., Paper: [http://arxiv.org/abs/2503.17005v1](http://arxiv.org/abs/2503.17005v1)
 - 2025-03-20, **4D Gaussian Splatting SLAM**, Yanyan Li et.al., Paper: [http://arxiv.org/abs/2503.16710v1](http://arxiv.org/abs/2503.16710v1)
 - 2025-03-20, **Speeding up design and making to reduce time-to-project and time-to-market: an AI-Enhanced approach in engineering education**, Giovanni Adorni et.al., Paper: [http://arxiv.org/abs/2503.16307v1](http://arxiv.org/abs/2503.16307v1)
@@ -1184,6 +1186,8 @@
 
 ## SFM
 
+- 2025-03-22, **3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**, Usha Kumari et.al., Paper: [http://arxiv.org/abs/2503.17668v1](http://arxiv.org/abs/2503.17668v1)
+- 2025-03-21, **ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**, Zhengqing Gao et.al., Paper: [http://arxiv.org/abs/2503.17486v1](http://arxiv.org/abs/2503.17486v1)
 - 2025-03-21, **ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.17093v1](http://arxiv.org/abs/2503.17093v1)
 - 2025-03-20, **From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**, Ayberk Acar et.al., Paper: [http://arxiv.org/abs/2503.16263v1](http://arxiv.org/abs/2503.16263v1)
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
@@ -1478,6 +1482,10 @@
 
 ## Visual Localization
 
+- 2025-03-23, **LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**, Zhangyu Wang et.al., Paper: [http://arxiv.org/abs/2503.18142v1](http://arxiv.org/abs/2503.18142v1)
+- 2025-03-23, **Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**, Xiang Fang et.al., Paper: [http://arxiv.org/abs/2503.17938v1](http://arxiv.org/abs/2503.17938v1)
+- 2025-03-23, **What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**, Dongheng Lin et.al., Paper: [http://arxiv.org/abs/2503.17899v1](http://arxiv.org/abs/2503.17899v1)
+- 2025-03-22, **good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval**, Pranavi Kolouju et.al., Paper: [http://arxiv.org/abs/2503.17871v1](http://arxiv.org/abs/2503.17871v1)
 - 2025-03-21, **Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval**, Yuanmin Tang et.al., Paper: [http://arxiv.org/abs/2503.17109v1](http://arxiv.org/abs/2503.17109v1)
 - 2025-03-21, **Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**, Muhua Zhang et.al., Paper: [http://arxiv.org/abs/2503.17005v1](http://arxiv.org/abs/2503.17005v1)
 - 2025-03-20, **PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**, Qiang Zou et.al., Paper: [http://arxiv.org/abs/2503.16064v1](http://arxiv.org/abs/2503.16064v1), Code: **[https://github.com/ShiShuMo/PromptHash](https://github.com/ShiShuMo/PromptHash)**
@@ -2841,6 +2849,7 @@
 
 ## Image Matching
 
+- 2025-03-22, **Normalized Matching Transformer**, Abtin Pourhadi et.al., Paper: [http://arxiv.org/abs/2503.17715v1](http://arxiv.org/abs/2503.17715v1)
 - 2025-03-20, **Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**, Tian Yi Lim et.al., Paper: [http://arxiv.org/abs/2503.16275v1](http://arxiv.org/abs/2503.16275v1)
 - 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1), Code: **[https://github.com/peihaowu/mapglue](https://github.com/peihaowu/mapglue)**
 - 2025-03-19, **PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**, Yuanchao Yue et.al., Paper: [http://arxiv.org/abs/2503.15285v1](http://arxiv.org/abs/2503.15285v1)
@@ -3097,6 +3106,13 @@
 
 ## NeRF
 
+- 2025-03-24, **NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**, Yulong Zheng et.al., Paper: [http://arxiv.org/abs/2503.18794v1](http://arxiv.org/abs/2503.18794v1)
+- 2025-03-24, **LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2503.18513v1](http://arxiv.org/abs/2503.18513v1)
+- 2025-03-24, **NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**, Wenyuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.18361v1](http://arxiv.org/abs/2503.18361v1)
+- 2025-03-23, **End-to-End Implicit Neural Representations for Classification**, Alexander Gielisse et.al., Paper: [http://arxiv.org/abs/2503.18123v1](http://arxiv.org/abs/2503.18123v1)
+- 2025-03-23, **Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**, Junhao Ge et.al., Paper: [http://arxiv.org/abs/2503.18108v1](http://arxiv.org/abs/2503.18108v1)
+- 2025-03-23, **PanopticSplatting: End-to-End Panoptic Gaussian Splatting**, Yuxuan Xie et.al., Paper: [http://arxiv.org/abs/2503.18073v1](http://arxiv.org/abs/2503.18073v1)
+- 2025-03-21, **Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**, Emanuele Giacomini et.al., Paper: [http://arxiv.org/abs/2503.17491v1](http://arxiv.org/abs/2503.17491v1)
 - 2025-03-21, **FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**, Kwan Yun et.al., Paper: [http://arxiv.org/abs/2503.17095v1](http://arxiv.org/abs/2503.17095v1), Code: **[https://github.com/kwanyun/FFaceNeRF](https://github.com/kwanyun/FFaceNeRF)**
 - 2025-03-21, **DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**, Jiadong Tang et.al., Paper: [http://arxiv.org/abs/2503.16964v1](http://arxiv.org/abs/2503.16964v1)
 - 2025-03-20, **Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**, Esther Y. H. Lin et.al., Paper: [http://arxiv.org/abs/2503.16742v1](http://arxiv.org/abs/2503.16742v1)
