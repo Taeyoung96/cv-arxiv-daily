@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-03-25, **First Results on UAV-aided User Localization Using ToA and OpenAirInterface in 5G NR**, Omid Esrafilian et.al., Paper: [http://arxiv.org/abs/2503.19529v1](http://arxiv.org/abs/2503.19529v1)
+- 2025-03-25, **MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**, Yongxin Ma et.al., Paper: [http://arxiv.org/abs/2503.19506v1](http://arxiv.org/abs/2503.19506v1), Code: **[https://github.com/lian-yue0515/MM-LINS](https://github.com/lian-yue0515/MM-LINS)**
+- 2025-03-24, **Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**, Tohid Kargar Tasooji et.al., Paper: [http://arxiv.org/abs/2503.19135v1](http://arxiv.org/abs/2503.19135v1)
 - 2025-03-24, **GI-SLAM: Gaussian-Inertial SLAM**, Xulang Liu et.al., Paper: [http://arxiv.org/abs/2503.18275v1](http://arxiv.org/abs/2503.18275v1)
 - 2025-03-22, **LightLoc: Learning Outdoor LiDAR Localization at Light Speed**, Wen Li et.al., Paper: [http://arxiv.org/abs/2503.17814v1](http://arxiv.org/abs/2503.17814v1)
 - 2025-03-21, **Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions**, Muhua Zhang et.al., Paper: [http://arxiv.org/abs/2503.17005v1](http://arxiv.org/abs/2503.17005v1)
@@ -1187,7 +1190,7 @@
 ## SFM
 
 - 2025-03-22, **3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**, Usha Kumari et.al., Paper: [http://arxiv.org/abs/2503.17668v1](http://arxiv.org/abs/2503.17668v1)
-- 2025-03-21, **ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**, Zhengqing Gao et.al., Paper: [http://arxiv.org/abs/2503.17486v1](http://arxiv.org/abs/2503.17486v1)
+- 2025-03-25, **ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**, Zhengqing Gao et.al., Paper: [http://arxiv.org/abs/2503.17486v2](http://arxiv.org/abs/2503.17486v2)
 - 2025-03-21, **ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.17093v1](http://arxiv.org/abs/2503.17093v1)
 - 2025-03-20, **From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**, Ayberk Acar et.al., Paper: [http://arxiv.org/abs/2503.16263v1](http://arxiv.org/abs/2503.16263v1)
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
@@ -1482,6 +1485,10 @@
 
 ## Visual Localization
 
+- 2025-03-25, **CoLLM: A Large Language Model for Composed Image Retrieval**, Chuong Huynh et.al., Paper: [http://arxiv.org/abs/2503.19910v1](http://arxiv.org/abs/2503.19910v1)
+- 2025-03-25, **Scene-agnostic Pose Regression for Visual Localization**, Junwei Zheng et.al., Paper: [http://arxiv.org/abs/2503.19543v1](http://arxiv.org/abs/2503.19543v1)
+- 2025-03-25, **From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**, Zhiwei Huang et.al., Paper: [http://arxiv.org/abs/2503.19358v1](http://arxiv.org/abs/2503.19358v1)
+- 2025-03-25, **Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**, Haoqiang Lin et.al., Paper: [http://arxiv.org/abs/2503.19296v1](http://arxiv.org/abs/2503.19296v1)
 - 2025-03-23, **LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**, Zhangyu Wang et.al., Paper: [http://arxiv.org/abs/2503.18142v1](http://arxiv.org/abs/2503.18142v1)
 - 2025-03-23, **Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**, Xiang Fang et.al., Paper: [http://arxiv.org/abs/2503.17938v1](http://arxiv.org/abs/2503.17938v1)
 - 2025-03-23, **What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**, Dongheng Lin et.al., Paper: [http://arxiv.org/abs/2503.17899v1](http://arxiv.org/abs/2503.17899v1)
@@ -2580,6 +2587,7 @@
 
 ## Keypoint Detection
 
+- 2025-03-25, **Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**, Junle Liu et.al., Paper: [http://arxiv.org/abs/2503.19278v1](http://arxiv.org/abs/2503.19278v1)
 - 2025-03-05, **Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**, Ryan Banks et.al., Paper: [http://arxiv.org/abs/2503.13477v1](http://arxiv.org/abs/2503.13477v1)
 - 2025-03-16, **Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**, Jiadong Zhou et.al., Paper: [http://arxiv.org/abs/2503.12541v1](http://arxiv.org/abs/2503.12541v1)
 - 2025-03-11, **Keypoint Detection and Description for Raw Bayer Images**, Jiakai Lin et.al., Paper: [http://arxiv.org/abs/2503.08673v1](http://arxiv.org/abs/2503.08673v1)
@@ -3106,6 +3114,7 @@
 
 ## NeRF
 
+- 2025-03-25, **MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**, Federico Lincetto et.al., Paper: [http://arxiv.org/abs/2503.19673v1](http://arxiv.org/abs/2503.19673v1)
 - 2025-03-24, **NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**, Yulong Zheng et.al., Paper: [http://arxiv.org/abs/2503.18794v1](http://arxiv.org/abs/2503.18794v1)
 - 2025-03-25, **LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2503.18513v2](http://arxiv.org/abs/2503.18513v2)
 - 2025-03-24, **NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**, Wenyuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.18361v1](http://arxiv.org/abs/2503.18361v1)
