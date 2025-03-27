@@ -3114,6 +3114,9 @@
 
 ## NeRF
 
+- 2025-03-26, **AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**, Xiangwen Zhang et.al., Paper: [http://arxiv.org/abs/2503.20654v1](http://arxiv.org/abs/2503.20654v1)
+- 2025-03-26, **EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**, Sheng Miao et.al., Paper: [http://arxiv.org/abs/2503.20168v1](http://arxiv.org/abs/2503.20168v1)
+- 2025-03-25, **Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals**, Zhirui Dai et.al., Paper: [http://arxiv.org/abs/2503.20066v1](http://arxiv.org/abs/2503.20066v1)
 - 2025-03-25, **MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**, Federico Lincetto et.al., Paper: [http://arxiv.org/abs/2503.19673v1](http://arxiv.org/abs/2503.19673v1)
 - 2025-03-24, **NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**, Yulong Zheng et.al., Paper: [http://arxiv.org/abs/2503.18794v1](http://arxiv.org/abs/2503.18794v1)
 - 2025-03-25, **LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2503.18513v2](http://arxiv.org/abs/2503.18513v2)
