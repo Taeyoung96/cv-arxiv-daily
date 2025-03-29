@@ -1558,7 +1558,7 @@ layout: default
 |**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772v1](http://arxiv.org/abs/2503.21772v1)|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757v1](http://arxiv.org/abs/2503.21757v1)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|null|
-|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309v1](http://arxiv.org/abs/2503.21309v1)|null|
+|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309v1](http://arxiv.org/abs/2503.21309v1)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236v1](http://arxiv.org/abs/2503.21236v1)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543v1](http://arxiv.org/abs/2503.19543v1)|null|
