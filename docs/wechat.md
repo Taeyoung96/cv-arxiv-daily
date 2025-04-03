@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-04-02, **Strengthening Multi-Robot Systems for SAR: Co-Designing Robotics and Communication Towards 6G**, Juan Bravo-Arrabal et.al., Paper: [http://arxiv.org/abs/2504.01940v1](http://arxiv.org/abs/2504.01940v1)
+- 2025-04-02, **Dynamic Initialization for LiDAR-inertial SLAM**, Jie Xu et.al., Paper: [http://arxiv.org/abs/2504.01451v1](http://arxiv.org/abs/2504.01451v1)
+- 2025-03-31, **SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**, Yannick Burkhardt et.al., Paper: [http://arxiv.org/abs/2504.00139v1](http://arxiv.org/abs/2504.00139v1)
 - 2025-03-30, **A Visual-Inertial Motion Prior SLAM for Dynamic Environments**, Weilong Sun et.al., Paper: [http://arxiv.org/abs/2503.23429v1](http://arxiv.org/abs/2503.23429v1)
 - 2025-03-30, **AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2503.23282v1](http://arxiv.org/abs/2503.23282v1)
 - 2025-03-27, **HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Ziren Gong et.al., Paper: [http://arxiv.org/abs/2503.21778v1](http://arxiv.org/abs/2503.21778v1)
@@ -1193,6 +1196,8 @@
 
 ## SFM
 
+- 2025-04-02, **FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**, Ulas Gunes et.al., Paper: [http://arxiv.org/abs/2504.01732v1](http://arxiv.org/abs/2504.01732v1)
+- 2025-03-31, **LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**, Han Zhou et.al., Paper: [http://arxiv.org/abs/2504.00219v1](http://arxiv.org/abs/2504.00219v1)
 - 2025-03-22, **3D Modeling: Camera Movement Estimation and path Correction for SFM Model using the Combination of Modified A-SIFT and Stereo System**, Usha Kumari et.al., Paper: [http://arxiv.org/abs/2503.17668v1](http://arxiv.org/abs/2503.17668v1)
 - 2025-03-25, **ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes**, Zhengqing Gao et.al., Paper: [http://arxiv.org/abs/2503.17486v2](http://arxiv.org/abs/2503.17486v2)
 - 2025-03-21, **ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.17093v1](http://arxiv.org/abs/2503.17093v1)
@@ -1489,6 +1494,9 @@
 
 ## Visual Localization
 
+- 2025-04-02, **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**, Yuji Nozawa et.al., Paper: [http://arxiv.org/abs/2504.01348v1](http://arxiv.org/abs/2504.01348v1)
+- 2025-04-01, **IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**, Bangwei Liu et.al., Paper: [http://arxiv.org/abs/2504.00954v1](http://arxiv.org/abs/2504.00954v1)
+- 2025-04-01, **Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2504.00812v1](http://arxiv.org/abs/2504.00812v1)
 - 2025-03-31, **CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization**, Yingrui Ji et.al., Paper: [http://arxiv.org/abs/2503.24182v1](http://arxiv.org/abs/2503.24182v1)
 - 2025-03-31, **LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**, Masahiko Tsuji et.al., Paper: [http://arxiv.org/abs/2503.23664v1](http://arxiv.org/abs/2503.23664v1)
 - 2025-03-30, **Multiview Image-Based Localization**, Cameron Fiore et.al., Paper: [http://arxiv.org/abs/2503.23577v1](http://arxiv.org/abs/2503.23577v1)
@@ -2599,6 +2607,7 @@
 
 ## Keypoint Detection
 
+- 2025-03-31, **SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**, Yannick Burkhardt et.al., Paper: [http://arxiv.org/abs/2504.00139v1](http://arxiv.org/abs/2504.00139v1)
 - 2025-03-29, **Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**, Shayan Sepahvand et.al., Paper: [http://arxiv.org/abs/2503.23171v1](http://arxiv.org/abs/2503.23171v1)
 - 2025-03-25, **Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**, Junle Liu et.al., Paper: [http://arxiv.org/abs/2503.19278v1](http://arxiv.org/abs/2503.19278v1)
 - 2025-03-05, **Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**, Ryan Banks et.al., Paper: [http://arxiv.org/abs/2503.13477v1](http://arxiv.org/abs/2503.13477v1)
@@ -2870,6 +2879,7 @@
 
 ## Image Matching
 
+- 2025-04-01, **Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2504.00812v1](http://arxiv.org/abs/2504.00812v1)
 - 2025-03-31, **CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**, Zizhuo Li et.al., Paper: [http://arxiv.org/abs/2503.23925v1](http://arxiv.org/abs/2503.23925v1)
 - 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
 - 2025-03-26, **Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**, Meng Yang et.al., Paper: [http://arxiv.org/abs/2503.20827v1](http://arxiv.org/abs/2503.20827v1)
@@ -3130,6 +3140,15 @@
 
 ## NeRF
 
+- 2025-04-02, **Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**, Niluthpol Chowdhury Mithun et.al., Paper: [http://arxiv.org/abs/2504.01960v1](http://arxiv.org/abs/2504.01960v1)
+- 2025-04-02, **BOGausS: Better Optimized Gaussian Splatting**, Stéphane Pateux et.al., Paper: [http://arxiv.org/abs/2504.01844v1](http://arxiv.org/abs/2504.01844v1)
+- 2025-04-02, **FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**, Ulas Gunes et.al., Paper: [http://arxiv.org/abs/2504.01732v1](http://arxiv.org/abs/2504.01732v1)
+- 2025-04-02, **RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avatars**, Yahui Li et.al., Paper: [http://arxiv.org/abs/2504.01559v1](http://arxiv.org/abs/2504.01559v1)
+- 2025-04-02, **Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2504.01503v1](http://arxiv.org/abs/2504.01503v1)
+- 2025-04-01, **Neural Pruning for 3D Scene Reconstruction: Efficient NeRF Acceleration**, Tianqi Ding et.al., Paper: [http://arxiv.org/abs/2504.00950v1](http://arxiv.org/abs/2504.00950v1)
+- 2025-04-01, **NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**, Mahan Rafidashti et.al., Paper: [http://arxiv.org/abs/2504.00859v1](http://arxiv.org/abs/2504.00859v1)
+- 2025-03-31, **NeRF-Based defect detection**, Tianqi et.al., Paper: [http://arxiv.org/abs/2504.00270v1](http://arxiv.org/abs/2504.00270v1)
+- 2025-03-31, **LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**, Han Zhou et.al., Paper: [http://arxiv.org/abs/2504.00219v1](http://arxiv.org/abs/2504.00219v1)
 - 2025-03-31, **ERUPT: Efficient Rendering with Unposed Patch Transformer**, Maxim V. Shugaev et.al., Paper: [http://arxiv.org/abs/2503.24374v1](http://arxiv.org/abs/2503.24374v1)
 - 2025-03-29, **NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**, Zhenyu Tang et.al., Paper: [http://arxiv.org/abs/2503.23162v1](http://arxiv.org/abs/2503.23162v1)
 - 2025-03-28, **ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**, Wenjie Liu et.al., Paper: [http://arxiv.org/abs/2503.22218v1](http://arxiv.org/abs/2503.22218v1)
