@@ -19,11 +19,15 @@
 
 ## SLAM
 
+- 2025-04-03, **Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**, Xiaofeng Han et.al., Paper: [http://arxiv.org/abs/2504.02477v1](http://arxiv.org/abs/2504.02477v1)
+- 2025-04-03, **MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**, Renwu Li et.al., Paper: [http://arxiv.org/abs/2504.02437v1](http://arxiv.org/abs/2504.02437v1)
+- 2025-04-02, **A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2504.02086v1](http://arxiv.org/abs/2504.02086v1)
+- 2025-04-01, **Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**, Yuchen Zhang et.al., Paper: [http://arxiv.org/abs/2504.01997v1](http://arxiv.org/abs/2504.01997v1)
 - 2025-04-02, **Strengthening Multi-Robot Systems for SAR: Co-Designing Robotics and Communication Towards 6G**, Juan Bravo-Arrabal et.al., Paper: [http://arxiv.org/abs/2504.01940v1](http://arxiv.org/abs/2504.01940v1)
-- 2025-04-02, **Dynamic Initialization for LiDAR-inertial SLAM**, Jie Xu et.al., Paper: [http://arxiv.org/abs/2504.01451v1](http://arxiv.org/abs/2504.01451v1)
+- 2025-04-02, **Dynamic Initialization for LiDAR-inertial SLAM**, Jie Xu et.al., Paper: [http://arxiv.org/abs/2504.01451v1](http://arxiv.org/abs/2504.01451v1), Code: **[https://github.com/lian-yue0515/d-li-init](https://github.com/lian-yue0515/d-li-init)**
 - 2025-03-31, **SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**, Yannick Burkhardt et.al., Paper: [http://arxiv.org/abs/2504.00139v1](http://arxiv.org/abs/2504.00139v1)
 - 2025-03-30, **A Visual-Inertial Motion Prior SLAM for Dynamic Environments**, Weilong Sun et.al., Paper: [http://arxiv.org/abs/2503.23429v1](http://arxiv.org/abs/2503.23429v1)
-- 2025-03-30, **AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2503.23282v1](http://arxiv.org/abs/2503.23282v1)
+- 2025-03-30, **AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2503.23282v1](http://arxiv.org/abs/2503.23282v1), Code: **[https://github.com/Brummi/anycam](https://github.com/Brummi/anycam)**
 - 2025-03-27, **HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Ziren Gong et.al., Paper: [http://arxiv.org/abs/2503.21778v1](http://arxiv.org/abs/2503.21778v1)
 - 2025-03-27, **STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**, Yongxu Wang et.al., Paper: [http://arxiv.org/abs/2503.21425v1](http://arxiv.org/abs/2503.21425v1)
 - 2025-03-25, **First Results on UAV-aided User Localization Using ToA and OpenAirInterface in 5G NR**, Omid Esrafilian et.al., Paper: [http://arxiv.org/abs/2503.19529v1](http://arxiv.org/abs/2503.19529v1)
@@ -1494,6 +1498,8 @@
 
 ## Visual Localization
 
+- 2025-04-03, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v1](http://arxiv.org/abs/2504.02259v1)
+- 2025-04-02, **A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2504.02086v1](http://arxiv.org/abs/2504.02086v1)
 - 2025-04-02, **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**, Yuji Nozawa et.al., Paper: [http://arxiv.org/abs/2504.01348v1](http://arxiv.org/abs/2504.01348v1)
 - 2025-04-01, **IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**, Bangwei Liu et.al., Paper: [http://arxiv.org/abs/2504.00954v1](http://arxiv.org/abs/2504.00954v1)
 - 2025-04-01, **Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2504.00812v1](http://arxiv.org/abs/2504.00812v1)
@@ -3140,6 +3146,9 @@
 
 ## NeRF
 
+- 2025-04-03, **MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**, Yash Kulthe et.al., Paper: [http://arxiv.org/abs/2504.02517v1](http://arxiv.org/abs/2504.02517v1)
+- 2025-04-03, **LPA3D: 3D Room-Level Scene Generation from In-the-Wild Images**, Ming-Jia Yang et.al., Paper: [http://arxiv.org/abs/2504.02337v1](http://arxiv.org/abs/2504.02337v1)
+- 2025-04-01, **OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**, Jingyu Shi et.al., Paper: [http://arxiv.org/abs/2504.02007v1](http://arxiv.org/abs/2504.02007v1)
 - 2025-04-02, **Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**, Niluthpol Chowdhury Mithun et.al., Paper: [http://arxiv.org/abs/2504.01960v1](http://arxiv.org/abs/2504.01960v1)
 - 2025-04-02, **BOGausS: Better Optimized Gaussian Splatting**, Stéphane Pateux et.al., Paper: [http://arxiv.org/abs/2504.01844v1](http://arxiv.org/abs/2504.01844v1)
 - 2025-04-02, **FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**, Ulas Gunes et.al., Paper: [http://arxiv.org/abs/2504.01732v1](http://arxiv.org/abs/2504.01732v1)
