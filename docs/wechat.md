@@ -1501,7 +1501,7 @@
 ## Visual Localization
 
 - 2025-04-04, **REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**, Shabnam Choudhury et.al., Paper: [http://arxiv.org/abs/2504.03169v1](http://arxiv.org/abs/2504.03169v1)
-- 2025-04-03, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v1](http://arxiv.org/abs/2504.02259v1)
+- 2025-04-06, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v2](http://arxiv.org/abs/2504.02259v2)
 - 2025-04-02, **A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2504.02086v1](http://arxiv.org/abs/2504.02086v1)
 - 2025-04-02, **Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**, Yuji Nozawa et.al., Paper: [http://arxiv.org/abs/2504.01348v1](http://arxiv.org/abs/2504.01348v1)
 - 2025-04-01, **IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**, Bangwei Liu et.al., Paper: [http://arxiv.org/abs/2504.00954v1](http://arxiv.org/abs/2504.00954v1)
@@ -2896,7 +2896,7 @@
 - 2025-03-20, **Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**, Tian Yi Lim et.al., Paper: [http://arxiv.org/abs/2503.16275v1](http://arxiv.org/abs/2503.16275v1)
 - 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1), Code: **[https://github.com/peihaowu/mapglue](https://github.com/peihaowu/mapglue)**
 - 2025-03-19, **PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**, Yuanchao Yue et.al., Paper: [http://arxiv.org/abs/2503.15285v1](http://arxiv.org/abs/2503.15285v1)
-- 2025-03-17, **Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.13433v1](http://arxiv.org/abs/2503.13433v1)
+- 2025-04-07, **Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.13433v2](http://arxiv.org/abs/2503.13433v2)
 - 2025-03-17, **SatDepth: A Novel Dataset for Satellite Image Matching**, Rahul Deshmukh et.al., Paper: [http://arxiv.org/abs/2503.12706v1](http://arxiv.org/abs/2503.12706v1), Code: **[https://github.com/rahuldeshmukh43/satdepth](https://github.com/rahuldeshmukh43/satdepth)**
 - 2025-03-14, **Refining Image Edge Detection via Linear Canonical Riesz Transforms**, Shuhui Yang et.al., Paper: [http://arxiv.org/abs/2503.11148v1](http://arxiv.org/abs/2503.11148v1)
 - 2025-03-13, **Speedy MASt3R**, Jingxing Li et.al., Paper: [http://arxiv.org/abs/2503.10017v1](http://arxiv.org/abs/2503.10017v1)
