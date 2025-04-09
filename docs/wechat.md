@@ -1506,6 +1506,7 @@
 
 ## Visual Localization
 
+- 2025-04-08, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v1](http://arxiv.org/abs/2504.06116v1)
 - 2025-04-06, **NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**, Peng Gao et.al., Paper: [http://arxiv.org/abs/2504.04339v1](http://arxiv.org/abs/2504.04339v1)
 - 2025-04-04, **REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**, Shabnam Choudhury et.al., Paper: [http://arxiv.org/abs/2504.03169v1](http://arxiv.org/abs/2504.03169v1)
 - 2025-04-06, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v2](http://arxiv.org/abs/2504.02259v2)
@@ -2895,6 +2896,7 @@
 
 ## Image Matching
 
+- 2025-04-08, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v1](http://arxiv.org/abs/2504.06116v1)
 - 2025-04-07, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v1](http://arxiv.org/abs/2504.04834v1)
 - 2025-04-01, **Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2504.00812v1](http://arxiv.org/abs/2504.00812v1)
 - 2025-03-31, **CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**, Zizhuo Li et.al., Paper: [http://arxiv.org/abs/2503.23925v1](http://arxiv.org/abs/2503.23925v1)
@@ -3157,6 +3159,9 @@
 
 ## NeRF
 
+- 2025-04-08, **Meta-Continual Learning of Neural Fields**, Seungyoon Woo et.al., Paper: [http://arxiv.org/abs/2504.05806v1](http://arxiv.org/abs/2504.05806v1)
+- 2025-04-08, **SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**, Yihuan Huang et.al., Paper: [http://arxiv.org/abs/2504.05803v1](http://arxiv.org/abs/2504.05803v1)
+- 2025-04-08, **InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**, Jiangsan Zhao et.al., Paper: [http://arxiv.org/abs/2504.05751v1](http://arxiv.org/abs/2504.05751v1)
 - 2025-04-07, **DeclutterNeRF: Generative-Free 3D Scene Recovery for Occlusion Removal**, Wanzhou Liu et.al., Paper: [http://arxiv.org/abs/2504.04679v1](http://arxiv.org/abs/2504.04679v1)
 - 2025-04-06, **Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**, Etienne Chassaing et.al., Paper: [http://arxiv.org/abs/2504.04448v1](http://arxiv.org/abs/2504.04448v1)
 - 2025-04-04, **NeRFlex: Resource-aware Real-time High-quality Rendering of Complex Scenes on Mobile Devices**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2504.03415v1](http://arxiv.org/abs/2504.03415v1)
