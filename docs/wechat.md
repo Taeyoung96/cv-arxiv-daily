@@ -2900,7 +2900,7 @@
 
 - 2025-04-09, **Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**, Jaehong Chung et.al., Paper: [http://arxiv.org/abs/2504.06604v1](http://arxiv.org/abs/2504.06604v1)
 - 2025-04-08, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v1](http://arxiv.org/abs/2504.06116v1)
-- 2025-04-07, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v1](http://arxiv.org/abs/2504.04834v1)
+- 2025-04-10, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v2](http://arxiv.org/abs/2504.04834v2)
 - 2025-04-01, **Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2504.00812v1](http://arxiv.org/abs/2504.00812v1)
 - 2025-03-31, **CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**, Zizhuo Li et.al., Paper: [http://arxiv.org/abs/2503.23925v1](http://arxiv.org/abs/2503.23925v1)
 - 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
