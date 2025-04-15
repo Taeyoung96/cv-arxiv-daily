@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-04-14, **Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**, Megha Maheshwari et.al., Paper: [http://arxiv.org/abs/2504.10416v1](http://arxiv.org/abs/2504.10416v1)
+- 2025-04-14, **RoboCup Rescue 2025 Team Description Paper UruBots**, Kevin Farias et.al., Paper: [http://arxiv.org/abs/2504.09778v1](http://arxiv.org/abs/2504.09778v1)
 - 2025-04-11, **FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**, Sebastián Barbas Laina et.al., Paper: [http://arxiv.org/abs/2504.08603v1](http://arxiv.org/abs/2504.08603v1)
 - 2025-04-11, **PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**, Xiong Li et.al., Paper: [http://arxiv.org/abs/2504.08280v1](http://arxiv.org/abs/2504.08280v1)
 - 2025-04-11, **II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping**, Chengwei Zhao et.al., Paper: [http://arxiv.org/abs/2504.08204v1](http://arxiv.org/abs/2504.08204v1)
@@ -1211,6 +1213,7 @@
 
 ## SFM
 
+- 2025-04-12, **A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**, Jizong Peng et.al., Paper: [http://arxiv.org/abs/2504.09129v1](http://arxiv.org/abs/2504.09129v1)
 - 2025-04-11, **Stereophotoclinometry Revisited**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2504.08252v1](http://arxiv.org/abs/2504.08252v1)
 - 2025-04-08, **Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**, José A. Pilartes-Congo et.al., Paper: [http://arxiv.org/abs/2504.06464v1](http://arxiv.org/abs/2504.06464v1)
 - 2025-04-05, **3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**, Zhisheng Huang et.al., Paper: [http://arxiv.org/abs/2504.04294v1](http://arxiv.org/abs/2504.04294v1)
@@ -1513,6 +1516,9 @@
 
 ## Visual Localization
 
+- 2025-04-14, **Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**, Changwei Wang et.al., Paper: [http://arxiv.org/abs/2504.09881v1](http://arxiv.org/abs/2504.09881v1)
+- 2025-04-12, **Evolved Hierarchical Masking for Self-Supervised Learning**, Zhanzhou Feng et.al., Paper: [http://arxiv.org/abs/2504.09155v1](http://arxiv.org/abs/2504.09155v1)
+- 2025-04-11, **HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**, Asterios Reppas et.al., Paper: [http://arxiv.org/abs/2504.08901v1](http://arxiv.org/abs/2504.08901v1)
 - 2025-04-11, **Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**, Joshua Fixelle et.al., Paper: [http://arxiv.org/abs/2504.08710v1](http://arxiv.org/abs/2504.08710v1)
 - 2025-04-11, **FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**, Cheng-Yu Hsieh et.al., Paper: [http://arxiv.org/abs/2504.08368v1](http://arxiv.org/abs/2504.08368v1)
 - 2025-04-11, **PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**, Xiong Li et.al., Paper: [http://arxiv.org/abs/2504.08280v1](http://arxiv.org/abs/2504.08280v1)
@@ -3175,6 +3181,10 @@
 
 ## NeRF
 
+- 2025-04-14, **LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**, Hao Sun et.al., Paper: [http://arxiv.org/abs/2504.10331v1](http://arxiv.org/abs/2504.10331v1)
+- 2025-04-14, **MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**, Yunpeng Tan et.al., Paper: [http://arxiv.org/abs/2504.09878v1](http://arxiv.org/abs/2504.09878v1)
+- 2025-04-14, **NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**, Yi Han et.al., Paper: [http://arxiv.org/abs/2504.09868v1](http://arxiv.org/abs/2504.09868v1)
+- 2025-04-11, **HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**, Asterios Reppas et.al., Paper: [http://arxiv.org/abs/2504.08901v1](http://arxiv.org/abs/2504.08901v1)
 - 2025-04-09, **Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**, Daiwei Zhang et.al., Paper: [http://arxiv.org/abs/2504.06978v1](http://arxiv.org/abs/2504.06978v1)
 - 2025-04-09, **S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**, Masquil Elías et.al., Paper: [http://arxiv.org/abs/2504.06920v1](http://arxiv.org/abs/2504.06920v1)
 - 2025-04-09, **SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**, Hanxiao Sun et.al., Paper: [http://arxiv.org/abs/2504.06815v1](http://arxiv.org/abs/2504.06815v1)
