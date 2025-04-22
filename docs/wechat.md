@@ -19,7 +19,7 @@
 
 ## SLAM
 
-- 2025-04-18, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v1](http://arxiv.org/abs/2504.13713v1), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
+- 2025-04-21, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v2](http://arxiv.org/abs/2504.13713v2), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
 - 2025-04-16, **An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**, Xingwu Ji et.al., Paper: [http://arxiv.org/abs/2504.11698v1](http://arxiv.org/abs/2504.11698v1), Code: **[https://github.com/jixingwu/sol-slam](https://github.com/jixingwu/sol-slam)**
 - 2025-04-18, **Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**, Dong Wang et.al., Paper: [http://arxiv.org/abs/2504.11634v2](http://arxiv.org/abs/2504.11634v2), Code: **[https://github.com/wayne-dwa/doppler-slam](https://github.com/wayne-dwa/doppler-slam)**
 - 2025-04-14, **Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**, Megha Maheshwari et.al., Paper: [http://arxiv.org/abs/2504.10416v1](http://arxiv.org/abs/2504.10416v1)
@@ -3193,7 +3193,7 @@
 
 ## NeRF
 
-- 2025-04-18, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v1](http://arxiv.org/abs/2504.13713v1), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
+- 2025-04-21, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v2](http://arxiv.org/abs/2504.13713v2), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
 - 2025-04-16, **BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2504.13207v1](http://arxiv.org/abs/2504.13207v1)
 - 2025-04-17, **GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**, Rendong Zhang et.al., Paper: [http://arxiv.org/abs/2504.12999v1](http://arxiv.org/abs/2504.12999v1)
 - 2025-04-16, **R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**, Haoyang Wang et.al., Paper: [http://arxiv.org/abs/2504.11946v1](http://arxiv.org/abs/2504.11946v1)
@@ -3202,7 +3202,7 @@
 - 2025-04-14, **NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**, Yi Han et.al., Paper: [http://arxiv.org/abs/2504.09868v1](http://arxiv.org/abs/2504.09868v1)
 - 2025-04-11, **HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**, Asterios Reppas et.al., Paper: [http://arxiv.org/abs/2504.08901v1](http://arxiv.org/abs/2504.08901v1)
 - 2025-04-09, **Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**, Daiwei Zhang et.al., Paper: [http://arxiv.org/abs/2504.06978v1](http://arxiv.org/abs/2504.06978v1)
-- 2025-04-09, **S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**, Masquil Elías et.al., Paper: [http://arxiv.org/abs/2504.06920v1](http://arxiv.org/abs/2504.06920v1)
+- 2025-04-21, **S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**, Elías Masquil et.al., Paper: [http://arxiv.org/abs/2504.06920v2](http://arxiv.org/abs/2504.06920v2)
 - 2025-04-09, **SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**, Hanxiao Sun et.al., Paper: [http://arxiv.org/abs/2504.06815v1](http://arxiv.org/abs/2504.06815v1)
 - 2025-04-08, **Meta-Continual Learning of Neural Fields**, Seungyoon Woo et.al., Paper: [http://arxiv.org/abs/2504.05806v1](http://arxiv.org/abs/2504.05806v1)
 - 2025-04-08, **SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**, Yihuan Huang et.al., Paper: [http://arxiv.org/abs/2504.05803v1](http://arxiv.org/abs/2504.05803v1)
