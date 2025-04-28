@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-04-25, **Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU**, Takumi Nakao et.al., Paper: [http://arxiv.org/abs/2504.18056v1](http://arxiv.org/abs/2504.18056v1)
+- 2025-04-24, **Autonomous Navigation Of Quadrupeds Using Coverage Path Planning**, Alexander James Becoy et.al., Paper: [http://arxiv.org/abs/2504.17880v1](http://arxiv.org/abs/2504.17880v1)
+- 2025-04-22, **SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**, Yuxin Yao et.al., Paper: [http://arxiv.org/abs/2504.17810v1](http://arxiv.org/abs/2504.17810v1)
 - 2025-04-24, **BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**, Asier Bikandi et.al., Paper: [http://arxiv.org/abs/2504.17693v1](http://arxiv.org/abs/2504.17693v1)
 - 2025-04-24, **Occlusion-Aware Self-Supervised Monocular Depth Estimation for Weak-Texture Endoscopic Images**, Zebo Huang et.al., Paper: [http://arxiv.org/abs/2504.17582v1](http://arxiv.org/abs/2504.17582v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
@@ -1535,6 +1538,7 @@
 
 ## Visual Localization
 
+- 2025-04-25, **From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**, Yabing Wang et.al., Paper: [http://arxiv.org/abs/2504.17990v1](http://arxiv.org/abs/2504.17990v1)
 - 2025-04-24, **A Guide to Structureless Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2504.17636v1](http://arxiv.org/abs/2504.17636v1)
 - 2025-04-23, **Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**, Xin Jiang et.al., Paper: [http://arxiv.org/abs/2504.16691v1](http://arxiv.org/abs/2504.16691v1)
 - 2025-04-22, **Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**, Merve Cerit et.al., Paper: [http://arxiv.org/abs/2504.16323v1](http://arxiv.org/abs/2504.16323v1), Code: **[https://github.com/mediacontentatlas/mediacontentatlas](https://github.com/mediacontentatlas/mediacontentatlas)**
@@ -3213,6 +3217,8 @@
 
 ## NeRF
 
+- 2025-04-25, **RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2504.18468v1](http://arxiv.org/abs/2504.18468v1)
+- 2025-04-23, **Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**, Mingxuan Cui et.al., Paper: [http://arxiv.org/abs/2504.17815v1](http://arxiv.org/abs/2504.17815v1)
 - 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1)
 - 2025-04-23, **Dual-Camera All-in-Focus Neural Radiance Fields**, Xianrui Luo et.al., Paper: [http://arxiv.org/abs/2504.16636v1](http://arxiv.org/abs/2504.16636v1)
 - 2025-04-23, **Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**, Murat Bilgehan Ertan et.al., Paper: [http://arxiv.org/abs/2504.16557v1](http://arxiv.org/abs/2504.16557v1)
