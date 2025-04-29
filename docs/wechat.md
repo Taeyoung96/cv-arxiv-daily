@@ -3217,7 +3217,7 @@
 
 ## NeRF
 
-- 2025-04-25, **RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2504.18468v1](http://arxiv.org/abs/2504.18468v1)
+- 2025-04-28, **RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2504.18468v2](http://arxiv.org/abs/2504.18468v2)
 - 2025-04-23, **Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**, Mingxuan Cui et.al., Paper: [http://arxiv.org/abs/2504.17815v1](http://arxiv.org/abs/2504.17815v1)
 - 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1)
 - 2025-04-23, **Dual-Camera All-in-Focus Neural Radiance Fields**, Xianrui Luo et.al., Paper: [http://arxiv.org/abs/2504.16636v1](http://arxiv.org/abs/2504.16636v1)
