@@ -19,6 +19,13 @@
 
 ## SLAM
 
+- 2025-04-28, **Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2504.19654v1](http://arxiv.org/abs/2504.19654v1)
+- 2025-04-28, **GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2504.19653v1](http://arxiv.org/abs/2504.19653v1)
+- 2025-04-28, **GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**, Zuxing Lu et.al., Paper: [http://arxiv.org/abs/2504.19409v1](http://arxiv.org/abs/2504.19409v1)
+- 2025-04-27, **Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**, Apurv Varshney et.al., Paper: [http://arxiv.org/abs/2504.19345v1](http://arxiv.org/abs/2504.19345v1)
+- 2025-04-27, **NANO-SLAM : Natural Gradient Gaussian Approximation for Vehicle SLAM**, Tianyi Zhang et.al., Paper: [http://arxiv.org/abs/2504.19195v1](http://arxiv.org/abs/2504.19195v1)
+- 2025-04-27, **MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2504.19104v1](http://arxiv.org/abs/2504.19104v1)
+- 2025-04-25, **Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**, Devansh R. Agrawal et.al., Paper: [http://arxiv.org/abs/2504.18713v1](http://arxiv.org/abs/2504.18713v1)
 - 2025-04-25, **Range-based 6-DoF Monte Carlo SLAM with Gradient-guided Particle Filter on GPU**, Takumi Nakao et.al., Paper: [http://arxiv.org/abs/2504.18056v1](http://arxiv.org/abs/2504.18056v1)
 - 2025-04-24, **Autonomous Navigation Of Quadrupeds Using Coverage Path Planning**, Alexander James Becoy et.al., Paper: [http://arxiv.org/abs/2504.17880v1](http://arxiv.org/abs/2504.17880v1)
 - 2025-04-22, **SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos**, Yuxin Yao et.al., Paper: [http://arxiv.org/abs/2504.17810v1](http://arxiv.org/abs/2504.17810v1)
@@ -1228,6 +1235,7 @@
 
 ## SFM
 
+- 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1)
 - 2025-04-24, **Dynamic Camera Poses and Where to Find Them**, Chris Rockwell et.al., Paper: [http://arxiv.org/abs/2504.17788v1](http://arxiv.org/abs/2504.17788v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
 - 2025-04-23, **A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**, Joe Hrzich et.al., Paper: [http://arxiv.org/abs/2504.16840v1](http://arxiv.org/abs/2504.16840v1)
@@ -2674,6 +2682,7 @@
 
 ## Keypoint Detection
 
+- 2025-04-26, **VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**, Niaz Ahmad et.al., Paper: [http://arxiv.org/abs/2504.19032v1](http://arxiv.org/abs/2504.19032v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
 - 2025-04-15, **UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**, Pedro Diaz-Garcia et.al., Paper: [http://arxiv.org/abs/2504.11063v1](http://arxiv.org/abs/2504.11063v1)
 - 2025-04-15, **Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**, Timm Linder et.al., Paper: [http://arxiv.org/abs/2504.11031v1](http://arxiv.org/abs/2504.11031v1)
@@ -2950,6 +2959,8 @@
 
 ## Image Matching
 
+- 2025-04-28, **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**, Taoyu Su et.al., Paper: [http://arxiv.org/abs/2504.19458v1](http://arxiv.org/abs/2504.19458v1)
+- 2025-04-28, **Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2504.19398v1](http://arxiv.org/abs/2504.19398v1)
 - 2025-04-23, **Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**, Zhenping Sun et.al., Paper: [http://arxiv.org/abs/2504.16346v1](http://arxiv.org/abs/2504.16346v1)
 - 2025-04-18, **Outlier-Robust Multi-Model Fitting on Quantum Annealers**, Saurabh Pandey et.al., Paper: [http://arxiv.org/abs/2504.13836v1](http://arxiv.org/abs/2504.13836v1)
 - 2025-04-11, **Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**, Josef Bengtson et.al., Paper: [http://arxiv.org/abs/2504.08348v1](http://arxiv.org/abs/2504.08348v1)
@@ -3217,6 +3228,9 @@
 
 ## NeRF
 
+- 2025-04-28, **Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**, Hoang Chuong Nguyen et.al., Paper: [http://arxiv.org/abs/2504.19819v1](http://arxiv.org/abs/2504.19819v1)
+- 2025-04-27, **Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**, Apurv Varshney et.al., Paper: [http://arxiv.org/abs/2504.19345v1](http://arxiv.org/abs/2504.19345v1)
+- 2025-04-27, **IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2504.19165v1](http://arxiv.org/abs/2504.19165v1)
 - 2025-04-28, **RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2504.18468v2](http://arxiv.org/abs/2504.18468v2)
 - 2025-04-23, **Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**, Mingxuan Cui et.al., Paper: [http://arxiv.org/abs/2504.17815v1](http://arxiv.org/abs/2504.17815v1)
 - 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1)
