@@ -2959,7 +2959,7 @@
 
 ## Image Matching
 
-- 2025-04-28, **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**, Taoyu Su et.al., Paper: [http://arxiv.org/abs/2504.19458v1](http://arxiv.org/abs/2504.19458v1)
+- 2025-04-29, **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**, Taoyu Su et.al., Paper: [http://arxiv.org/abs/2504.19458v2](http://arxiv.org/abs/2504.19458v2)
 - 2025-04-28, **Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2504.19398v1](http://arxiv.org/abs/2504.19398v1)
 - 2025-04-23, **Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**, Zhenping Sun et.al., Paper: [http://arxiv.org/abs/2504.16346v1](http://arxiv.org/abs/2504.16346v1)
 - 2025-04-18, **Outlier-Robust Multi-Model Fitting on Quantum Annealers**, Saurabh Pandey et.al., Paper: [http://arxiv.org/abs/2504.13836v1](http://arxiv.org/abs/2504.13836v1)
