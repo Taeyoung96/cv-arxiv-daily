@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
 - 2025-04-28, **Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2504.19654v1](http://arxiv.org/abs/2504.19654v1)
 - 2025-04-28, **GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2504.19653v1](http://arxiv.org/abs/2504.19653v1)
 - 2025-04-28, **GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**, Zuxing Lu et.al., Paper: [http://arxiv.org/abs/2504.19409v1](http://arxiv.org/abs/2504.19409v1)
@@ -1235,6 +1236,8 @@
 
 ## SFM
 
+- 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
+- 2025-04-29, **Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**, Jiang Wu et.al., Paper: [http://arxiv.org/abs/2504.20378v1](http://arxiv.org/abs/2504.20378v1)
 - 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1)
 - 2025-04-24, **Dynamic Camera Poses and Where to Find Them**, Chris Rockwell et.al., Paper: [http://arxiv.org/abs/2504.17788v1](http://arxiv.org/abs/2504.17788v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
@@ -1546,6 +1549,7 @@
 
 ## Visual Localization
 
+- 2025-04-29, **GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**, Jongwon Lee et.al., Paper: [http://arxiv.org/abs/2504.20379v1](http://arxiv.org/abs/2504.20379v1)
 - 2025-04-25, **From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**, Yabing Wang et.al., Paper: [http://arxiv.org/abs/2504.17990v1](http://arxiv.org/abs/2504.17990v1)
 - 2025-04-24, **A Guide to Structureless Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2504.17636v1](http://arxiv.org/abs/2504.17636v1)
 - 2025-04-23, **Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**, Xin Jiang et.al., Paper: [http://arxiv.org/abs/2504.16691v1](http://arxiv.org/abs/2504.16691v1)
@@ -2682,6 +2686,7 @@
 
 ## Keypoint Detection
 
+- 2025-04-29, **Learning a General Model: Folding Clothing with Topological Dynamics**, Yiming Liu et.al., Paper: [http://arxiv.org/abs/2504.20720v1](http://arxiv.org/abs/2504.20720v1)
 - 2025-04-26, **VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**, Niaz Ahmad et.al., Paper: [http://arxiv.org/abs/2504.19032v1](http://arxiv.org/abs/2504.19032v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
 - 2025-04-15, **UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**, Pedro Diaz-Garcia et.al., Paper: [http://arxiv.org/abs/2504.11063v1](http://arxiv.org/abs/2504.11063v1)
@@ -3228,6 +3233,9 @@
 
 ## NeRF
 
+- 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
+- 2025-04-29, **GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**, Jongwon Lee et.al., Paper: [http://arxiv.org/abs/2504.20379v1](http://arxiv.org/abs/2504.20379v1)
+- 2025-04-29, **Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**, Jiang Wu et.al., Paper: [http://arxiv.org/abs/2504.20378v1](http://arxiv.org/abs/2504.20378v1)
 - 2025-04-28, **Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**, Hoang Chuong Nguyen et.al., Paper: [http://arxiv.org/abs/2504.19819v1](http://arxiv.org/abs/2504.19819v1)
 - 2025-04-27, **Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**, Apurv Varshney et.al., Paper: [http://arxiv.org/abs/2504.19345v1](http://arxiv.org/abs/2504.19345v1)
 - 2025-04-29, **IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2504.19165v2](http://arxiv.org/abs/2504.19165v2)
