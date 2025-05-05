@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-05-02, **Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2505.01017v1](http://arxiv.org/abs/2505.01017v1)
 - 2025-04-30, **An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**, Yaming Ou et.al., Paper: [http://arxiv.org/abs/2504.21826v1](http://arxiv.org/abs/2504.21826v1)
 - 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
 - 2025-04-28, **Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**, Leon Davies et.al., Paper: [http://arxiv.org/abs/2504.19654v1](http://arxiv.org/abs/2504.19654v1)
@@ -1237,6 +1238,7 @@
 
 ## SFM
 
+- 2025-05-01, **Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**, Viktor Kocur et.al., Paper: [http://arxiv.org/abs/2505.00866v1](http://arxiv.org/abs/2505.00866v1)
 - 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
 - 2025-04-29, **Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**, Jiang Wu et.al., Paper: [http://arxiv.org/abs/2504.20378v1](http://arxiv.org/abs/2504.20378v1)
 - 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1)
@@ -1550,6 +1552,7 @@
 
 ## Visual Localization
 
+- 2025-05-02, **NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**, Xun Li et.al., Paper: [http://arxiv.org/abs/2505.01113v1](http://arxiv.org/abs/2505.01113v1)
 - 2025-05-01, **GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**, Jongwon Lee et.al., Paper: [http://arxiv.org/abs/2504.20379v2](http://arxiv.org/abs/2504.20379v2)
 - 2025-04-25, **From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**, Yabing Wang et.al., Paper: [http://arxiv.org/abs/2504.17990v1](http://arxiv.org/abs/2504.17990v1)
 - 2025-04-24, **A Guide to Structureless Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2504.17636v1](http://arxiv.org/abs/2504.17636v1)
@@ -3235,6 +3238,7 @@
 
 ## NeRF
 
+- 2025-04-30, **A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**, Jiajia Li et.al., Paper: [http://arxiv.org/abs/2505.00737v1](http://arxiv.org/abs/2505.00737v1)
 - 2025-05-01, **Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**, Feng Xue et.al., Paper: [http://arxiv.org/abs/2505.00378v1](http://arxiv.org/abs/2505.00378v1)
 - 2025-04-29, **GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**, Yuhan Xie et.al., Paper: [http://arxiv.org/abs/2504.21067v1](http://arxiv.org/abs/2504.21067v1)
 - 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
