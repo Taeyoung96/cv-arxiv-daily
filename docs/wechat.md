@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.07
+> Updated on 2025.05.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 
 - 2025-05-06, **Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**, Lukas Schichler et.al., Paper: [http://arxiv.org/abs/2505.03565v1](http://arxiv.org/abs/2505.03565v1)
 - 2025-05-06, **AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**, Yifan Peng et.al., Paper: [http://arxiv.org/abs/2505.03448v1](http://arxiv.org/abs/2505.03448v1)
-- 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1)
+- 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
 - 2025-05-05, **LiDAR-Inertial SLAM-Based Navigation and Safety-Oriented AI-Driven Control System for Skid-Steer Robots**, Mehdi Heydari Shahna et.al., Paper: [http://arxiv.org/abs/2505.02598v1](http://arxiv.org/abs/2505.02598v1)
 - 2025-05-04, **Robust Localization, Mapping, and Navigation for Quadruped Robots**, Dyuman Aditya et.al., Paper: [http://arxiv.org/abs/2505.02272v1](http://arxiv.org/abs/2505.02272v1)
 - 2025-05-04, **SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2505.01956v1](http://arxiv.org/abs/2505.01956v1)
@@ -1241,14 +1241,14 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## SFM
 
 - 2025-05-06, **Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**, Siming He et.al., Paper: [http://arxiv.org/abs/2505.03093v1](http://arxiv.org/abs/2505.03093v1)
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
 - 2025-05-03, **PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2505.01729v1](http://arxiv.org/abs/2505.01729v1)
-- 2025-05-01, **Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**, Viktor Kocur et.al., Paper: [http://arxiv.org/abs/2505.00866v1](http://arxiv.org/abs/2505.00866v1)
+- 2025-05-01, **Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**, Viktor Kocur et.al., Paper: [http://arxiv.org/abs/2505.00866v1](http://arxiv.org/abs/2505.00866v1), Code: **[https://github.com/kocurvik/rdnet](https://github.com/kocurvik/rdnet)**
 - 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
 - 2025-04-29, **Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**, Jiang Wu et.al., Paper: [http://arxiv.org/abs/2504.20378v1](http://arxiv.org/abs/2504.20378v1)
 - 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1)
@@ -1558,13 +1558,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Visual Localization
 
 - 2025-05-06, **Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**, Lukas Schichler et.al., Paper: [http://arxiv.org/abs/2505.03565v1](http://arxiv.org/abs/2505.03565v1)
-- 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1)
-- 2025-05-06, **Seeing the Abstract: Translating the Abstract Language for Vision Language Models**, Davide Talon et.al., Paper: [http://arxiv.org/abs/2505.03242v1](http://arxiv.org/abs/2505.03242v1)
+- 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
+- 2025-05-06, **Seeing the Abstract: Translating the Abstract Language for Vision Language Models**, Davide Talon et.al., Paper: [http://arxiv.org/abs/2505.03242v1](http://arxiv.org/abs/2505.03242v1), Code: **[https://github.com/davidetalon/fashionact](https://github.com/davidetalon/fashionact)**
 - 2025-05-04, **SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**, Ganesh Sapkota et.al., Paper: [http://arxiv.org/abs/2505.01956v1](http://arxiv.org/abs/2505.01956v1)
 - 2025-05-02, **NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**, Xun Li et.al., Paper: [http://arxiv.org/abs/2505.01113v1](http://arxiv.org/abs/2505.01113v1)
 - 2025-05-01, **GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**, Jongwon Lee et.al., Paper: [http://arxiv.org/abs/2504.20379v2](http://arxiv.org/abs/2504.20379v2)
@@ -2700,7 +2700,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2983,7 +2983,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3252,12 +3252,12 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## NeRF
 
 - 2025-05-04, **HandOcc: NeRF-based Hand Rendering with Occupancy Networks**, Maksym Ivashechkin et.al., Paper: [http://arxiv.org/abs/2505.02079v1](http://arxiv.org/abs/2505.02079v1)
-- 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1)
+- 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1), Code: **[https://github.com/MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)**
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
 - 2025-05-03, **Unified Steganography via Implicit Neural Representation**, Qi Song et.al., Paper: [http://arxiv.org/abs/2505.01749v1](http://arxiv.org/abs/2505.01749v1)
 - 2025-04-30, **A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**, Jiajia Li et.al., Paper: [http://arxiv.org/abs/2505.00737v1](http://arxiv.org/abs/2505.00737v1)
@@ -4860,7 +4860,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
