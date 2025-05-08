@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-05-07, **Scalable Aerial GNSS Localization for Marine Robots**, Shuo Wen et.al., Paper: [http://arxiv.org/abs/2505.04095v1](http://arxiv.org/abs/2505.04095v1)
 - 2025-05-06, **Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**, Lukas Schichler et.al., Paper: [http://arxiv.org/abs/2505.03565v1](http://arxiv.org/abs/2505.03565v1)
 - 2025-05-06, **AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**, Yifan Peng et.al., Paper: [http://arxiv.org/abs/2505.03448v1](http://arxiv.org/abs/2505.03448v1)
 - 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
@@ -1245,6 +1246,7 @@
 
 ## SFM
 
+- 2025-05-07, **FastMap: Revisiting Dense and Scalable Structure from Motion**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2505.04612v1](http://arxiv.org/abs/2505.04612v1)
 - 2025-05-06, **Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**, Siming He et.al., Paper: [http://arxiv.org/abs/2505.03093v1](http://arxiv.org/abs/2505.03093v1)
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
 - 2025-05-03, **PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2505.01729v1](http://arxiv.org/abs/2505.01729v1)
@@ -1562,6 +1564,7 @@
 
 ## Visual Localization
 
+- 2025-05-04, **OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**, Chongsheng Zhang et.al., Paper: [http://arxiv.org/abs/2505.03836v1](http://arxiv.org/abs/2505.03836v1), Code: **[https://github.com/cszhanglmu/obd-finder](https://github.com/cszhanglmu/obd-finder)**
 - 2025-05-06, **Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**, Lukas Schichler et.al., Paper: [http://arxiv.org/abs/2505.03565v1](http://arxiv.org/abs/2505.03565v1)
 - 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
 - 2025-05-06, **Seeing the Abstract: Translating the Abstract Language for Vision Language Models**, Davide Talon et.al., Paper: [http://arxiv.org/abs/2505.03242v1](http://arxiv.org/abs/2505.03242v1), Code: **[https://github.com/davidetalon/fashionact](https://github.com/davidetalon/fashionact)**
@@ -2987,6 +2990,7 @@
 
 ## Image Matching
 
+- 2025-05-04, **OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**, Chongsheng Zhang et.al., Paper: [http://arxiv.org/abs/2505.03836v1](http://arxiv.org/abs/2505.03836v1), Code: **[https://github.com/cszhanglmu/obd-finder](https://github.com/cszhanglmu/obd-finder)**
 - 2025-04-29, **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**, Taoyu Su et.al., Paper: [http://arxiv.org/abs/2504.19458v2](http://arxiv.org/abs/2504.19458v2)
 - 2025-04-28, **Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2504.19398v1](http://arxiv.org/abs/2504.19398v1)
 - 2025-04-23, **Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**, Zhenping Sun et.al., Paper: [http://arxiv.org/abs/2504.16346v1](http://arxiv.org/abs/2504.16346v1)
