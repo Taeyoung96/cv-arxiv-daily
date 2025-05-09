@@ -1246,6 +1246,7 @@
 
 ## SFM
 
+- 2025-05-08, **DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**, Qitao Zhao et.al., Paper: [http://arxiv.org/abs/2505.05473v1](http://arxiv.org/abs/2505.05473v1)
 - 2025-05-07, **FastMap: Revisiting Dense and Scalable Structure from Motion**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2505.04612v1](http://arxiv.org/abs/2505.04612v1)
 - 2025-05-06, **Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**, Siming He et.al., Paper: [http://arxiv.org/abs/2505.03093v1](http://arxiv.org/abs/2505.03093v1)
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
@@ -1253,7 +1254,7 @@
 - 2025-05-01, **Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**, Viktor Kocur et.al., Paper: [http://arxiv.org/abs/2505.00866v1](http://arxiv.org/abs/2505.00866v1), Code: **[https://github.com/kocurvik/rdnet](https://github.com/kocurvik/rdnet)**
 - 2025-04-29, **Large-scale visual SLAM for in-the-wild videos**, Shuo Sun et.al., Paper: [http://arxiv.org/abs/2504.20496v1](http://arxiv.org/abs/2504.20496v1)
 - 2025-04-29, **Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**, Jiang Wu et.al., Paper: [http://arxiv.org/abs/2504.20378v1](http://arxiv.org/abs/2504.20378v1)
-- 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1)
+- 2025-04-28, **MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**, Zador Pataki et.al., Paper: [http://arxiv.org/abs/2504.20040v1](http://arxiv.org/abs/2504.20040v1), Code: **[https://github.com/cvg/mpsfm](https://github.com/cvg/mpsfm)**
 - 2025-04-24, **Dynamic Camera Poses and Where to Find Them**, Chris Rockwell et.al., Paper: [http://arxiv.org/abs/2504.17788v1](http://arxiv.org/abs/2504.17788v1)
 - 2025-04-24, **EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**, Haodi Yao et.al., Paper: [http://arxiv.org/abs/2504.17280v1](http://arxiv.org/abs/2504.17280v1)
 - 2025-04-23, **A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**, Joe Hrzich et.al., Paper: [http://arxiv.org/abs/2504.16840v1](http://arxiv.org/abs/2504.16840v1)
@@ -3260,6 +3261,7 @@
 
 ## NeRF
 
+- 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-05-04, **HandOcc: NeRF-based Hand Rendering with Occupancy Networks**, Maksym Ivashechkin et.al., Paper: [http://arxiv.org/abs/2505.02079v1](http://arxiv.org/abs/2505.02079v1)
 - 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1), Code: **[https://github.com/MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)**
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
