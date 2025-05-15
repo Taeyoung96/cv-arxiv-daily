@@ -3271,7 +3271,7 @@
 
 ## NeRF
 
-- 2025-05-14, **Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**, Ma Changfeng et.al., Paper: [http://arxiv.org/abs/2505.09413v1](http://arxiv.org/abs/2505.09413v1)
+- 2025-05-14, **Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**, Ma Changfeng et.al., Paper: [http://arxiv.org/abs/2505.09413v1](http://arxiv.org/abs/2505.09413v1), Code: **[https://github.com/murcherful/gaupcrender](https://github.com/murcherful/gaupcrender)**
 - 2025-05-14, **FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**, Yue Wen et.al., Paper: [http://arxiv.org/abs/2505.09406v1](http://arxiv.org/abs/2505.09406v1)
 - 2025-05-12, **TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian**, Shijie Lian et.al., Paper: [http://arxiv.org/abs/2505.08811v1](http://arxiv.org/abs/2505.08811v1)
 - 2025-05-13, **FOCI: Trajectory Optimization on Gaussian Splats**, Mario Gomez Andreu et.al., Paper: [http://arxiv.org/abs/2505.08510v1](http://arxiv.org/abs/2505.08510v1)
