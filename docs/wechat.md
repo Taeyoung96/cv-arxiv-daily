@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-05-20, **A Methodological Framework for Measuring Spatial Labeling Similarity**, Yihang Du et.al., Paper: [http://arxiv.org/abs/2505.14128v1](http://arxiv.org/abs/2505.14128v1)
+- 2025-05-20, **Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**, Zhenyu Li et.al., Paper: [http://arxiv.org/abs/2505.14068v1](http://arxiv.org/abs/2505.14068v1), Code: **[https://github.com/cv4ra/sota-place-recognitioner](https://github.com/cv4ra/sota-place-recognitioner)**
 - 2025-05-18, **VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**, Dominic Maggio et.al., Paper: [http://arxiv.org/abs/2505.12549v1](http://arxiv.org/abs/2505.12549v1)
 - 2025-05-18, **Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**, Calvin Galagain et.al., Paper: [http://arxiv.org/abs/2505.12384v1](http://arxiv.org/abs/2505.12384v1)
 - 2025-05-16, **EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**, Ryan Hoque et.al., Paper: [http://arxiv.org/abs/2505.11709v1](http://arxiv.org/abs/2505.11709v1)
@@ -1263,7 +1265,7 @@
 - 2025-05-12, **RDD: Robust Feature Detector and Descriptor using Deformable Transformer**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2505.08013v1](http://arxiv.org/abs/2505.08013v1)
 - 2025-05-12, **Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**, Lintao Xiang et.al., Paper: [http://arxiv.org/abs/2505.07373v1](http://arxiv.org/abs/2505.07373v1)
 - 2025-05-08, **DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**, Qitao Zhao et.al., Paper: [http://arxiv.org/abs/2505.05473v1](http://arxiv.org/abs/2505.05473v1)
-- 2025-05-20, **FastMap: Revisiting Dense and Scalable Structure from Motion**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2505.04612v2](http://arxiv.org/abs/2505.04612v2)
+- 2025-05-20, **FastMap: Revisiting Dense and Scalable Structure from Motion**, Jiahao Li et.al., Paper: [http://arxiv.org/abs/2505.04612v2](http://arxiv.org/abs/2505.04612v2), Code: **[https://github.com/pals-ttic/fastmap](https://github.com/pals-ttic/fastmap)**
 - 2025-05-15, **Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**, Siming He et.al., Paper: [http://arxiv.org/abs/2505.03093v2](http://arxiv.org/abs/2505.03093v2)
 - 2025-05-03, **AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**, Junhao Shi et.al., Paper: [http://arxiv.org/abs/2505.01799v1](http://arxiv.org/abs/2505.01799v1)
 - 2025-05-03, **PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**, Bu Jin et.al., Paper: [http://arxiv.org/abs/2505.01729v1](http://arxiv.org/abs/2505.01729v1)
@@ -1581,6 +1583,7 @@
 
 ## Visual Localization
 
+- 2025-05-20, **Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**, Kiarash Naghavi Khanghah et.al., Paper: [http://arxiv.org/abs/2505.13828v1](http://arxiv.org/abs/2505.13828v1)
 - 2025-05-18, **MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**, Yiwei Ou et.al., Paper: [http://arxiv.org/abs/2505.12254v1](http://arxiv.org/abs/2505.12254v1)
 - 2025-05-16, **Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**, Aaron Wilhelm et.al., Paper: [http://arxiv.org/abs/2505.11620v1](http://arxiv.org/abs/2505.11620v1)
 - 2025-05-16, **Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**, Mathis Jürgen Adler et.al., Paper: [http://arxiv.org/abs/2505.11121v1](http://arxiv.org/abs/2505.11121v1)
@@ -3287,6 +3290,7 @@
 
 ## NeRF
 
+- 2025-05-19, **IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**, Wentao Song et.al., Paper: [http://arxiv.org/abs/2505.13633v1](http://arxiv.org/abs/2505.13633v1)
 - 2025-05-19, **3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**, Chenyu Xu et.al., Paper: [http://arxiv.org/abs/2505.12875v1](http://arxiv.org/abs/2505.12875v1)
 - 2025-05-18, **Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**, Calvin Galagain et.al., Paper: [http://arxiv.org/abs/2505.12384v1](http://arxiv.org/abs/2505.12384v1)
 - 2025-05-16, **MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**, Zifan Wang et.al., Paper: [http://arxiv.org/abs/2505.11386v1](http://arxiv.org/abs/2505.11386v1)
