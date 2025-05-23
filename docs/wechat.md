@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-05-22, **TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2505.16447v1](http://arxiv.org/abs/2505.16447v1)
 - 2025-05-20, **A Methodological Framework for Measuring Spatial Labeling Similarity**, Yihang Du et.al., Paper: [http://arxiv.org/abs/2505.14128v1](http://arxiv.org/abs/2505.14128v1), Code: **[https://github.com/yihdu/slam](https://github.com/yihdu/slam)**
 - 2025-05-22, **Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**, Zhenyu Li et.al., Paper: [http://arxiv.org/abs/2505.14068v2](http://arxiv.org/abs/2505.14068v2), Code: **[https://github.com/cv4ra/sota-place-recognitioner](https://github.com/cv4ra/sota-place-recognitioner)**
 - 2025-05-18, **VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**, Dominic Maggio et.al., Paper: [http://arxiv.org/abs/2505.12549v1](http://arxiv.org/abs/2505.12549v1)
@@ -1261,6 +1262,7 @@
 
 ## SFM
 
+- 2025-05-22, **Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**, Isla Duporge et.al., Paper: [http://arxiv.org/abs/2505.16882v1](http://arxiv.org/abs/2505.16882v1)
 - 2025-05-21, **A Taxonomy of Structure from Motion Methods**, Federica Arrigoni et.al., Paper: [http://arxiv.org/abs/2505.15814v1](http://arxiv.org/abs/2505.15814v1)
 - 2025-05-15, **Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**, Francisco Raverta Capua et.al., Paper: [http://arxiv.org/abs/2505.10751v1](http://arxiv.org/abs/2505.10751v1)
 - 2025-05-12, **RDD: Robust Feature Detector and Descriptor using Deformable Transformer**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2505.08013v1](http://arxiv.org/abs/2505.08013v1)
@@ -1584,6 +1586,9 @@
 
 ## Visual Localization
 
+- 2025-05-22, **TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2505.16447v1](http://arxiv.org/abs/2505.16447v1)
+- 2025-05-21, **Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**, Siting Li et.al., Paper: [http://arxiv.org/abs/2505.15877v1](http://arxiv.org/abs/2505.15877v1)
+- 2025-05-21, **SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**, Nikolaos Chaidos et.al., Paper: [http://arxiv.org/abs/2505.15867v1](http://arxiv.org/abs/2505.15867v1)
 - 2025-05-20, **Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**, Kiarash Naghavi Khanghah et.al., Paper: [http://arxiv.org/abs/2505.13828v1](http://arxiv.org/abs/2505.13828v1)
 - 2025-05-18, **MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**, Yiwei Ou et.al., Paper: [http://arxiv.org/abs/2505.12254v1](http://arxiv.org/abs/2505.12254v1)
 - 2025-05-16, **Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**, Aaron Wilhelm et.al., Paper: [http://arxiv.org/abs/2505.11620v1](http://arxiv.org/abs/2505.11620v1)
@@ -3291,6 +3296,7 @@
 
 ## NeRF
 
+- 2025-05-22, **UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**, Desiree Fisker et.al., Paper: [http://arxiv.org/abs/2505.16912v1](http://arxiv.org/abs/2505.16912v1)
 - 2025-05-19, **IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**, Wentao Song et.al., Paper: [http://arxiv.org/abs/2505.13633v1](http://arxiv.org/abs/2505.13633v1)
 - 2025-05-19, **3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**, Chenyu Xu et.al., Paper: [http://arxiv.org/abs/2505.12875v1](http://arxiv.org/abs/2505.12875v1)
 - 2025-05-18, **Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**, Calvin Galagain et.al., Paper: [http://arxiv.org/abs/2505.12384v1](http://arxiv.org/abs/2505.12384v1)
