@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.05.26
+> Updated on 2025.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -1259,12 +1259,12 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## SFM
 
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1)
-- 2025-05-22, **Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**, Isla Duporge et.al., Paper: [http://arxiv.org/abs/2505.16882v1](http://arxiv.org/abs/2505.16882v1)
+- 2025-05-23, **Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**, Isla Duporge et.al., Paper: [http://arxiv.org/abs/2505.16882v2](http://arxiv.org/abs/2505.16882v2)
 - 2025-05-21, **A Taxonomy of Structure from Motion Methods**, Federica Arrigoni et.al., Paper: [http://arxiv.org/abs/2505.15814v1](http://arxiv.org/abs/2505.15814v1)
 - 2025-05-15, **Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**, Francisco Raverta Capua et.al., Paper: [http://arxiv.org/abs/2505.10751v1](http://arxiv.org/abs/2505.10751v1)
 - 2025-05-12, **RDD: Robust Feature Detector and Descriptor using Deformable Transformer**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2505.08013v1](http://arxiv.org/abs/2505.08013v1)
@@ -1584,7 +1584,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1593,7 +1593,7 @@
 - 2025-05-23, **CU-Multi: A Dataset for Multi-Robot Data Association**, Doncey Albin et.al., Paper: [http://arxiv.org/abs/2505.17576v1](http://arxiv.org/abs/2505.17576v1)
 - 2025-05-22, **TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**, Oliver Grainge et.al., Paper: [http://arxiv.org/abs/2505.16447v1](http://arxiv.org/abs/2505.16447v1)
 - 2025-05-21, **Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**, Siting Li et.al., Paper: [http://arxiv.org/abs/2505.15877v1](http://arxiv.org/abs/2505.15877v1)
-- 2025-05-21, **SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**, Nikolaos Chaidos et.al., Paper: [http://arxiv.org/abs/2505.15867v1](http://arxiv.org/abs/2505.15867v1)
+- 2025-05-21, **SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**, Nikolaos Chaidos et.al., Paper: [http://arxiv.org/abs/2505.15867v1](http://arxiv.org/abs/2505.15867v1), Code: **[https://github.com/nickhaidos/scenir-icml2025](https://github.com/nickhaidos/scenir-icml2025)**
 - 2025-05-20, **Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**, Kiarash Naghavi Khanghah et.al., Paper: [http://arxiv.org/abs/2505.13828v1](http://arxiv.org/abs/2505.13828v1)
 - 2025-05-18, **MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**, Yiwei Ou et.al., Paper: [http://arxiv.org/abs/2505.12254v1](http://arxiv.org/abs/2505.12254v1)
 - 2025-05-16, **Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**, Aaron Wilhelm et.al., Paper: [http://arxiv.org/abs/2505.11620v1](http://arxiv.org/abs/2505.11620v1)
@@ -2737,7 +2737,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3026,7 +3026,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3298,7 +3298,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## NeRF
 
@@ -4923,7 +4923,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
