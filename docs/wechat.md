@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-05-27, **HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**, Bingxiang Kang et.al., Paper: [http://arxiv.org/abs/2505.20906v1](http://arxiv.org/abs/2505.20906v1)
+- 2025-05-27, **ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient**, Jason Chui et.al., Paper: [http://arxiv.org/abs/2505.20858v1](http://arxiv.org/abs/2505.20858v1)
 - 2025-05-26, **ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2505.19420v1](http://arxiv.org/abs/2505.19420v1)
 - 2025-05-25, **VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2505.18992v1](http://arxiv.org/abs/2505.18992v1)
 - 2025-05-23, **CU-Multi: A Dataset for Multi-Robot Data Association**, Doncey Albin et.al., Paper: [http://arxiv.org/abs/2505.17576v1](http://arxiv.org/abs/2505.17576v1)
@@ -1265,6 +1267,7 @@
 
 ## SFM
 
+- 2025-05-27, **Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**, Xiangyu Sun et.al., Paper: [http://arxiv.org/abs/2505.20729v1](http://arxiv.org/abs/2505.20729v1)
 - 2025-05-26, **Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**, Natsuki Takama et.al., Paper: [http://arxiv.org/abs/2505.19854v1](http://arxiv.org/abs/2505.19854v1)
 - 2025-05-25, **Improving Novel view synthesis of 360$^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**, Guangan Chen et.al., Paper: [http://arxiv.org/abs/2505.19264v1](http://arxiv.org/abs/2505.19264v1)
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1)
@@ -1592,6 +1595,8 @@
 
 ## Visual Localization
 
+- 2025-05-27, **ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**, Eric Xing et.al., Paper: [http://arxiv.org/abs/2505.20764v1](http://arxiv.org/abs/2505.20764v1)
+- 2025-05-26, **Visualized Text-to-Image Retrieval**, Di Wu et.al., Paper: [http://arxiv.org/abs/2505.20291v1](http://arxiv.org/abs/2505.20291v1)
 - 2025-05-26, **Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**, Rong-Cheng Tu et.al., Paper: [http://arxiv.org/abs/2505.19952v1](http://arxiv.org/abs/2505.19952v1)
 - 2025-05-26, **Can Visual Encoder Learn to See Arrows?**, Naoyuki Terashita et.al., Paper: [http://arxiv.org/abs/2505.19944v1](http://arxiv.org/abs/2505.19944v1)
 - 2025-05-26, **MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**, Rong-Cheng Tu et.al., Paper: [http://arxiv.org/abs/2505.19707v1](http://arxiv.org/abs/2505.19707v1)
@@ -3314,6 +3319,7 @@
 
 ## NeRF
 
+- 2025-05-27, **Structure from Collision**, Takuhiro Kaneko et.al., Paper: [http://arxiv.org/abs/2505.21335v1](http://arxiv.org/abs/2505.21335v1)
 - 2025-05-26, **OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**, Shintaro Ito et.al., Paper: [http://arxiv.org/abs/2505.20126v1](http://arxiv.org/abs/2505.20126v1)
 - 2025-05-26, **ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**, Shintaro Ito et.al., Paper: [http://arxiv.org/abs/2505.19883v1](http://arxiv.org/abs/2505.19883v1)
 - 2025-05-26, **GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**, You Wang et.al., Paper: [http://arxiv.org/abs/2505.19813v1](http://arxiv.org/abs/2505.19813v1)
