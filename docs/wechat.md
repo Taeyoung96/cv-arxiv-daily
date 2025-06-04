@@ -19,6 +19,12 @@
 
 ## SLAM
 
+- 2025-06-03, **LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**, Roman Titkov et.al., Paper: [http://arxiv.org/abs/2506.03073v1](http://arxiv.org/abs/2506.03073v1)
+- 2025-06-03, **Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02932v1](http://arxiv.org/abs/2506.02932v1)
+- 2025-06-03, **VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**, Pengchong Hu et.al., Paper: [http://arxiv.org/abs/2506.02741v1](http://arxiv.org/abs/2506.02741v1)
+- 2025-06-03, **GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**, Shufan Qing et.al., Paper: [http://arxiv.org/abs/2506.02736v1](http://arxiv.org/abs/2506.02736v1), Code: **[https://github.com/qingshufan/GeneA-SLAM2](https://github.com/qingshufan/GeneA-SLAM2)**
+- 2025-06-03, **Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**, Kordel K. France et.al., Paper: [http://arxiv.org/abs/2506.02373v1](http://arxiv.org/abs/2506.02373v1)
+- 2025-06-01, **Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**, Xingguang Zhong et.al., Paper: [http://arxiv.org/abs/2506.00970v1](http://arxiv.org/abs/2506.00970v1)
 - 2025-05-30, **Black-box Adversarial Attacks on CNN-based SLAM Algorithms**, Maria Rafaela Gkeka et.al., Paper: [http://arxiv.org/abs/2505.24654v1](http://arxiv.org/abs/2505.24654v1)
 - 2025-05-28, **Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**, Xiaoyang Zhan et.al., Paper: [http://arxiv.org/abs/2505.22880v1](http://arxiv.org/abs/2505.22880v1)
 - 2025-05-28, **4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**, Hidenobu Matsuki et.al., Paper: [http://arxiv.org/abs/2505.22859v1](http://arxiv.org/abs/2505.22859v1)
@@ -1271,6 +1277,7 @@
 
 ## SFM
 
+- 2025-06-02, **Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**, Yaroslava Lochman et.al., Paper: [http://arxiv.org/abs/2506.01940v1](http://arxiv.org/abs/2506.01940v1)
 - 2025-05-29, **Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**, Justin Lazarow et.al., Paper: [http://arxiv.org/abs/2505.23756v1](http://arxiv.org/abs/2505.23756v1)
 - 2025-05-28, **Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**, San Jiang et.al., Paper: [http://arxiv.org/abs/2505.22089v1](http://arxiv.org/abs/2505.22089v1)
 - 2025-05-27, **Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**, Xiangyu Sun et.al., Paper: [http://arxiv.org/abs/2505.20729v1](http://arxiv.org/abs/2505.20729v1)
@@ -1601,6 +1608,8 @@
 
 ## Visual Localization
 
+- 2025-06-02, **Entity Image and Mixed-Modal Image Retrieval Datasets**, Cristian-Ioan Blaga et.al., Paper: [http://arxiv.org/abs/2506.02291v1](http://arxiv.org/abs/2506.02291v1)
+- 2025-06-01, **Quantization-based Bounds on the Wasserstein Metric**, Jonathan Bobrutsky et.al., Paper: [http://arxiv.org/abs/2506.00976v1](http://arxiv.org/abs/2506.00976v1)
 - 2025-05-30, **SORCE: Small Object Retrieval in Complex Environments**, Chunxu Liu et.al., Paper: [http://arxiv.org/abs/2505.24441v1](http://arxiv.org/abs/2505.24441v1)
 - 2025-05-29, **Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**, Aneeshan Sain et.al., Paper: [http://arxiv.org/abs/2505.23763v1](http://arxiv.org/abs/2505.23763v1)
 - 2025-05-28, **4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**, Hidenobu Matsuki et.al., Paper: [http://arxiv.org/abs/2505.22859v1](http://arxiv.org/abs/2505.22859v1)
@@ -3335,6 +3344,7 @@
 
 ## NeRF
 
+- 2025-05-30, **Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2506.00083v1](http://arxiv.org/abs/2506.00083v1)
 - 2025-05-29, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v1](http://arxiv.org/abs/2505.23481v1), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
 - 2025-05-29, **LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2505.23158v1](http://arxiv.org/abs/2505.23158v1)
 - 2025-05-28, **Can NeRFs See without Cameras?**, Chaitanya Amballa et.al., Paper: [http://arxiv.org/abs/2505.22441v1](http://arxiv.org/abs/2505.22441v1)
