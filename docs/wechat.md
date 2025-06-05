@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-06-04, **Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**, Zirui Wang et.al., Paper: [http://arxiv.org/abs/2506.04224v1](http://arxiv.org/abs/2506.04224v1)
 - 2025-06-03, **LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**, Roman Titkov et.al., Paper: [http://arxiv.org/abs/2506.03073v1](http://arxiv.org/abs/2506.03073v1)
 - 2025-06-03, **Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02932v1](http://arxiv.org/abs/2506.02932v1)
 - 2025-06-03, **VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**, Pengchong Hu et.al., Paper: [http://arxiv.org/abs/2506.02741v1](http://arxiv.org/abs/2506.02741v1)
@@ -1277,6 +1278,8 @@
 
 ## SFM
 
+- 2025-06-04, **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2506.04225v1](http://arxiv.org/abs/2506.04225v1)
+- 2025-06-04, **Accelerating SfM-based Pose Estimation with Dominating Set**, Joji Joseph et.al., Paper: [http://arxiv.org/abs/2506.03667v1](http://arxiv.org/abs/2506.03667v1)
 - 2025-06-02, **Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**, Yaroslava Lochman et.al., Paper: [http://arxiv.org/abs/2506.01940v1](http://arxiv.org/abs/2506.01940v1)
 - 2025-05-29, **Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**, Justin Lazarow et.al., Paper: [http://arxiv.org/abs/2505.23756v1](http://arxiv.org/abs/2505.23756v1)
 - 2025-05-28, **Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**, San Jiang et.al., Paper: [http://arxiv.org/abs/2505.22089v1](http://arxiv.org/abs/2505.22089v1)
