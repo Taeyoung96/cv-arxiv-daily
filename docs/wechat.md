@@ -3073,7 +3073,7 @@
 
 ## Image Matching
 
-- 2025-05-30, **SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**, Mingxu Zhang et.al., Paper: [http://arxiv.org/abs/2505.24305v1](http://arxiv.org/abs/2505.24305v1)
+- 2025-06-05, **SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**, Mingxu Zhang et.al., Paper: [http://arxiv.org/abs/2505.24305v2](http://arxiv.org/abs/2505.24305v2)
 - 2025-05-28, **Universal Domain Adaptation for Semantic Segmentation**, Seun-An Choe et.al., Paper: [http://arxiv.org/abs/2505.22458v1](http://arxiv.org/abs/2505.22458v1)
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1)
 - 2025-05-16, **Multi-view dense image matching with similarity learning and geometry priors**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2505.11264v1](http://arxiv.org/abs/2505.11264v1)
