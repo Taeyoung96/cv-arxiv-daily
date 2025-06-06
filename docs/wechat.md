@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-06-05, **Deep Learning Reforms Image Matching: A Survey and Outlook**, Shihua Zhang et.al., Paper: [http://arxiv.org/abs/2506.04619v1](http://arxiv.org/abs/2506.04619v1)
 - 2025-06-04, **Seeing in the Dark: Benchmarking Egocentric 3D Vision with the Oxford Day-and-Night Dataset**, Zirui Wang et.al., Paper: [http://arxiv.org/abs/2506.04224v1](http://arxiv.org/abs/2506.04224v1)
 - 2025-06-03, **LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**, Roman Titkov et.al., Paper: [http://arxiv.org/abs/2506.03073v1](http://arxiv.org/abs/2506.03073v1)
 - 2025-06-03, **Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**, Stefan Orf et.al., Paper: [http://arxiv.org/abs/2506.02932v1](http://arxiv.org/abs/2506.02932v1)
@@ -1278,6 +1279,7 @@
 
 ## SFM
 
+- 2025-06-05, **SupeRANSAC: One RANSAC to Rule Them All**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2506.04803v1](http://arxiv.org/abs/2506.04803v1)
 - 2025-06-04, **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2506.04225v1](http://arxiv.org/abs/2506.04225v1)
 - 2025-06-04, **Accelerating SfM-based Pose Estimation with Dominating Set**, Joji Joseph et.al., Paper: [http://arxiv.org/abs/2506.03667v1](http://arxiv.org/abs/2506.03667v1)
 - 2025-06-02, **Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**, Yaroslava Lochman et.al., Paper: [http://arxiv.org/abs/2506.01940v1](http://arxiv.org/abs/2506.01940v1)
@@ -1611,6 +1613,8 @@
 
 ## Visual Localization
 
+- 2025-06-05, **HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**, Suhan Woo et.al., Paper: [http://arxiv.org/abs/2506.04764v1](http://arxiv.org/abs/2506.04764v1)
+- 2025-06-05, **Deep Learning Reforms Image Matching: A Survey and Outlook**, Shihua Zhang et.al., Paper: [http://arxiv.org/abs/2506.04619v1](http://arxiv.org/abs/2506.04619v1)
 - 2025-06-02, **Entity Image and Mixed-Modal Image Retrieval Datasets**, Cristian-Ioan Blaga et.al., Paper: [http://arxiv.org/abs/2506.02291v1](http://arxiv.org/abs/2506.02291v1)
 - 2025-06-01, **Quantization-based Bounds on the Wasserstein Metric**, Jonathan Bobrutsky et.al., Paper: [http://arxiv.org/abs/2506.00976v1](http://arxiv.org/abs/2506.00976v1)
 - 2025-05-30, **SORCE: Small Object Retrieval in Complex Environments**, Chunxu Liu et.al., Paper: [http://arxiv.org/abs/2505.24441v1](http://arxiv.org/abs/2505.24441v1)
@@ -3073,6 +3077,8 @@
 
 ## Image Matching
 
+- 2025-06-05, **Vanishing arcs for isolated plane curve singularities**, Hanwool Bae et.al., Paper: [http://arxiv.org/abs/2506.04917v1](http://arxiv.org/abs/2506.04917v1)
+- 2025-06-05, **Deep Learning Reforms Image Matching: A Survey and Outlook**, Shihua Zhang et.al., Paper: [http://arxiv.org/abs/2506.04619v1](http://arxiv.org/abs/2506.04619v1)
 - 2025-06-05, **SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**, Mingxu Zhang et.al., Paper: [http://arxiv.org/abs/2505.24305v2](http://arxiv.org/abs/2505.24305v2)
 - 2025-05-28, **Universal Domain Adaptation for Semantic Segmentation**, Seun-An Choe et.al., Paper: [http://arxiv.org/abs/2505.22458v1](http://arxiv.org/abs/2505.22458v1)
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1)
@@ -3347,6 +3353,9 @@
 
 ## NeRF
 
+- 2025-06-05, **ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2506.05317v1](http://arxiv.org/abs/2506.05317v1)
+- 2025-06-05, **Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**, Nan Wang et.al., Paper: [http://arxiv.org/abs/2506.05280v1](http://arxiv.org/abs/2506.05280v1)
+- 2025-06-05, **Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**, Filip Slezak et.al., Paper: [http://arxiv.org/abs/2506.04908v1](http://arxiv.org/abs/2506.04908v1)
 - 2025-05-30, **Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2506.00083v1](http://arxiv.org/abs/2506.00083v1)
 - 2025-05-29, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v1](http://arxiv.org/abs/2505.23481v1), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
 - 2025-05-29, **LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2505.23158v1](http://arxiv.org/abs/2505.23158v1)
