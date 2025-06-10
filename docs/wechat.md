@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-06-08, **Faster than Fast: Accelerating Oriented FAST Feature Detection on Low-end Embedded GPUs**, Qiong Chang et.al., Paper: [http://arxiv.org/abs/2506.07164v1](http://arxiv.org/abs/2506.07164v1)
+- 2025-06-06, **GS4: Generalizable Sparse Splatting Semantic SLAM**, Mingqi Jiang et.al., Paper: [http://arxiv.org/abs/2506.06517v1](http://arxiv.org/abs/2506.06517v1)
+- 2025-06-06, **Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2506.06476v1](http://arxiv.org/abs/2506.06476v1)
 - 2025-06-06, **Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2506.05965v1](http://arxiv.org/abs/2506.05965v1)
 - 2025-06-06, **Analysis of points outcome in ATP Grand Slam Tennis using big data and machine learning**, Martin Illum et.al., Paper: [http://arxiv.org/abs/2506.05866v1](http://arxiv.org/abs/2506.05866v1)
 - 2025-06-05, **On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**, Andreas Meuleman et.al., Paper: [http://arxiv.org/abs/2506.05558v1](http://arxiv.org/abs/2506.05558v1)
@@ -1618,6 +1621,8 @@
 
 ## Visual Localization
 
+- 2025-06-08, **Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**, Yikun Ji et.al., Paper: [http://arxiv.org/abs/2506.07045v1](http://arxiv.org/abs/2506.07045v1)
+- 2025-06-07, **Zero Shot Composed Image Retrieval**, Santhosh Kakarla et.al., Paper: [http://arxiv.org/abs/2506.06602v1](http://arxiv.org/abs/2506.06602v1)
 - 2025-06-06, **GenIR: Generative Visual Feedback for Mental Image Retrieval**, Diji Yang et.al., Paper: [http://arxiv.org/abs/2506.06220v1](http://arxiv.org/abs/2506.06220v1)
 - 2025-06-06, **Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**, Sheng Chen et.al., Paper: [http://arxiv.org/abs/2506.06205v1](http://arxiv.org/abs/2506.06205v1)
 - 2025-06-05, **HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**, Suhan Woo et.al., Paper: [http://arxiv.org/abs/2506.04764v1](http://arxiv.org/abs/2506.04764v1)
@@ -3360,6 +3365,11 @@
 
 ## NeRF
 
+- 2025-06-09, **Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**, Allen Tu et.al., Paper: [http://arxiv.org/abs/2506.07917v1](http://arxiv.org/abs/2506.07917v1)
+- 2025-06-09, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v1](http://arxiv.org/abs/2506.07497v1)
+- 2025-06-07, **SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**, Sumit Sharma et.al., Paper: [http://arxiv.org/abs/2506.06890v1](http://arxiv.org/abs/2506.06890v1)
+- 2025-06-06, **Splat and Replace: 3D Reconstruction with Repetitive Elements**, Nicolás Violante et.al., Paper: [http://arxiv.org/abs/2506.06462v1](http://arxiv.org/abs/2506.06462v1)
+- 2025-06-06, **NeurNCD: Novel Class Discovery via Implicit Neural Representation**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2506.06412v1](http://arxiv.org/abs/2506.06412v1)
 - 2025-06-06, **Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2506.05965v1](http://arxiv.org/abs/2506.05965v1)
 - 2025-06-06, **ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2506.05317v2](http://arxiv.org/abs/2506.05317v2)
 - 2025-06-06, **Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**, Nan Wang et.al., Paper: [http://arxiv.org/abs/2506.05280v2](http://arxiv.org/abs/2506.05280v2), Code: **[https://github.com/bigcileng/bilateral-driving](https://github.com/bigcileng/bilateral-driving)**
