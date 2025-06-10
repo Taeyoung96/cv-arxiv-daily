@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.06.09
+> Updated on 2025.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -1278,7 +1278,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## SFM
 
@@ -1614,7 +1614,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1624,7 +1624,7 @@
 - 2025-06-05, **Deep Learning Reforms Image Matching: A Survey and Outlook**, Shihua Zhang et.al., Paper: [http://arxiv.org/abs/2506.04619v1](http://arxiv.org/abs/2506.04619v1)
 - 2025-06-02, **Entity Image and Mixed-Modal Image Retrieval Datasets**, Cristian-Ioan Blaga et.al., Paper: [http://arxiv.org/abs/2506.02291v1](http://arxiv.org/abs/2506.02291v1)
 - 2025-06-01, **Quantization-based Bounds on the Wasserstein Metric**, Jonathan Bobrutsky et.al., Paper: [http://arxiv.org/abs/2506.00976v1](http://arxiv.org/abs/2506.00976v1)
-- 2025-05-30, **SORCE: Small Object Retrieval in Complex Environments**, Chunxu Liu et.al., Paper: [http://arxiv.org/abs/2505.24441v1](http://arxiv.org/abs/2505.24441v1)
+- 2025-05-30, **SORCE: Small Object Retrieval in Complex Environments**, Chunxu Liu et.al., Paper: [http://arxiv.org/abs/2505.24441v1](http://arxiv.org/abs/2505.24441v1), Code: **[https://github.com/mcg-nju/sorce](https://github.com/mcg-nju/sorce)**
 - 2025-05-29, **Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**, Aneeshan Sain et.al., Paper: [http://arxiv.org/abs/2505.23763v1](http://arxiv.org/abs/2505.23763v1)
 - 2025-05-28, **4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**, Hidenobu Matsuki et.al., Paper: [http://arxiv.org/abs/2505.22859v1](http://arxiv.org/abs/2505.22859v1)
 - 2025-05-28, **UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**, Junhuan Liu et.al., Paper: [http://arxiv.org/abs/2505.22098v1](http://arxiv.org/abs/2505.22098v1)
@@ -2789,7 +2789,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -3080,7 +3080,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3356,13 +3356,13 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## NeRF
 
 - 2025-06-06, **Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**, Mingrui Li et.al., Paper: [http://arxiv.org/abs/2506.05965v1](http://arxiv.org/abs/2506.05965v1)
-- 2025-06-05, **ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2506.05317v1](http://arxiv.org/abs/2506.05317v1)
-- 2025-06-06, **Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**, Nan Wang et.al., Paper: [http://arxiv.org/abs/2506.05280v2](http://arxiv.org/abs/2506.05280v2)
+- 2025-06-06, **ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2506.05317v2](http://arxiv.org/abs/2506.05317v2)
+- 2025-06-06, **Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**, Nan Wang et.al., Paper: [http://arxiv.org/abs/2506.05280v2](http://arxiv.org/abs/2506.05280v2), Code: **[https://github.com/bigcileng/bilateral-driving](https://github.com/bigcileng/bilateral-driving)**
 - 2025-06-05, **Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**, Filip Slezak et.al., Paper: [http://arxiv.org/abs/2506.04908v1](http://arxiv.org/abs/2506.04908v1)
 - 2025-05-30, **Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2506.00083v1](http://arxiv.org/abs/2506.00083v1)
 - 2025-05-29, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v1](http://arxiv.org/abs/2505.23481v1), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
@@ -4998,7 +4998,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
