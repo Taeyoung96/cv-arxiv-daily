@@ -3398,6 +3398,7 @@
 
 ## NeRF
 
+- 2025-06-19, **R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**, Weeyoung Kwon et.al., Paper: [http://arxiv.org/abs/2506.16262v1](http://arxiv.org/abs/2506.16262v1)
 - 2025-06-18, **RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2506.15242v1](http://arxiv.org/abs/2506.15242v1)
 - 2025-06-17, **Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**, Zhengquan Zhang et.al., Paper: [http://arxiv.org/abs/2506.14856v1](http://arxiv.org/abs/2506.14856v1)
 - 2025-06-18, **Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**, Mufan Liu et.al., Paper: [http://arxiv.org/abs/2506.12787v2](http://arxiv.org/abs/2506.12787v2)
