@@ -1633,6 +1633,11 @@
 
 ## Visual Localization
 
+- 2025-06-20, **Class Agnostic Instance-level Descriptor for Visual Instance Search**, Qi-Ying Sun et.al., Paper: [http://arxiv.org/abs/2506.16745v1](http://arxiv.org/abs/2506.16745v1)
+- 2025-06-19, **MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**, Chao He et.al., Paper: [http://arxiv.org/abs/2506.16353v1](http://arxiv.org/abs/2506.16353v1)
+- 2025-06-19, **Fine-grained Image Retrieval via Dual-Vision Adaptation**, Xin Jiang et.al., Paper: [http://arxiv.org/abs/2506.16273v1](http://arxiv.org/abs/2506.16273v1)
+- 2025-06-19, **Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2506.15988v1](http://arxiv.org/abs/2506.15988v1)
+- 2025-06-18, **Semantic and Feature Guided Uncertainty Quantification of Visual Localization for Autonomous Vehicles**, Qiyuan Wu et.al., Paper: [http://arxiv.org/abs/2506.15851v1](http://arxiv.org/abs/2506.15851v1)
 - 2025-06-18, **ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**, Ziling Huang et.al., Paper: [http://arxiv.org/abs/2506.15180v1](http://arxiv.org/abs/2506.15180v1)
 - 2025-06-17, **HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**, Qian Xu et.al., Paper: [http://arxiv.org/abs/2506.14707v1](http://arxiv.org/abs/2506.14707v1)
 - 2025-06-17, **TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**, Jeewon Kim et.al., Paper: [http://arxiv.org/abs/2506.14178v1](http://arxiv.org/abs/2506.14178v1)
@@ -2828,7 +2833,7 @@
 - 2025-05-18, **SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2505.12246v1](http://arxiv.org/abs/2505.12246v1)
 - 2025-05-17, **Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**, Niaz Ahmad et.al., Paper: [http://arxiv.org/abs/2505.12130v1](http://arxiv.org/abs/2505.12130v1)
 - 2025-05-16, **Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**, Massimiliano Cassia et.al., Paper: [http://arxiv.org/abs/2505.11110v1](http://arxiv.org/abs/2505.11110v1)
-- 2025-06-18, **RDD: Robust Feature Detector and Descriptor using Deformable Transformer**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2505.08013v2](http://arxiv.org/abs/2505.08013v2)
+- 2025-06-19, **RDD: Robust Feature Detector and Descriptor using Deformable Transformer**, Gonglin Chen et.al., Paper: [http://arxiv.org/abs/2505.08013v3](http://arxiv.org/abs/2505.08013v3)
 - 2025-05-12, **Enabling Privacy-Aware AI-Based Ergonomic Analysis**, Sander De Coninck et.al., Paper: [http://arxiv.org/abs/2505.07306v1](http://arxiv.org/abs/2505.07306v1)
 - 2025-05-09, **My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**, Jingrui He et.al., Paper: [http://arxiv.org/abs/2505.06436v1](http://arxiv.org/abs/2505.06436v1)
 - 2025-05-05, **Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**, David Rivas-Villar et.al., Paper: [http://arxiv.org/abs/2505.02787v1](http://arxiv.org/abs/2505.02787v1)
@@ -3119,7 +3124,7 @@
 - 2025-06-11, **Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**, Xiangkai Zhang et.al., Paper: [http://arxiv.org/abs/2506.09748v1](http://arxiv.org/abs/2506.09748v1)
 - 2025-06-05, **Vanishing arcs for isolated plane curve singularities**, Hanwool Bae et.al., Paper: [http://arxiv.org/abs/2506.04917v1](http://arxiv.org/abs/2506.04917v1)
 - 2025-06-05, **Deep Learning Reforms Image Matching: A Survey and Outlook**, Shihua Zhang et.al., Paper: [http://arxiv.org/abs/2506.04619v1](http://arxiv.org/abs/2506.04619v1)
-- 2025-06-05, **SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**, Mingxu Zhang et.al., Paper: [http://arxiv.org/abs/2505.24305v2](http://arxiv.org/abs/2505.24305v2)
+- 2025-06-20, **SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**, Mingxu Zhang et.al., Paper: [http://arxiv.org/abs/2505.24305v3](http://arxiv.org/abs/2505.24305v3)
 - 2025-06-05, **Universal Domain Adaptation for Semantic Segmentation**, Seun-An Choe et.al., Paper: [http://arxiv.org/abs/2505.22458v2](http://arxiv.org/abs/2505.22458v2)
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1), Code: **[https://github.com/simbauer/to_glue_or_not_to_glue](https://github.com/simbauer/to_glue_or_not_to_glue)**
 - 2025-05-16, **Multi-view dense image matching with similarity learning and geometry priors**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2505.11264v1](http://arxiv.org/abs/2505.11264v1)
@@ -3401,7 +3406,7 @@
 - 2025-06-11, **The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**, Haoru Wang et.al., Paper: [http://arxiv.org/abs/2506.09885v1](http://arxiv.org/abs/2506.09885v1)
 - 2025-06-10, **A Probability-guided Sampler for Neural Implicit Surface Rendering**, Gonçalo Dias Pais et.al., Paper: [http://arxiv.org/abs/2506.08619v1](http://arxiv.org/abs/2506.08619v1)
 - 2025-06-09, **Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**, Allen Tu et.al., Paper: [http://arxiv.org/abs/2506.07917v1](http://arxiv.org/abs/2506.07917v1), Code: **[https://github.com/tuallen/speede3dgs](https://github.com/tuallen/speede3dgs)**
-- 2025-06-16, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v3](http://arxiv.org/abs/2506.07497v3)
+- 2025-06-20, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v4](http://arxiv.org/abs/2506.07497v4)
 - 2025-06-07, **SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**, Sumit Sharma et.al., Paper: [http://arxiv.org/abs/2506.06890v1](http://arxiv.org/abs/2506.06890v1)
 - 2025-06-06, **Splat and Replace: 3D Reconstruction with Repetitive Elements**, Nicolás Violante et.al., Paper: [http://arxiv.org/abs/2506.06462v1](http://arxiv.org/abs/2506.06462v1)
 - 2025-06-06, **NeurNCD: Novel Class Discovery via Implicit Neural Representation**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2506.06412v1](http://arxiv.org/abs/2506.06412v1)
