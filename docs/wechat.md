@@ -21,11 +21,11 @@
 
 - 2025-06-23, **GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**, Annika Thomas et.al., Paper: [http://arxiv.org/abs/2506.18885v1](http://arxiv.org/abs/2506.18885v1)
 - 2025-06-23, **MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2506.18678v1](http://arxiv.org/abs/2506.18678v1)
-- 2025-06-22, **Multimodal Fusion SLAM with Fourier Attention**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2506.18204v1](http://arxiv.org/abs/2506.18204v1)
+- 2025-06-24, **Multimodal Fusion SLAM with Fourier Attention**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2506.18204v2](http://arxiv.org/abs/2506.18204v2)
 - 2025-06-22, **ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**, Yongxin Shao et.al., Paper: [http://arxiv.org/abs/2506.18016v1](http://arxiv.org/abs/2506.18016v1)
 - 2025-06-21, **Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**, Sebastian Sansoni et.al., Paper: [http://arxiv.org/abs/2506.17775v1](http://arxiv.org/abs/2506.17775v1)
 - 2025-06-18, **MCOO-SLAM: A Multi-Camera Omnidirectional Object SLAM System**, Miaoxin Pan et.al., Paper: [http://arxiv.org/abs/2506.15402v1](http://arxiv.org/abs/2506.15402v1)
-- 2025-06-18, **RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2506.15242v1](http://arxiv.org/abs/2506.15242v1)
+- 2025-06-24, **RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2506.15242v2](http://arxiv.org/abs/2506.15242v2)
 - 2025-06-18, **SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**, Hanjun Kim et.al., Paper: [http://arxiv.org/abs/2506.15175v1](http://arxiv.org/abs/2506.15175v1)
 - 2025-06-18, **VIMS: A Visual-Inertial-Magnetic-Sonar SLAM System in Underwater Environments**, Bingbing Zhang et.al., Paper: [http://arxiv.org/abs/2506.15126v1](http://arxiv.org/abs/2506.15126v1)
 - 2025-06-16, **Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**, Kai Long et.al., Paper: [http://arxiv.org/abs/2506.13664v1](http://arxiv.org/abs/2506.13664v1)
@@ -1639,7 +1639,7 @@
 
 ## Visual Localization
 
-- 2025-06-23, **jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**, Michael Günther et.al., Paper: [http://arxiv.org/abs/2506.18902v1](http://arxiv.org/abs/2506.18902v1)
+- 2025-06-24, **jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**, Michael Günther et.al., Paper: [http://arxiv.org/abs/2506.18902v2](http://arxiv.org/abs/2506.18902v2)
 - 2025-06-24, **Referring Expression Instance Retrieval and A Strong End-to-End Baseline**, Xiangzhao Hao et.al., Paper: [http://arxiv.org/abs/2506.18246v2](http://arxiv.org/abs/2506.18246v2)
 - 2025-06-20, **Class Agnostic Instance-level Descriptor for Visual Instance Search**, Qi-Ying Sun et.al., Paper: [http://arxiv.org/abs/2506.16745v1](http://arxiv.org/abs/2506.16745v1)
 - 2025-06-19, **MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**, Chao He et.al., Paper: [http://arxiv.org/abs/2506.16353v1](http://arxiv.org/abs/2506.16353v1), Code: **[https://github.com/shuaichaochao/mambahash](https://github.com/shuaichaochao/mambahash)**
@@ -3411,7 +3411,7 @@
 - 2025-06-22, **Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**, Ankit Sanjyal et.al., Paper: [http://arxiv.org/abs/2506.18208v1](http://arxiv.org/abs/2506.18208v1)
 - 2025-06-21, **3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**, Shihan Chen et.al., Paper: [http://arxiv.org/abs/2506.17636v1](http://arxiv.org/abs/2506.17636v1)
 - 2025-06-23, **R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**, Weeyoung Kwon et.al., Paper: [http://arxiv.org/abs/2506.16262v2](http://arxiv.org/abs/2506.16262v2), Code: **[https://github.com/cmlab-korea/awesome-3d-low-level-vision](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**
-- 2025-06-18, **RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2506.15242v1](http://arxiv.org/abs/2506.15242v1)
+- 2025-06-24, **RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2506.15242v2](http://arxiv.org/abs/2506.15242v2)
 - 2025-06-17, **Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**, Zhengquan Zhang et.al., Paper: [http://arxiv.org/abs/2506.14856v1](http://arxiv.org/abs/2506.14856v1)
 - 2025-06-18, **Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**, Mufan Liu et.al., Paper: [http://arxiv.org/abs/2506.12787v2](http://arxiv.org/abs/2506.12787v2)
 - 2025-06-17, **Efficient multi-view training for 3D Gaussian Splatting**, Minhyuk Choi et.al., Paper: [http://arxiv.org/abs/2506.12727v2](http://arxiv.org/abs/2506.12727v2)
