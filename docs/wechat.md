@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2025-06-25, **SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**, Mimo Shirasaka et.al., Paper: [http://arxiv.org/abs/2506.20394v1](http://arxiv.org/abs/2506.20394v1)
+- 2025-06-25, **Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**, Jingwen Wei et.al., Paper: [http://arxiv.org/abs/2506.20311v1](http://arxiv.org/abs/2506.20311v1)
+- 2025-06-24, **Posterior Cramér-Rao Bounds on Localization and Mapping Errors in Distributed MIMO SLAM**, Benjamin J. B. Deutschmann et.al., Paper: [http://arxiv.org/abs/2506.19957v1](http://arxiv.org/abs/2506.19957v1)
 - 2025-06-23, **GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**, Annika Thomas et.al., Paper: [http://arxiv.org/abs/2506.18885v1](http://arxiv.org/abs/2506.18885v1)
 - 2025-06-23, **MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2506.18678v1](http://arxiv.org/abs/2506.18678v1)
 - 2025-06-24, **Multimodal Fusion SLAM with Fourier Attention**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2506.18204v2](http://arxiv.org/abs/2506.18204v2)
@@ -1640,6 +1643,8 @@
 
 ## Visual Localization
 
+- 2025-06-25, **Visualizing intercalation effects in 2D materials using AFM based techniques**, Karmen Kapustić et.al., Paper: [http://arxiv.org/abs/2506.20467v1](http://arxiv.org/abs/2506.20467v1)
+- 2025-06-25, **On the Burstiness of Faces in Set**, Jiong Wang et.al., Paper: [http://arxiv.org/abs/2506.20312v1](http://arxiv.org/abs/2506.20312v1)
 - 2025-06-24, **jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**, Michael Günther et.al., Paper: [http://arxiv.org/abs/2506.18902v2](http://arxiv.org/abs/2506.18902v2)
 - 2025-06-24, **Referring Expression Instance Retrieval and A Strong End-to-End Baseline**, Xiangzhao Hao et.al., Paper: [http://arxiv.org/abs/2506.18246v2](http://arxiv.org/abs/2506.18246v2)
 - 2025-06-20, **Class Agnostic Instance-level Descriptor for Visual Instance Search**, Qi-Ying Sun et.al., Paper: [http://arxiv.org/abs/2506.16745v1](http://arxiv.org/abs/2506.16745v1)
@@ -3128,6 +3133,7 @@
 
 ## Image Matching
 
+- 2025-06-25, **Fast entropy-regularized SDP relaxations for permutation synchronization**, Michael Lindsey et.al., Paper: [http://arxiv.org/abs/2506.20191v1](http://arxiv.org/abs/2506.20191v1)
 - 2025-06-18, **ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**, Ziling Huang et.al., Paper: [http://arxiv.org/abs/2506.15180v1](http://arxiv.org/abs/2506.15180v1)
 - 2025-06-12, **RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**, Mina C. Moghadam et.al., Paper: [http://arxiv.org/abs/2506.10344v1](http://arxiv.org/abs/2506.10344v1)
 - 2025-06-11, **Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**, Xiangkai Zhang et.al., Paper: [http://arxiv.org/abs/2506.09748v1](http://arxiv.org/abs/2506.09748v1)
@@ -3407,6 +3413,7 @@
 
 ## NeRF
 
+- 2025-06-25, **Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**, Clément Forray et.al., Paper: [http://arxiv.org/abs/2506.20638v1](http://arxiv.org/abs/2506.20638v1)
 - 2025-06-24, **NeRF-based CBCT Reconstruction needs Normalization and Initialization**, Zhuowei Xu et.al., Paper: [http://arxiv.org/abs/2506.19742v1](http://arxiv.org/abs/2506.19742v1)
 - 2025-06-25, **Self-Supervised Multimodal NeRF for Autonomous Driving**, Gaurav Sharma et.al., Paper: [http://arxiv.org/abs/2506.19615v2](http://arxiv.org/abs/2506.19615v2)
 - 2025-06-24, **HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**, Xiaoyuan Wang et.al., Paper: [http://arxiv.org/abs/2506.19291v1](http://arxiv.org/abs/2506.19291v1)
