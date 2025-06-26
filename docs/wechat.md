@@ -3408,7 +3408,7 @@
 ## NeRF
 
 - 2025-06-24, **NeRF-based CBCT Reconstruction needs Normalization and Initialization**, Zhuowei Xu et.al., Paper: [http://arxiv.org/abs/2506.19742v1](http://arxiv.org/abs/2506.19742v1)
-- 2025-06-24, **Self-Supervised Multimodal NeRF for Autonomous Driving**, Gaurav Sharma et.al., Paper: [http://arxiv.org/abs/2506.19615v1](http://arxiv.org/abs/2506.19615v1)
+- 2025-06-25, **Self-Supervised Multimodal NeRF for Autonomous Driving**, Gaurav Sharma et.al., Paper: [http://arxiv.org/abs/2506.19615v2](http://arxiv.org/abs/2506.19615v2)
 - 2025-06-24, **HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**, Xiaoyuan Wang et.al., Paper: [http://arxiv.org/abs/2506.19291v1](http://arxiv.org/abs/2506.19291v1)
 - 2025-06-23, **MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2506.18678v1](http://arxiv.org/abs/2506.18678v1)
 - 2025-06-23, **2D Triangle Splatting for Direct Differentiable Mesh Training**, Kaifeng Sheng et.al., Paper: [http://arxiv.org/abs/2506.18575v1](http://arxiv.org/abs/2506.18575v1), Code: **[https://github.com/GaodeRender/triangle-splatting](https://github.com/GaodeRender/triangle-splatting)**
