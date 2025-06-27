@@ -1355,6 +1355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460v1](http://arxiv.org/abs/2506.21460v1)|null|
 |**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya et.al.|[2506.19491v1](http://arxiv.org/abs/2506.19491v1)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792v1](http://arxiv.org/abs/2506.18792v1)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935v1](http://arxiv.org/abs/2506.05935v1)|null|
@@ -1707,6 +1708,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101v1](http://arxiv.org/abs/2506.21101v1)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467v1](http://arxiv.org/abs/2506.20467v1)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312v1](http://arxiv.org/abs/2506.20312v1)|null|
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
@@ -3527,7 +3529,7 @@
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v2](http://arxiv.org/abs/2506.19615v2)|null|
 |**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291v1](http://arxiv.org/abs/2506.19291v1)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678v1](http://arxiv.org/abs/2506.18678v1)|null|
-|**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575v1](http://arxiv.org/abs/2506.18575v1)|**[link](https://github.com/GaodeRender/triangle-splatting)**|
+|**2025-06-26**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575v2](http://arxiv.org/abs/2506.18575v2)|**[link](https://github.com/GaodeRender/triangle-splatting)**|
 |**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208v1](http://arxiv.org/abs/2506.18208v1)|null|
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636v1](http://arxiv.org/abs/2506.17636v1)|null|
 |**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262v2](http://arxiv.org/abs/2506.16262v2)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
