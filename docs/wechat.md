@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-06-26, **EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**, Taoyu Wu et.al., Paper: [http://arxiv.org/abs/2506.21420v1](http://arxiv.org/abs/2506.21420v1)
+- 2025-06-26, **CURL-SLAM: Continuous and Compact LiDAR Mapping**, Kaicheng Zhang et.al., Paper: [http://arxiv.org/abs/2506.21077v1](http://arxiv.org/abs/2506.21077v1)
 - 2025-06-25, **SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**, Mimo Shirasaka et.al., Paper: [http://arxiv.org/abs/2506.20394v1](http://arxiv.org/abs/2506.20394v1)
 - 2025-06-25, **Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**, Jingwen Wei et.al., Paper: [http://arxiv.org/abs/2506.20311v1](http://arxiv.org/abs/2506.20311v1)
 - 2025-06-24, **Posterior Cramér-Rao Bounds on Localization and Mapping Errors in Distributed MIMO SLAM**, Benjamin J. B. Deutschmann et.al., Paper: [http://arxiv.org/abs/2506.19957v1](http://arxiv.org/abs/2506.19957v1)
@@ -3415,6 +3417,7 @@
 
 ## NeRF
 
+- 2025-06-26, **PanSt3R: Multi-view Consistent Panoptic Segmentation**, Lojze Zust et.al., Paper: [http://arxiv.org/abs/2506.21348v1](http://arxiv.org/abs/2506.21348v1)
 - 2025-06-25, **Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**, Clément Forray et.al., Paper: [http://arxiv.org/abs/2506.20638v1](http://arxiv.org/abs/2506.20638v1)
 - 2025-06-24, **NeRF-based CBCT Reconstruction needs Normalization and Initialization**, Zhuowei Xu et.al., Paper: [http://arxiv.org/abs/2506.19742v1](http://arxiv.org/abs/2506.19742v1)
 - 2025-06-25, **Self-Supervised Multimodal NeRF for Autonomous Driving**, Gaurav Sharma et.al., Paper: [http://arxiv.org/abs/2506.19615v2](http://arxiv.org/abs/2506.19615v2)
