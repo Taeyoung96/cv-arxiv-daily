@@ -1309,6 +1309,8 @@
 
 ## SFM
 
+- 2025-06-27, **Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**, Petr Hruby et.al., Paper: [http://arxiv.org/abs/2506.22069v1](http://arxiv.org/abs/2506.22069v1)
+- 2025-06-24, **ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2506.21629v1](http://arxiv.org/abs/2506.21629v1)
 - 2025-06-26, **Wild refitting for black box prediction**, Martin J. Wainwright et.al., Paper: [http://arxiv.org/abs/2506.21460v1](http://arxiv.org/abs/2506.21460v1)
 - 2025-06-24, **Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**, Genís Castillo Gómez-Raya et.al., Paper: [http://arxiv.org/abs/2506.19491v1](http://arxiv.org/abs/2506.19491v1)
 - 2025-06-23, **ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**, Michal Nazarczuk et.al., Paper: [http://arxiv.org/abs/2506.18792v1](http://arxiv.org/abs/2506.18792v1)
@@ -2849,6 +2851,8 @@
 
 ## Keypoint Detection
 
+- 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
+- 2025-06-27, **SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**, Naftaly Wambugu et.al., Paper: [http://arxiv.org/abs/2506.21945v1](http://arxiv.org/abs/2506.21945v1)
 - 2025-05-29, **TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**, Ron Shapira Weber et.al., Paper: [http://arxiv.org/abs/2505.23475v1](http://arxiv.org/abs/2505.23475v1), Code: **[https://github.com/bgu-cs-vil/timepoint](https://github.com/bgu-cs-vil/timepoint)**
 - 2025-05-24, **Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**, Yicheng Lin et.al., Paper: [http://arxiv.org/abs/2505.18652v1](http://arxiv.org/abs/2505.18652v1), Code: **[https://github.com/linyicheng1/orb_slam3_localization](https://github.com/linyicheng1/orb_slam3_localization)**
 - 2025-05-18, **SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2505.12246v1](http://arxiv.org/abs/2505.12246v1)
@@ -3423,6 +3427,8 @@
 
 ## NeRF
 
+- 2025-06-27, **UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**, Fabian Perez et.al., Paper: [http://arxiv.org/abs/2506.21884v1](http://arxiv.org/abs/2506.21884v1)
+- 2025-06-24, **ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2506.21629v1](http://arxiv.org/abs/2506.21629v1)
 - 2025-06-26, **PanSt3R: Multi-view Consistent Panoptic Segmentation**, Lojze Zust et.al., Paper: [http://arxiv.org/abs/2506.21348v1](http://arxiv.org/abs/2506.21348v1)
 - 2025-06-25, **Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**, Clément Forray et.al., Paper: [http://arxiv.org/abs/2506.20638v1](http://arxiv.org/abs/2506.20638v1)
 - 2025-06-24, **NeRF-based CBCT Reconstruction needs Normalization and Initialization**, Zhuowei Xu et.al., Paper: [http://arxiv.org/abs/2506.19742v1](http://arxiv.org/abs/2506.19742v1)
