@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-06-26, **Adaptive Multipath-Based SLAM for Distributed MIMO Systems**, Xuhong Li et.al., Paper: [http://arxiv.org/abs/2506.21798v1](http://arxiv.org/abs/2506.21798v1)
+- 2025-06-24, **Ark: An Open-source Python-based Framework for Robot Learning**, Magnus Dierking et.al., Paper: [http://arxiv.org/abs/2506.21628v1](http://arxiv.org/abs/2506.21628v1)
 - 2025-06-26, **EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**, Taoyu Wu et.al., Paper: [http://arxiv.org/abs/2506.21420v1](http://arxiv.org/abs/2506.21420v1)
 - 2025-06-26, **CURL-SLAM: Continuous and Compact LiDAR Mapping**, Kaicheng Zhang et.al., Paper: [http://arxiv.org/abs/2506.21077v1](http://arxiv.org/abs/2506.21077v1)
 - 2025-06-25, **SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**, Mimo Shirasaka et.al., Paper: [http://arxiv.org/abs/2506.20394v1](http://arxiv.org/abs/2506.20394v1)
@@ -1646,6 +1648,7 @@
 
 ## Visual Localization
 
+- 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
 - 2025-06-26, **OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**, Caoshuo Li et.al., Paper: [http://arxiv.org/abs/2506.21101v1](http://arxiv.org/abs/2506.21101v1)
 - 2025-06-25, **Visualizing intercalation effects in 2D materials using AFM based techniques**, Karmen Kapustić et.al., Paper: [http://arxiv.org/abs/2506.20467v1](http://arxiv.org/abs/2506.20467v1)
 - 2025-06-25, **On the Burstiness of Faces in Set**, Jiong Wang et.al., Paper: [http://arxiv.org/abs/2506.20312v1](http://arxiv.org/abs/2506.20312v1)
@@ -3137,6 +3140,9 @@
 
 ## Image Matching
 
+- 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
+- 2025-06-27, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139v1](http://arxiv.org/abs/2506.22139v1)
+- 2025-06-27, **ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**, Juming Xiong et.al., Paper: [http://arxiv.org/abs/2506.21923v1](http://arxiv.org/abs/2506.21923v1)
 - 2025-06-25, **Fast entropy-regularized SDP relaxations for permutation synchronization**, Michael Lindsey et.al., Paper: [http://arxiv.org/abs/2506.20191v1](http://arxiv.org/abs/2506.20191v1)
 - 2025-06-18, **ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**, Ziling Huang et.al., Paper: [http://arxiv.org/abs/2506.15180v1](http://arxiv.org/abs/2506.15180v1)
 - 2025-06-12, **RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**, Mina C. Moghadam et.al., Paper: [http://arxiv.org/abs/2506.10344v1](http://arxiv.org/abs/2506.10344v1)
