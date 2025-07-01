@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-06-29, **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2506.23207v1](http://arxiv.org/abs/2506.23207v1)
 - 2025-06-26, **Adaptive Multipath-Based SLAM for Distributed MIMO Systems**, Xuhong Li et.al., Paper: [http://arxiv.org/abs/2506.21798v1](http://arxiv.org/abs/2506.21798v1)
 - 2025-06-24, **Ark: An Open-source Python-based Framework for Robot Learning**, Magnus Dierking et.al., Paper: [http://arxiv.org/abs/2506.21628v1](http://arxiv.org/abs/2506.21628v1)
 - 2025-06-26, **EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**, Taoyu Wu et.al., Paper: [http://arxiv.org/abs/2506.21420v1](http://arxiv.org/abs/2506.21420v1)
@@ -1309,6 +1310,7 @@
 
 ## SFM
 
+- 2025-06-30, **AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**, Ziao Liu et.al., Paper: [http://arxiv.org/abs/2506.23611v1](http://arxiv.org/abs/2506.23611v1)
 - 2025-06-27, **Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**, Petr Hruby et.al., Paper: [http://arxiv.org/abs/2506.22069v1](http://arxiv.org/abs/2506.22069v1)
 - 2025-06-24, **ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2506.21629v1](http://arxiv.org/abs/2506.21629v1)
 - 2025-06-26, **Wild refitting for black box prediction**, Martin J. Wainwright et.al., Paper: [http://arxiv.org/abs/2506.21460v1](http://arxiv.org/abs/2506.21460v1)
@@ -1650,6 +1652,8 @@
 
 ## Visual Localization
 
+- 2025-06-28, **Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**, Ghufran A. Omran et.al., Paper: [http://arxiv.org/abs/2506.22939v1](http://arxiv.org/abs/2506.22939v1)
+- 2025-06-28, **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**, Li-Cheng Shen et.al., Paper: [http://arxiv.org/abs/2506.22864v1](http://arxiv.org/abs/2506.22864v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
 - 2025-06-26, **OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**, Caoshuo Li et.al., Paper: [http://arxiv.org/abs/2506.21101v1](http://arxiv.org/abs/2506.21101v1)
 - 2025-06-25, **Visualizing intercalation effects in 2D materials using AFM based techniques**, Karmen Kapustić et.al., Paper: [http://arxiv.org/abs/2506.20467v1](http://arxiv.org/abs/2506.20467v1)
@@ -3144,6 +3148,7 @@
 
 ## Image Matching
 
+- 2025-06-29, **Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**, Suofei Zhang et.al., Paper: [http://arxiv.org/abs/2506.23077v1](http://arxiv.org/abs/2506.23077v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
 - 2025-06-27, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139v1](http://arxiv.org/abs/2506.22139v1)
 - 2025-06-27, **ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**, Juming Xiong et.al., Paper: [http://arxiv.org/abs/2506.21923v1](http://arxiv.org/abs/2506.21923v1)
@@ -3427,6 +3432,8 @@
 
 ## NeRF
 
+- 2025-06-30, **AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**, Ziao Liu et.al., Paper: [http://arxiv.org/abs/2506.23611v1](http://arxiv.org/abs/2506.23611v1)
+- 2025-06-29, **Dynamic View Synthesis from Small Camera Motion Videos**, Huiqiang Sun et.al., Paper: [http://arxiv.org/abs/2506.23153v1](http://arxiv.org/abs/2506.23153v1)
 - 2025-06-27, **UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**, Fabian Perez et.al., Paper: [http://arxiv.org/abs/2506.21884v1](http://arxiv.org/abs/2506.21884v1)
 - 2025-06-24, **ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2506.21629v1](http://arxiv.org/abs/2506.21629v1)
 - 2025-06-26, **PanSt3R: Multi-view Consistent Panoptic Segmentation**, Lojze Zust et.al., Paper: [http://arxiv.org/abs/2506.21348v1](http://arxiv.org/abs/2506.21348v1)
