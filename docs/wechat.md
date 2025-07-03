@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-07-01, **RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**, David Hunt et.al., Paper: [http://arxiv.org/abs/2507.00937v1](http://arxiv.org/abs/2507.00937v1)
+- 2025-07-01, **Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**, Jiajie Zhang et.al., Paper: [http://arxiv.org/abs/2507.00552v1](http://arxiv.org/abs/2507.00552v1)
 - 2025-06-29, **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2506.23207v1](http://arxiv.org/abs/2506.23207v1)
 - 2025-06-26, **Adaptive Multipath-Based SLAM for Distributed MIMO Systems**, Xuhong Li et.al., Paper: [http://arxiv.org/abs/2506.21798v1](http://arxiv.org/abs/2506.21798v1)
 - 2025-06-24, **Ark: An Open-source Python-based Framework for Robot Learning**, Magnus Dierking et.al., Paper: [http://arxiv.org/abs/2506.21628v1](http://arxiv.org/abs/2506.21628v1)
@@ -1652,6 +1654,7 @@
 
 ## Visual Localization
 
+- 2025-07-01, **LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**, Juelin Zhu et.al., Paper: [http://arxiv.org/abs/2507.00659v1](http://arxiv.org/abs/2507.00659v1)
 - 2025-06-28, **Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**, Ghufran A. Omran et.al., Paper: [http://arxiv.org/abs/2506.22939v1](http://arxiv.org/abs/2506.22939v1)
 - 2025-06-28, **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**, Li-Cheng Shen et.al., Paper: [http://arxiv.org/abs/2506.22864v1](http://arxiv.org/abs/2506.22864v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
@@ -3148,6 +3151,7 @@
 
 ## Image Matching
 
+- 2025-07-02, **What does really matter in image goal navigation?**, Gianluca Monaci et.al., Paper: [http://arxiv.org/abs/2507.01667v1](http://arxiv.org/abs/2507.01667v1)
 - 2025-06-29, **Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**, Suofei Zhang et.al., Paper: [http://arxiv.org/abs/2506.23077v1](http://arxiv.org/abs/2506.23077v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
 - 2025-06-27, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139v1](http://arxiv.org/abs/2506.22139v1)
