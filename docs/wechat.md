@@ -3436,6 +3436,9 @@
 
 ## NeRF
 
+- 2025-07-02, **Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**, Camille Billouard et.al., Paper: [http://arxiv.org/abs/2507.01631v1](http://arxiv.org/abs/2507.01631v1)
+- 2025-07-01, **Surgical Neural Radiance Fields from One Image**, Alberto Neri et.al., Paper: [http://arxiv.org/abs/2507.00969v1](http://arxiv.org/abs/2507.00969v1)
+- 2025-07-01, **PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**, Xin Yang et.al., Paper: [http://arxiv.org/abs/2507.00371v1](http://arxiv.org/abs/2507.00371v1)
 - 2025-06-30, **AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**, Ziao Liu et.al., Paper: [http://arxiv.org/abs/2506.23611v1](http://arxiv.org/abs/2506.23611v1)
 - 2025-06-29, **Dynamic View Synthesis from Small Camera Motion Videos**, Huiqiang Sun et.al., Paper: [http://arxiv.org/abs/2506.23153v1](http://arxiv.org/abs/2506.23153v1)
 - 2025-06-27, **UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**, Fabian Perez et.al., Paper: [http://arxiv.org/abs/2506.21884v1](http://arxiv.org/abs/2506.21884v1)
