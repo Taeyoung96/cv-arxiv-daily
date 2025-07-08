@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2025-07-07, **Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**, Tao Du et.al., Paper: [http://arxiv.org/abs/2507.04662v1](http://arxiv.org/abs/2507.04662v1)
+- 2025-07-06, **Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**, Doumegna Mawuto Koudjo Felix et.al., Paper: [http://arxiv.org/abs/2507.04321v1](http://arxiv.org/abs/2507.04321v1)
+- 2025-07-05, **Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2507.04004v1](http://arxiv.org/abs/2507.04004v1)
+- 2025-07-04, **Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**, Chong Cheng et.al., Paper: [http://arxiv.org/abs/2507.03737v1](http://arxiv.org/abs/2507.03737v1)
 - 2025-07-01, **RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**, David Hunt et.al., Paper: [http://arxiv.org/abs/2507.00937v1](http://arxiv.org/abs/2507.00937v1)
 - 2025-07-01, **Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**, Jiajie Zhang et.al., Paper: [http://arxiv.org/abs/2507.00552v1](http://arxiv.org/abs/2507.00552v1)
 - 2025-06-29, **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2506.23207v1](http://arxiv.org/abs/2506.23207v1)
@@ -1312,6 +1316,7 @@
 
 ## SFM
 
+- 2025-07-04, **MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**, Peilin Tao et.al., Paper: [http://arxiv.org/abs/2507.03306v1](http://arxiv.org/abs/2507.03306v1)
 - 2025-06-30, **AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**, Ziao Liu et.al., Paper: [http://arxiv.org/abs/2506.23611v1](http://arxiv.org/abs/2506.23611v1)
 - 2025-06-27, **Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**, Petr Hruby et.al., Paper: [http://arxiv.org/abs/2506.22069v1](http://arxiv.org/abs/2506.22069v1)
 - 2025-06-24, **ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**, Chenhao Zhang et.al., Paper: [http://arxiv.org/abs/2506.21629v1](http://arxiv.org/abs/2506.21629v1)
@@ -1654,6 +1659,11 @@
 
 ## Visual Localization
 
+- 2025-07-07, **An analysis of vision-language models for fabric retrieval**, Francesco Giuliari et.al., Paper: [http://arxiv.org/abs/2507.04735v1](http://arxiv.org/abs/2507.04735v1)
+- 2025-07-07, **What's Making That Sound Right Now? Video-centric Audio-Visual Localization**, Hahyeon Choi et.al., Paper: [http://arxiv.org/abs/2507.04667v1](http://arxiv.org/abs/2507.04667v1)
+- 2025-07-07, **Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**, Tao Du et.al., Paper: [http://arxiv.org/abs/2507.04662v1](http://arxiv.org/abs/2507.04662v1)
+- 2025-07-06, **U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**, Xiaofan Li et.al., Paper: [http://arxiv.org/abs/2507.04503v1](http://arxiv.org/abs/2507.04503v1)
+- 2025-07-04, **Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**, Jiuhong Xiao et.al., Paper: [http://arxiv.org/abs/2507.03831v1](http://arxiv.org/abs/2507.03831v1)
 - 2025-07-01, **LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**, Juelin Zhu et.al., Paper: [http://arxiv.org/abs/2507.00659v1](http://arxiv.org/abs/2507.00659v1)
 - 2025-06-28, **Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**, Ghufran A. Omran et.al., Paper: [http://arxiv.org/abs/2506.22939v1](http://arxiv.org/abs/2506.22939v1)
 - 2025-06-28, **Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**, Li-Cheng Shen et.al., Paper: [http://arxiv.org/abs/2506.22864v1](http://arxiv.org/abs/2506.22864v1)
@@ -3151,10 +3161,11 @@
 
 ## Image Matching
 
+- 2025-07-05, **From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**, Xinyi Wu et.al., Paper: [http://arxiv.org/abs/2507.03868v1](http://arxiv.org/abs/2507.03868v1)
 - 2025-07-02, **What does really matter in image goal navigation?**, Gianluca Monaci et.al., Paper: [http://arxiv.org/abs/2507.01667v1](http://arxiv.org/abs/2507.01667v1)
 - 2025-06-29, **Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**, Suofei Zhang et.al., Paper: [http://arxiv.org/abs/2506.23077v1](http://arxiv.org/abs/2506.23077v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
-- 2025-06-27, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139v1](http://arxiv.org/abs/2506.22139v1)
+- 2025-07-07, **Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**, Shaojie Zhang et.al., Paper: [http://arxiv.org/abs/2506.22139v2](http://arxiv.org/abs/2506.22139v2)
 - 2025-06-27, **ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**, Juming Xiong et.al., Paper: [http://arxiv.org/abs/2506.21923v1](http://arxiv.org/abs/2506.21923v1)
 - 2025-06-25, **Fast entropy-regularized SDP relaxations for permutation synchronization**, Michael Lindsey et.al., Paper: [http://arxiv.org/abs/2506.20191v1](http://arxiv.org/abs/2506.20191v1)
 - 2025-06-18, **ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**, Ziling Huang et.al., Paper: [http://arxiv.org/abs/2506.15180v1](http://arxiv.org/abs/2506.15180v1)
@@ -3436,6 +3447,7 @@
 
 ## NeRF
 
+- 2025-07-06, **A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**, Aoxiang Fan et.al., Paper: [http://arxiv.org/abs/2507.04408v1](http://arxiv.org/abs/2507.04408v1)
 - 2025-07-02, **Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**, Camille Billouard et.al., Paper: [http://arxiv.org/abs/2507.01631v1](http://arxiv.org/abs/2507.01631v1)
 - 2025-07-01, **Surgical Neural Radiance Fields from One Image**, Alberto Neri et.al., Paper: [http://arxiv.org/abs/2507.00969v1](http://arxiv.org/abs/2507.00969v1)
 - 2025-07-01, **PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**, Xin Yang et.al., Paper: [http://arxiv.org/abs/2507.00371v1](http://arxiv.org/abs/2507.00371v1)
