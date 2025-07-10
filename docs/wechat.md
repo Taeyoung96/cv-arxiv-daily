@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-07-08, **Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**, Michalis Chatzispyrou et.al., Paper: [http://arxiv.org/abs/2507.06397v1](http://arxiv.org/abs/2507.06397v1)
 - 2025-07-08, **Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**, Hang Que et.al., Paper: [http://arxiv.org/abs/2507.05718v1](http://arxiv.org/abs/2507.05718v1)
 - 2025-07-07, **Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**, Tao Du et.al., Paper: [http://arxiv.org/abs/2507.04662v1](http://arxiv.org/abs/2507.04662v1)
 - 2025-07-06, **Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**, Doumegna Mawuto Koudjo Felix et.al., Paper: [http://arxiv.org/abs/2507.04321v1](http://arxiv.org/abs/2507.04321v1)
