@@ -22,7 +22,7 @@
 - 2025-07-08, **Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**, Hang Que et.al., Paper: [http://arxiv.org/abs/2507.05718v1](http://arxiv.org/abs/2507.05718v1)
 - 2025-07-07, **Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**, Tao Du et.al., Paper: [http://arxiv.org/abs/2507.04662v1](http://arxiv.org/abs/2507.04662v1)
 - 2025-07-06, **Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**, Doumegna Mawuto Koudjo Felix et.al., Paper: [http://arxiv.org/abs/2507.04321v1](http://arxiv.org/abs/2507.04321v1)
-- 2025-07-05, **Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2507.04004v1](http://arxiv.org/abs/2507.04004v1)
+- 2025-07-09, **Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**, Xiaolei Lang et.al., Paper: [http://arxiv.org/abs/2507.04004v2](http://arxiv.org/abs/2507.04004v2)
 - 2025-07-04, **Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**, Chong Cheng et.al., Paper: [http://arxiv.org/abs/2507.03737v1](http://arxiv.org/abs/2507.03737v1)
 - 2025-07-01, **RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**, David Hunt et.al., Paper: [http://arxiv.org/abs/2507.00937v1](http://arxiv.org/abs/2507.00937v1)
 - 2025-07-01, **Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**, Jiajie Zhang et.al., Paper: [http://arxiv.org/abs/2507.00552v1](http://arxiv.org/abs/2507.00552v1)
@@ -1660,6 +1660,8 @@
 
 ## Visual Localization
 
+- 2025-07-09, **Evaluating Attribute Confusion in Fashion Text-to-Image Generation**, Ziyue Liu et.al., Paper: [http://arxiv.org/abs/2507.07079v1](http://arxiv.org/abs/2507.07079v1)
+- 2025-07-09, **MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**, Naoya Sogi et.al., Paper: [http://arxiv.org/abs/2507.06654v1](http://arxiv.org/abs/2507.06654v1)
 - 2025-07-08, **Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**, Haiwen Li et.al., Paper: [http://arxiv.org/abs/2507.05970v1](http://arxiv.org/abs/2507.05970v1)
 - 2025-07-08, **OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**, Zhiwei Chen et.al., Paper: [http://arxiv.org/abs/2507.05631v1](http://arxiv.org/abs/2507.05631v1)
 - 2025-07-07, **Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**, Mengyao Xu et.al., Paper: [http://arxiv.org/abs/2507.05513v1](http://arxiv.org/abs/2507.05513v1)
@@ -2872,6 +2874,8 @@
 
 ## Keypoint Detection
 
+- 2025-07-09, **Reading a Ruler in the Wild**, Yimu Pan et.al., Paper: [http://arxiv.org/abs/2507.07077v1](http://arxiv.org/abs/2507.07077v1)
+- 2025-07-09, **MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2507.06662v1](http://arxiv.org/abs/2507.06662v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
 - 2025-06-27, **SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**, Naftaly Wambugu et.al., Paper: [http://arxiv.org/abs/2506.21945v1](http://arxiv.org/abs/2506.21945v1)
 - 2025-05-29, **TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**, Ron Shapira Weber et.al., Paper: [http://arxiv.org/abs/2505.23475v1](http://arxiv.org/abs/2505.23475v1), Code: **[https://github.com/bgu-cs-vil/timepoint](https://github.com/bgu-cs-vil/timepoint)**
@@ -3165,6 +3169,7 @@
 
 ## Image Matching
 
+- 2025-07-09, **Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**, Yafei Zhang et.al., Paper: [http://arxiv.org/abs/2507.06744v1](http://arxiv.org/abs/2507.06744v1)
 - 2025-07-05, **From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**, Xinyi Wu et.al., Paper: [http://arxiv.org/abs/2507.03868v1](http://arxiv.org/abs/2507.03868v1)
 - 2025-07-02, **What does really matter in image goal navigation?**, Gianluca Monaci et.al., Paper: [http://arxiv.org/abs/2507.01667v1](http://arxiv.org/abs/2507.01667v1)
 - 2025-06-29, **Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**, Suofei Zhang et.al., Paper: [http://arxiv.org/abs/2506.23077v1](http://arxiv.org/abs/2506.23077v1)
@@ -3451,6 +3456,7 @@
 
 ## NeRF
 
+- 2025-07-08, **A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**, Rushil Desai et.al., Paper: [http://arxiv.org/abs/2507.06269v1](http://arxiv.org/abs/2507.06269v1)
 - 2025-07-08, **Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**, Jiayi Song et.al., Paper: [http://arxiv.org/abs/2507.06103v1](http://arxiv.org/abs/2507.06103v1)
 - 2025-07-08, **DreamArt: Generating Interactable Articulated Objects from a Single Image**, Ruijie Lu et.al., Paper: [http://arxiv.org/abs/2507.05763v1](http://arxiv.org/abs/2507.05763v1)
 - 2025-07-06, **A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**, Aoxiang Fan et.al., Paper: [http://arxiv.org/abs/2507.04408v1](http://arxiv.org/abs/2507.04408v1)
