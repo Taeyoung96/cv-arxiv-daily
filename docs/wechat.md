@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2025-07-10, **IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2507.07752v1](http://arxiv.org/abs/2507.07752v1)
+- 2025-07-09, **g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**, Quanjie Qiu et.al., Paper: [http://arxiv.org/abs/2507.07142v1](http://arxiv.org/abs/2507.07142v1)
 - 2025-07-08, **Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**, Michalis Chatzispyrou et.al., Paper: [http://arxiv.org/abs/2507.06397v1](http://arxiv.org/abs/2507.06397v1)
 - 2025-07-08, **Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**, Hang Que et.al., Paper: [http://arxiv.org/abs/2507.05718v1](http://arxiv.org/abs/2507.05718v1)
 - 2025-07-07, **Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**, Tao Du et.al., Paper: [http://arxiv.org/abs/2507.04662v1](http://arxiv.org/abs/2507.04662v1)
@@ -2878,6 +2880,7 @@
 
 ## Keypoint Detection
 
+- 2025-07-10, **Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**, Subhajit Maity et.al., Paper: [http://arxiv.org/abs/2507.07994v1](http://arxiv.org/abs/2507.07994v1)
 - 2025-07-09, **Reading a Ruler in the Wild**, Yimu Pan et.al., Paper: [http://arxiv.org/abs/2507.07077v1](http://arxiv.org/abs/2507.07077v1)
 - 2025-07-09, **MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2507.06662v1](http://arxiv.org/abs/2507.06662v1)
 - 2025-06-27, **MatChA: Cross-Algorithm Matching with Feature Augmentation**, Paula Carbó Cubero et.al., Paper: [http://arxiv.org/abs/2506.22336v1](http://arxiv.org/abs/2506.22336v1)
@@ -3460,6 +3463,7 @@
 
 ## NeRF
 
+- 2025-07-10, **MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**, Bangning Wei et.al., Paper: [http://arxiv.org/abs/2507.07519v1](http://arxiv.org/abs/2507.07519v1)
 - 2025-07-08, **A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**, Rushil Desai et.al., Paper: [http://arxiv.org/abs/2507.06269v1](http://arxiv.org/abs/2507.06269v1)
 - 2025-07-08, **Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**, Jiayi Song et.al., Paper: [http://arxiv.org/abs/2507.06103v1](http://arxiv.org/abs/2507.06103v1)
 - 2025-07-08, **DreamArt: Generating Interactable Articulated Objects from a Single Image**, Ruijie Lu et.al., Paper: [http://arxiv.org/abs/2507.05763v1](http://arxiv.org/abs/2507.05763v1)
