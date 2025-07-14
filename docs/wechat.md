@@ -1321,6 +1321,7 @@
 
 ## SFM
 
+- 2025-07-11, **Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2507.08448v1](http://arxiv.org/abs/2507.08448v1)
 - 2025-07-04, **MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**, Peilin Tao et.al., Paper: [http://arxiv.org/abs/2507.03306v1](http://arxiv.org/abs/2507.03306v1)
 - 2025-06-30, **AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**, Ziao Liu et.al., Paper: [http://arxiv.org/abs/2506.23611v1](http://arxiv.org/abs/2506.23611v1)
 - 2025-06-27, **Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**, Petr Hruby et.al., Paper: [http://arxiv.org/abs/2506.22069v1](http://arxiv.org/abs/2506.22069v1)
