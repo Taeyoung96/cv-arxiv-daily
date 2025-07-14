@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2025-07-11, **Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**, Deteng Zhang et.al., Paper: [http://arxiv.org/abs/2507.08364v1](http://arxiv.org/abs/2507.08364v1)
 - 2025-07-10, **IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**, Thanh Nguyen Canh et.al., Paper: [http://arxiv.org/abs/2507.07752v1](http://arxiv.org/abs/2507.07752v1)
 - 2025-07-09, **g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**, Quanjie Qiu et.al., Paper: [http://arxiv.org/abs/2507.07142v1](http://arxiv.org/abs/2507.07142v1)
 - 2025-07-08, **Mapping the Catacombs: An Underwater Cave Segment of the Devil's Eye System**, Michalis Chatzispyrou et.al., Paper: [http://arxiv.org/abs/2507.06397v1](http://arxiv.org/abs/2507.06397v1)
@@ -1663,6 +1664,10 @@
 
 ## Visual Localization
 
+- 2025-07-11, **RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**, Inye Na et.al., Paper: [http://arxiv.org/abs/2507.08546v1](http://arxiv.org/abs/2507.08546v1)
+- 2025-07-11, **LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**, Haitian Wang et.al., Paper: [http://arxiv.org/abs/2507.08420v1](http://arxiv.org/abs/2507.08420v1)
+- 2025-07-11, **Deep Hashing with Semantic Hash Centers for Image Retrieval**, Li Chen et.al., Paper: [http://arxiv.org/abs/2507.08404v1](http://arxiv.org/abs/2507.08404v1)
+- 2025-07-08, **Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**, Li Li et.al., Paper: [http://arxiv.org/abs/2507.08021v1](http://arxiv.org/abs/2507.08021v1)
 - 2025-07-10, **SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**, Juyeop Han et.al., Paper: [http://arxiv.org/abs/2507.07467v1](http://arxiv.org/abs/2507.07467v1)
 - 2025-07-10, **VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2507.07384v1](http://arxiv.org/abs/2507.07384v1)
 - 2025-07-08, **FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**, François Gardères et.al., Paper: [http://arxiv.org/abs/2507.07135v1](http://arxiv.org/abs/2507.07135v1)
