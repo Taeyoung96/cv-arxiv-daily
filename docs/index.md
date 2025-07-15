@@ -1733,6 +1733,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473v1](http://arxiv.org/abs/2507.10473v1)|null|
+|**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403v1](http://arxiv.org/abs/2507.10403v1)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265v1](http://arxiv.org/abs/2507.10265v1)|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546v1](http://arxiv.org/abs/2507.08546v1)|null|
 |**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420v1](http://arxiv.org/abs/2507.08420v1)|null|
 |**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404v1](http://arxiv.org/abs/2507.08404v1)|null|
@@ -3289,7 +3292,7 @@ layout: default
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923v1](http://arxiv.org/abs/2506.21923v1)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191v1](http://arxiv.org/abs/2506.20191v1)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180v1](http://arxiv.org/abs/2506.15180v1)|null|
-|**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344v1](http://arxiv.org/abs/2506.10344v1)|null|
+|**2025-07-14**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344v2](http://arxiv.org/abs/2506.10344v2)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748v1](http://arxiv.org/abs/2506.09748v1)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917v1](http://arxiv.org/abs/2506.04917v1)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619v1](http://arxiv.org/abs/2506.04619v1)|null|
@@ -3582,8 +3585,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987v1](http://arxiv.org/abs/2507.09987v1)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168v1](http://arxiv.org/abs/2507.09168v1)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005v1](http://arxiv.org/abs/2507.09005v1)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519v1](http://arxiv.org/abs/2507.07519v1)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269v1](http://arxiv.org/abs/2507.06269v1)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269v2](http://arxiv.org/abs/2507.06269v2)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103v1](http://arxiv.org/abs/2507.06103v1)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763v1](http://arxiv.org/abs/2507.05763v1)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408v1](http://arxiv.org/abs/2507.04408v1)|null|
