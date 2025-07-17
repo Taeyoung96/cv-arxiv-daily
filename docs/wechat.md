@@ -1329,7 +1329,7 @@
 - 2025-07-08, **Wild refitting for black box prediction**, Martin J. Wainwright et.al., Paper: [http://arxiv.org/abs/2506.21460v2](http://arxiv.org/abs/2506.21460v2)
 - 2025-06-24, **Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**, Genís Castillo Gómez-Raya et.al., Paper: [http://arxiv.org/abs/2506.19491v1](http://arxiv.org/abs/2506.19491v1)
 - 2025-06-23, **ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**, Michal Nazarczuk et.al., Paper: [http://arxiv.org/abs/2506.18792v1](http://arxiv.org/abs/2506.18792v1)
-- 2025-06-06, **SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**, Yuchao Zheng et.al., Paper: [http://arxiv.org/abs/2506.05935v1](http://arxiv.org/abs/2506.05935v1)
+- 2025-07-16, **SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**, Yuchao Zheng et.al., Paper: [http://arxiv.org/abs/2506.05935v2](http://arxiv.org/abs/2506.05935v2)
 - 2025-06-05, **On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**, Andreas Meuleman et.al., Paper: [http://arxiv.org/abs/2506.05558v1](http://arxiv.org/abs/2506.05558v1)
 - 2025-06-05, **SupeRANSAC: One RANSAC to Rule Them All**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2506.04803v1](http://arxiv.org/abs/2506.04803v1), Code: **[https://github.com/danini/superansac](https://github.com/danini/superansac)**
 - 2025-06-04, **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2506.04225v1](http://arxiv.org/abs/2506.04225v1)
@@ -1665,6 +1665,8 @@
 
 ## Visual Localization
 
+- 2025-07-16, **QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**, Jaehyun Kwak et.al., Paper: [http://arxiv.org/abs/2507.12416v1](http://arxiv.org/abs/2507.12416v1)
+- 2025-07-16, **CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**, Peiwen Xia et.al., Paper: [http://arxiv.org/abs/2507.11834v1](http://arxiv.org/abs/2507.11834v1)
 - 2025-07-09, **Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**, Konstantinos I. Roumeliotis et.al., Paper: [http://arxiv.org/abs/2507.10571v1](http://arxiv.org/abs/2507.10571v1)
 - 2025-07-14, **GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**, David G. Shatwell et.al., Paper: [http://arxiv.org/abs/2507.10473v1](http://arxiv.org/abs/2507.10473v1)
 - 2025-07-14, **Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**, Daniele Rege Cambrin et.al., Paper: [http://arxiv.org/abs/2507.10403v1](http://arxiv.org/abs/2507.10403v1)
