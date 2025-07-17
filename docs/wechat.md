@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2025.07.16
+> Updated on 2025.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -1317,7 +1317,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## SFM
 
@@ -1661,7 +1661,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2886,10 +2886,13 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## Keypoint Detection
 
+- 2025-07-15, **KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2507.11102v1](http://arxiv.org/abs/2507.11102v1)
+- 2025-07-15, **GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**, Weizhao Ma et.al., Paper: [http://arxiv.org/abs/2507.11077v1](http://arxiv.org/abs/2507.11077v1)
+- 2025-07-14, **FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**, Ionuţ Grigore et.al., Paper: [http://arxiv.org/abs/2507.10770v1](http://arxiv.org/abs/2507.10770v1)
 - 2025-07-11, **Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**, Subhajit Maity et.al., Paper: [http://arxiv.org/abs/2507.07994v2](http://arxiv.org/abs/2507.07994v2)
 - 2025-07-09, **Reading a Ruler in the Wild**, Yimu Pan et.al., Paper: [http://arxiv.org/abs/2507.07077v1](http://arxiv.org/abs/2507.07077v1)
 - 2025-07-09, **MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2507.06662v1](http://arxiv.org/abs/2507.06662v1)
@@ -3182,7 +3185,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3469,7 +3472,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 ## NeRF
 
@@ -5148,7 +5151,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
