@@ -1329,6 +1329,7 @@
 
 ## SFM
 
+- 2025-07-21, **Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2507.15683v1](http://arxiv.org/abs/2507.15683v1)
 - 2025-07-17, **Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**, Debao Huang et.al., Paper: [http://arxiv.org/abs/2507.13486v1](http://arxiv.org/abs/2507.13486v1)
 - 2025-07-16, **BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**, Davide Di Nucci et.al., Paper: [http://arxiv.org/abs/2507.12095v1](http://arxiv.org/abs/2507.12095v1)
 - 2025-07-11, **Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**, Wei Zhang et.al., Paper: [http://arxiv.org/abs/2507.08448v1](http://arxiv.org/abs/2507.08448v1)
@@ -3496,6 +3497,8 @@
 
 ## NeRF
 
+- 2025-07-19, **DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**, Doriand Petit et.al., Paper: [http://arxiv.org/abs/2507.14596v1](http://arxiv.org/abs/2507.14596v1)
+- 2025-07-19, **Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**, Jiahui Zhang et.al., Paper: [http://arxiv.org/abs/2507.14501v1](http://arxiv.org/abs/2507.14501v1)
 - 2025-07-18, **TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**, Hsiang-Hui Hung et.al., Paper: [http://arxiv.org/abs/2507.13929v1](http://arxiv.org/abs/2507.13929v1)
 - 2025-07-18, **EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**, Seungjun Moon et.al., Paper: [http://arxiv.org/abs/2507.13648v1](http://arxiv.org/abs/2507.13648v1)
 - 2025-07-16, **DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**, Navid Hasanzadeh et.al., Paper: [http://arxiv.org/abs/2507.12132v1](http://arxiv.org/abs/2507.12132v1)
