@@ -2915,6 +2915,8 @@
 
 ## Keypoint Detection
 
+- 2025-07-23, **CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**, Chao He et.al., Paper: [http://arxiv.org/abs/2507.17327v1](http://arxiv.org/abs/2507.17327v1)
+- 2025-07-21, **Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**, Mohamed Adjel et.al., Paper: [http://arxiv.org/abs/2507.16850v1](http://arxiv.org/abs/2507.16850v1)
 - 2025-07-17, **DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**, Maulana Bisyir Azhari et.al., Paper: [http://arxiv.org/abs/2507.13145v1](http://arxiv.org/abs/2507.13145v1)
 - 2025-07-15, **KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2507.11102v1](http://arxiv.org/abs/2507.11102v1)
 - 2025-07-15, **GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**, Weizhao Ma et.al., Paper: [http://arxiv.org/abs/2507.11077v1](http://arxiv.org/abs/2507.11077v1)
@@ -3502,6 +3504,7 @@
 
 ## NeRF
 
+- 2025-07-23, **Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field**, Yuzhe Zhu et.al., Paper: [http://arxiv.org/abs/2507.17351v1](http://arxiv.org/abs/2507.17351v1)
 - 2025-07-22, **Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**, Tanveer Younis et.al., Paper: [http://arxiv.org/abs/2507.16406v1](http://arxiv.org/abs/2507.16406v1)
 - 2025-07-19, **DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**, Doriand Petit et.al., Paper: [http://arxiv.org/abs/2507.14596v1](http://arxiv.org/abs/2507.14596v1)
 - 2025-07-19, **Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**, Jiahui Zhang et.al., Paper: [http://arxiv.org/abs/2507.14501v1](http://arxiv.org/abs/2507.14501v1)
